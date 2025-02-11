@@ -2520,7 +2520,7 @@ sumbawa	kerekkure	0184	nya	3	rn_pro.h:poss	rn_pro	h	poss	2020
 sumbawa	kerekkure	0184	Bidadari	fairy	np.h:appos	np	h	appos	2020	
 sumbawa	kerekkure	0184	#	#	#rc	#rc				
 sumbawa	kerekkure	0184	ZERO	ZERO	f0.h:s	f0	h	s	2020	
-sumbawa	kerekkure	0184	ka=mólé	PST=go.home	pred	pred				
+sumbawa	kerekkure	0184	ka=mólé	PST=go.home	v:pred	v		pred		
 sumbawa	kerekkure	0184	%	%	%	%				
 sumbawa	kerekkure	0184	=ta	=DEM_P	=rn_dem	=rn_dem				
 sumbawa	kerekkure	0184	è	ITJ	other	other				
@@ -2621,7 +2621,7 @@ sumbawa	kerekkure	0193	ZERO	ZERO	0.h:p	0	h	p	2071
 sumbawa	kerekkure	0193	katoan	ask	v:pred	v		pred		
 sumbawa	kerekkure	0193	mo	DM	other	other				
 sumbawa	kerekkure	0193	ling	by	adp	adp				
-sumbawa	kerekkure	0193	nya	3	pro.h:a_ds_ling	pro	h	a_ds_ling	2001	
+sumbawa	kerekkure	0193	nya	3	pro.h:a_ling_ds	pro	h	a_ling_ds	2001	
 sumbawa	kerekkure	0193	=ana	=DEM_D	=rn_dem	=rn_dem				
 sumbawa	kerekkure	0194	#	#	#ds	#ds				
 sumbawa	kerekkure	0194	apa	what	np:pred	np		pred		

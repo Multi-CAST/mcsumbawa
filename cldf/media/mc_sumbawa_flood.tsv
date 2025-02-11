@@ -488,7 +488,7 @@ sumbawa	flood	0056	#	#	#	#
 sumbawa	flood	0056	ZERO	ZERO	0.h:p	0	h	p	1016	
 sumbawa	flood	0056	jawab	reply	v:pred	v		pred		
 sumbawa	flood	0056	ling	by	adp	adp				
-sumbawa	flood	0056	anak	child	np.h:a_ds_ling	np	h	a_ds_ling	1008	
+sumbawa	flood	0056	anak	child	np.h:a_ling_ds	np	h	a_ling_ds	1008	
 sumbawa	flood	0057	#	#	#ds.neg	#ds.neg				
 sumbawa	flood	0057	ZERO	ZERO	0.h:s	0	h	s	1020	
 sumbawa	flood	0057	#	#	#ac	#ac				

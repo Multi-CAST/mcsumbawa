@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="sumbawa">
   <text t_name="flood" annotators="Asako Shiohara" speaker="SB01">
    <file f_name="mc_sumbawa_flood" audio="mc_sumbawa_flood.wav" updated="2022-11-08">
@@ -2941,7 +2941,7 @@
       <segment>
        <gword>anak</gword>
        <gloss>child</gloss>
-       <graid>np.h:a_ds_ling</graid>
+       <graid>np.h:a_ling_ds</graid>
        <refind>1008</refind>
       </segment>
      </annotations>

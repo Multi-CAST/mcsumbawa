@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Shiohara, Asako. 2022. Multi-CAST Sumbawa. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2211. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#sumbawa) (date accessed)",
+    "dc:bibliographicCitation": "Shiohara, Asako. 2023. Multi-CAST Sumbawa. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2311. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#sumbawa) (date accessed)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
     "dc:description": "**Sumbawa** ([sumb1241](https://glottolog.org/resource/languoid/id/sumb1241), indigenous designation: Samawa) is a Western Austronesian language spoken in the western part of Sumbawa Island, Indonesia. Administratively, the area belongs to two districts, namely Sumbawa district (Kabupaten Sumbawa) and West Sumbawa district (Kabupaten Sumbawa Barat), in the province of West Nusa Tenggara (Nusa Tenggara Barat). Sumbawa belongs to the Bali-Sasak-Sumbawa subgroup of the Malayo-Polynesian branch of the Austronesian language family ([Adelaar 2005](Source#cldf:adelaar2005); [Mbete 1990](Source#cldf:mbete1990)).\n\nThe texts in this corpus were collected by Asako Shiohara in 1996 and 1997. They were recorded in the small town of Empang and in Desa Bantu, a village close to Empang. Among the several dialects of the Sumbawa language, the dialect spoken in these two locations is classi\ufb01ed as the Sumbawa Besar dialect, which is distributed across a large part of the western Sumbawa-speaking area.\n\nThe texts were annotated for Multi-CAST by Shiohara between 2018 and 2022, with RefIND annotations added in 2022 by Tai Hong.",
     "dc:identifier": "https://multicast.aspra.uni-bamberg.de/#sumbawa",
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Multi-CAST/mcsumbawa",
             "rdf:type": "prov:Entity",
-            "dc:created": "263a8ef",
+            "dc:created": "v2211",
             "dc:title": "Repository"
         },
         {

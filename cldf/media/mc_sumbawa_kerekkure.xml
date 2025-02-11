@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="sumbawa">
   <text t_name="kerekkure" annotators="Asako Shiohara" speaker="SB02">
-   <file f_name="mc_sumbawa_kerekkure" audio="mc_sumbawa_kerekkure.wav" updated="2022-11-08">
+   <file f_name="mc_sumbawa_kerekkure" audio="mc_sumbawa_kerekkure.wav" updated="2023-07-09">
     <unit uid="0001" start_time="5172" end_time="7249">
      <utterance_id>sumbawa_kerekkure_0001</utterance_id>
      <utterance>pada masa dulu,</utterance>
@@ -14494,7 +14494,7 @@
       <segment>
        <gword>ka=mólé</gword>
        <gloss>PST=go.home</gloss>
-       <graid>pred</graid>
+       <graid>v:pred</graid>
       </segment>
       <segment>
        <gword>%</gword>
@@ -15100,7 +15100,7 @@
       <segment>
        <gword>nya</gword>
        <gloss>3</gloss>
-       <graid>pro.h:a_ds_ling</graid>
+       <graid>pro.h:a_ling_ds</graid>
        <refind>2001</refind>
       </segment>
       <segment>

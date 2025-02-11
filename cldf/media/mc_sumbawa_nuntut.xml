@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="sumbawa">
   <text t_name="nuntut" annotators="Asako Shiohara" speaker="SB04">
    <file f_name="mc_sumbawa_nuntut" audio="mc_sumbawa_nuntut.wav" updated="2022-11-07">

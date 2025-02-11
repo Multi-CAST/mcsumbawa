@@ -93,7 +93,7 @@ sumbawa	langlelo	0011	%	%	%	%
 sumbawa	langlelo	0012	#	#	#	#				
 sumbawa	langlelo	0012	samong	reply	v:pred	v		pred		
 sumbawa	langlelo	0012	ling	by	adp	adp				
-sumbawa	langlelo	0012	ina	mother	np.h:s_ds_ling	np	h	s_ds_ling	3006	
+sumbawa	langlelo	0012	ina	mother	np.h:s_ling_ds	np	h	s_ling_ds	3006	
 sumbawa	langlelo	0012	#	#	#ds	#ds				
 sumbawa	langlelo	0012	na	ITJ	other	other				
 sumbawa	langlelo	0012	mudi	later	other	other				
