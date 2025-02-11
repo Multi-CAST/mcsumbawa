@@ -1,0 +1,1021 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sumbawa	flood	0001	#	#	#nc	#nc				
+sumbawa	flood	0001	a	ITJ	nc	nc				
+sumbawa	flood	0001	ba	ITJ	nc	nc				
+sumbawa	flood	0001	tu=	1PL=	nc	nc				
+sumbawa	flood	0001	samula	start	nc	nc				
+sumbawa	flood	0001	mo	DM	nc	nc				
+sumbawa	flood	0001	tutir	story	nc	nc				
+sumbawa	flood	0001	=ta	=DEM_P	nc	nc				
+sumbawa	flood	0001	%	%	%	%				
+sumbawa	flood	0002	#	#	#nc	#nc				
+sumbawa	flood	0002	ZERO	ZERO	nc	nc				
+sumbawa	flood	0002	ka	PST	nc	nc				
+sumbawa	flood	0002	mo	DM	nc	nc				
+sumbawa	flood	0002	suda	ready	nc	nc				
+sumbawa	flood	0002	%	%	%	%				
+sumbawa	flood	0002	#	#	#nc	#nc				
+sumbawa	flood	0002	ba	ITJ	nc	nc				
+sumbawa	flood	0002	tu=	1PL=	nc	nc				
+sumbawa	flood	0002	semula	start	nc	nc				
+sumbawa	flood	0002	mo	DM	nc	nc				
+sumbawa	flood	0002	tutir	story	nc	nc				
+sumbawa	flood	0002	=ta	=DEM_P	nc	nc				
+sumbawa	flood	0002	%	%	%	%				
+sumbawa	flood	0003	#	#	#	#				
+sumbawa	flood	0003	mara	like	adp	adp				
+sumbawa	flood	0003	ling	words	np:other	np		other		
+sumbawa	flood	0003	seketir	expression	rn	rn				
+sumbawa	flood	0003	tau	person	rn	rn				
+sumbawa	flood	0003	dunung	before	rn	rn				
+sumbawa	flood	0003	kebo	buffalo	np:s	np		s		
+sumbawa	flood	0003	guntir	?	v:pred	v		pred		
+sumbawa	flood	0003	%	%	%	%				
+sumbawa	flood	0003	#	#	#	#				
+sumbawa	flood	0003	kebo	buffalo	np:s	np		s		
+sumbawa	flood	0003	pèngè	twisted.neck	np:pred	np		pred		
+sumbawa	flood	0003	%	%	%	%				
+sumbawa	flood	0004	#	#	#nc	#nc				
+sumbawa	flood	0004	aku	1SG	nc	nc				
+sumbawa	flood	0004	tutir	tell.a.story	nc	nc				
+sumbawa	flood	0004	%	%	%	%				
+sumbawa	flood	0004	#	#	#nc	#nc				
+sumbawa	flood	0004	nènè	2PL	nc	nc				
+sumbawa	flood	0004	senèngè	listen	nc	nc				
+sumbawa	flood	0004	%	%	%	%				
+sumbawa	flood	0005	#	#	#	#				
+sumbawa	flood	0005	simir	catfish	np.n:s	np	n	s	1002	new
+sumbawa	flood	0005	mengkutir	jump	v:pred	v		pred		
+sumbawa	flood	0005	#	#	#ac	#ac				
+sumbawa	flood	0005	ZERO	ZERO	0.n:s	0	n	s	1002	
+sumbawa	flood	0005	rèna	while	other	other				
+sumbawa	flood	0005	nangè	swim	v:pred	v		pred		
+sumbawa	flood	0005	%	%	%	%				
+sumbawa	flood	0005	%	%	%	%				
+sumbawa	flood	0006	#	#	#	#				
+sumbawa	flood	0006	sama	same	ln	ln				
+sumbawa	flood	0006	sebetir	one.drop	ln	ln				
+sumbawa	flood	0006	tepong.dangè	a.kind.of.sweet	np:s	np		s	1003	new
+sumbawa	flood	0006	masing-masing	each.other	other	other				
+sumbawa	flood	0006	betanganè	take.care	v:pred	v		pred		
+sumbawa	flood	0006	%	%	%	%				
+sumbawa	flood	0007	#	#	#	#				
+sumbawa	flood	0007	a	ITJ	other	other				
+sumbawa	flood	0007	nya	3	pro:pred	pro		pred		
+sumbawa	flood	0007	cara	way	np:s	np		s		
+sumbawa	flood	0007	na	ITJ	other	other				
+sumbawa	flood	0007	%	%	%	%				
+sumbawa	flood	0008	#	#	#	#				
+sumbawa	flood	0008	karing	then	other	other				
+sumbawa	flood	0008	dèta	DEM_P	dem_pro:other	dem_pro		other		
+sumbawa	flood	0008	nè	ITJ	other	other				
+sumbawa	flood	0008	ada	exist	v:predex	v		predex		
+sumbawa	flood	0008	mo	DM	rv	rv				
+sumbawa	flood	0008	sópó	one	ln	ln				
+sumbawa	flood	0008	tau	person	np.h:s	np	h	s	1004	new
+sumbawa	flood	0008	dèta	DEM_P	dem_pro:other	dem_pro		other		
+sumbawa	flood	0009	antara	between	adp	adp				
+sumbawa	flood	0009	sópó	one	ln	ln				
+sumbawa	flood	0009	keluarga	relatives	np.h:other	np	h	other	1005	new
+sumbawa	flood	0009	pakir	really	rn	rn				
+sumbawa	flood	0009	miskin	poor	rn	rn				
+sumbawa	flood	0009	%	%	%	%				
+sumbawa	flood	0010	#	#	#	#				
+sumbawa	flood	0010	ZERO	ZERO	0.h:s	0	h	s	1005	
+sumbawa	flood	0010	hingga	so.that	other	other				
+sumbawa	flood	0010	nanta	ITJ	other	other				
+sumbawa	flood	0010	tokal	sit.down	v:pred	v		pred		
+sumbawa	flood	0010	barutang	run.into.debt	rv	rv				
+sumbawa	flood	0010	baè	only	rv	rv				
+sumbawa	flood	0010	si	DM	rv	rv				
+sumbawa	flood	0011	mara	like	adp	adp				
+sumbawa	flood	0011	ling	words	np:other	np		other		
+sumbawa	flood	0011	basa	language	rn	rn				
+sumbawa	flood	0011	tó	now	rn	rn				
+sumbawa	flood	0011	buka	open	nc	nc				
+sumbawa	flood	0011	lubang	hole	nc	nc				
+sumbawa	flood	0011	tutup	close	nc	nc				
+sumbawa	flood	0011	lubang	hole	nc	nc				
+sumbawa	flood	0012	pinjam	borrow	nc	nc				
+sumbawa	flood	0012	uang	money	nc	nc				
+sumbawa	flood	0012	bayar	pay	nc	nc				
+sumbawa	flood	0012	hutang	debt	nc	nc				
+sumbawa	flood	0012	%	%	%	%				
+sumbawa	flood	0013	#	#	#	#				
+sumbawa	flood	0013	nanta	ITJ	other	other				
+sumbawa	flood	0013	tau	person	np.h:dt	np	h	dt	1004	
+sumbawa	flood	0013	lóka	old	rn	rn				
+sumbawa	flood	0013	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0013	mbang	unexpectedly	other	other				
+sumbawa	flood	0013	ada	exist	v:pred	v		pred		
+sumbawa	flood	0013	anak	child	np.h:s	np	h	s	1006	new
+sumbawa	flood	0013	%	%	%	%				
+sumbawa	flood	0014	#	#	#	#				
+sumbawa	flood	0014	soai	female	v:pred	v		pred		
+sumbawa	flood	0014	sekodeng	one.piece	np.h:s	np	h	s	1007	bridging
+sumbawa	flood	0014	%	%	%	%				
+sumbawa	flood	0014	#	#	#	#				
+sumbawa	flood	0014	salaki	male	v:pred	v		pred		
+sumbawa	flood	0014	sekodeng	one.piece	np.h:s	np	h	s	1008	bridging
+sumbawa	flood	0014	%	%	%	%				
+sumbawa	flood	0014	#	#	#	#				
+sumbawa	flood	0014	#	#	#rc:pred	#rc		pred		
+sumbawa	flood	0014	ZERO	ZERO	f0.h:s	f0	h	s	1008	
+sumbawa	flood	0014	dè	REL	other	other				
+sumbawa	flood	0014	selaki	male	v:pred	v		pred		
+sumbawa	flood	0014	%	%	%	%				
+sumbawa	flood	0014	#	#	#rc:s	#rc		s		
+sumbawa	flood	0014	ZERO	ZERO	f0.h:s	f0	h	s	1008	
+sumbawa	flood	0014	dè	REL	other	other				
+sumbawa	flood	0014	rèa	big	v:pred	v		pred		
+sumbawa	flood	0014	%	%	%	%				
+sumbawa	flood	0014	%	%	%	%				
+sumbawa	flood	0015	#	#	#	#				
+sumbawa	flood	0015	kira-kira	approximately	other	other				
+sumbawa	flood	0015	nyondek	boy	np.h:dt	np	h	dt	1008	
+sumbawa	flood	0015	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0015	umir	age	np:s	np		s	1009	bridging
+sumbawa	flood	0015	enam	six	ln	ln				
+sumbawa	flood	0015	tin	year	np:pred	np		pred		
+sumbawa	flood	0015	%	%	%	%				
+sumbawa	flood	0016	#	#	#	#				
+sumbawa	flood	0016	dadi	then	other	other				
+sumbawa	flood	0016	adi	sister	np.h:dt	np	h	dt	1007	
+sumbawa	flood	0016	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0016	umir	age	np:s	np		s	1010	bridging
+sumbawa	flood	0016	dua	two	ln	ln				
+sumbawa	flood	0016	tin	year	np:pred	np		pred		
+sumbawa	flood	0016	%	%	%	%				
+sumbawa	flood	0017	#	#	#neg	#neg				
+sumbawa	flood	0017	dadi	then	other	other				
+sumbawa	flood	0017	bapa	father	np.h:dt	np	h	dt	1004	
+sumbawa	flood	0017	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0017	enda	not.exist	v:pred	v		pred		
+sumbawa	flood	0017	boat	work	np:s	np		s		
+sumbawa	flood	0017	lin	other	rv	rv				
+sumbawa	flood	0017	%	%	%	%				
+sumbawa	flood	0017	#	#	#	#				
+sumbawa	flood	0017	lamin	as.for	adp	adp				
+sumbawa	flood	0017	masa	season	np:other	np		other		
+sumbawa	flood	0017	#	#	#rc	#rc				
+sumbawa	flood	0017	tau	people	np:s	np		s		
+sumbawa	flood	0017	nanam	plant	v:pred	v		pred		
+sumbawa	flood	0017	ZERO	ZERO	f0:other	f0		other		
+sumbawa	flood	0017	%	%	%	%				
+sumbawa	flood	0017	ZERO	ZERO	0.h:a	0	h	a	1004	
+sumbawa	flood	0017	kè	with	adp	adp				
+sumbawa	flood	0017	ina	mother	np.h:obl	np	h	obl	1012	new
+sumbawa	flood	0017	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0017	è	ITJ	other	other				
+sumbawa	flood	0018	alo	go	lv_v	lv_v				
+sumbawa	flood	0018	makan	eat	v:pred	v		pred		
+sumbawa	flood	0018	gaji	wage	np:p	np		p	1013	new
+sumbawa	flood	0018	nanam	ANTIP.plant	rn	rn				
+sumbawa	flood	0018	nge-mat	ANTIP-pull.out	rn	rn				
+sumbawa	flood	0018	%	%	%	%				
+sumbawa	flood	0019	#	#	#	#				
+sumbawa	flood	0019	karing	then	other	other				
+sumbawa	flood	0019	ina	mother	np.h:dt	np	h	dt	1012	
+sumbawa	flood	0019	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0019	runtung	every	other	other				
+sumbawa	flood	0019	minggu-minggu	week~plural	other	other				
+sumbawa	flood	0019	tau	people	np.h:s	np	h	s	1014	new
+sumbawa	flood	0019	datang	come	lv_v	lv_v				
+sumbawa	flood	0019	nagi	ANTIP.demand	v:pred	v		pred		
+sumbawa	flood	0019	%	%	%	%				
+sumbawa	flood	0019	#	#	#	#				
+sumbawa	flood	0019	ZERO	ZERO	0.h:s	0	h	s	1014	
+sumbawa	flood	0019	marahan	like	other	other				
+sumbawa	flood	0019	ada	exist	v:pred	v		pred		
+sumbawa	flood	0019	runtung	every	other	other				
+sumbawa	flood	0019	ano	day	other	other				
+sumbawa	flood	0019	%	%	%	%				
+sumbawa	flood	0020	#	#	#	#				
+sumbawa	flood	0020	ka=selepas	PST=get.out.of	v:pred	v		pred		
+sumbawa	flood	0020	utang	debt	np:s	np		s		
+sumbawa	flood	0020	tó	now	other	other				
+sumbawa	flood	0020	%	%	%	%				
+sumbawa	flood	0020	#	#	#	#				
+sumbawa	flood	0020	ada	exist	v:predex	v		predex		
+sumbawa	flood	0020	si	DM	rv	rv				
+sumbawa	flood	0020	utang	debt	np:s	np		s		
+sumbawa	flood	0020	tó	now	other	other				
+sumbawa	flood	0020	%	%	%	%				
+sumbawa	flood	0021	#	#	#	#				
+sumbawa	flood	0021	tapi	but	other	other				
+sumbawa	flood	0021	#	#	#rc:s	#rc		s		
+sumbawa	flood	0021	fz	ZERO	f0:s	f0		s	1015	new
+sumbawa	flood	0021	dè	REL	other	other				
+sumbawa	flood	0021	paling	most	lv	lv				
+sumbawa	flood	0021	peno	much	v:pred	v		pred		
+sumbawa	flood	0021	pang	in	rn	rn				
+sumbawa	flood	0021	utang	debt	rn	rn				
+sumbawa	flood	0021	nè	ITJ	other	other				
+sumbawa	flood	0021	%	%	%	%				
+sumbawa	flood	0021	pang	in	adp	adp				
+sumbawa	flood	0021	diri	person	np.h:pred_l	np	h	pred_l	1016	new
+sumbawa	flood	0021	setau	one.person	rn	rn				
+sumbawa	flood	0021	#	#	#rc	#rc				
+sumbawa	flood	0021	fz	ZERO	f0.h:s	f0	h	s	1016	
+sumbawa	flood	0021	dè	REL	other	other				
+sumbawa	flood	0021	terakhir	last	np:pred	np		pred		
+sumbawa	flood	0021	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	flood	0021	%	%	%	%				
+sumbawa	flood	0021	%	%	%	%				
+sumbawa	flood	0022	#	#	#	#				
+sumbawa	flood	0022	mbang	suddenly	other	other				
+sumbawa	flood	0022	ZERO	ZERO	0.h:s	0	h	s	1016	
+sumbawa	flood	0022	datang	come	lv_v	lv_v				
+sumbawa	flood	0022	katoan	ask	v:pred	v		pred		
+sumbawa	flood	0022	kó	to	adp	adp				
+sumbawa	flood	0022	balé	house	np:g	np		g	1017	new
+sumbawa	flood	0022	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0022	è	ITJ	other	other				
+sumbawa	flood	0022	%	%	%	%				
+sumbawa	flood	0023	#	#	#	#				
+sumbawa	flood	0023	è	ITJ	other	other				
+sumbawa	flood	0023	anak	child	np.h:pred	np	h	pred	1008	
+sumbawa	flood	0023	anak	child	rn	rn				
+sumbawa	flood	0023	ling	words	np:s	np		s		
+sumbawa	flood	0023	%	%	%	%				
+sumbawa	flood	0024	#	#	#	#				
+sumbawa	flood	0024	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0024	mé	where	np:pred	np		pred		
+sumbawa	flood	0024	lakó	destination	np:s	np		s		
+sumbawa	flood	0024	ina	mother	rn_np.h:poss	rn_np	h	poss	1012	
+sumbawa	flood	0024	mu	2SG	rn_pro.2:poss	rn_pro	2	poss	1008	
+sumbawa	flood	0024	%	%	%	%				
+sumbawa	flood	0025	ling	words	np:s_ds	np		s_ds		
+sumbawa	flood	0025	tau	person	rn_np.h:poss	rn_np	h	poss	1034	bridging
+sumbawa	flood	0025	#	#	#rc	#rc				
+sumbawa	flood	0025	ZERO	ZERO	f0.h:s	f0	h	s	1034	
+sumbawa	flood	0025	datang	come	lv	lv				
+sumbawa	flood	0025	nagi	ANTIP.demand	v:pred	v		pred		
+sumbawa	flood	0025	%	%	%	%				
+sumbawa	flood	0025	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0025	è	ITJ	other	other				
+sumbawa	flood	0025	%	%	%	%				
+sumbawa	flood	0026	#	#	#	#				
+sumbawa	flood	0026	mala	actually	other	other				
+sumbawa	flood	0026	nè	ITJ	other	other				
+sumbawa	flood	0027	ratusan-ribu	hundred-thousand	np:pred	np		pred		
+sumbawa	flood	0027	utang	debt	np:s	np		s	1015	
+sumbawa	flood	0027	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	flood	0027	%	%	%	%				
+sumbawa	flood	0028	#	#	#	#				
+sumbawa	flood	0028	#	#	#rc:s	#rc		s		
+sumbawa	flood	0028	fz	ZERO	f0:s	f0		s	1018	bridging
+sumbawa	flood	0028	dè	REL	other	other				
+sumbawa	flood	0028	pang	place	adp	adp				
+sumbawa	flood	0028	lin-lin	other	np:l	np		l		
+sumbawa	flood	0028	nè	ITJ	other	other				
+sumbawa	flood	0028	%	%	%	%				
+sumbawa	flood	0028	paling-paling	most	ln	ln				
+sumbawa	flood	0028	sepulu-ribu	ten-thousand	np:pred	np		pred		
+sumbawa	flood	0029	lima	five	rn	rn				
+sumbawa	flood	0029	ribu	thousand	rn	rn				
+sumbawa	flood	0029	telu	three	rn	rn				
+sumbawa	flood	0029	ribu	thousand	rn	rn				
+sumbawa	flood	0030	untuk	for	adp	adp				
+sumbawa	flood	0030	penyambung	going.on	np:other	np		other		
+sumbawa	flood	0030	hidup	life	rn	rn				
+sumbawa	flood	0030	setiap	every	rn	rn				
+sumbawa	flood	0030	hari	day	rn	rn				
+sumbawa	flood	0030	nè	ITJ	other	other				
+sumbawa	flood	0031	mara	like	adp	adp				
+sumbawa	flood	0031	ling	words	np:other	np		other		
+sumbawa	flood	0031	basa	proverb	rn	rn				
+sumbawa	flood	0031	gina	ITJ	other	other				
+sumbawa	flood	0031	%	%	%	%				
+sumbawa	flood	0031	#	#	#nc	#nc				
+sumbawa	flood	0031	tapi	but	nc	nc				
+sumbawa	flood	0031	cuma	only	nc	nc				
+sumbawa	flood	0031	pang	at	nc	nc				
+sumbawa	flood	0031	tau	person	nc	nc				
+sumbawa	flood	0031	ana	over.there	nc	nc				
+sumbawa	flood	0031	gina	ITJ	nc	nc				
+sumbawa	flood	0031	%	%	%	%				
+sumbawa	flood	0032	#	#	#	#				
+sumbawa	flood	0032	ZERO	ZERO	0:s	0		s	1015	
+sumbawa	flood	0032	ka=pang	PST=place	np:other	np		other		
+sumbawa	flood	0032	poko	main	rn	rn				
+sumbawa	flood	0032	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	flood	0032	è	ITJ	nc	nc				
+sumbawa	flood	0032	ratis	hundred	ln	ln				
+sumbawa	flood	0032	ribu	thousand	np:pred	np		pred		
+sumbawa	flood	0032	%	%	%	%				
+sumbawa	flood	0033	#	#	#	#				
+sumbawa	flood	0033	ZERO	ZERO	0.h:a	0	h	a	1016	
+sumbawa	flood	0033	kambang-mbang	unexpectedly	nc	nc				
+sumbawa	flood	0033	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	flood	0033	katoan	ask	v:pred	v		pred		
+sumbawa	flood	0033	anak	child	np.h:p	np	h	p	1008	
+sumbawa	flood	0033	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0033	%	%	%	%				
+sumbawa	flood	0034	#	#	#	#				
+sumbawa	flood	0034	è	DM	other	other				
+sumbawa	flood	0034	anak	child	np.h:pred	np	h	pred	1008	
+sumbawa	flood	0034	anak	child	rn	rn				
+sumbawa	flood	0034	ling	words	np:s	np		s		
+sumbawa	flood	0034	#	#	#rc	#rc				
+sumbawa	flood	0034	bling	say	v:pred	v		pred		
+sumbawa	flood	0034	tau	person	np.h:a	np	h	a	1016	
+sumbawa	flood	0034	lóka	old	rn	rn				
+sumbawa	flood	0034	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0034	ZERO	ZERO	f0:p	f0		p		
+sumbawa	flood	0034	%	%	%	%				
+sumbawa	flood	0035	#	#	#ds	#ds				
+sumbawa	flood	0035	mé	where	np:s	np		s		
+sumbawa	flood	0035	ka=lakó	PST=destination	np:pred	np		pred		
+sumbawa	flood	0035	bapa	father	rn_np.h:poss	rn_np	h	poss	1004	
+sumbawa	flood	0035	mo	DM	rn	rn				
+sumbawa	flood	0035	%	%	%	%				
+sumbawa	flood	0035	%	%	%	%				
+sumbawa	flood	0036	#	#	#nc	#nc				
+sumbawa	flood	0036	pina	make	nc	nc				
+sumbawa	flood	0036	kerè	cloth	nc	nc				
+sumbawa	flood	0036	apa-apa	whatever	nc	nc				
+sumbawa	flood	0036	ling	by	nc	nc				
+sumbawa	flood	0036	sia	2SG.HON	nc	nc				
+sumbawa	flood	0036	papin	grandfather	nc_np.h	nc_np	h		1016	
+sumbawa	flood	0036	nè	ITJ	nc	nc				
+sumbawa	flood	0036	ning	words	nc	nc				
+sumbawa	flood	0036	%	%	%	%				
+sumbawa	flood	0037	#	#	#ds	#ds				
+sumbawa	flood	0037	bapa	father	np.h:a	np	h	a	1004	
+sumbawa	flood	0037	kaku	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	1008	
+sumbawa	flood	0037	ka=laló	PST=go	lv_v	lv_v				
+sumbawa	flood	0037	sematé	kill	v:pred	v		pred		
+sumbawa	flood	0037	tau	person	np.h:p	np	h	p		
+sumbawa	flood	0037	telas	alive	rn	rn				
+sumbawa	flood	0037	%	%	%	%				
+sumbawa	flood	0038	#	#	#ds	#ds				
+sumbawa	flood	0038	ba	then	other	other				
+sumbawa	flood	0038	ina	mother	np.h:s	np	h	s	1012	
+sumbawa	flood	0038	mo	DM	rn	rn				
+sumbawa	flood	0038	ka	how	other:pred	other		pred		
+sumbawa	flood	0038	%	%	%	%				
+sumbawa	flood	0039	#	#	#ds	#ds				
+sumbawa	flood	0039	ZERO	ZERO	0.h:s	0	h	s	1012	
+sumbawa	flood	0039	ka=laló	PST=go	lv_v	lv_v				
+sumbawa	flood	0039	satelas	revive	v:pred	v		pred		
+sumbawa	flood	0039	tau	person	np.h:p	np	h	p		
+sumbawa	flood	0039	maté	die	rn	rn				
+sumbawa	flood	0039	%	%	%	%				
+sumbawa	flood	0040	#	#	#ds	#ds				
+sumbawa	flood	0040	ba	then	other	other				
+sumbawa	flood	0040	ya=mólé	FUT=go.home	v:pred	v		pred		
+sumbawa	flood	0040	si	DM	other	other				
+sumbawa	flood	0040	ké	Q	other	other				
+sumbawa	flood	0040	ina	mother	np.h:s	np	h	s	1012	
+sumbawa	flood	0040	bapa	father	rn_np.h	rn_np	h		1004	
+sumbawa	flood	0040	mu	2SG	rn_pro.2:poss	rn_pro	2	poss	1008	
+sumbawa	flood	0040	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	flood	0040	%	%	%	%				
+sumbawa	flood	0041	#	#	#ds.neg	#ds.neg				
+sumbawa	flood	0041	ZERO	ZERO	0.h:s	0	h	s	1020	bridging
+sumbawa	flood	0041	#	#	#ds_ac	#ds_ac				
+sumbawa	flood	0041	ZERO	ZERO	0:s	0		s	1021	new
+sumbawa	flood	0041	lamin	if	other	other				
+sumbawa	flood	0041	datang	come	v:pred	v		pred		
+sumbawa	flood	0041	%	%	%	%				
+sumbawa	flood	0041	ba	then	other	other				
+sumbawa	flood	0041	nó	NEG	lv	lv				
+sumbawa	flood	0041	mólé	go.home	v:pred	v		pred		
+sumbawa	flood	0041	%	%	%	%				
+sumbawa	flood	0042	#	#	#ds	#ds				
+sumbawa	flood	0042	ZERO	ZERO	0.h:s	0	h	s	1020	
+sumbawa	flood	0042	#	#	#ds_ac.neg	#ds_ac.neg				
+sumbawa	flood	0042	ZERO	ZERO	0:s	0		s	1021	
+sumbawa	flood	0042	lamin	if	other	other				
+sumbawa	flood	0042	nó	NEG	lv	lv				
+sumbawa	flood	0042	datang	come	v:pred	v		pred		
+sumbawa	flood	0042	%	%	%	%				
+sumbawa	flood	0042	ba	then	other	other				
+sumbawa	flood	0042	mólé	come.home	v:pred	v		pred		
+sumbawa	flood	0042	%	%	%	%				
+sumbawa	flood	0043	#	#	#	#				
+sumbawa	flood	0043	nya	3	np:s	np		s		
+sumbawa	flood	0043	jawaban	reply	np:pred	np		pred	1022	new
+sumbawa	flood	0043	anak	child	rn_np.h:poss	rn_np	h	poss	1008	
+sumbawa	flood	0043	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0043	%	%	%	%				
+sumbawa	flood	0044	#	#	#	#				
+sumbawa	flood	0044	jadi	then	other	other				
+sumbawa	flood	0044	peki	a.riddle	np:pred	np		pred		
+sumbawa	flood	0044	kerantè	words	np:s	np		s	1022	
+sumbawa	flood	0044	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0044	è	ITJ	other	other				
+sumbawa	flood	0044	%	%	%	%				
+sumbawa	flood	0045	#	#	#	#				
+sumbawa	flood	0045	karing	then	other	other				
+sumbawa	flood	0045	bingung	confused	v:pred	v		pred		
+sumbawa	flood	0045	tau	person	np.h:s	np	h	s	1016	
+sumbawa	flood	0045	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0046	tau	person	np.h:appos	np	h	appos	1016	
+sumbawa	flood	0046	kaya	rich	rn	rn				
+sumbawa	flood	0046	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0046	è	ITJ	other	other				
+sumbawa	flood	0046	%	%	%	%				
+sumbawa	flood	0047	#	#	#neg	#neg				
+sumbawa	flood	0047	#	#	#ac	#ac				
+sumbawa	flood	0047	sedang	although	other	other				
+sumbawa	flood	0047	tau	person	np.h:s	np	h	s	1016	
+sumbawa	flood	0047	=ta	=DEM_D	=rn	=rn				
+sumbawa	flood	0047	tau	person	np:pred	np		pred		
+sumbawa	flood	0047	pintar	clever	rn	rn				
+sumbawa	flood	0047	%	%	%	%				
+sumbawa	flood	0048	ZERO	ZERO	0.h:a	0	h	a	1016	
+sumbawa	flood	0048	mbang	unexpectedly	other	other				
+sumbawa	flood	0048	nó	NEG	lv	lv				
+sumbawa	flood	0048	tó	know	v:pred	v		pred		
+sumbawa	flood	0048	tegas	meaning	np:p	np		p	1023	bridging
+sumbawa	flood	0048	ling	words	rn_np:poss	rn_np		poss	1022	
+sumbawa	flood	0048	nyoodek	child	rn_np.h:poss	rn_np	h	poss	1008	
+sumbawa	flood	0048	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0048	%	%	%	%				
+sumbawa	flood	0049	#	#	#ds	#ds				
+sumbawa	flood	0049	ZERO	ZERO	0.2:s	0	2	s	1008	
+sumbawa	flood	0049	ulang-ulang	repeat	v:pred	v		pred		
+sumbawa	flood	0049	kadu	?	nc	nc				
+sumbawa	flood	0049	anak	child	np.h:voc	np	h	voc	1008	
+sumbawa	flood	0049	%	%	%	%				
+sumbawa	flood	0050	#	#	#ds	#ds				
+sumbawa	flood	0050	tó	now	other	other				
+sumbawa	flood	0050	po	DM	other	other				
+sumbawa	flood	0050	ku=	1SG=	=pro.1:a	=pro	1	a	1016	
+sumbawa	flood	0050	menong	hear	v:pred	v		pred		
+sumbawa	flood	0050	seda	voice	np:p	np		p	1022	
+sumbawa	flood	0050	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0050	aku	1SG	pro.1:dt_a	pro	1	dt_a	1016	
+sumbawa	flood	0050	%	%	%	%				
+sumbawa	flood	0051	#	#	#ds	#ds				
+sumbawa	flood	0051	bapa	father	np.h:s	np	h	s	1004	
+sumbawa	flood	0051	kaji	1SG	rn_pro.1:poss	rn_pro	1	poss	1008	
+sumbawa	flood	0051	ling	words	other	other				
+sumbawa	flood	0052	ka=laló	PST=go	lv_v	lv_v				
+sumbawa	flood	0052	samaté	kill	v:pred	v		pred		
+sumbawa	flood	0052	tau	person	np.h:p	np	h	p		
+sumbawa	flood	0052	telas	alive	rn	rn				
+sumbawa	flood	0052	%	%	%	%				
+sumbawa	flood	0053	#	#	#ds	#ds				
+sumbawa	flood	0053	ina	mother	np.h:s	np	h	s	1012	
+sumbawa	flood	0053	kaji	1SG	rn_pro.1:poss	rn_pro	1	poss	1008	
+sumbawa	flood	0053	ka=laló	PST=go	lv_v	lv_v				
+sumbawa	flood	0053	satelas	revive	v:pred	v		pred		
+sumbawa	flood	0053	tau	person	np.h:p	np	h	p		
+sumbawa	flood	0053	maté	die	rn	rn				
+sumbawa	flood	0053	%	%	%	%				
+sumbawa	flood	0054	#	#	#	#				
+sumbawa	flood	0054	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0054	ih	ITJ	other	other				
+sumbawa	flood	0055	ba	ITJ	other	other				
+sumbawa	flood	0055	ya=mólé	FUT=go.home	v:pred	v		pred		
+sumbawa	flood	0055	bapa	father	np.h:s	np	h	s	1004	
+sumbawa	flood	0055	ina	mother	rn_np.h	rn_np	h		1012	
+sumbawa	flood	0055	mo	DM	rn	rn				
+sumbawa	flood	0055	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	flood	0055	%	%	%	%				
+sumbawa	flood	0055	ling	words	np:s	np		s		
+sumbawa	flood	0055	#	#	#rc	#rc				
+sumbawa	flood	0055	bakatoan	ask	v:pred	v		pred		
+sumbawa	flood	0055	diri	person	np.h:a	np	h	a	1016	
+sumbawa	flood	0055	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0055	ZERO	ZERO	f0:p	f0		p		
+sumbawa	flood	0055	%	%	%	%				
+sumbawa	flood	0055	%	%	%	%				
+sumbawa	flood	0056	#	#	#	#				
+sumbawa	flood	0056	ZERO	ZERO	0.h:p	0	h	p	1016	
+sumbawa	flood	0056	jawab	reply	v:pred	v		pred		
+sumbawa	flood	0056	ling	by	adp	adp				
+sumbawa	flood	0056	anak	child	np.h:a_ds_ling	np	h	a_ds_ling	1008	
+sumbawa	flood	0057	#	#	#ds.neg	#ds.neg				
+sumbawa	flood	0057	ZERO	ZERO	0.h:s	0	h	s	1020	
+sumbawa	flood	0057	#	#	#ac	#ac				
+sumbawa	flood	0057	ZERO	ZERO	0:s	0		s	1021	
+sumbawa	flood	0057	lamin	if	other	other				
+sumbawa	flood	0057	datang	come	v:pred	v		pred		
+sumbawa	flood	0057	%	%	%	%				
+sumbawa	flood	0057	ba	then	other	other				
+sumbawa	flood	0057	nó	NEG	lv	lv				
+sumbawa	flood	0057	mólé	go.home	v:pred	v		pred		
+sumbawa	flood	0057	%	%	%	%				
+sumbawa	flood	0058	#	#	#ds	#ds				
+sumbawa	flood	0058	ZERO	ZERO	0.h:s	0	h	s	1020	
+sumbawa	flood	0058	#	#	#ac.neg	#ac.neg				
+sumbawa	flood	0058	ZERO	ZERO	0:s	0		s	1021	
+sumbawa	flood	0058	lamin	if	other	other				
+sumbawa	flood	0058	nó	NEG	lv	lv				
+sumbawa	flood	0058	datang	come	v:pred	v		pred		
+sumbawa	flood	0058	%	%	%	%				
+sumbawa	flood	0058	ba	then	other	other				
+sumbawa	flood	0058	mólé	come.home	v:pred	v		pred		
+sumbawa	flood	0058	%	%	%	%				
+sumbawa	flood	0058	%	%	%	%				
+sumbawa	flood	0059	#	#	#	#				
+sumbawa	flood	0059	wa	ITJ	other	other				
+sumbawa	flood	0059	ina	ITJ	other	other				
+sumbawa	flood	0059	anak	child	np.h:other	np	h	other	1008	
+sumbawa	flood	0059	ling	words	np:s	np		s		
+sumbawa	flood	0059	#	#	#rc	#rc				
+sumbawa	flood	0059	ZERO	ZERO	0.h:a	0	h	a	1016	
+sumbawa	flood	0059	bling	say	v:pred	v		pred		
+sumbawa	flood	0059	ZERO	ZERO	f0:p	f0		p		
+sumbawa	flood	0059	%	%	%	%				
+sumbawa	flood	0060	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0060	ta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	flood	0060	lok	way	np:pred	np		pred		
+sumbawa	flood	0060	anak	child	np.h:voc	np	h	voc	1008	
+sumbawa	flood	0060	a	ITJ	other	other				
+sumbawa	flood	0060	è	ITJ	other	other				
+sumbawa	flood	0060	%	%	%	%				
+sumbawa	flood	0060	#	#	#ds	#ds				
+sumbawa	flood	0060	ma	DES	lv	lv				
+sumbawa	flood	0060	mu=	2SG=	=pro_2_a	=pro_2_a			1008	
+sumbawa	flood	0060	bada	tell	v:pred	v		pred		
+sumbawa	flood	0060	aku	1SG	pro.1:p	pro	1	p	1016	
+sumbawa	flood	0060	tegas	meaning	np:p2	np		p2	1023	
+sumbawa	flood	0060	ling	by	adp	adp				
+sumbawa	flood	0060	kau	2SG	pro.2:a_ling	pro	2	a_ling	1008	
+sumbawa	flood	0060	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	flood	0060	%	%	%	%				
+sumbawa	flood	0060	%	%	%	%				
+sumbawa	flood	0061	#	#	#	#				
+sumbawa	flood	0061	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0061	#	#	#ds_ac	#ds_ac				
+sumbawa	flood	0061	lamin	if	other	other				
+sumbawa	flood	0061	mu	2SG	pro.2:a	pro	2	a	1008	
+sumbawa	flood	0061	bada	tell	v:pred	v		pred		
+sumbawa	flood	0061	aku	1SG	pro.1:p	pro	1	p	1016	
+sumbawa	flood	0061	tegas	meaning	np:p2	np		p2	1023	
+sumbawa	flood	0061	%	%	%	%				
+sumbawa	flood	0061	%	%	%	%				
+sumbawa	flood	0061	ling	words	np:s	np		s		
+sumbawa	flood	0061	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0062	#	#	#ds.neg	#ds.neg				
+sumbawa	flood	0062	berarti	then	other	other				
+sumbawa	flood	0062	sarea	all	pro:other	pro		other		
+sumbawa	flood	0062	utang	debt	np:s	np		s	1024	bridging
+sumbawa	flood	0062	bapa	father	rn_np.h:poss	rn_np	h	poss	1004	
+sumbawa	flood	0062	mu	2SG	rn_pro.2:poss	rn_pro	2	poss	1008	
+sumbawa	flood	0062	#	#	#ds_ac.neg	#ds_ac.neg				
+sumbawa	flood	0062	ZERO	ZERO	0.1:a	0	1	a	1016	
+sumbawa	flood	0062	nó	NEG	other	other				
+sumbawa	flood	0062	mo	DM	lv	lv				
+sumbawa	flood	0062	krantè	speak	v:pred	v		pred		
+sumbawa	flood	0062	#	#	#ds_rc:p	#ds_rc		p	1015	
+sumbawa	flood	0062	ZERO	ZERO	f0:s	f0		s	1015	
+sumbawa	flood	0062	dè	REL	other	other				
+sumbawa	flood	0062	pang	at	adp	adp				
+sumbawa	flood	0062	aku	1SG	pro.1:pred_obl	pro	1	pred_obl	1016	
+sumbawa	flood	0062	%	%	%	%				
+sumbawa	flood	0062	%	%	%	%				
+sumbawa	flood	0062	nó	NEG	other	other				
+sumbawa	flood	0062	lunas	paid	np:pred	np		pred		
+sumbawa	flood	0062	%	%	%	%				
+sumbawa	flood	0062	%	%	%	%				
+sumbawa	flood	0063	#	#	#ds	#ds				
+sumbawa	flood	0063	ZERO	ZERO	0.2:a	0	2	a	1008	
+sumbawa	flood	0063	bada	tell	v:pred	v		pred		
+sumbawa	flood	0063	ku	1SG	pro.1:p	pro	1	p	1016	
+sumbawa	flood	0063	#	#	#cc:p2	#cc		p2		
+sumbawa	flood	0063	mé	where	np:pred	np		pred		
+sumbawa	flood	0063	pang	place	np:s	np		s	1025	new
+sumbawa	flood	0063	utang	debt	rn	rn				
+sumbawa	flood	0063	%	%	%	%				
+sumbawa	flood	0063	%	%	%	%				
+sumbawa	flood	0063	#	#	#ds	#ds				
+sumbawa	flood	0063	ma	let	lv	lv				
+sumbawa	flood	0063	ku=	1SG=	=pro.1:a	=pro	1	a	1016	
+sumbawa	flood	0063	selunas	settle	v:pred	v		pred		
+sumbawa	flood	0063	serèa	all	np:p	np		p	1024	
+sumbawa	flood	0063	%	%	%	%				
+sumbawa	flood	0064	#	#	#ds	#ds				
+sumbawa	flood	0064	ZERO	ZERO	0.1:a	0	1	a	1016	
+sumbawa	flood	0064	lok	that	other	other				
+sumbawa	flood	0064	sate	want	lv_v	lv_v				
+sumbawa	flood	0064	tó	know	v:pred	v		pred		
+sumbawa	flood	0064	tegas	meaning	np:p	np		p	1023	
+sumbawa	flood	0064	seda	voice	rn_np:poss	rn_np		poss	1022	
+sumbawa	flood	0064	=nan	=DEM_M	=rn	=rn				
+sumbawa	flood	0064	%	%	%	%				
+sumbawa	flood	0065	#	#	#ds	#ds				
+sumbawa	flood	0065	ba	then	other	other				
+sumbawa	flood	0065	sia	2SG.HON	pro.2:a	pro	2	a	1016	
+sumbawa	flood	0065	pina	make	v:pred	v		pred		
+sumbawa	flood	0065	surat	letter	np:p	np		p	1026	new
+sumbawa	flood	0065	untuk	for	adp	adp				
+sumbawa	flood	0065	bapa	father	np.h:obl	np	h	obl	1004	
+sumbawa	flood	0065	kè	and	rn	rn				
+sumbawa	flood	0065	ina	mother	rn_np.h	rn_np	h		1012	
+sumbawa	flood	0065	%	%	%	%				
+sumbawa	flood	0066	#	#	#ds	#ds				
+sumbawa	flood	0066	ma	DES	lv	lv				
+sumbawa	flood	0066	bau	can	lv_v	lv_v				
+sumbawa	flood	0066	saksi	see	v:pred	v		pred		
+sumbawa	flood	0066	ling	by	adp	adp				
+sumbawa	flood	0066	ina	mother	np.h:a_ling	np	h	a_ling	1012	
+sumbawa	flood	0066	kè	and	rn	rn				
+sumbawa	flood	0066	bapa	father	rn_np.h	rn_np	h		1004	
+sumbawa	flood	0066	#	#	#ds_cc:p	#ds_cc		p		
+sumbawa	flood	0066	lok	COMP	other	other				
+sumbawa	flood	0066	tanda.tangan	signature	v:pred	v		pred		
+sumbawa	flood	0066	sia	2SG.HON	pro.2:s	pro	2	s	1016	
+sumbawa	flood	0066	%	%	%	%				
+sumbawa	flood	0066	#	#	#ds_cc:appos	#ds_cc		appos		
+sumbawa	flood	0066	benar	really	other	other				
+sumbawa	flood	0066	ka	Q	other	other				
+sumbawa	flood	0066	sia	2SG.HON	pro.2:s	pro	2	s	1016	
+sumbawa	flood	0066	datang	come	v:pred	v		pred		
+sumbawa	flood	0066	%	%	%	%				
+sumbawa	flood	0066	%	%	%	%				
+sumbawa	flood	0067	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0067	#	#	#ds	#ds				
+sumbawa	flood	0067	ZERO	ZERO	0:p	0		p		
+sumbawa	flood	0067	kè	and	other	other				
+sumbawa	flood	0067	benar	really	other	other				
+sumbawa	flood	0067	kalis	utter	v:pred	v		pred		
+sumbawa	flood	0067	ling	by	adp	adp				
+sumbawa	flood	0067	sia	2SG.HON	pro.2:a_ling	pro	2	a_ling	1016	
+sumbawa	flood	0067	%	%	%	%				
+sumbawa	flood	0067	ling	words	np:s	np		s		
+sumbawa	flood	0067	tode	child	rn_np.h:poss	rn_np	h	poss	1008	
+sumbawa	flood	0067	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0067	è	ITJ	other	other				
+sumbawa	flood	0067	%	%	%	%				
+sumbawa	flood	0068	#	#	#	#				
+sumbawa	flood	0068	pina	make	v:pred	v		pred		
+sumbawa	flood	0068	surat	letter	np:p	np		p	1026	
+sumbawa	flood	0068	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0068	diri	person	np.h:a	np	h	a	1016	
+sumbawa	flood	0068	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0069	surat	letter	np:dt_p	np		dt_p	1026	
+sumbawa	flood	0069	kuasa	authorization	rn	rn				
+sumbawa	flood	0069	diri	person	rn_np.h:poss	rn_np	h	poss	1016	
+sumbawa	flood	0069	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0069	%	%	%	%				
+sumbawa	flood	0069	#	#	#	#				
+sumbawa	flood	0069	kè	and	other	other				
+sumbawa	flood	0069	ka=pangkeling	from	adp	adp				
+sumbawa	flood	0069	diri	person	np.h:l	np	h	l	1016	
+sumbawa	flood	0069	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0069	è	ITJ	other	other				
+sumbawa	flood	0069	lok	COMP	other	other				
+sumbawa	flood	0069	ya=	3=	=pro.h:s_ds	=pro	h	s_ds	1016	
+sumbawa	flood	0069	tangung.jawab	assure	v:pred	v		pred		
+sumbawa	flood	0069	%	%	%	%				
+sumbawa	flood	0070	#	#	#ds.neg	#ds.neg				
+sumbawa	flood	0070	ZERO	ZERO	0.1:a	0	1	a	1016	
+sumbawa	flood	0070	nó	NEG	lv	lv				
+sumbawa	flood	0070	mo	DM	lv	lv				
+sumbawa	flood	0070	krantè	say	v:pred	v		pred		
+sumbawa	flood	0070	utang	debt	np:p	np		p	1015	
+sumbawa	flood	0070	pang	at	rn	rn				
+sumbawa	flood	0070	aku	1SG	pro.1:other	pro	1	other	1016	
+sumbawa	flood	0070	bapa	father	np.h:dt	np	h	dt	1004	
+sumbawa	flood	0070	mo	DM	rn	rn				
+sumbawa	flood	0070	ina	mother	rn_np.h	rn_np	h		1012	
+sumbawa	flood	0070	mo	DM	rn	rn				
+sumbawa	flood	0070	%	%	%	%				
+sumbawa	flood	0071	#	#	#ds	#ds				
+sumbawa	flood	0071	ZERO	ZERO	0:p	0		p	1024	
+sumbawa	flood	0071	ya	yes	other	other				
+sumbawa	flood	0071	nó	nó	other	other				
+sumbawa	flood	0071	ku=	1SG=	=pro.1:a	=pro	1	a	1016	
+sumbawa	flood	0071	anggap	see	v:pred	v		pred		
+sumbawa	flood	0071	lunas	paid	lv_v	lv_v				
+sumbawa	flood	0071	%	%	%	%				
+sumbawa	flood	0072	#	#	#ds	#ds				
+sumbawa	flood	0072	ZERO	ZERO	0.2:a	0	2	a	1008	
+sumbawa	flood	0072	bada	tell	v:pred	v		pred		
+sumbawa	flood	0072	aku	1SG	pro.1:p	pro	1	p	1016	
+sumbawa	flood	0072	sarea	all	np:p2	np		p2		
+sumbawa	flood	0072	pang	place	rn_np	rn_np			1025	
+sumbawa	flood	0072	utang	debt	rn_np	rn_np			1024	
+sumbawa	flood	0072	#	#	#ds_rc	#ds_rc				
+sumbawa	flood	0072	ZERO	ZERO	0:s	0		s	1024	
+sumbawa	flood	0072	dè	REL	other	other				
+sumbawa	flood	0072	masi	still	other	other				
+sumbawa	flood	0072	nyangkut	remain	v:pred	v		pred		
+sumbawa	flood	0072	nè	ITJ	other	other				
+sumbawa	flood	0072	ZERO	ZERO	f0:l	f0		l		
+sumbawa	flood	0072	%	%	%	%				
+sumbawa	flood	0072	%	%	%	%				
+sumbawa	flood	0072	#	#	#ds	#ds				
+sumbawa	flood	0072	ZERO	ZERO	0:p	0		p	1024	
+sumbawa	flood	0072	aku	1SG	pro.1:a	pro	1	a	1016	
+sumbawa	flood	0072	tanggung	take.on	lv_v	lv_v				
+sumbawa	flood	0072	bayar	pay	v:pred	v		pred		
+sumbawa	flood	0073	#	#	#ds_ac	#ds_ac				
+sumbawa	flood	0073	asal	as.long.as	other	other				
+sumbawa	flood	0073	mu=	2SG=	=pro.2:a	=pro	2	a	1008	
+sumbawa	flood	0073	bada	tell	v:pred	v		pred		
+sumbawa	flood	0073	aku	1SG	pro.1:p	pro	1	p	1014	
+sumbawa	flood	0073	ka=roa	PST=want	np:p2	np		p2	1023	
+sumbawa	flood	0073	krantè	words	rn_np:poss	rn_np		poss	1022	
+sumbawa	flood	0073	kau	2SG	rn_pro.2:poss	rn_pro	2	poss	1008	
+sumbawa	flood	0073	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0073	%	%	%	%				
+sumbawa	flood	0073	%	%	%	%				
+sumbawa	flood	0074	#	#	#ds.neg	#ds.neg				
+sumbawa	flood	0074	ba	then	other	other				
+sumbawa	flood	0074	nó	NEG	lv	lv				
+sumbawa	flood	0074	po	DM	lv	lv				
+sumbawa	flood	0074	ku=	1SG=	=pro.1:a	=pro	1	a	1016	
+sumbawa	flood	0074	tó	know	v:pred	v		pred		
+sumbawa	flood	0074	tegas	meaning	np:p	np		p	1023	
+sumbawa	flood	0074	%	%	%	%				
+sumbawa	flood	0075	#	#	#	#				
+sumbawa	flood	0075	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0075	ta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	flood	0075	nya	3	pro:appos	pro		appos		
+sumbawa	flood	0075	lok	way	np:pred	np		pred		
+sumbawa	flood	0075	tegas	meaning	rn_np:poss	rn_np		poss	1023	
+sumbawa	flood	0075	nde	uncle	np.h:voc	np	h	voc	1016	
+sumbawa	flood	0075	è	ITJ	other	other				
+sumbawa	flood	0075	%	%	%	%				
+sumbawa	flood	0075	ling	words	np:s	np		s		
+sumbawa	flood	0075	anak	child	rn_np.h:poss	rn_np	h	poss	1008	
+sumbawa	flood	0075	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0075	%	%	%	%				
+sumbawa	flood	0076	#	#	#ds	#ds				
+sumbawa	flood	0076	bapa	father	np.h:a	np	h	a	1004	
+sumbawa	flood	0076	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	1008	
+sumbawa	flood	0076	ka	PST	lv	lv				
+sumbawa	flood	0076	laló	go	lv	lv				
+sumbawa	flood	0076	sematé	kill	v:pred	v		pred		
+sumbawa	flood	0076	tau	person	np:p	np		p		
+sumbawa	flood	0076	telas	alive	rn	rn				
+sumbawa	flood	0076	%	%	%	%				
+sumbawa	flood	0077	#	#	#ds	#ds				
+sumbawa	flood	0077	tegas	meaning	np:s	np		s	1027	bridging
+sumbawa	flood	0077	ka=laló	PST=go	rn	rn				
+sumbawa	flood	0077	mat	pull	rn	rn				
+sumbawa	flood	0077	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0077	ZERO	ZERO	0.h:a	0	h	a	1004	
+sumbawa	flood	0077	mat	pull	v:pred	v		pred		
+sumbawa	flood	0077	pade	rice.plant	np:p	np		p	1028	new
+sumbawa	flood	0077	telas	alive	rn	rn				
+sumbawa	flood	0077	%	%	%	%				
+sumbawa	flood	0077	%	%	%	%				
+sumbawa	flood	0077	#	#	#ds	#ds				
+sumbawa	flood	0077	ZERO	ZERO	0:s	0		s	1028	
+sumbawa	flood	0077	karing	then	other	other				
+sumbawa	flood	0077	maté	die	v:pred	v		pred		
+sumbawa	flood	0077	%	%	%	%				
+sumbawa	flood	0078	#	#	#ds	#ds				
+sumbawa	flood	0078	#	#	#ds_cc:s	#ds_cc		s		
+sumbawa	flood	0078	ina	mother	np.h:s	np	h	s	1012	
+sumbawa	flood	0078	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	1008	
+sumbawa	flood	0078	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	flood	0078	laló	go	lv_v	lv_v				
+sumbawa	flood	0078	satelas	revive	v:pred	v		pred		
+sumbawa	flood	0078	tau	person	np:p	np		p		
+sumbawa	flood	0078	maté	die	rn	rn				
+sumbawa	flood	0078	%	%	%	%				
+sumbawa	flood	0078	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0078	ZERO	ZERO	f0.h:a	f0	h	a	1012	
+sumbawa	flood	0078	ya	FUT	lv	lv				
+sumbawa	flood	0078	laló	go	lv_v	lv_v				
+sumbawa	flood	0078	tanam	plant	v:pred	v		pred		
+sumbawa	flood	0078	pade	rice	np:p	np		p	1029	new
+sumbawa	flood	0078	#	#	#ds_rc	#ds_rc				
+sumbawa	flood	0078	ZERO	ZERO	f0:p	f0		p	1029	
+sumbawa	flood	0078	ka=mat	PST=pull	v:pred	v		pred		
+sumbawa	flood	0078	ling	by	adp	adp				
+sumbawa	flood	0078	bapa	father	np.h:a_ling	np	h	a_ling	1004	
+sumbawa	flood	0078	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	1008	
+sumbawa	flood	0078	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	flood	0078	%	%	%	%				
+sumbawa	flood	0078	%	%	%	%				
+sumbawa	flood	0078	%	%	%	%				
+sumbawa	flood	0079	#	#	#ds	#ds				
+sumbawa	flood	0079	we	wow	other	other				
+sumbawa	flood	0079	anak	child	np.h:voc	np	h	voc	1008	
+sumbawa	flood	0079	balong	good	rn	rn				
+sumbawa	flood	0079	tó	now	lv	lv				
+sumbawa	flood	0079	po	DM	lv	lv				
+sumbawa	flood	0079	ku=	1SG=	=pro.1:a	=pro	1	a	1016	
+sumbawa	flood	0079	menong	listen	v:pred	v		pred		
+sumbawa	flood	0079	seda	voice	np:p	np		p	1022	
+sumbawa	flood	0079	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0079	%	%	%	%				
+sumbawa	flood	0080	#	#	#ds	#ds				
+sumbawa	flood	0080	tó	now	other	other				
+sumbawa	flood	0080	po	DM	lv	lv				
+sumbawa	flood	0080	ku=	1SG=	=pro.1:a	=pro	1	a	1016	
+sumbawa	flood	0080	tó	know	v:pred	v		pred		
+sumbawa	flood	0080	tegas	meaning	np:p	np		p	1023	
+sumbawa	flood	0080	%	%	%	%				
+sumbawa	flood	0080	#	#	#ds	#ds				
+sumbawa	flood	0080	ba	then	other	other				
+sumbawa	flood	0080	mé	which	np:pred	np		pred		
+sumbawa	flood	0080	mo	DM	rn	rn				
+sumbawa	flood	0080	lok	way	np:s	np		s		
+sumbawa	flood	0080	%	%	%	%				
+sumbawa	flood	0081	#	#	#ds	#ds				
+sumbawa	flood	0081	ba	then	other	other				
+sumbawa	flood	0081	bakatoan	ask	v:pred	v		pred		
+sumbawa	flood	0081	aku	1SG	pro.1:s	pro	1	s	1016	
+sumbawa	flood	0081	#	#	#ds_cc	#ds_cc				
+sumbawa	flood	0081	ba	then	other	other				
+sumbawa	flood	0081	ya=mólé	FUT=go.home	v:pred	v		pred		
+sumbawa	flood	0081	si	DM	other	other				
+sumbawa	flood	0081	ké	Q	other	other				
+sumbawa	flood	0081	ina	mother	np.h:s	np	h	s	1012	
+sumbawa	flood	0081	kè	and	rn	rn				
+sumbawa	flood	0081	bapa	father	rn_np.h	rn_np	h		1004	
+sumbawa	flood	0081	mu	2SG	rn_pro.2:poss	rn_pro	2	poss	1008	
+sumbawa	flood	0081	%	%	%	%				
+sumbawa	flood	0081	%	%	%	%				
+sumbawa	flood	0082	#	#	#ds	#ds				
+sumbawa	flood	0082	ling	words	np:s	np		s	1022	
+sumbawa	flood	0082	kau	2SG	rn_pro.2:poss	rn_pro	2	poss	1008	
+sumbawa	flood	0082	ita	before	rn	rn				
+sumbawa	flood	0082	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0082	ZERO	ZERO	0.h:s	0	h	s	1020	
+sumbawa	flood	0082	#	#	#ds_ac.neg	#ds_ac.neg				
+sumbawa	flood	0082	ZERO	ZERO	0:s	0		s	1021	
+sumbawa	flood	0082	lamin	if	other	other				
+sumbawa	flood	0082	datang	come	v:pred	v		pred		
+sumbawa	flood	0082	ba	flood	np:s	np		s		
+sumbawa	flood	0082	%	%	%	%				
+sumbawa	flood	0082	nó	NEG	lv	lv				
+sumbawa	flood	0082	mólé	go.home	v:pred	v		pred		
+sumbawa	flood	0082	%	%	%	%				
+sumbawa	flood	0083	#	#	#ds_cc	#ds_cc				
+sumbawa	flood	0083	ZERO	ZERO	0.h:s	0	h	s	1020	
+sumbawa	flood	0083	#	#	#ds_ac.neg	#ds_ac.neg				
+sumbawa	flood	0083	ZERO	ZERO	0:s	0		s	1021	
+sumbawa	flood	0083	lamin	if	other	other				
+sumbawa	flood	0083	nó	NEG	lv	lv				
+sumbawa	flood	0083	datang	come	v:pred	v		pred		
+sumbawa	flood	0083	%	%	%	%				
+sumbawa	flood	0083	ba	then	other	other				
+sumbawa	flood	0083	mólé	go.home	v:pred	v		pred		
+sumbawa	flood	0083	%	%	%	%				
+sumbawa	flood	0083	%	%	%	%				
+sumbawa	flood	0084	#	#	#ds.neg	#ds.neg				
+sumbawa	flood	0084	ling	words	np:dt	np		dt	1022	
+sumbawa	flood	0084	kau	2SG	rn_pro.2:poss	rn_pro	2	poss	1008	
+sumbawa	flood	0084	engka	NEG	lv	lv				
+sumbawa	flood	0084	ku=	1SG=	=pro.1:a	=pro	1	a	1016	
+sumbawa	flood	0084	tó	know	v:pred	v		pred		
+sumbawa	flood	0084	tegas	meaning	np:p	np		p	1023	
+sumbawa	flood	0084	dèan	DEM_M	rn_dem_pro:poss	rn_dem_pro		poss		
+sumbawa	flood	0084	anak	child	np.h:voc	np	h	voc	1008	
+sumbawa	flood	0084	%	%	%	%				
+sumbawa	flood	0085	#	#	#	#				
+sumbawa	flood	0085	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0085	ba	ITJ	other	other				
+sumbawa	flood	0085	ta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	flood	0085	nya	3	pro:appos	pro		appos		
+sumbawa	flood	0085	lok	way	np:pred	np		pred		
+sumbawa	flood	0085	ende	uncle	np.h:voc	np	h	voc	1016	
+sumbawa	flood	0085	è	ITJ	other	other				
+sumbawa	flood	0085	%	%	%	%				
+sumbawa	flood	0085	ling	words	np:s	np		s		
+sumbawa	flood	0085	anak	child	rn_np.h:poss	rn_np	h	poss	1008	
+sumbawa	flood	0085	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0085	%	%	%	%				
+sumbawa	flood	0086	#	#	#ds	#ds				
+sumbawa	flood	0086	malum	as.you.know	nc	nc				
+sumbawa	flood	0086	rabalat	separated	v:pred	v		pred		
+sumbawa	flood	0086	brang	river	np:s	np		s	1030	new
+sumbawa	flood	0086	orong	rice.field	rn_np	rn_np			1031	new
+sumbawa	flood	0086	kè	and	adp	adp				
+sumbawa	flood	0086	dèsa	village	np:obl	np		obl	1032	new
+sumbawa	flood	0086	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	flood	0086	%	%	%	%				
+sumbawa	flood	0087	#	#	#	#				
+sumbawa	flood	0087	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0087	tegas	meaning	np:s	np		s	1023	
+sumbawa	flood	0087	ling	words	rn_np:poss	rn_np		poss	1022	
+sumbawa	flood	0087	kaku	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	1008	
+sumbawa	flood	0087	%	%	%	%				
+sumbawa	flood	0087	ling	words	np:s	np		s		
+sumbawa	flood	0087	%	%	%	%				
+sumbawa	flood	0088	#	#	#ds.neg	#ds.neg				
+sumbawa	flood	0088	#	#	#ds_ac	#ds_ac				
+sumbawa	flood	0088	lamin	if	other	other				
+sumbawa	flood	0088	datang	flood	np:s	np		s	1033	new
+sumbawa	flood	0088	ba	ITJ	other	other				
+sumbawa	flood	0088	ling	words	nc	nc				
+sumbawa	flood	0088	%	%	%	%				
+sumbawa	flood	0089	ZERO	ZERO	0.h:s	0	h	s	1020	
+sumbawa	flood	0089	ba	ITJ	other	other				
+sumbawa	flood	0089	nó	NEG	other	other				
+sumbawa	flood	0089	bau	can	lv_v	lv_v				
+sumbawa	flood	0089	mólé	go.home	v:pred	v		pred		
+sumbawa	flood	0089	ina	mother	np.h:dt	np	h	dt	1012	
+sumbawa	flood	0089	kè	and	rn	rn				
+sumbawa	flood	0089	bapa	father	rn_np.h	rn_np	h		1004	
+sumbawa	flood	0089	#	#	#ds_ac	#ds_ac				
+sumbawa	flood	0089	ling	because	other	other				
+sumbawa	flood	0089	kebalat	NC	nc	nc				
+sumbawa	flood	0089	kè	and	other	other				
+sumbawa	flood	0089	ba	ITJ	other	other				
+sumbawa	flood	0089	%	%	%	%				
+sumbawa	flood	0089	%	%	%	%				
+sumbawa	flood	0090	#	#	#ds	#ds				
+sumbawa	flood	0090	#	#	#ds_ac.neg	#ds_ac.neg				
+sumbawa	flood	0090	lamin	if	other	other				
+sumbawa	flood	0090	ZERO	ZERO	f0:s	f0		s	1033	
+sumbawa	flood	0090	nó	NEG	other	other				
+sumbawa	flood	0090	datang	come	v:pred	v		pred		
+sumbawa	flood	0090	ba	ITJ	other	other				
+sumbawa	flood	0090	%	%	%	%				
+sumbawa	flood	0090	ZERO	ZERO	0.h:s	0	h	s	1020	
+sumbawa	flood	0090	ba	ITJ	other	other				
+sumbawa	flood	0090	mólé	go.home	v:pred	v		pred		
+sumbawa	flood	0090	ina	mother	np.h:dt	np	h	dt	1012	
+sumbawa	flood	0090	kè	and	rn	rn				
+sumbawa	flood	0090	bapa	father	rn_np.h	rn_np	h		1004	
+sumbawa	flood	0090	%	%	%	%				
+sumbawa	flood	0091	#	#	#	#				
+sumbawa	flood	0091	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	flood	0091	nan	DEM_M	dem_pro:s	dem_pro		s		
+sumbawa	flood	0091	nya	3	pro:appos	pro		appos		
+sumbawa	flood	0091	tegas	meaning	np:pred	np		pred	1023	
+sumbawa	flood	0091	endè	uncle	np.h:voc	np	h	voc	1016	
+sumbawa	flood	0091	%	%	%	%				
+sumbawa	flood	0091	è	ITJ	other	other				
+sumbawa	flood	0091	ling	words	np:s	np		s		
+sumbawa	flood	0091	%	%	%	%				
+sumbawa	flood	0092	#	#	#ds	#ds				
+sumbawa	flood	0092	wa	ITJ	other	other				
+sumbawa	flood	0092	ZERO	ZERO	0.1:a	0	1	a	1016	
+sumbawa	flood	0092	terima.kasi	thank.you	v:pred	v		pred		
+sumbawa	flood	0092	mo	DM	other	other				
+sumbawa	flood	0092	anak	child	np.h:voc	np	h	voc	1008	
+sumbawa	flood	0092	%	%	%	%				
+sumbawa	flood	0092	#	#	#ds	#ds				
+sumbawa	flood	0092	salam	greetings	np:other	np		other		
+sumbawa	flood	0092	doa	[I]prayer	nc	nc				
+sumbawa	flood	0092	kó	to	adp	adp				
+sumbawa	flood	0092	ina	mother	np.h:other	np	h	other	1012	
+sumbawa	flood	0092	mo	DM	other	other				
+sumbawa	flood	0092	%	%	%	%				
+sumbawa	flood	0093	#	#	#ds	#ds				
+sumbawa	flood	0093	salam	greetings	np:other	np		other		
+sumbawa	flood	0093	doa	[I]prayer	nc	nc				
+sumbawa	flood	0093	kó	to	adp	adp				
+sumbawa	flood	0093	bapa	father	np.h:other	np	h	other	1004	
+sumbawa	flood	0093	mo	DM	other	other				
+sumbawa	flood	0093	%	%	%	%				
+sumbawa	flood	0094	#	#	#ds	#ds				
+sumbawa	flood	0094	utang	debt	np:p	np		p	1015	
+sumbawa	flood	0094	pang	at	adp	adp				
+sumbawa	flood	0094	aku	1SG	pro.1:obl	pro	1	obl	1016	
+sumbawa	flood	0094	bèrès	pay.off	v:pred	v		pred		
+sumbawa	flood	0094	sama	all	rv	rv				
+sumbawa	flood	0094	sekali	very	rv	rv				
+sumbawa	flood	0094	%	%	%	%				
+sumbawa	flood	0095	#	#	#ds	#ds				
+sumbawa	flood	0095	kè	and	other	other				
+sumbawa	flood	0095	utang	debt	np:p	np		p	1018	
+sumbawa	flood	0095	pang	at	adp	adp				
+sumbawa	flood	0095	tau	person	np.h:obl	np	h	obl		
+sumbawa	flood	0095	lin	other	rn	rn				
+sumbawa	flood	0095	akan	[I]will	nc	nc				
+sumbawa	flood	0095	ku=	1SG=	=pro_1_a	=pro_1_a			1016	
+sumbawa	flood	0095	tangung	assure	lv_v	lv_v				
+sumbawa	flood	0095	bayar	pay	v:pred	v		pred		
+sumbawa	flood	0095	ling	by	adp	adp				
+sumbawa	flood	0095	aku	1SG	pro.1:a_ling	pro	1	a_ling	1016	
+sumbawa	flood	0095	%	%	%	%				
+sumbawa	flood	0096	#	#	#ds	#ds				
+sumbawa	flood	0096	salam	greetings	np:other	np		other		
+sumbawa	flood	0096	doa	[I]prayer	nc	nc				
+sumbawa	flood	0096	peno-peno	much	other	other				
+sumbawa	flood	0096	kó	and?	nc	nc				
+sumbawa	flood	0096	bapa	father	np.h:obl	np	h	obl	1004	
+sumbawa	flood	0096	mu	2SG.POSS	rn_pro.2:poss	rn_pro	2	poss		
+sumbawa	flood	0096	%	%	%	%				
+sumbawa	flood	0097	#	#	#ds	#ds				
+sumbawa	flood	0097	ZERO	ZERO	0.1:a	0	1	a	1016	
+sumbawa	flood	0097	terima.kasi	thank.you	v:pred	v		pred		
+sumbawa	flood	0097	mo	DM	other	other				
+sumbawa	flood	0097	anak	child	np.h:voc	np	h	voc	1008	
+sumbawa	flood	0097	%	%	%	%				
+sumbawa	flood	0098	#	#	#ds	#ds				
+sumbawa	flood	0098	nan	DEM_M	dem_pro:s	dem_pro		s		
+sumbawa	flood	0098	si	DM	other	other				
+sumbawa	flood	0098	loè	amount	np:pred	np		pred		
+sumbawa	flood	0098	na	ITJ	other	other				
+sumbawa	flood	0098	%	%	%	%				
+sumbawa	flood	0099	#	#	#nc	#nc				
+sumbawa	flood	0099	boè	finish?	nc	nc				
+sumbawa	flood	0099	mo	DM	nc	nc				
+sumbawa	flood	0099	tutir	story	nc	nc				
+sumbawa	flood	0099	=ta	=DEM_P	nc	nc				
+sumbawa	flood	0099	%	%	%	%				
+sumbawa	flood	0099	#	#	#nc	#nc				
+sumbawa	flood	0099	ZERO	ZERO	nc	nc				
+sumbawa	flood	0099	boè	finish?	nc	nc				
+sumbawa	flood	0099	mo	DM	nc	nc				
+sumbawa	flood	0099	%	%	%	%				
+sumbawa	flood	0100	#	#	#nc	#nc				
+sumbawa	flood	0100	cerita	story	nc	nc				
+sumbawa	flood	0100	dèan	DEM_M	nc	nc				
+sumbawa	flood	0100	%	%	%	%				

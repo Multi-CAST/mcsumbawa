@@ -1,0 +1,4006 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sumbawa	kerekkure	0001	#	#	#	#				
+sumbawa	kerekkure	0001	pada	at	adp	adp				
+sumbawa	kerekkure	0001	masa	time	np:other	np		other		
+sumbawa	kerekkure	0001	dulu	before	rn	rn				
+sumbawa	kerekkure	0002	nta	who.knows	ln	ln				
+sumbawa	kerekkure	0002	berapa	how.many	ln	ln				
+sumbawa	kerekkure	0002	ratus	hundred	ln	ln				
+sumbawa	kerekkure	0002	taun	year	np:other	np		other		
+sumbawa	kerekkure	0002	saman	time	rn	rn				
+sumbawa	kerekkure	0002	dunung	before	rn	rn				
+sumbawa	kerekkure	0002	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0003	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0003	sópó	one	ln	ln				
+sumbawa	kerekkure	0003	tau	person	np.h:s	np	h	s	2001	new
+sumbawa	kerekkure	0003	#	#	#rc	#rc				
+sumbawa	kerekkure	0003	ZERO	ZERO	f0.h:s	f0	h	s	2001	
+sumbawa	kerekkure	0003	basingin	named	v:pred	v		pred		
+sumbawa	kerekkure	0003	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0003	Kerèk-kurè	Kerek-kure	pn_np:other	pn_np		other		
+sumbawa	kerekkure	0003	%	%	%	%				
+sumbawa	kerekkure	0003	%	%	%	%				
+sumbawa	kerekkure	0004	#	#	#	#				
+sumbawa	kerekkure	0004	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0004	tedu	live	v:pred	v		pred		
+sumbawa	kerekkure	0004	kè	with	adp	adp				
+sumbawa	kerekkure	0004	ina	mother	np.h:obl	np	h	obl	2002	new
+sumbawa	kerekkure	0004	pang	at	adp	adp				
+sumbawa	kerekkure	0004	sópó	one	ln	ln				
+sumbawa	kerekkure	0004	keban	garden	np:l	np		l	2003	new
+sumbawa	kerekkure	0004	pang	at	rn	rn				
+sumbawa	kerekkure	0004	Dadap	Dadap	rn_pn_np	rn_pn_np			2004	unused
+sumbawa	kerekkure	0004	%	%	%	%				
+sumbawa	kerekkure	0005	#	#	#	#				
+sumbawa	kerekkure	0005	Dadap	Dadap	pn_np:s	pn_np		s	2004	
+sumbawa	kerekkure	0005	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0005	bakatokal	be.located	v:pred	v		pred		
+sumbawa	kerekkure	0005	pang	at	adp	adp				
+sumbawa	kerekkure	0005	Berangkorong	Berangkorong	pn_np:l	pn_np		l	2005	unused
+sumbawa	kerekkure	0005	%	%	%	%				
+sumbawa	kerekkure	0006	#	#	#	#				
+sumbawa	kerekkure	0006	antara	between	adp	adp				
+sumbawa	kerekkure	0006	Muir	Muir	pn_np:dt_s	pn_np		dt_s	2006	unused
+sumbawa	kerekkure	0006	kè	and	rn	rn				
+sumbawa	kerekkure	0006	Berangkorong	Berangkorong	rn_pn_np	rn_pn_np			2005	
+sumbawa	kerekkure	0006	nya	3	pro:s	pro		s		
+sumbawa	kerekkure	0006	pang	at	adp	adp				
+sumbawa	kerekkure	0006	Dadap	Dadap	pn_np:pred	pn_np		pred	2004	
+sumbawa	kerekkure	0006	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0006	%	%	%	%				
+sumbawa	kerekkure	0007	#	#	#	#				
+sumbawa	kerekkure	0007	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0007	sópó	one	ln	ln				
+sumbawa	kerekkure	0007	keban	garden	np:s	np		s	2003	
+sumbawa	kerekkure	0007	#	#	#rc	#rc				
+sumbawa	kerekkure	0007	ninan	there	dem_pro:l	dem_pro		l	2003	
+sumbawa	kerekkure	0007	tanam	plant	v:pred	v		pred		
+sumbawa	kerekkure	0007	ragan	k.o.flower	np:p	np		p	2007	new
+sumbawa	kerekkure	0008	dua	two	np.h:dt_a	np	h	dt_a	2008	bridging
+sumbawa	kerekkure	0008	tau	person	np.h:appos	np	h	appos	2001	
+sumbawa	kerekkure	0008	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0008	kè	with	rn_adp	rn_adp				
+sumbawa	kerekkure	0008	ina	mother	rn_np.h	rn_np	h		2002	
+sumbawa	kerekkure	0008	%	%	%	%				
+sumbawa	kerekkure	0008	%	%	%	%				
+sumbawa	kerekkure	0008	#	#	#	#				
+sumbawa	kerekkure	0008	ka	PST	lv	lv				
+sumbawa	kerekkure	0008	mo	DM	lv	lv				
+sumbawa	kerekkure	0008	maté	die	v:pred	v		pred		
+sumbawa	kerekkure	0008	bapa	father	np.h:s	np	h	s	2009	new
+sumbawa	kerekkure	0008	%	%	%	%				
+sumbawa	kerekkure	0009	#	#	#neg	#neg				
+sumbawa	kerekkure	0009	tapi	but	other	other				
+sumbawa	kerekkure	0009	ina	mother	np.h:dt	np	h	dt	2002	
+sumbawa	kerekkure	0009	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0009	nongka	NEG.PST	lv	lv				
+sumbawa	kerekkure	0009	bada	tell	v:pred	v		pred		
+sumbawa	kerekkure	0009	aku	1SG	pro.1:p	pro	1	p		
+sumbawa	kerekkure	0009	ling	by	adp	adp				
+sumbawa	kerekkure	0009	papin	grandfather	np.h:a_ling	np	h	a_ling		
+sumbawa	kerekkure	0009	#	#	#cc	#cc				
+sumbawa	kerekkure	0009	apa	what	np:pred	np		pred		
+sumbawa	kerekkure	0009	singin	name	np:s	np		s		
+sumbawa	kerekkure	0009	%	%	%	%				
+sumbawa	kerekkure	0009	%	%	%	%				
+sumbawa	kerekkure	0010	#	#	#	#				
+sumbawa	kerekkure	0010	cuma	only	np:s	np		s		
+sumbawa	kerekkure	0010	#	#	#rc	#rc				
+sumbawa	kerekkure	0010	ZERO	ZERO	f0.h:p2	f0	h	p2		
+sumbawa	kerekkure	0010	dè	REL	other	other				
+sumbawa	kerekkure	0010	ka=bada	PST=tell	v:pred	v		pred		
+sumbawa	kerekkure	0010	aku	1SG	pro.1:p	pro	1	p		
+sumbawa	kerekkure	0010	ling	by	adp	adp				
+sumbawa	kerekkure	0010	papin	grandfather	np.h:a_ling	np	h	a_ling		
+sumbawa	kerekkure	0010	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0010	%	%	%	%				
+sumbawa	kerekkure	0010	#	#	#cc:pred	#cc		pred		
+sumbawa	kerekkure	0010	anak	child	np.h:s	np	h	s	2001	
+sumbawa	kerekkure	0010	basingin	named	v:pred	v		pred		
+sumbawa	kerekkure	0010	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0010	Kerèk-kurè	Kerek-kure	pn_np.h:other	pn_np	h	other		
+sumbawa	kerekkure	0010	%	%	%	%				
+sumbawa	kerekkure	0010	%	%	%	%				
+sumbawa	kerekkure	0011	#	#	#	#				
+sumbawa	kerekkure	0011	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0011	tedu	live	v:pred	v		pred		
+sumbawa	kerekkure	0011	pang	at	adp	adp				
+sumbawa	kerekkure	0011	Dadap	Dadap	pn_np:l	pn_np		l	2004	
+sumbawa	kerekkure	0011	%	%	%	%				
+sumbawa	kerekkure	0011	#	#	#	#				
+sumbawa	kerekkure	0011	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0011	bakeban	farm	v:pred	v		pred		
+sumbawa	kerekkure	0011	%	%	%	%				
+sumbawa	kerekkure	0011	#	#	#	#				
+sumbawa	kerekkure	0011	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0011	tanam	plant	v:pred	v		pred		
+sumbawa	kerekkure	0011	ragan	k.o.flower	np:p	np		p	2007	
+sumbawa	kerekkure	0011	%	%	%	%				
+sumbawa	kerekkure	0012	#	#	#	#				
+sumbawa	kerekkure	0012	#	#	#ac	#ac				
+sumbawa	kerekkure	0012	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0012	tiba-tiba	unexpectedly	other	other				
+sumbawa	kerekkure	0012	beru	after	other	other				
+sumbawa	kerekkure	0012	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0012	gita	look	v:pred	v		pred		
+sumbawa	kerekkure	0012	kó	to	adp	adp				
+sumbawa	kerekkure	0012	dalam	inside	np:g	np		g		
+sumbawa	kerekkure	0012	keban	garden	rn_np	rn_np			2003	
+sumbawa	kerekkure	0012	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0012	%	%	%	%				
+sumbawa	kerekkure	0013	ragan	k.o.flower	np:p	np		p	2007	
+sumbawa	kerekkure	0013	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0013	boè	finish	lv_v	lv_v				
+sumbawa	kerekkure	0013	ka=bau	PST=get	v:pred	v		pred		
+sumbawa	kerekkure	0013	ling	by	adp	adp				
+sumbawa	kerekkure	0013	tau	person	np.h:a_ling	np	h	a_ling	2010	new
+sumbawa	kerekkure	0013	kemang	flower	np:dt	np		dt	2007	
+sumbawa	kerekkure	0013	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0013	%	%	%	%				
+sumbawa	kerekkure	0014	#	#	#	#				
+sumbawa	kerekkure	0014	ZERO	ZERO	0:p	0		p	2007	
+sumbawa	kerekkure	0014	boè	finish	lv_v	lv_v				
+sumbawa	kerekkure	0014	ka=bau	PST=get	v:pred	v		pred		
+sumbawa	kerekkure	0014	ling	by	adp	adp				
+sumbawa	kerekkure	0014	tau	person	np.h:a_ling	np	h	a_ling	2010	
+sumbawa	kerekkure	0014	%	%	%	%				
+sumbawa	kerekkure	0015	#	#	#	#				
+sumbawa	kerekkure	0015	sehingga	then	other	other				
+sumbawa	kerekkure	0015	telu	three	ln	ln				
+sumbawa	kerekkure	0015	ngano	day	np:s	np		s		
+sumbawa	kerekkure	0015	baturit-turit	continue	v:pred	v		pred		
+sumbawa	kerekkure	0015	%	%	%	%				
+sumbawa	kerekkure	0016	#	#	#	#				
+sumbawa	kerekkure	0016	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0016	laló	go	v:pred	v		pred		
+sumbawa	kerekkure	0016	%	%	%	%				
+sumbawa	kerekkure	0016	#	#	#	#				
+sumbawa	kerekkure	0016	#	#	#ac	#ac				
+sumbawa	kerekkure	0016	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0016	beru	after	other	other				
+sumbawa	kerekkure	0016	tama	enter	v:pred	v		pred		
+sumbawa	kerekkure	0016	kó	to	adp	adp				
+sumbawa	kerekkure	0016	dalam	inside	np:g	np		g		
+sumbawa	kerekkure	0016	keban	garden	rn_np	rn_np			2003	
+sumbawa	kerekkure	0016	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0016	%	%	%	%				
+sumbawa	kerekkure	0017	ragan	k.o.flower	np:p	np		p	2007	
+sumbawa	kerekkure	0017	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0017	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	kerekkure	0017	boè	finish	lv_v	lv_v				
+sumbawa	kerekkure	0017	ka=bau	PST=get	v:pred	v		pred		
+sumbawa	kerekkure	0017	ling	by	adp	adp				
+sumbawa	kerekkure	0017	tau	person	np.h:a_ling	np	h	a_ling	2010	
+sumbawa	kerekkure	0017	%	%	%	%				
+sumbawa	kerekkure	0018	#	#	#	#				
+sumbawa	kerekkure	0018	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0018	nyaté	want	v:pred	v		pred		
+sumbawa	kerekkure	0018	#	#	#cc	#cc				
+sumbawa	kerekkure	0018	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0018	ya=laló	FUT=go	lv_v	lv_v				
+sumbawa	kerekkure	0018	panin	harvest	v:pred	v		pred		
+sumbawa	kerekkure	0018	%	%	%	%				
+sumbawa	kerekkure	0018	%	%	%	%				
+sumbawa	kerekkure	0018	#	#	#	#				
+sumbawa	kerekkure	0018	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0018	bawa	bring	v:pred	v		pred		
+sumbawa	kerekkure	0018	mo	DM	rv	rv				
+sumbawa	kerekkure	0018	pengisiq	container	np:p	np		p	2011	new
+sumbawa	kerekkure	0018	%	%	%	%				
+sumbawa	kerekkure	0018	#	#	#	#				
+sumbawa	kerekkure	0018	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0018	ya=laló	FUT=go	lv_v	lv_v				
+sumbawa	kerekkure	0018	panin	harvest	v:pred	v		pred		
+sumbawa	kerekkure	0018	%	%	%	%				
+sumbawa	kerekkure	0019	#	#	#neg	#neg				
+sumbawa	kerekkure	0019	sehingga	then	other	other				
+sumbawa	kerekkure	0019	telungano	three.days	np:other	np		other		
+sumbawa	kerekkure	0019	baturit-turit	successively	other	other				
+sumbawa	kerekkure	0019	enda	NEG.exist	v:predex	v		predex		
+sumbawa	kerekkure	0019	masa	time	np:s	np		s		
+sumbawa	kerekkure	0019	#	#	#rc	#rc				
+sumbawa	kerekkure	0019	ada	exist	v:pred	v		pred		
+sumbawa	kerekkure	0019	bua	fruit	np:s	np		s	2007	
+sumbawa	kerekkure	0019	anong	what's.it.called	other	other				
+sumbawa	kerekkure	0019	kemang	flower	np:appos	np		appos	2007	
+sumbawa	kerekkure	0019	ragan	k.o.flower	rn	rn				
+sumbawa	kerekkure	0019	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0019	ZERO	ZERO	f0:other	f0		other		
+sumbawa	kerekkure	0019	%	%	%	%				
+sumbawa	kerekkure	0019	%	%	%	%				
+sumbawa	kerekkure	0020	#	#	#	#				
+sumbawa	kerekkure	0020	sehingga	then	other	other				
+sumbawa	kerekkure	0020	ano	day	other	other				
+sumbawa	kerekkure	0020	yang	REL	other	other				
+sumbawa	kerekkure	0020	keempat	fourth	other	other				
+sumbawa	kerekkure	0020	ya=	3=	=pro_h_a	=pro_h_a			2001	
+sumbawa	kerekkure	0020	èntap	peep	v:pred	v		pred		
+sumbawa	kerekkure	0020	ya=	3=	nc	nc				
+sumbawa	kerekkure	0020	èntap	peep	nc	nc				
+sumbawa	kerekkure	0020	ling	by	adp	adp				
+sumbawa	kerekkure	0020	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0020	Kerèk-kurè	Kerek-kure	pn_np.h:a_ling	pn_np	h	a_ling	2001	
+sumbawa	kerekkure	0020	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0020	#	#	#cc:p	#cc		p		
+sumbawa	kerekkure	0020	sai	who	np:pred	np		pred		
+sumbawa	kerekkure	0020	tau	person	np.h:s	np	h	s	2010	
+sumbawa	kerekkure	0020	#	#	#rc	#rc				
+sumbawa	kerekkure	0020	ZERO	ZERO	f0.h:a	f0	h	a	2010	
+sumbawa	kerekkure	0020	bau	get	v:pred	v		pred		
+sumbawa	kerekkure	0020	ragan	k.o.flower	np:p	np		p	2007	
+sumbawa	kerekkure	0020	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0020	%	%	%	%				
+sumbawa	kerekkure	0020	%	%	%	%				
+sumbawa	kerekkure	0020	%	%	%	%				
+sumbawa	kerekkure	0021	#	#	#	#				
+sumbawa	kerekkure	0021	tiba-tiba	unexpectedly	other	other				
+sumbawa	kerekkure	0021	turin	come.down	v:pred	v		pred		
+sumbawa	kerekkure	0021	turin	come.down	nc	nc				
+sumbawa	kerekkure	0021	anar	ladder	np:s	np		s	2012	new
+sumbawa	kerekkure	0021	marua	like	rn	rn				
+sumbawa	kerekkure	0021	tèja	rainbow	rn	rn				
+sumbawa	kerekkure	0021	%	%	%	%				
+sumbawa	kerekkure	0022	#	#	#	#				
+sumbawa	kerekkure	0022	turin	come.down	v:pred	v		pred		
+sumbawa	kerekkure	0022	anar	ladder	np:s	np		s	2012	
+sumbawa	kerekkure	0022	marua	like	rn	rn				
+sumbawa	kerekkure	0022	tèja	rainbow	rn	rn				
+sumbawa	kerekkure	0022	%	%	%	%				
+sumbawa	kerekkure	0023	#	#	#	#				
+sumbawa	kerekkure	0023	karing	then	other	other				
+sumbawa	kerekkure	0023	balóló	be.in.line	lv_v	lv_v				
+sumbawa	kerekkure	0023	turin	come.down	v:pred	v		pred		
+sumbawa	kerekkure	0023	pituq	seven	ln	ln				
+sumbawa	kerekkure	0023	tau	person	np.h:s	np	h	s	2013	new
+sumbawa	kerekkure	0023	dadara	maiden	rn	rn				
+sumbawa	kerekkure	0023	ola	through	adp	adp				
+sumbawa	kerekkure	0023	tèja	rainbow	np:l	np		l	2012	
+sumbawa	kerekkure	0023	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0023	%	%	%	%				
+sumbawa	kerekkure	0024	#	#	#	#				
+sumbawa	kerekkure	0024	ZERO	ZERO	0.h:s	0	h	s	2013	
+sumbawa	kerekkure	0024	come down	go.down	v:pred	v		pred		
+sumbawa	kerekkure	0024	kó	to	adp	adp				
+sumbawa	kerekkure	0024	dalam	inside	np:g	np		g		
+sumbawa	kerekkure	0024	keban	garden	rn_np	rn_np			2003	
+sumbawa	kerekkure	0024	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0024	%	%	%	%				
+sumbawa	kerekkure	0025	#	#	#	#				
+sumbawa	kerekkure	0025	tau	person	np.h:a	np	h	a	2013	
+sumbawa	kerekkure	0025	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0025	bawa	bring	v:pred	v		pred		
+sumbawa	kerekkure	0025	pègo	bucket	np:p	np		p	2014	new
+sumbawa	kerekkure	0025	sama	same	rn	rn				
+sumbawa	kerekkure	0025	sekoden	one	rn	rn				
+sumbawa	kerekkure	0025	kabulaén	golden	rn	rn				
+sumbawa	kerekkure	0025	%	%	%	%				
+sumbawa	kerekkure	0026	#	#	#	#				
+sumbawa	kerekkure	0026	dadi	then	other	other				
+sumbawa	kerekkure	0026	pitu	seven	v:pred	v		pred		
+sumbawa	kerekkure	0026	pègo	bucket	np:s	np		s	2014	
+sumbawa	kerekkure	0026	#	#	#ac	#ac				
+sumbawa	kerekkure	0026	apa	because	other	other				
+sumbawa	kerekkure	0026	pitu	seven	v:pred	v		pred		
+sumbawa	kerekkure	0026	tau	person	np.h:s	np	h	s	2013	
+sumbawa	kerekkure	0026	%	%	%	%				
+sumbawa	kerekkure	0026	%	%	%	%				
+sumbawa	kerekkure	0026	#	#	#	#				
+sumbawa	kerekkure	0026	pitu	seven	v:pred	v		pred		
+sumbawa	kerekkure	0026	tau	person	np.h:s	np	h	s	2013	
+sumbawa	kerekkure	0026	dadara	maiden	rn	rn				
+sumbawa	kerekkure	0026	%	%	%	%				
+sumbawa	kerekkure	0027	#	#	#	#				
+sumbawa	kerekkure	0027	tau	person	np.h:s	np	h	s	2013	
+sumbawa	kerekkure	0027	pitu	seven	rn	rn				
+sumbawa	kerekkure	0027	tau	person	np.h:appos	np	h	appos	2013	
+sumbawa	kerekkure	0027	dadara	maiden	rn	rn				
+sumbawa	kerekkure	0027	pitu	seven	rn	rn				
+sumbawa	kerekkure	0027	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0027	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	kerekkure	0027	basanak-soai	be.sisters	v:pred	v		pred		
+sumbawa	kerekkure	0027	sarèa	all	other	other				
+sumbawa	kerekkure	0028	sópó	one	ln	ln				
+sumbawa	kerekkure	0028	ina	mother	np.h:other	np	h	other		
+sumbawa	kerekkure	0028	sópó	one	ln	ln				
+sumbawa	kerekkure	0028	bapa	father	np.h:other	np	h	other		
+sumbawa	kerekkure	0028	%	%	%	%				
+sumbawa	kerekkure	0029	#	#	#	#				
+sumbawa	kerekkure	0029	ZERO	ZERO	0.h:a	0	h	a	2013	
+sumbawa	kerekkure	0029	karing	then	other	other				
+sumbawa	kerekkure	0029	bau	get	v:pred	v		pred		
+sumbawa	kerekkure	0029	mo	DM	other	other				
+sumbawa	kerekkure	0029	ragan	k.o.flower	np:p	np		p	2007	
+sumbawa	kerekkure	0029	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0029	%	%	%	%				
+sumbawa	kerekkure	0029	#	#	#	#				
+sumbawa	kerekkure	0029	ZERO	ZERO	0.h:a	0	h	a	2013	
+sumbawa	kerekkure	0029	ZERO	ZERO	0:p	0		p	2007	
+sumbawa	kerekkure	0029	óló	put	v:pred	v		pred		
+sumbawa	kerekkure	0029	dalam	inside	adp	adp				
+sumbawa	kerekkure	0029	pègo	bucket	np:l	np		l	2014	
+sumbawa	kerekkure	0029	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0029	%	%	%	%				
+sumbawa	kerekkure	0030	#	#	#	#				
+sumbawa	kerekkure	0030	ZERO	ZERO	0.h:a	0	h	a	2013	
+sumbawa	kerekkure	0030	ZERO	ZERO	0:p	0		p	2007	
+sumbawa	kerekkure	0030	masing-masing	each	other	other				
+sumbawa	kerekkure	0030	bau	get	v:pred	v		pred		
+sumbawa	kerekkure	0030	%	%	%	%				
+sumbawa	kerekkure	0031	#	#	#nc	#nc				
+sumbawa	kerekkure	0031	beru	after	nc	nc				
+sumbawa	kerekkure	0031	suda	already	nc	nc				
+sumbawa	kerekkure	0031	%	%	%	%				
+sumbawa	kerekkure	0031	#	#	#nc	#nc				
+sumbawa	kerekkure	0031	bau	get	nc	nc				
+sumbawa	kerekkure	0031	anong	what's.it.called	nc	nc				
+sumbawa	kerekkure	0031	%	%	%	%				
+sumbawa	kerekkure	0031	#	#	#	#				
+sumbawa	kerekkure	0031	#	#	#ac	#ac				
+sumbawa	kerekkure	0031	ZERO	ZERO	0.h:s	0	h	s	2013	
+sumbawa	kerekkure	0031	beru	after	other	other				
+sumbawa	kerekkure	0031	suda	already	v:pred	v		pred		
+sumbawa	kerekkure	0031	bau	get	v:pred	v		pred		
+sumbawa	kerekkure	0031	ragan	k.o.flower	np:p	np		p	2007	
+sumbawa	kerekkure	0031	%	%	%	%				
+sumbawa	kerekkure	0032	ZERO	ZERO	0.h:s	0	h	s	2013	
+sumbawa	kerekkure	0032	tama	enter	lv_v	lv_v				
+sumbawa	kerekkure	0032	mo	DM	other	other				
+sumbawa	kerekkure	0032	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0032	kó	to	adp	adp				
+sumbawa	kerekkure	0032	kolam	pond	np:g	np		g	2015	new
+sumbawa	kerekkure	0032	%	%	%	%				
+sumbawa	kerekkure	0032	#	#	#	#				
+sumbawa	kerekkure	0032	Timan	Timan	pn_np:pred	pn_np		pred		
+sumbawa	kerekkure	0032	singin	name	np:s	np		s	2016	bridging
+sumbawa	kerekkure	0032	%	%	%	%				
+sumbawa	kerekkure	0033	#	#	#	#				
+sumbawa	kerekkure	0033	ZERO	ZERO	0.h:a	0	h	a	2013	
+sumbawa	kerekkure	0033	Timan	Timan	pn_np:p	pn_np		p	2015	
+sumbawa	kerekkure	0033	kènangq	use	v:pred	v		pred		
+sumbawa	kerekkure	0033	pang	place	np:other	np		other		
+sumbawa	kerekkure	0033	#	#	#rc	#rc				
+sumbawa	kerekkure	0033	ZERO	ZERO	0.h:a	0	h	a	2013	
+sumbawa	kerekkure	0033	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0033	ai	water	np:p	np		p	2050	new
+sumbawa	kerekkure	0033	ZERO	ZERO	f0:l	f0		l	2015	
+sumbawa	kerekkure	0033	#	#	#ac	#ac				
+sumbawa	kerekkure	0033	untuk	for	adp	adp				
+sumbawa	kerekkure	0033	ZERO	ZERO	0.h:a	0	h	a	2013	
+sumbawa	kerekkure	0033	ai	water	v:pred	v		pred		
+sumbawa	kerekkure	0033	ragan	k.o.flower	np:p	np		p	2007	
+sumbawa	kerekkure	0033	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0033	%	%	%	%				
+sumbawa	kerekkure	0033	%	%	%	%				
+sumbawa	kerekkure	0033	%	%	%	%				
+sumbawa	kerekkure	0034	#	#	#	#				
+sumbawa	kerekkure	0034	ZERO	ZERO	0.h:p	0	h	p		
+sumbawa	kerekkure	0034	karing	then	other	other				
+sumbawa	kerekkure	0034	ya=	3=	=pro_h_a	=pro_h_a			2001	
+sumbawa	kerekkure	0034	entap	peep	v:pred	v		pred		
+sumbawa	kerekkure	0034	mo	DM	other	other				
+sumbawa	kerekkure	0034	ling	by	adp	adp				
+sumbawa	kerekkure	0034	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0034	Kerèk-kurè	Kerek-kure	pn_np.h:a_ling	pn_np	h	a_ling	2001	
+sumbawa	kerekkure	0034	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0034	%	%	%	%				
+sumbawa	kerekkure	0035	#	#	#	#				
+sumbawa	kerekkure	0035	ya=	3=	=pro.h:a	=pro	h	a	2001	
+sumbawa	kerekkure	0035	gita	look	v:pred	v		pred		
+sumbawa	kerekkure	0035	dèmè	which	np.h:p	np	h	p	2020	bridging
+sumbawa	kerekkure	0035	#	#	#rc	#rc				
+sumbawa	kerekkure	0035	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0035	dè	REL	other	other				
+sumbawa	kerekkure	0035	balong	good	v:pred	v		pred		
+sumbawa	kerekkure	0035	antara	between	adp	adp				
+sumbawa	kerekkure	0035	tau	person	np.h:other	np	h	other	2013	
+sumbawa	kerekkure	0035	pitu	seven	rn	rn				
+sumbawa	kerekkure	0035	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0035	%	%	%	%				
+sumbawa	kerekkure	0035	%	%	%	%				
+sumbawa	kerekkure	0036	#	#	#	#				
+sumbawa	kerekkure	0036	sópó	one	np:pred	np		pred		
+sumbawa	kerekkure	0036	#	#	#rc.h:s	#rc	h	s	2020	
+sumbawa	kerekkure	0036	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0036	dè	REL	other	other				
+sumbawa	kerekkure	0036	balong	good	v:pred	v		pred		
+sumbawa	kerekkure	0036	%	%	%	%				
+sumbawa	kerekkure	0036	%	%	%	%				
+sumbawa	kerekkure	0037	#	#	#	#				
+sumbawa	kerekkure	0037	sópó	one	v:pred	v		pred		
+sumbawa	kerekkure	0037	#	#	#rc:s	#rc		s		
+sumbawa	kerekkure	0037	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0037	dè	REL	other	other				
+sumbawa	kerekkure	0037	balong	good	v:pred	v		pred		
+sumbawa	kerekkure	0037	%	%	%	%				
+sumbawa	kerekkure	0037	%	%	%	%				
+sumbawa	kerekkure	0038	#	#	#	#				
+sumbawa	kerekkure	0038	#	#	#ac	#ac				
+sumbawa	kerekkure	0038	ka=suda	after	other	other				
+sumbawa	kerekkure	0038	nya	3	np.h:a	np	h	a	2020	
+sumbawa	kerekkure	0038	sedo	take.off	v:pred	v		pred		
+sumbawa	kerekkure	0038	lamong	clothes	np:p	np		p	2021	new
+sumbawa	kerekkure	0038	%	%	%	%				
+sumbawa	kerekkure	0038	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0038	maning	have.a.shower'	v:pred	v		pred		
+sumbawa	kerekkure	0038	%	%	%	%				
+sumbawa	kerekkure	0039	#	#	#	#				
+sumbawa	kerekkure	0039	ZERO	ZERO	0.h:s	0	h	s	2013	
+sumbawa	kerekkure	0039	suda	already	other	other				
+sumbawa	kerekkure	0039	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0039	maning	have.a.shower	nc	nc				
+sumbawa	kerekkure	0039	maning	have.a.shower	nc	nc				
+sumbawa	kerekkure	0039	%	%	%	%				
+sumbawa	kerekkure	0039	#	#	#	#				
+sumbawa	kerekkure	0039	#	#	#rc.h:s	#rc	h	s	2020	
+sumbawa	kerekkure	0039	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0039	adè	REL	other	other				
+sumbawa	kerekkure	0039	terahir	the.last	other	other				
+sumbawa	kerekkure	0039	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0039	%	%	%	%				
+sumbawa	kerekkure	0039	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0039	dèan	DEM_M	dem_pro.h:pred	dem_pro	h	pred	2020	
+sumbawa	kerekkure	0039	#	#	#rc	#rc				
+sumbawa	kerekkure	0039	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0039	dè	REL	other	other				
+sumbawa	kerekkure	0039	paling	most	lv	lv				
+sumbawa	kerekkure	0039	balong	good	v:pred	v		pred		
+sumbawa	kerekkure	0039	%	%	%	%				
+sumbawa	kerekkure	0039	%	%	%	%				
+sumbawa	kerekkure	0040	#	#	#	#				
+sumbawa	kerekkure	0040	karing	then	other	other				
+sumbawa	kerekkure	0040	#	#	#ac	#ac				
+sumbawa	kerekkure	0040	beru	after	other	other				
+sumbawa	kerekkure	0040	ka=sedo	PST=take.off	v:pred	v		pred		
+sumbawa	kerekkure	0040	lamong	clothes	np:p	np		p	2021	
+sumbawa	kerekkure	0040	serèa	all	rn	rn				
+sumbawa	kerekkure	0040	#	#	#rc.h:a	#rc	h	a	2020	
+sumbawa	kerekkure	0040	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0040	adè	REL	other	other				
+sumbawa	kerekkure	0040	ódé	small	v:pred	v		pred		
+sumbawa	kerekkure	0040	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0040	%	%	%	%				
+sumbawa	kerekkure	0040	#	#	#rc.h:appos	#rc	h	appos	2020	
+sumbawa	kerekkure	0040	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0040	dè	REL	other	other				
+sumbawa	kerekkure	0040	paling	most	lv	lv				
+sumbawa	kerekkure	0040	ódé	small	v:pred	v		pred		
+sumbawa	kerekkure	0040	%	%	%	%				
+sumbawa	kerekkure	0040	#	#	#rc.h:appos	#rc	h	appos	2020	
+sumbawa	kerekkure	0040	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0040	adè	REL	other	other				
+sumbawa	kerekkure	0040	supu	last-born	v:pred	v		pred		
+sumbawa	kerekkure	0040	%	%	%	%				
+sumbawa	kerekkure	0040	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0040	è	ITJ	other	other				
+sumbawa	kerekkure	0040	%	%	%	%				
+sumbawa	kerekkure	0041	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0041	lamong	clothes	np:p	np		p	2021	
+sumbawa	kerekkure	0041	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0041	ling	by	adp	adp				
+sumbawa	kerekkure	0041	nya	3	pro.h:a_ling	pro	h	a_ling	2001	
+sumbawa	kerekkure	0041	lalu	prince	ln	ln				
+sumbawa	kerekkure	0041	Kerèk-kurè	Kerek-kure	pn_np.h:appos	pn_np	h	appos	2001	
+sumbawa	kerekkure	0041	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0041	%	%	%	%				
+sumbawa	kerekkure	0042	#	#	#	#				
+sumbawa	kerekkure	0042	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0042	ZERO	ZERO	0:p	0		p	2021	
+sumbawa	kerekkure	0042	sió	hide	v:pred	v		pred		
+sumbawa	kerekkure	0042	%	%	%	%				
+sumbawa	kerekkure	0043	#	#	#	#				
+sumbawa	kerekkure	0043	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0043	ZERO	ZERO	0:p	0		p	2021	
+sumbawa	kerekkure	0043	sió	hide	v:pred	v		pred		
+sumbawa	kerekkure	0043	%	%	%	%				
+sumbawa	kerekkure	0044	#	#	#	#				
+sumbawa	kerekkure	0044	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0044	karing	then	other	other				
+sumbawa	kerekkure	0044	karing	then	other	other				
+sumbawa	kerekkure	0044	balawas	recite.a.poem	v:pred	v		pred		
+sumbawa	kerekkure	0044	%	%	%	%				
+sumbawa	kerekkure	0045	#	#	#nc	#nc				
+sumbawa	kerekkure	0045	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0045	ku=	1SG=	nc	nc				
+sumbawa	kerekkure	0045	bau	get	nc	nc				
+sumbawa	kerekkure	0045	long	branch	nc	nc				
+sumbawa	kerekkure	0045	balola	a.name.of.plant	nc	nc				
+sumbawa	kerekkure	0045	%	%	%	%				
+sumbawa	kerekkure	0046	a	NC	nc	nc				
+sumbawa	kerekkure	0047	#	#	#nc	#nc				
+sumbawa	kerekkure	0047	kujepang	NC	nc	nc				
+sumbawa	kerekkure	0047	arasan	NC	nc	nc				
+sumbawa	kerekkure	0047	ku=	1SG=	nc	nc				
+sumbawa	kerekkure	0047	soso'	file	nc	nc				
+sumbawa	kerekkure	0047	ya=	FUT=	nc	nc				
+sumbawa	kerekkure	0047	pang	at	nc	nc				
+sumbawa	kerekkure	0047	manyak	seat	nc	nc				
+sumbawa	kerekkure	0047	Bidadari	fairy	nc	nc				
+sumbawa	kerekkure	0047	%	%	%	%				
+sumbawa	kerekkure	0048	#	#	#	#				
+sumbawa	kerekkure	0048	nya	3	np:s	np		s	2022	new
+sumbawa	kerekkure	0048	seda	voice	np:pred	np		pred		
+sumbawa	kerekkure	0048	lawas	poem	rn	rn				
+sumbawa	kerekkure	0048	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0048	%	%	%	%				
+sumbawa	kerekkure	0049	#	#	#	#				
+sumbawa	kerekkure	0049	ta	DEM_P	other	other				
+sumbawa	kerekkure	0049	ku=	1SG=	=pro.1:a	=pro	1	a		
+sumbawa	kerekkure	0049	ulang	repeat	v:pred	v		pred		
+sumbawa	kerekkure	0049	lawas	poem	np:p	np		p	2022	
+sumbawa	kerekkure	0049	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0049	e	ITJ	other	other				
+sumbawa	kerekkure	0049	%	%	%	%				
+sumbawa	kerekkure	0050	#	#	#nc	#nc				
+sumbawa	kerekkure	0050	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0050	ku=	1SG=	nc	nc				
+sumbawa	kerekkure	0050	bau	get	nc	nc				
+sumbawa	kerekkure	0050	long	branch	nc	nc				
+sumbawa	kerekkure	0050	barora	a.name.of.tree	nc	nc				
+sumbawa	kerekkure	0050	%	%	%	%				
+sumbawa	kerekkure	0051	#	#	#nc	#nc				
+sumbawa	kerekkure	0051	ku=	1SG=	nc	nc				
+sumbawa	kerekkure	0051	jempang	NC	nc	nc				
+sumbawa	kerekkure	0051	ra	NC	nc	nc				
+sumbawa	kerekkure	0051	ratang	NC	nc	nc				
+sumbawa	kerekkure	0051	arasan	NC	nc	nc				
+sumbawa	kerekkure	0051	ku=	1SG=	nc	nc				
+sumbawa	kerekkure	0051	soso	NC	nc	nc				
+sumbawa	kerekkure	0051	%	%	%	%				
+sumbawa	kerekkure	0052	#	#	#nc	#nc				
+sumbawa	kerekkure	0052	ya=	FUT=	nc	nc				
+sumbawa	kerekkure	0052	pang	place	nc	nc				
+sumbawa	kerekkure	0052	manyak	seat	nc	nc				
+sumbawa	kerekkure	0052	bidadari	fairy	nc	nc				
+sumbawa	kerekkure	0052	%	%	%	%				
+sumbawa	kerekkure	0053	#	#	#	#				
+sumbawa	kerekkure	0053	menong	hear	v:pred	v		pred		
+sumbawa	kerekkure	0053	soara	voice	np:p	np		p	2023	bridging
+sumbawa	kerekkure	0053	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0053	ling	by	adp	adp				
+sumbawa	kerekkure	0053	bidadari	fairy	np.h:a_ling	np	h	a_ling	2013	
+sumbawa	kerekkure	0053	pitu	seven	rn	rn				
+sumbawa	kerekkure	0053	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0053	%	%	%	%				
+sumbawa	kerekkure	0054	#	#	#ds	#ds				
+sumbawa	kerekkure	0054	wè	ITJ	other	other				
+sumbawa	kerekkure	0054	kuda	why	other	other				
+sumbawa	kerekkure	0054	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0054	seda	voice	np:s	np		s	2023	
+sumbawa	kerekkure	0054	tau	person	rn_np.h:poss	rn_np	h	poss	2051	new
+sumbawa	kerekkure	0054	%	%	%	%				
+sumbawa	kerekkure	0055	#	#	#ds	#ds				
+sumbawa	kerekkure	0055	kuda	why	other	other				
+sumbawa	kerekkure	0055	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0055	seda	voice	np:s	np		s	2023	
+sumbawa	kerekkure	0055	tau	person	rn	rn				
+sumbawa	kerekkure	0055	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0056	seda	voice	np:appos	np		appos	2023	
+sumbawa	kerekkure	0056	tau	person	rn	rn				
+sumbawa	kerekkure	0056	anung	what's-it-called	rn	rn				
+sumbawa	kerekkure	0056	%	%	%	%				
+sumbawa	kerekkure	0057	#	#	#	#				
+sumbawa	kerekkure	0057	ZERO	ZERO	0.h:s	0	h	s	2013	
+sumbawa	kerekkure	0057	barari	run	v:pred	v		pred		
+sumbawa	kerekkure	0057	keputungq	in.a.hurry	other	other				
+sumbawa	kerekkure	0057	%	%	%	%				
+sumbawa	kerekkure	0057	#	#	#	#				
+sumbawa	kerekkure	0057	serèa	all	np.h:a	np	h	a	2013	
+sumbawa	kerekkure	0057	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0057	lamong	clothes	np:p	np		p	2024	new
+sumbawa	kerekkure	0057	%	%	%	%				
+sumbawa	kerekkure	0057	#	#	#	#				
+sumbawa	kerekkure	0057	ZERO	ZERO	0.h:a	0	h	a	2013	
+sumbawa	kerekkure	0057	setama	put.on	v:pred	v		pred		
+sumbawa	kerekkure	0057	lamong	clothes	np:p	np		p	2024	
+sumbawa	kerekkure	0057	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0057	%	%	%	%				
+sumbawa	kerekkure	0058	#	#	#	#				
+sumbawa	kerekkure	0058	#	#	#ac	#ac				
+sumbawa	kerekkure	0058	ZERO	ZERO	0.h:a	0	h	a	2013	
+sumbawa	kerekkure	0058	beru	after	other	other				
+sumbawa	kerekkure	0058	ka	PST	lv	lv				
+sumbawa	kerekkure	0058	mo	DM	lv	lv				
+sumbawa	kerekkure	0058	kenaq	affected	v:pred	v		pred		
+sumbawa	kerekkure	0058	lamong	clothes	np:p	np		p	2024	
+sumbawa	kerekkure	0058	nè	ITJ	other	other				
+sumbawa	kerekkure	0058	%	%	%	%				
+sumbawa	kerekkure	0058	ZERO	ZERO	0.h:a	0	h	a	2013	
+sumbawa	kerekkure	0058	bawa	bring	v:pred	v		pred		
+sumbawa	kerekkure	0058	mo	DM	rv	rv				
+sumbawa	kerekkure	0058	pègo	bucket	np:p	np		p	2014	
+sumbawa	kerekkure	0058	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0058	#	#	#rc	#rc				
+sumbawa	kerekkure	0058	ZERO	ZERO	0.h:a	0	h	a	2013	
+sumbawa	kerekkure	0058	isi	put.in	v:pred	v		pred		
+sumbawa	kerekkure	0058	ragan	k.o.flower	np:p	np		p	2007	
+sumbawa	kerekkure	0058	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0058	ZERO	ZERO	f0:l	f0		l		
+sumbawa	kerekkure	0058	%	%	%	%				
+sumbawa	kerekkure	0058	%	%	%	%				
+sumbawa	kerekkure	0059	#	#	#	#				
+sumbawa	kerekkure	0059	ZERO	ZERO	0.h:s	0	h	s	2013	
+sumbawa	kerekkure	0059	ngibar	fly	v:pred	v		pred		
+sumbawa	kerekkure	0059	%	%	%	%				
+sumbawa	kerekkure	0059	#	#	#	#				
+sumbawa	kerekkure	0059	turis	then	other	other				
+sumbawa	kerekkure	0059	lamong	clothes	np:s	np		s	2024	
+sumbawa	kerekkure	0059	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0059	dadi	become	v:pred	v		pred		
+sumbawa	kerekkure	0059	kerètèk	wing	np:other	np		other	2025	new
+sumbawa	kerekkure	0059	%	%	%	%				
+sumbawa	kerekkure	0060	#	#	#	#				
+sumbawa	kerekkure	0060	ngibar	fly	v:pred	v		pred		
+sumbawa	kerekkure	0060	#	#	#rc.h:s	#rc	h	s	2026	bridging
+sumbawa	kerekkure	0060	ZERO	ZERO	f0.h:s	f0	h	s	2026	
+sumbawa	kerekkure	0060	dè	REL	other	other				
+sumbawa	kerekkure	0060	enam	six	v:pred	v		pred		
+sumbawa	kerekkure	0060	%	%	%	%				
+sumbawa	kerekkure	0060	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0060	%	%	%	%				
+sumbawa	kerekkure	0061	#	#	#	#				
+sumbawa	kerekkure	0061	ZERO	ZERO	0.h:s	0	h	s	2026	
+sumbawa	kerekkure	0061	entèk	go.up	v:pred	v		pred		
+sumbawa	kerekkure	0061	lakó	to	adp	adp				
+sumbawa	kerekkure	0061	bao	above	np:g	np		g		
+sumbawa	kerekkure	0061	anar	ladder	rn_np	rn_np			2012	
+sumbawa	kerekkure	0061	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0061	anar	ladder	np:appos	np		appos	2012	
+sumbawa	kerekkure	0061	ya	like	rn	rn				
+sumbawa	kerekkure	0061	tèja	rainbow	rn	rn				
+sumbawa	kerekkure	0061	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0061	%	%	%	%				
+sumbawa	kerekkure	0062	#	#	#neg	#neg				
+sumbawa	kerekkure	0062	#	#	#rc.h:dt	#rc	h	dt		
+sumbawa	kerekkure	0062	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0062	dè	REL	other	other				
+sumbawa	kerekkure	0062	supu	last-born	v:pred	v		pred		
+sumbawa	kerekkure	0062	%	%	%	%				
+sumbawa	kerekkure	0062	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0062	#	#	#rc.h:appos	#rc	h	appos		
+sumbawa	kerekkure	0062	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0062	dè	REL	other	other				
+sumbawa	kerekkure	0062	paling	most	lv	lv				
+sumbawa	kerekkure	0062	ódé	small	v:pred	v		pred		
+sumbawa	kerekkure	0062	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0062	%	%	%	%				
+sumbawa	kerekkure	0062	enda	NEG.exist	v:predex	v		predex		
+sumbawa	kerekkure	0062	lamong	clothes	np:s	np		s	2021	
+sumbawa	kerekkure	0062	%	%	%	%				
+sumbawa	kerekkure	0062	#	#	#neg	#neg				
+sumbawa	kerekkure	0062	nó	NEG	lv	lv				
+sumbawa	kerekkure	0062	bau	get	lv_v	lv_v				
+sumbawa	kerekkure	0062	entèk	go.up	v:pred	v		pred		
+sumbawa	kerekkure	0062	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0062	#	#	#ac.neg	#ac.neg				
+sumbawa	kerekkure	0062	ling	because	other	other				
+sumbawa	kerekkure	0062	enda	NEG.exist	v:predex	v		predex		
+sumbawa	kerekkure	0062	kerètèk	wing	np:s	np		s		
+sumbawa	kerekkure	0062	%	%	%	%				
+sumbawa	kerekkure	0062	#	#	#rc:dt	#rc		dt		
+sumbawa	kerekkure	0062	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0062	dè	REL	other	other				
+sumbawa	kerekkure	0062	paling	most	lv	lv				
+sumbawa	kerekkure	0062	ódé	small	v:pred	v		pred		
+sumbawa	kerekkure	0062	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0062	%	%	%	%				
+sumbawa	kerekkure	0062	%	%	%	%				
+sumbawa	kerekkure	0063	#	#	#	#				
+sumbawa	kerekkure	0063	karing	then	other	other				
+sumbawa	kerekkure	0063	balawas	recite.a.poem	v:pred	v		pred		
+sumbawa	kerekkure	0063	mo	DM	rv	rv				
+sumbawa	kerekkure	0063	nya	3	pro.h:s	pro	h	s	2001	
+sumbawa	kerekkure	0063	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0063	%	%	%	%				
+sumbawa	kerekkure	0063	#	#	#	#				
+sumbawa	kerekkure	0063	mólé	go.home	v:pred	v		pred		
+sumbawa	kerekkure	0063	mo	DM	rv	rv				
+sumbawa	kerekkure	0063	kó	to	adp	adp				
+sumbawa	kerekkure	0063	balé	house	np:g	np		g	2027	new
+sumbawa	kerekkure	0063	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0063	Kerèk-kurè	Kerek-kure	pn_np.h:s	pn_np	h	s	2001	
+sumbawa	kerekkure	0063	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0063	%	%	%	%				
+sumbawa	kerekkure	0064	#	#	#	#				
+sumbawa	kerekkure	0064	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0064	bada	tell	v:pred	v		pred		
+sumbawa	kerekkure	0064	ina	mother	np.h:p	np	h	p	2002	
+sumbawa	kerekkure	0064	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0064	%	%	%	%				
+sumbawa	kerekkure	0065	#	#	#	#				
+sumbawa	kerekkure	0065	#	#	#ds_cc.neg:pred	#ds_cc.neg		pred		
+sumbawa	kerekkure	0065	na	PROH	lv	lv				
+sumbawa	kerekkure	0065	sia	2SG.HON	pro.2:s	pro	2	s	2002	
+sumbawa	kerekkure	0065	tomas-tomas	noisy	v:pred	v		pred		
+sumbawa	kerekkure	0065	ina	mother	np.h:voc	np	h	voc	2002	
+sumbawa	kerekkure	0065	%	%	%	%				
+sumbawa	kerekkure	0065	ling	words	np:s	np		s		
+sumbawa	kerekkure	0065	%	%	%	%				
+sumbawa	kerekkure	0065	#	#	#	#				
+sumbawa	kerekkure	0065	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0065	ta	DEM_P	other	other				
+sumbawa	kerekkure	0065	ya=	FUT=	=lv	=lv				
+sumbawa	kerekkure	0065	ku=	1SG=	=pro.1:s	=pro	1	s	2001	
+sumbawa	kerekkure	0065	balawas	recite.a.poem	v:pred	v		pred		
+sumbawa	kerekkure	0065	%	%	%	%				
+sumbawa	kerekkure	0065	ling	words	np:s	np		s		
+sumbawa	kerekkure	0065	%	%	%	%				
+sumbawa	kerekkure	0066	#	#	#nc	#nc				
+sumbawa	kerekkure	0066	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0066	ku=bau	1SG=get	nc	nc				
+sumbawa	kerekkure	0066	long	branch	nc	nc				
+sumbawa	kerekkure	0066	balola	a.name.of.tree	nc	nc				
+sumbawa	kerekkure	0066	ling	words	nc	nc				
+sumbawa	kerekkure	0066	%	%	%	%				
+sumbawa	kerekkure	0067	#	#	#	#				
+sumbawa	kerekkure	0067	makin	the.more	lv	lv				
+sumbawa	kerekkure	0067	rango	big	v:pred	v		pred		
+sumbawa	kerekkure	0067	seda	voice	np:s	np		s		
+sumbawa	kerekkure	0067	%	%	%	%				
+sumbawa	kerekkure	0068	#	#	#	#				
+sumbawa	kerekkure	0068	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0068	lamin	as.for	other	other				
+sumbawa	kerekkure	0068	tonè	a.while.ago	other	other				
+sumbawa	kerekkure	0068	balawas	recite.a.poem	v:pred	v		pred		
+sumbawa	kerekkure	0068	laolao	slowly	rv	rv				
+sumbawa	kerekkure	0068	si	DM	rv	rv				
+sumbawa	kerekkure	0068	#	#	#ac	#ac				
+sumbawa	kerekkure	0068	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0068	sebab	because	other	other				
+sumbawa	kerekkure	0068	ana	DEM_D	other	other				
+sumbawa	kerekkure	0068	basió	hide.oneself	v:pred	v		pred		
+sumbawa	kerekkure	0068	pang	at	adp	adp				
+sumbawa	kerekkure	0068	endèng	behind	np:l	np		l		
+sumbawa	kerekkure	0068	rempó	bush	rn_np	rn_np			2028	new
+sumbawa	kerekkure	0068	%	%	%	%				
+sumbawa	kerekkure	0068	%	%	%	%				
+sumbawa	kerekkure	0069	#	#	#	#				
+sumbawa	kerekkure	0069	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0069	semacam	a.kind.of	ln	ln				
+sumbawa	kerekkure	0069	semak-semak	bush	np:s	np		s	2028	
+sumbawa	kerekkure	0069	pang	at	adp	adp				
+sumbawa	kerekkure	0069	endèng	behind	np:l	np		l		
+sumbawa	kerekkure	0069	Timan	Timan	rn_pn_np	rn_pn_np			2015	
+sumbawa	kerekkure	0069	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0069	%	%	%	%				
+sumbawa	kerekkure	0070	#	#	#	#				
+sumbawa	kerekkure	0070	basió	hide.oneself'	v:pred	v		pred		
+sumbawa	kerekkure	0070	nya	3	pro.h:s	pro	h	s	2001	
+sumbawa	kerekkure	0070	ninan	l.DEM_M	dem_pro:l	dem_pro		l	2028	
+sumbawa	kerekkure	0070	%	%	%	%				
+sumbawa	kerekkure	0071	#	#	#	#				
+sumbawa	kerekkure	0071	cuma	only	ln	ln				
+sumbawa	kerekkure	0071	suara	sound	np:p	np		p	2023	
+sumbawa	kerekkure	0071	baè	only	rn	rn				
+sumbawa	kerekkure	0071	si	DM	other	other				
+sumbawa	kerekkure	0071	sayup-sayup	obscurely	other	other				
+sumbawa	kerekkure	0071	ya=	3=	=pro_h_a	=pro_h_a			2013	
+sumbawa	kerekkure	0071	menong	listen.to	v:pred	v		pred		
+sumbawa	kerekkure	0071	mo	DM	rv	rv				
+sumbawa	kerekkure	0071	ling	by	adp	adp				
+sumbawa	kerekkure	0071	Bidadari	fairy	np.h:a_ling	np	h	a_ling	2013	
+sumbawa	kerekkure	0071	pitu	seven	rn	rn				
+sumbawa	kerekkure	0071	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0071	%	%	%	%				
+sumbawa	kerekkure	0072	#	#	#	#				
+sumbawa	kerekkure	0072	tapi	but	other	other				
+sumbawa	kerekkure	0072	#	#	#ac	#ac				
+sumbawa	kerekkure	0072	setela	after	other	other				
+sumbawa	kerekkure	0072	ka	PST	lv	lv				
+sumbawa	kerekkure	0072	mo	DM	lv	lv				
+sumbawa	kerekkure	0072	ngibar	fly	v:pred	v		pred		
+sumbawa	kerekkure	0072	#	#	#rc.h:s	#rc	h	s	2026	
+sumbawa	kerekkure	0072	ZERO	ZERO	f0.h:s	f0	h	s	2026	
+sumbawa	kerekkure	0072	adè	REL	other	other				
+sumbawa	kerekkure	0072	enam	six	v:pred	v		pred		
+sumbawa	kerekkure	0072	%	%	%	%				
+sumbawa	kerekkure	0072	%	%	%	%				
+sumbawa	kerekkure	0073	batada	be.left.behind	v:pred	v		pred		
+sumbawa	kerekkure	0073	kan	you.know	other	other				
+sumbawa	kerekkure	0073	adè	REL	nc	nc				
+sumbawa	kerekkure	0073	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0073	%	%	%	%				
+sumbawa	kerekkure	0073	#	#	#neg	#neg				
+sumbawa	kerekkure	0073	nó	NEG	lv	lv				
+sumbawa	kerekkure	0073	tó	know	v:pred	v		pred		
+sumbawa	kerekkure	0073	luk	way	np:p	np		p		
+sumbawa	kerekkure	0073	ngibar	fly	rn	rn				
+sumbawa	kerekkure	0073	nya	3	pro.h:a	pro	h	a	2020	
+sumbawa	kerekkure	0073	#	#	#ac.neg	#ac.neg				
+sumbawa	kerekkure	0073	sebab	because	other	other				
+sumbawa	kerekkure	0073	nonda	NEG.exist	v:predex	v		predex		
+sumbawa	kerekkure	0073	lamong	clothes	np:s	np		s		
+sumbawa	kerekkure	0073	%	%	%	%				
+sumbawa	kerekkure	0073	%	%	%	%				
+sumbawa	kerekkure	0074	#	#	#	#				
+sumbawa	kerekkure	0074	lamong	clothes	np:s	np		s	2024	
+sumbawa	kerekkure	0074	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0074	dadi	become	v:pred	v		pred		
+sumbawa	kerekkure	0074	kerètèk	wing	np:other	np		other		
+sumbawa	kerekkure	0074	%	%	%	%				
+sumbawa	kerekkure	0075	#	#	#	#				
+sumbawa	kerekkure	0075	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0075	dapat	arrive	v:pred	v		pred		
+sumbawa	kerekkure	0075	balé	house	np:p	np		p	2027	
+sumbawa	kerekkure	0075	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0075	%	%	%	%				
+sumbawa	kerekkure	0075	#	#	#ds	#ds				
+sumbawa	kerekkure	0075	ZERO	ZERO	0.2:s	0	2	s	2002	
+sumbawa	kerekkure	0075	na	PROH	lv	lv				
+sumbawa	kerekkure	0075	tomas	noisy	v:pred	v		pred		
+sumbawa	kerekkure	0075	ina	mother	np.h:voc	np	h	voc	2002	
+sumbawa	kerekkure	0075	%	%	%	%				
+sumbawa	kerekkure	0075	#	#	#ds	#ds				
+sumbawa	kerekkure	0075	ZERO	ZERO	0.h:s	0	h	s	2002	
+sumbawa	kerekkure	0075	tedu	live	v:pred	v		pred		
+sumbawa	kerekkure	0075	%	%	%	%				
+sumbawa	kerekkure	0075	#	#	#	#				
+sumbawa	kerekkure	0075	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0075	ta	DEM_P	other	other				
+sumbawa	kerekkure	0075	ya=	FUT=	=lv	=lv				
+sumbawa	kerekkure	0075	ku=	1SG=	=pro.1:s	=pro	1	s	2001	
+sumbawa	kerekkure	0075	balawas	recite.a.poem	v:pred	v		pred		
+sumbawa	kerekkure	0075	%	%	%	%				
+sumbawa	kerekkure	0075	ling	words	np:s	np		s		
+sumbawa	kerekkure	0075	%	%	%	%				
+sumbawa	kerekkure	0076	#	#	#	#				
+sumbawa	kerekkure	0076	sekeco	recite.a.poem	v:pred	v		pred		
+sumbawa	kerekkure	0076	nya	3	pro.h:s	pro	h	s	2001	
+sumbawa	kerekkure	0076	%	%	%	%				
+sumbawa	kerekkure	0076	#	#	#nc	#nc				
+sumbawa	kerekkure	0076	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0076	ku=	1SG=	nc	nc				
+sumbawa	kerekkure	0076	bau	get	nc	nc				
+sumbawa	kerekkure	0076	rong	branch	nc	nc				
+sumbawa	kerekkure	0076	barora	a.name.of.tree	nc	nc				
+sumbawa	kerekkure	0076	%	%	%	%				
+sumbawa	kerekkure	0077	NC	NC	nc	nc				
+sumbawa	kerekkure	0078	#	#	#	#				
+sumbawa	kerekkure	0078	dadi	then	other	other				
+sumbawa	kerekkure	0078	seberanin	encourage	v:pred	v		pred		
+sumbawa	kerekkure	0078	diri	oneself	refl.h:p	refl	h	p	2020	
+sumbawa	kerekkure	0078	bidadari	fairy	np.h:a	np	h	a	2020	
+sumbawa	kerekkure	0078	sópó	one	rn	rn				
+sumbawa	kerekkure	0078	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0078	è	ITJ	other	other				
+sumbawa	kerekkure	0078	#	#	#rc	#rc				
+sumbawa	kerekkure	0078	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0078	adè	REL	other	other				
+sumbawa	kerekkure	0078	supu	last-born	v:pred	v		pred		
+sumbawa	kerekkure	0078	%	%	%	%				
+sumbawa	kerekkure	0078	#	#	#rc.neg	#rc.neg				
+sumbawa	kerekkure	0078	dè	REL	other	other				
+sumbawa	kerekkure	0078	enda	NEG.exist	v:predex	v		predex		
+sumbawa	kerekkure	0078	lamong	clothes	np:s	np		s	2021	
+sumbawa	kerekkure	0078	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0078	è	ITJ	other	other				
+sumbawa	kerekkure	0078	%	%	%	%				
+sumbawa	kerekkure	0078	%	%	%	%				
+sumbawa	kerekkure	0079	#	#	#	#				
+sumbawa	kerekkure	0079	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0079	terpaksa	be.forced	other	other				
+sumbawa	kerekkure	0079	mo	DM	rv	rv				
+sumbawa	kerekkure	0079	laló	go	v:pred	v		pred		
+sumbawa	kerekkure	0079	kó	to	adp	adp				
+sumbawa	kerekkure	0079	pang	place	np:g	np		g	2027	
+sumbawa	kerekkure	0079	tau	person	np.h:s	np	h	s	2001	
+sumbawa	kerekkure	0079	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0079	%	%	%	%				
+sumbawa	kerekkure	0080	#	#	#	#				
+sumbawa	kerekkure	0080	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0080	i	ITJ	other	other				
+sumbawa	kerekkure	0080	apa	what	np:pred	np		pred		
+sumbawa	kerekkure	0080	rungan	news	np:s	np		s		
+sumbawa	kerekkure	0080	kau	2SG	pro.2:voc	pro	2	voc	2001	
+sumbawa	kerekkure	0080	balong	good	rn	rn				
+sumbawa	kerekkure	0080	%	%	%	%				
+sumbawa	kerekkure	0081	#	#	#ds	#ds				
+sumbawa	kerekkure	0081	i	ITJ	other	other				
+sumbawa	kerekkure	0081	%	%	%	%				
+sumbawa	kerekkure	0081	ling	by	np:s	np		s		
+sumbawa	kerekkure	0081	%	%	%	%				
+sumbawa	kerekkure	0081	#	#	#	#				
+sumbawa	kerekkure	0081	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0081	dengan	company	np.h:s	np	h	s	2026	
+sumbawa	kerekkure	0081	=ku	=1SG	=rn_pro.1:poss	=rn_pro	1	poss	2020	
+sumbawa	kerekkure	0081	%	%	%	%				
+sumbawa	kerekkure	0081	ling	words	np:s	np		s		
+sumbawa	kerekkure	0081	%	%	%	%				
+sumbawa	kerekkure	0082	#	#	#	#				
+sumbawa	kerekkure	0082	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0082	dengan	company	np.h:s	np	h	s	2026	
+sumbawa	kerekkure	0082	kaji	1SG.HBL	pro.1:s	pro	1	s	2020	
+sumbawa	kerekkure	0082	ka	PST	lv	lv				
+sumbawa	kerekkure	0082	mo	DM	lv	lv				
+sumbawa	kerekkure	0082	boè	finish	lv_v	lv_v				
+sumbawa	kerekkure	0082	mólé	go.home	v:pred	v		pred		
+sumbawa	kerekkure	0082	serèa	all	ln	ln				
+sumbawa	kerekkure	0082	sanak-soai	sibling-female	np.h:dt_s	np	h	dt_s	2026	
+sumbawa	kerekkure	0082	kaji	1SG.HBL	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0082	#	#	#ds_rc	#ds_rc				
+sumbawa	kerekkure	0082	ZERO	ZERO	f0.h:s	f0	h	s	2026	
+sumbawa	kerekkure	0082	adè	REL	other	other				
+sumbawa	kerekkure	0082	enam	six	v:pred	v		pred		
+sumbawa	kerekkure	0082	%	%	%	%				
+sumbawa	kerekkure	0082	%	%	%	%				
+sumbawa	kerekkure	0082	ling	words	np:s	np		s		
+sumbawa	kerekkure	0082	%	%	%	%				
+sumbawa	kerekkure	0083	#	#	#	#				
+sumbawa	kerekkure	0083	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0083	dadi	then	other	other				
+sumbawa	kerekkure	0083	kaji	1SG.HBL	pro.1:s	pro	1	s	2020	
+sumbawa	kerekkure	0083	karing	then	other	other				
+sumbawa	kerekkure	0083	mèsa-mèsa	alone	v:pred	v		pred		
+sumbawa	kerekkure	0083	%	%	%	%				
+sumbawa	kerekkure	0083	#	#	#ds	#ds				
+sumbawa	kerekkure	0083	nó	NEG	lv	lv				
+sumbawa	kerekkure	0083	kaji=	1SG.HBL=	=pro.1:a	=pro	1	a	2020	
+sumbawa	kerekkure	0083	tó	know	v:pred	v		pred		
+sumbawa	kerekkure	0083	luk	way	np:p	np		p		
+sumbawa	kerekkure	0083	#	#	#ds_rc	#ds_rc				
+sumbawa	kerekkure	0083	0	ZERO	f0.1:s	f0	1	s	2020	
+sumbawa	kerekkure	0083	mólé	go.home	v:pred	v		pred		
+sumbawa	kerekkure	0083	%	%	%	%				
+sumbawa	kerekkure	0083	%	%	%	%				
+sumbawa	kerekkure	0083	#	#	#ds_ac.neg	#ds_ac.neg				
+sumbawa	kerekkure	0083	sebab	because	other	other				
+sumbawa	kerekkure	0083	nó.monda	not.anymore.exist	v:predex	v		predex		
+sumbawa	kerekkure	0083	lamong	clothes	np:s	np		s		
+sumbawa	kerekkure	0083	kaji	1SG.HBL	pro.1:dt	pro	1	dt	2020	
+sumbawa	kerekkure	0083	%	%	%	%				
+sumbawa	kerekkure	0083	%	%	%	%				
+sumbawa	kerekkure	0083	ling	by	np:s	np		s		
+sumbawa	kerekkure	0084	#	#	#ds.neg	#ds.neg				
+sumbawa	kerekkure	0084	nó	NEG	lv	lv				
+sumbawa	kerekkure	0084	tu=	1PL=	=pro.1:a	=pro	1	a	2020	
+sumbawa	kerekkure	0084	tó	know	v:pred	v		pred		
+sumbawa	kerekkure	0084	luk	way	np:p	np		p		
+sumbawa	kerekkure	0084	è	ITJ	other	other				
+sumbawa	kerekkure	0084	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0084	sebab	because	other	other				
+sumbawa	kerekkure	0084	dènan	DEM_M	dem_pro:s	dem_pro		s	2024	
+sumbawa	kerekkure	0084	sebagè	as	adp:pred	adp		pred		
+sumbawa	kerekkure	0084	kerètèk	wing	np:other	np		other		
+sumbawa	kerekkure	0084	%	%	%	%				
+sumbawa	kerekkure	0084	%	%	%	%				
+sumbawa	kerekkure	0085	#	#	#	#				
+sumbawa	kerekkure	0085	dadi	then	other	other				
+sumbawa	kerekkure	0085	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0085	aó	yes	other	other				
+sumbawa	kerekkure	0085	ba	ITJ	other	other				
+sumbawa	kerekkure	0085	mu=	2SG=	=pro.2:s	=pro	2	s	2020	
+sumbawa	kerekkure	0085	tedu	live	v:pred	v		pred		
+sumbawa	kerekkure	0085	ninta	l.DEM_P	dem_pro:l	dem_pro		l	2027	
+sumbawa	kerekkure	0085	mo	DM	rn	rn				
+sumbawa	kerekkure	0085	%	%	%	%				
+sumbawa	kerekkure	0085	ling	words	np:s	np		s		
+sumbawa	kerekkure	0085	%	%	%	%				
+sumbawa	kerekkure	0086	#	#	#	#				
+sumbawa	kerekkure	0086	lis	go.out	v:pred	v		pred		
+sumbawa	kerekkure	0086	mo	DM	rv	rv				
+sumbawa	kerekkure	0086	ina	mother	np.h:s	np	h	s	2002	
+sumbawa	kerekkure	0086	nya	3	ln	ln				
+sumbawa	kerekkure	0086	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0086	Kerèk-kurè	Kerek-kure	rn_pn_np.h:poss	rn_pn_np	h	poss	2001	
+sumbawa	kerekkure	0086	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0086	è	ITJ	other	other				
+sumbawa	kerekkure	0086	kalis	from	adp	adp				
+sumbawa	kerekkure	0086	dalam	inside	np:l	np		l		
+sumbawa	kerekkure	0086	balé	house	rn_np	rn_np			2027	
+sumbawa	kerekkure	0086	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0086	%	%	%	%				
+sumbawa	kerekkure	0087	#	#	#	#				
+sumbawa	kerekkure	0087	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0087	aó	yes	other	other				
+sumbawa	kerekkure	0087	ba	ITJ	other	other				
+sumbawa	kerekkure	0087	mu=	2SG=	=pro.2:s	=pro	2	s	2020	
+sumbawa	kerekkure	0087	tedu	stay	v:pred	v		pred		
+sumbawa	kerekkure	0087	ninta	l.DEM_P	dem_pro:l	dem_pro		l	2027	
+sumbawa	kerekkure	0087	mo	DM	rv	rv				
+sumbawa	kerekkure	0087	balong	good	other	other				
+sumbawa	kerekkure	0087	è	ITJ	other	other				
+sumbawa	kerekkure	0087	%	%	%	%				
+sumbawa	kerekkure	0087	#	#	#ds.neg	#ds.neg				
+sumbawa	kerekkure	0087	mbang	unexpectedly	other	other				
+sumbawa	kerekkure	0087	kami	1PL	nc	nc				
+sumbawa	kerekkure	0087	aku	1SG	pro.1:dt	pro	1	dt	2002	
+sumbawa	kerekkure	0087	nó	NEG	lv	lv				
+sumbawa	kerekkure	0087	soda	DM.exist	v:predex	v		predex		
+sumbawa	kerekkure	0087	anak	child	np.h:s	np	h	s		
+sumbawa	kerekkure	0087	soai	female	rn	rn				
+sumbawa	kerekkure	0087	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2002	
+sumbawa	kerekkure	0087	%	%	%	%				
+sumbawa	kerekkure	0087	#	#	#ds	#ds				
+sumbawa	kerekkure	0087	mbang	unexpectedly	other	other				
+sumbawa	kerekkure	0087	tedu	live	v:pred	v		pred		
+sumbawa	kerekkure	0087	kè	with	adp	adp				
+sumbawa	kerekkure	0087	aku	1SG	pro.1:obl	pro	1	obl	2002	
+sumbawa	kerekkure	0087	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0087	si	DM	nc	nc				
+sumbawa	kerekkure	0087	loè	amount	nc	nc				
+sumbawa	kerekkure	0087	anak	child	np.h:s	np	h	s	2001	
+sumbawa	kerekkure	0087	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2002	
+sumbawa	kerekkure	0087	salaki	male	rn	rn				
+sumbawa	kerekkure	0087	%	%	%	%				
+sumbawa	kerekkure	0088	#	#	#ds	#ds				
+sumbawa	kerekkure	0088	kau	2SG	pro.2:dt_s	pro	2	dt_s	2020	
+sumbawa	kerekkure	0088	mu=	2SG=	=pro.2:s	=pro	2	s	2020	
+sumbawa	kerekkure	0088	dadi	become	v:pred	v		pred		
+sumbawa	kerekkure	0088	anak	child	np.h:other	np	h	other		
+sumbawa	kerekkure	0088	soai	female	rn	rn				
+sumbawa	kerekkure	0088	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2002	
+sumbawa	kerekkure	0088	%	%	%	%				
+sumbawa	kerekkure	0088	ling	words	np:s	np		s		
+sumbawa	kerekkure	0088	%	%	%	%				
+sumbawa	kerekkure	0089	#	#	#	#				
+sumbawa	kerekkure	0089	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0089	atau	or	other	other				
+sumbawa	kerekkure	0089	lamin	if	other	other				
+sumbawa	kerekkure	0089	bau	can	other	other				
+sumbawa	kerekkure	0089	ba	ITJ	other	other				
+sumbawa	kerekkure	0089	ku=	1SG=	=pro.1:a	=pro	1	a	2002	
+sumbawa	kerekkure	0089	sukat	marry	v:pred	v		pred		
+sumbawa	kerekkure	0089	kau	2SG	pro.2:p	pro	2	p	2020	
+sumbawa	kerekkure	0089	kè	with	adp	adp				
+sumbawa	kerekkure	0089	anak	child	np.h:obl	np	h	obl	2001	
+sumbawa	kerekkure	0089	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2002	
+sumbawa	kerekkure	0089	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0089	%	%	%	%				
+sumbawa	kerekkure	0089	ling	by	np:s	np		s		
+sumbawa	kerekkure	0089	%	%	%	%				
+sumbawa	kerekkure	0090	#	#	#	#				
+sumbawa	kerekkure	0090	menyara	propose	v:pred	v		pred		
+sumbawa	kerekkure	0090	nya	3	pro.h:s	pro	h	s	2002	
+sumbawa	kerekkure	0090	%	%	%	%				
+sumbawa	kerekkure	0090	#	#	#	#				
+sumbawa	kerekkure	0090	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0090	roa	like	v:pred	v		pred		
+sumbawa	kerekkure	0090	%	%	%	%				
+sumbawa	kerekkure	0091	#	#	#	#				
+sumbawa	kerekkure	0091	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0091	roa	like	lv_v	lv_v				
+sumbawa	kerekkure	0091	sukat	marry	v:pred	v		pred		
+sumbawa	kerekkure	0091	kè	with	adp	adp				
+sumbawa	kerekkure	0091	anong	what's.it.called	np.h:obl	np	h	obl	2001	
+sumbawa	kerekkure	0091	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0091	%	%	%	%				
+sumbawa	kerekkure	0092	#	#	#neg	#neg				
+sumbawa	kerekkure	0092	ZERO	ZERO	0:s	0		s		
+sumbawa	kerekkure	0092	enda	NEG.exist	v:predex	v		predex		
+sumbawa	kerekkure	0092	si	DM	rn	rn				
+sumbawa	kerekkure	0092	ano	day	other	other				
+sumbawa	kerekkure	0092	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0092	%	%	%	%				
+sumbawa	kerekkure	0092	#	#	#	#				
+sumbawa	kerekkure	0092	tapi	but	other	other				
+sumbawa	kerekkure	0092	berhari-hari	a.few.days	other	other				
+sumbawa	kerekkure	0092	kemudian	later	other	other				
+sumbawa	kerekkure	0092	baru	finally	other	other				
+sumbawa	kerekkure	0092	diadakan	be.held	v:pred	v		pred		
+sumbawa	kerekkure	0092	apa	what	nc	nc				
+sumbawa	kerekkure	0092	upacara	ceremony	np:s	np		s	2029	new
+sumbawa	kerekkure	0092	perkawinan	wedding	rn	rn				
+sumbawa	kerekkure	0092	dengan	company	rn_np.h	rn_np	h			
+sumbawa	kerekkure	0092	Lalu	prince	rn	rn				
+sumbawa	kerekkure	0092	Kerèk-kurè	Kerek-kure	rn_pn_np.h	rn_pn_np	h		2001	
+sumbawa	kerekkure	0092	ini	this	rn	rn				
+sumbawa	kerekkure	0092	%	%	%	%				
+sumbawa	kerekkure	0093	#	#	#	#				
+sumbawa	kerekkure	0093	lè	long	other	other				
+sumbawa	kerekkure	0093	lè	long	other	other				
+sumbawa	kerekkure	0093	lè	long	other	other				
+sumbawa	kerekkure	0093	hamil	pregnant	v:pred	v		pred		
+sumbawa	kerekkure	0093	ini	[I]DEM	dem_pro.h:s	dem_pro	h	s	2020	
+sumbawa	kerekkure	0093	%	%	%	%				
+sumbawa	kerekkure	0094	#	#	#nc	#nc				
+sumbawa	kerekkure	0094	karena	because	nc	nc				
+sumbawa	kerekkure	0094	memang	as.you.know	nc	nc				
+sumbawa	kerekkure	0094	suda	already	nc	nc				
+sumbawa	kerekkure	0094	kawin	marry	nc	nc				
+sumbawa	kerekkure	0094	disaksikan	witnessed	nc	nc				
+sumbawa	kerekkure	0094	olèh	by	nc	nc				
+sumbawa	kerekkure	0094	apa	what	nc	nc				
+sumbawa	kerekkure	0094	nama	name	nc	nc				
+sumbawa	kerekkure	0094	nya	3	nc	nc				
+sumbawa	kerekkure	0094	saksikan	witnessed	nc	nc				
+sumbawa	kerekkure	0094	olèh	by	nc	nc				
+sumbawa	kerekkure	0094	imam	Muslim.leader	nc	nc				
+sumbawa	kerekkure	0094	penghulu	Muslim.leader	nc	nc				
+sumbawa	kerekkure	0094	[UNCLEAR]	NC	nc	nc				
+sumbawa	kerekkure	0094	desa	village	nc	nc				
+sumbawa	kerekkure	0094	ne	ne	nc	nc				
+sumbawa	kerekkure	0094	%	%	%	%				
+sumbawa	kerekkure	0095	#	#	#	#				
+sumbawa	kerekkure	0095	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0095	upacara	ceremony	np:s	np		s	2029	
+sumbawa	kerekkure	0095	ódé	small	rn	rn				
+sumbawa	kerekkure	0095	%	%	%	%				
+sumbawa	kerekkure	0095	#	#	#	#				
+sumbawa	kerekkure	0095	lakukan	hold	v:pred	v		pred		
+sumbawa	kerekkure	0095	pernikahan	wedding	ln	ln				
+sumbawa	kerekkure	0095	akap	ceremony	np:s	np		s	2029	
+sumbawa	kerekkure	0095	nikah	marridge	rn	rn				
+sumbawa	kerekkure	0095	secara	in.a.way	rn	rn				
+sumbawa	kerekkure	0095	secara	in.a.way	rn	rn				
+sumbawa	kerekkure	0095	aturan	rule	rn	rn				
+sumbawa	kerekkure	0095	masa	time	rn_np	rn_np			2052	new
+sumbawa	kerekkure	0095	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0095	#	#	#ac.neg	#ac.neg				
+sumbawa	kerekkure	0095	sebab	because	other	other				
+sumbawa	kerekkure	0095	kemungkinan	possibility	other	other				
+sumbawa	kerekkure	0095	nó	NEG	lv	lv				
+sumbawa	kerekkure	0095	poda	yet	v:predex	v		predex		
+sumbawa	kerekkure	0095	agama	religion	np:s	np		s		
+sumbawa	kerekkure	0095	%	%	%	%				
+sumbawa	kerekkure	0095	%	%	%	%				
+sumbawa	kerekkure	0095	#	#	#	#				
+sumbawa	kerekkure	0095	masi	still	other	other				
+sumbawa	kerekkure	0095	biadab	primitive	v:pred	v		pred		
+sumbawa	kerekkure	0095	tau	person	np.h:s	np	h	s	2053	bridging
+sumbawa	kerekkure	0095	dunung	before	rn	rn				
+sumbawa	kerekkure	0095	masa	time	other	other				
+sumbawa	kerekkure	0095	nan	DEM_M	other	other				
+sumbawa	kerekkure	0095	%	%	%	%				
+sumbawa	kerekkure	0096	#	#	#neg	#neg				
+sumbawa	kerekkure	0096	nó	NEG	lv	lv				
+sumbawa	kerekkure	0096	poka	yet	v:pred	v		pred		
+sumbawa	kerekkure	0096	anong	what's.it.called	np:s	np		s		
+sumbawa	kerekkure	0096	%	%	%	%				
+sumbawa	kerekkure	0096	#	#	#nc	#nc				
+sumbawa	kerekkure	0096	nta	unknown	nc	nc				
+sumbawa	kerekkure	0096	mungkin	maybe	nc	nc				
+sumbawa	kerekkure	0096	suda	already	nc	nc				
+sumbawa	kerekkure	0096	seribu	thousand	nc	nc				
+sumbawa	kerekkure	0096	tahun	year	nc	nc				
+sumbawa	kerekkure	0096	suda	already	nc	nc				
+sumbawa	kerekkure	0096	ratus	hundred	nc	nc				
+sumbawa	kerekkure	0096	suda	already	nc	nc				
+sumbawa	kerekkure	0096	lama	long	nc	nc				
+sumbawa	kerekkure	0096	%	%	%	%				
+sumbawa	kerekkure	0096	#	#	#	#				
+sumbawa	kerekkure	0096	ZERO	ZERO	0:s	0		s	2029	
+sumbawa	kerekkure	0096	lè	long	lv	lv				
+sumbawa	kerekkure	0096	benar	really	lv	lv				
+sumbawa	kerekkure	0096	benar	really	lv	lv				
+sumbawa	kerekkure	0096	mo	DM	lv	lv				
+sumbawa	kerekkure	0096	ka=terjadi	PST=happened	v:pred	v		pred		
+sumbawa	kerekkure	0096	dunung	before	other	other				
+sumbawa	kerekkure	0096	%	%	%	%				
+sumbawa	kerekkure	0097	#	#	#	#				
+sumbawa	kerekkure	0097	#	#	#ac	#ac				
+sumbawa	kerekkure	0097	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0097	a	ITJ	other	other				
+sumbawa	kerekkure	0097	setela	after	other	other				
+sumbawa	kerekkure	0097	hamil	pregnant	v:pred	v		pred		
+sumbawa	kerekkure	0097	%	%	%	%				
+sumbawa	kerekkure	0097	#	#	#ac	#ac				
+sumbawa	kerekkure	0097	lè	long	other	other				
+sumbawa	kerekkure	0097	lè	long	other	other				
+sumbawa	kerekkure	0097	lè	long	other	other				
+sumbawa	kerekkure	0097	hamil	pregnant	v:pred	v		pred		
+sumbawa	kerekkure	0097	ta	DEM_P	dem_pro.h:s	dem_pro	h	s	2020	
+sumbawa	kerekkure	0097	%	%	%	%				
+sumbawa	kerekkure	0097	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0097	melahirkan	give.birth.to	v:pred	v		pred		
+sumbawa	kerekkure	0097	%	%	%	%				
+sumbawa	kerekkure	0098	#	#	#	#				
+sumbawa	kerekkure	0098	lis	go.out	v:pred	v		pred		
+sumbawa	kerekkure	0098	anak	child	np.h:s	np	h	s	2030	new
+sumbawa	kerekkure	0098	salaki	husband	rn	rn				
+sumbawa	kerekkure	0098	%	%	%	%				
+sumbawa	kerekkure	0098	#	#	#	#				
+sumbawa	kerekkure	0098	ZERO	ZERO	0.h:p	0	h	p	2030	
+sumbawa	kerekkure	0098	ya=	3=	=pro.h:a	=pro	h	a	2054	bridging
+sumbawa	kerekkure	0098	sasingin	name	v:pred	v		pred		
+sumbawa	kerekkure	0098	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0098	Mancauni	Mancauni	pn_np:other	pn_np		other		
+sumbawa	kerekkure	0098	singin	name	np:dt	np		dt	2031	bridging
+sumbawa	kerekkure	0098	%	%	%	%				
+sumbawa	kerekkure	0099	#	#	#	#				
+sumbawa	kerekkure	0099	lis	go.out	v:pred	v		pred		
+sumbawa	kerekkure	0099	anak	child	np.h:s	np	h	s	2030	
+sumbawa	kerekkure	0099	salaki	husband	rn	rn				
+sumbawa	kerekkure	0099	%	%	%	%				
+sumbawa	kerekkure	0099	#	#	#	#				
+sumbawa	kerekkure	0099	ZERO	ZERO	0.h:p	0	h	p	2030	
+sumbawa	kerekkure	0099	ya=	3=	=pro.h:a	=pro	h	a		
+sumbawa	kerekkure	0099	sasingin	name	v:pred	v		pred		
+sumbawa	kerekkure	0099	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0099	Mancauni	Mancauni	pn_np.h:other	pn_np	h	other		
+sumbawa	kerekkure	0099	singin	name	np:dt	np		dt	2031	
+sumbawa	kerekkure	0099	%	%	%	%				
+sumbawa	kerekkure	0100	#	#	#	#				
+sumbawa	kerekkure	0100	lè	long	other	other				
+sumbawa	kerekkure	0100	lè	long	other	other				
+sumbawa	kerekkure	0100	lè	long	other	other				
+sumbawa	kerekkure	0100	lè	long	other	other				
+sumbawa	kerekkure	0100	anak	child	np.h:s	np	h	s	2030	
+sumbawa	kerekkure	0100	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0100	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	kerekkure	0100	masi	still	ln	ln				
+sumbawa	kerekkure	0100	bai	baby	np:pred	np		pred		
+sumbawa	kerekkure	0100	%	%	%	%				
+sumbawa	kerekkure	0101	#	#	#	#				
+sumbawa	kerekkure	0101	lalu	prince	ln	ln				
+sumbawa	kerekkure	0101	mentua	mother.in.law	np.h:s	np	h	s	2002	
+sumbawa	kerekkure	0101	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0101	ina	mother	np.h:appos	np	h	appos	2020	
+sumbawa	kerekkure	0101	lalu	prince	ln	ln				
+sumbawa	kerekkure	0101	Kerèk-kurè	Kerek-kure	rn_pn_np.h:poss	rn_pn_np	h	poss	2001	
+sumbawa	kerekkure	0101	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0101	ka=laló	PST=go	v:pred	v		pred		
+sumbawa	kerekkure	0101	lakó	to	adp	adp				
+sumbawa	kerekkure	0101	dalam	inside	np:g	np		g		
+sumbawa	kerekkure	0101	desa	village	rn_np	rn_np			2032	new
+sumbawa	kerekkure	0101	%	%	%	%				
+sumbawa	kerekkure	0102	#	#	#	#				
+sumbawa	kerekkure	0102	ZERO	ZERO	0.h:s	0	h	s	2008	
+sumbawa	kerekkure	0102	maklum	as.you.know	other	other				
+sumbawa	kerekkure	0102	tedu	live	v:pred	v		pred		
+sumbawa	kerekkure	0102	pang	at	adp	adp				
+sumbawa	kerekkure	0102	keban	garden	np:l	np		l	2003	
+sumbawa	kerekkure	0102	%	%	%	%				
+sumbawa	kerekkure	0102	#	#	#	#				
+sumbawa	kerekkure	0102	ZERO	ZERO	0.h:a	0	h	a	2002	
+sumbawa	kerekkure	0102	laló	go	lv	lv				
+sumbawa	kerekkure	0102	buya	look.for	v:pred	v		pred		
+sumbawa	kerekkure	0102	keperluan	necessities	np:p	np		p	2055	new
+sumbawa	kerekkure	0102	ké	Q	other	other				
+sumbawa	kerekkure	0102	%	%	%	%				
+sumbawa	kerekkure	0102	#	#	#	#				
+sumbawa	kerekkure	0102	ZERO	ZERO	0.h:a	0	h	a	2002	
+sumbawa	kerekkure	0102	beli	[I]buy	v:pred	v		pred		
+sumbawa	kerekkure	0102	gula	[I]sugar	np:p	np		p	2056	new
+sumbawa	kerekkure	0102	ké	Q	other	other				
+sumbawa	kerekkure	0102	%	%	%	%				
+sumbawa	kerekkure	0102	#	#	#	#				
+sumbawa	kerekkure	0102	ato	or	other	other				
+sumbawa	kerekkure	0102	ZERO	ZERO	0.h:a	0	h	a	2002	
+sumbawa	kerekkure	0102	beli	buy	v:pred	v		pred		
+sumbawa	kerekkure	0102	apa	what	np:p	np		p		
+sumbawa	kerekkure	0102	ké	Q	other	other				
+sumbawa	kerekkure	0102	%	%	%	%				
+sumbawa	kerekkure	0103	#	#	#neg	#neg				
+sumbawa	kerekkure	0103	ZERO	ZERO	0.h:s	0	h	s	2002	
+sumbawa	kerekkure	0103	enda	NEG.exist	v:predex	v		predex		
+sumbawa	kerekkure	0103	%	%	%	%				
+sumbawa	kerekkure	0104	#	#	#	#				
+sumbawa	kerekkure	0104	lalu	prince	other	other				
+sumbawa	kerekkure	0104	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0104	nya	3	pro.h:appos	pro	h	appos	2020	
+sumbawa	kerekkure	0104	anong	what's.it.called	np.h:appos	np	h	appos	2020	
+sumbawa	kerekkure	0104	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0104	nya	3	np.h:appos	np	h	appos	2020	
+sumbawa	kerekkure	0104	è	ITJ	other	other				
+sumbawa	kerekkure	0104	lala	princess	np.h:appos	np	h	appos	2020	
+sumbawa	kerekkure	0104	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0104	bidadari	fairy	np.h:appos	np	h	appos	2020	
+sumbawa	kerekkure	0104	supu	last-born	rn	rn				
+sumbawa	kerekkure	0104	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0104	mongka	cook.rice	v:pred	v		pred		
+sumbawa	kerekkure	0104	mo	DM	rv	rv				
+sumbawa	kerekkure	0104	%	%	%	%				
+sumbawa	kerekkure	0104	#	#	#	#				
+sumbawa	kerekkure	0104	lala	princess	np.h:s	np	h	s	2020	
+sumbawa	kerekkure	0104	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0104	mongka	ANTIP.cook.rice	v:pred	v		pred		
+sumbawa	kerekkure	0104	mo	DM	rv	rv				
+sumbawa	kerekkure	0104	%	%	%	%				
+sumbawa	kerekkure	0105	#	#	#	#				
+sumbawa	kerekkure	0105	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0105	mongka	ANTIP.cook.rice	v:pred	v		pred		
+sumbawa	kerekkure	0105	%	%	%	%				
+sumbawa	kerekkure	0106	#	#	#	#				
+sumbawa	kerekkure	0106	mongka	ANTIP.cook.rice	v:pred	v		pred		
+sumbawa	kerekkure	0106	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0106	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0106	%	%	%	%				
+sumbawa	kerekkure	0106	#	#	#	#				
+sumbawa	kerekkure	0106	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0106	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0106	gaba	unhulled.rice	np:p	np		p	2033	new
+sumbawa	kerekkure	0106	sópó	one	rn	rn				
+sumbawa	kerekkure	0106	baè	only	rn	rn				
+sumbawa	kerekkure	0106	si	DM	rn	rn				
+sumbawa	kerekkure	0106	%	%	%	%				
+sumbawa	kerekkure	0106	#	#	#	#				
+sumbawa	kerekkure	0106	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0106	ZERO	ZERO	0:p	0		p	2033	
+sumbawa	kerekkure	0106	setama	put.on	v:pred	v		pred		
+sumbawa	kerekkure	0106	dalam	inside	adp	adp				
+sumbawa	kerekkure	0106	kó	to	adp	adp				
+sumbawa	kerekkure	0106	pamongka	cooker	np:g	np		g	2034	new
+sumbawa	kerekkure	0106	%	%	%	%				
+sumbawa	kerekkure	0106	#	#	#	#				
+sumbawa	kerekkure	0106	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0106	ZERO	ZERO	0:p	0		p	2034	
+sumbawa	kerekkure	0106	tutup	close	v:pred	v		pred		
+sumbawa	kerekkure	0106	%	%	%	%				
+sumbawa	kerekkure	0106	#	#	#	#				
+sumbawa	kerekkure	0106	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0106	óló	put	v:pred	v		pred		
+sumbawa	kerekkure	0106	ai	water	np:p	np		p	2035	new
+sumbawa	kerekkure	0106	%	%	%	%				
+sumbawa	kerekkure	0106	#	#	#	#				
+sumbawa	kerekkure	0106	ZERO	ZERO	0:s	0		s	2035	
+sumbawa	kerekkure	0106	bakela'	boiled	v:pred	v		pred		
+sumbawa	kerekkure	0106	%	%	%	%				
+sumbawa	kerekkure	0107	#	#	#	#				
+sumbawa	kerekkure	0107	ZERO	ZERO	0:s	0		s	2033	
+sumbawa	kerekkure	0107	dadi	then	other	other				
+sumbawa	kerekkure	0107	lempo	full	v:pred	v		pred		
+sumbawa	kerekkure	0107	kó	to	adp	adp				
+sumbawa	kerekkure	0107	mongka	cooker	np:g	np		g	2034	
+sumbawa	kerekkure	0107	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0107	%	%	%	%				
+sumbawa	kerekkure	0108	#	#	#	#				
+sumbawa	kerekkure	0108	tapi	but	other	other				
+sumbawa	kerekkure	0108	proces	process	np:s	np		s	2036	new
+sumbawa	kerekkure	0108	#	#	#rc	#rc				
+sumbawa	kerekkure	0108	ZERO	ZERO	0:s	0		s	2033	
+sumbawa	kerekkure	0108	dadi	become	v:pred	v		pred		
+sumbawa	kerekkure	0108	me	rice	np:other	np		other	2037	bridging
+sumbawa	kerekkure	0108	nè	ITJ	other	other				
+sumbawa	kerekkure	0108	ZERO	ZERO	f0:other	f0		other		
+sumbawa	kerekkure	0108	%	%	%	%				
+sumbawa	kerekkure	0108	rèna.sedi	little.by.little	other:pred	other		pred		
+sumbawa	kerekkure	0108	%	%	%	%				
+sumbawa	kerekkure	0108	#	#	#	#				
+sumbawa	kerekkure	0108	ZERO	ZERO	0:s	0		s	2033	
+sumbawa	kerekkure	0108	kebokèk	peeled	v:pred	v		pred		
+sumbawa	kerekkure	0108	%	%	%	%				
+sumbawa	kerekkure	0108	#	#	#	#				
+sumbawa	kerekkure	0108	batada	be.left.behind	v:pred	v		pred		
+sumbawa	kerekkure	0108	las	rice	np:s	np		s	2039	new
+sumbawa	kerekkure	0108	%	%	%	%				
+sumbawa	kerekkure	0109	#	#	#	#				
+sumbawa	kerekkure	0109	ZERO	ZERO	0:s	0		s	2033	
+sumbawa	kerekkure	0109	misal	for.exacmple	other	other				
+sumbawa	kerekkure	0109	kebokèk	peeled	v:pred	v		pred		
+sumbawa	kerekkure	0109	kebokèk	peeled	nc	nc				
+sumbawa	kerekkure	0109	kebokèk	peeled	nc	nc				
+sumbawa	kerekkure	0109	kebokèk	peeled	nc	nc				
+sumbawa	kerekkure	0109	%	%	%	%				
+sumbawa	kerekkure	0109	#	#	#	#				
+sumbawa	kerekkure	0109	sehingga	then	other	other				
+sumbawa	kerekkure	0109	#	#	#ac	#ac				
+sumbawa	kerekkure	0109	ZERO	ZERO	0:s	0		s	2033	
+sumbawa	kerekkure	0109	lamin	if	other	other				
+sumbawa	kerekkure	0109	turin	come.down	v:pred	v		pred		
+sumbawa	kerekkure	0109	pang	at	adp	adp				
+sumbawa	kerekkure	0109	tenga	in.the.middle	np:l	np		l		
+sumbawa	kerekkure	0109	#	#	#ac	#ac				
+sumbawa	kerekkure	0109	ZERO	ZERO	0:s	0		s	2033	
+sumbawa	kerekkure	0109	sebelum	before	other	other				
+sumbawa	kerekkure	0109	masak	cooked	v:pred	v		pred		
+sumbawa	kerekkure	0109	nè	ITJ	other	other				
+sumbawa	kerekkure	0109	%	%	%	%				
+sumbawa	kerekkure	0109	%	%	%	%				
+sumbawa	kerekkure	0109	kelihatan	appearance	other	other				
+sumbawa	kerekkure	0109	tu=	1PL=	=pro.1:a	=pro	1	a		
+sumbawa	kerekkure	0109	gita	look	v:pred	v		pred		
+sumbawa	kerekkure	0109	seolaola	halfway	other	other				
+sumbawa	kerekkure	0109	#	#	#cc:p	#cc		p		
+sumbawa	kerekkure	0109	tawa.dua	mix.up	v:pred	v		pred		
+sumbawa	kerekkure	0109	lótó	rice	np:p	np		p	2037	
+sumbawa	kerekkure	0109	kè	and	rn	rn				
+sumbawa	kerekkure	0109	las	unhulled.rice	rn_np	rn_np			2039	
+sumbawa	kerekkure	0109	%	%	%	%				
+sumbawa	kerekkure	0109	%	%	%	%				
+sumbawa	kerekkure	0110	#	#	#	#				
+sumbawa	kerekkure	0110	dadi	then	other	other				
+sumbawa	kerekkure	0110	turin	come.down	v:pred	v		pred		
+sumbawa	kerekkure	0110	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0110	%	%	%	%				
+sumbawa	kerekkure	0110	#	#	#	#				
+sumbawa	kerekkure	0110	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0110	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0110	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0110	%	%	%	%				
+sumbawa	kerekkure	0110	#	#	#	#				
+sumbawa	kerekkure	0110	mólé	go.home	v:pred	v		pred		
+sumbawa	kerekkure	0110	mo	DM	other	other				
+sumbawa	kerekkure	0110	mentua	mother.in.law	np.h:s	np	h	s	2002	
+sumbawa	kerekkure	0110	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0110	%	%	%	%				
+sumbawa	kerekkure	0111	#	#	#	#				
+sumbawa	kerekkure	0111	ZERO	ZERO	0.h:a	0	h	a	2002	
+sumbawa	kerekkure	0111	gita	see	v:pred	v		pred		
+sumbawa	kerekkure	0111	mo	DM	other	other				
+sumbawa	kerekkure	0111	#	#	#cc:p	#cc		p		
+sumbawa	kerekkure	0111	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0111	pamongka	cooker	np:s	np		s	2034	
+sumbawa	kerekkure	0111	pang	at	adp	adp				
+sumbawa	kerekkure	0111	bao	above	np:l	np		l		
+sumbawa	kerekkure	0111	api	fire	rn	rn				
+sumbawa	kerekkure	0111	bao	above	adp	adp				
+sumbawa	kerekkure	0111	dapur	stove	np:appos	np		appos	2040	new
+sumbawa	kerekkure	0111	%	%	%	%				
+sumbawa	kerekkure	0111	%	%	%	%				
+sumbawa	kerekkure	0112	#	#	#	#				
+sumbawa	kerekkure	0112	ZERO	ZERO	0.h:a	0	h	a	2002	
+sumbawa	kerekkure	0112	ulèng	open	v:pred	v		pred		
+sumbawa	kerekkure	0112	mo	DM	other	other				
+sumbawa	kerekkure	0112	pamongka	cooker	np:p	np		p	2034	
+sumbawa	kerekkure	0112	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0112	%	%	%	%				
+sumbawa	kerekkure	0113	#	#	#	#				
+sumbawa	kerekkure	0113	pas	just	other	other				
+sumbawa	kerekkure	0113	pamongka	cooker	np:s	np		s	2034	
+sumbawa	kerekkure	0113	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0113	beru	after	other	other				
+sumbawa	kerekkure	0113	tawa.dua	mix.up	v:pred	v		pred		
+sumbawa	kerekkure	0113	ZERO	ZERO	0:p	0		p	2038	bridging
+sumbawa	kerekkure	0113	%	%	%	%				
+sumbawa	kerekkure	0113	#	#	#nc	#nc				
+sumbawa	kerekkure	0113	ZERO	ZERO	nc	nc				
+sumbawa	kerekkure	0113	belum	not.yet	nc	nc				
+sumbawa	kerekkure	0113	masak	cooked	nc	nc				
+sumbawa	kerekkure	0113	%	%	%	%				
+sumbawa	kerekkure	0114	#	#	#neg	#neg				
+sumbawa	kerekkure	0114	nó.poka	not.yet	lv	lv				
+sumbawa	kerekkure	0114	masak	cooked	v:pred	v		pred		
+sumbawa	kerekkure	0114	me	rice	np:s	np		s	2033	
+sumbawa	kerekkure	0114	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0114	%	%	%	%				
+sumbawa	kerekkure	0115	#	#	#	#				
+sumbawa	kerekkure	0115	ZERO	ZERO	0.h:a	0	h	a	2002	
+sumbawa	kerekkure	0115	ZERO	ZERO	0:p	0		p	2034	
+sumbawa	kerekkure	0115	beru	after	other	other				
+sumbawa	kerekkure	0115	gita	look	v:pred	v		pred		
+sumbawa	kerekkure	0115	%	%	%	%				
+sumbawa	kerekkure	0115	#	#	#ds	#ds				
+sumbawa	kerekkure	0115	ZERO	ZERO	0:s	0		s		
+sumbawa	kerekkure	0115	wa	ITJ	other	other				
+sumbawa	kerekkure	0115	semata	terrible	v:pred	v		pred		
+sumbawa	kerekkure	0115	mo	DM	other	other				
+sumbawa	kerekkure	0115	%	%	%	%				
+sumbawa	kerekkure	0115	#	#	#ds	#ds				
+sumbawa	kerekkure	0115	mustahil	impossible	other	other				
+sumbawa	kerekkure	0115	tu=	1PL=	=pro.1:s	=pro	1	s	2041	bridging
+sumbawa	kerekkure	0115	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0115	mongka	ANTIP.cook	v:pred	v		pred		
+sumbawa	kerekkure	0115	%	%	%	%				
+sumbawa	kerekkure	0115	#	#	#ds	#ds				
+sumbawa	kerekkure	0115	sama	same	other:pred	other		pred		
+sumbawa	kerekkure	0115	loè	amount	np:s	np		s		
+sumbawa	kerekkure	0115	lótó	rice	rn_np	rn_np			2037	
+sumbawa	kerekkure	0115	kè	with	rn	rn				
+sumbawa	kerekkure	0115	las	unhulled.rice	rn_np	rn_np			2039	
+sumbawa	kerekkure	0115	%	%	%	%				
+sumbawa	kerekkure	0116	#	#	#nc	#nc				
+sumbawa	kerekkure	0116	mu=	2SG=	nc	nc				
+sumbawa	kerekkure	0116	tó	know	nc	nc				
+sumbawa	kerekkure	0116	si	DM	nc	nc				
+sumbawa	kerekkure	0116	tegas	meaning	nc	nc				
+sumbawa	kerekkure	0116	kau	2SG	nc	nc				
+sumbawa	kerekkure	0116	kan	you.know	nc	nc				
+sumbawa	kerekkure	0116	%	%	%	%				
+sumbawa	kerekkure	0117	#	#	#nc	#nc				
+sumbawa	kerekkure	0117	tó	know	nc	nc				
+sumbawa	kerekkure	0117	si	DM	nc	nc				
+sumbawa	kerekkure	0117	%	%	%	%				
+sumbawa	kerekkure	0118	#	#	#	#				
+sumbawa	kerekkure	0118	sama	same	v:pred	v		pred		
+sumbawa	kerekkure	0118	loè	amount	np:s	np		s		
+sumbawa	kerekkure	0118	lótó	rice	rn_np	rn_np			2037	
+sumbawa	kerekkure	0118	kè	and	rn	rn				
+sumbawa	kerekkure	0118	las	unhulled.rice	rn_np	rn_np			2039	
+sumbawa	kerekkure	0118	%	%	%	%				
+sumbawa	kerekkure	0119	#	#	#	#				
+sumbawa	kerekkure	0119	padahal	although	other	other				
+sumbawa	kerekkure	0119	dèta	DEM_P	dem_pro:s	dem_pro		s	2033	
+sumbawa	kerekkure	0119	prosès	process	np:pred	np		pred		
+sumbawa	kerekkure	0119	nè	ITJ	other	other				
+sumbawa	kerekkure	0119	%	%	%	%				
+sumbawa	kerekkure	0119	#	#	#	#				
+sumbawa	kerekkure	0119	#	#	#ac	#ac				
+sumbawa	kerekkure	0119	ZERO	ZERO	0:s	0		s	2033	
+sumbawa	kerekkure	0119	setela	after	other	other				
+sumbawa	kerekkure	0119	masak	cook	v:pred	v		pred		
+sumbawa	kerekkure	0119	%	%	%	%				
+sumbawa	kerekkure	0119	nan	DEM_M	dem_pro:s	dem_pro		s	2033	
+sumbawa	kerekkure	0119	po	DM	other	other				
+sumbawa	kerekkure	0119	dadi	become	v:pred	v		pred		
+sumbawa	kerekkure	0119	lótó	rice	np:other	np		other	2037	
+sumbawa	kerekkure	0119	serèa	all	np:other	np		other		
+sumbawa	kerekkure	0119	%	%	%	%				
+sumbawa	kerekkure	0120	#	#	#	#				
+sumbawa	kerekkure	0120	nan	DEM_M	dem_pro:s	dem_pro		s	2033	
+sumbawa	kerekkure	0120	po	DM	other	other				
+sumbawa	kerekkure	0120	dadi	become	v:pred	v		pred		
+sumbawa	kerekkure	0120	me	rice	np:other	np		other	2037	
+sumbawa	kerekkure	0120	serèa	all	np:other	np		other		
+sumbawa	kerekkure	0120	%	%	%	%				
+sumbawa	kerekkure	0121	#	#	#	#				
+sumbawa	kerekkure	0121	nya	3	pro:s	pro		s	2042	bridging
+sumbawa	kerekkure	0121	luk	way	np:pred	np		pred		
+sumbawa	kerekkure	0121	cara	way	rn	rn				
+sumbawa	kerekkure	0121	mongka	ANTIP.cook	rn	rn				
+sumbawa	kerekkure	0121	bidadari	fairy	rn_np.h	rn_np	h		2020	
+sumbawa	kerekkure	0121	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0121	%	%	%	%				
+sumbawa	kerekkure	0122	#	#	#	#				
+sumbawa	kerekkure	0122	tapi	but	other	other				
+sumbawa	kerekkure	0122	#	#	#ac	#ac				
+sumbawa	kerekkure	0122	ZERO	ZERO	0:p	0		p	2034	
+sumbawa	kerekkure	0122	saat	when	other	other				
+sumbawa	kerekkure	0122	ya=	3=	=pro_h_a	=pro_h_a			2002	
+sumbawa	kerekkure	0122	ulèng	open	v:pred	v		pred		
+sumbawa	kerekkure	0122	ling	by	adp	adp				
+sumbawa	kerekkure	0122	ina	mother	np.h:a_ling	np	h	a_ling	2002	
+sumbawa	kerekkure	0122	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0122	ling	by	rn_adp	rn_adp				
+sumbawa	kerekkure	0122	mentua	in.law	rn_np.h	rn_np	h		2002	
+sumbawa	kerekkure	0122	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0122	nè	ITJ	other	other				
+sumbawa	kerekkure	0122	%	%	%	%				
+sumbawa	kerekkure	0122	ZERO	ZERO	0:s	0		s	2033	
+sumbawa	kerekkure	0122	pada	at	adp	adp				
+sumbawa	kerekkure	0122	saat	time	np:other	np		other	2043	new
+sumbawa	kerekkure	0122	nó.poka	not.yet	lv	lv				
+sumbawa	kerekkure	0122	masak	cooked	v:pred	v		pred		
+sumbawa	kerekkure	0122	%	%	%	%				
+sumbawa	kerekkure	0123	#	#	#	#				
+sumbawa	kerekkure	0123	#	#	#ac	#ac				
+sumbawa	kerekkure	0123	ZERO	ZERO	f0.h:a	f0	h	a	2002	
+sumbawa	kerekkure	0123	ZERO	ZERO	0:p	0		p	2034	
+sumbawa	kerekkure	0123	dè	REL	other	other				
+sumbawa	kerekkure	0123	beru	when	other	other				
+sumbawa	kerekkure	0123	gita	look	v:pred	v		pred		
+sumbawa	kerekkure	0123	nè	ITJ	other	other				
+sumbawa	kerekkure	0123	%	%	%	%				
+sumbawa	kerekkure	0123	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0123	ka=samata	PST=terrible	v:pred	v		pred		
+sumbawa	kerekkure	0123	bidadarita	fairy	np.h:s	np	h	s	2020	
+sumbawa	kerekkure	0123	%	%	%	%				
+sumbawa	kerekkure	0123	ling	words	np:s	np		s		
+sumbawa	kerekkure	0123	%	%	%	%				
+sumbawa	kerekkure	0123	#	#	#	#				
+sumbawa	kerekkure	0123	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0123	semata	terrible	v:pred	v		pred		
+sumbawa	kerekkure	0123	mo	DM	rv	rv				
+sumbawa	kerekkure	0123	soai	wife	np.h:s	np	h	s	2020	
+sumbawa	kerekkure	0123	kau	2SG	rn_pro.2:poss	rn_pro	2	poss	2001	
+sumbawa	kerekkure	0123	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0123	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0123	Kerèk-kurè	Kerek-kure	pn_np.h:voc	pn_np	h	voc	2001	
+sumbawa	kerekkure	0123	%	%	%	%				
+sumbawa	kerekkure	0123	ling	words	np:s	np		s		
+sumbawa	kerekkure	0124	#	#	#ds	#ds				
+sumbawa	kerekkure	0124	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0124	mongka	cook.rice	v:pred	v		pred		
+sumbawa	kerekkure	0124	nè	ITJ	other	other				
+sumbawa	kerekkure	0124	%	%	%	%				
+sumbawa	kerekkure	0124	#	#	#ds	#ds				
+sumbawa	kerekkure	0124	nya	3	pro.h:dt	pro	h	dt	2020	
+sumbawa	kerekkure	0124	rua	appearance	np:s	np		s	2044	new
+sumbawa	kerekkure	0124	anè-anè	strange	v:pred	v		pred		
+sumbawa	kerekkure	0124	%	%	%	%				
+sumbawa	kerekkure	0124	#	#	#ds	#ds				
+sumbawa	kerekkure	0124	mustahil	unbelievable	other	other				
+sumbawa	kerekkure	0124	kó	to	other	other				
+sumbawa	kerekkure	0124	tu=	1PL=	=pro.1:a	=pro	1	a	2041	
+sumbawa	kerekkure	0124	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0124	bongka	cook	v:pred	v		pred		
+sumbawa	kerekkure	0124	lótó	rice	np:p	np		p	2038	
+sumbawa	kerekkure	0124	#	#	#ds_rc	#ds_rc				
+sumbawa	kerekkure	0124	ZERO	ZERO	f0:s	f0		s	2038	
+sumbawa	kerekkure	0124	bagi.dua	mix.up	v:pred	v		pred		
+sumbawa	kerekkure	0124	lótó	rice	np:other	np		other	2037	
+sumbawa	kerekkure	0124	kè	and	rn	rn				
+sumbawa	kerekkure	0124	las	unhulled.rice	rn_np	rn_np			2039	
+sumbawa	kerekkure	0124	nè	ITJ	other	other				
+sumbawa	kerekkure	0124	%	%	%	%				
+sumbawa	kerekkure	0124	%	%	%	%				
+sumbawa	kerekkure	0124	%	%	%	%				
+sumbawa	kerekkure	0125	#	#	#	#				
+sumbawa	kerekkure	0125	nan	DEM_M	dem_pro:pred	dem_pro		pred		
+sumbawa	kerekkure	0125	luk	way	np:s	np		s		
+sumbawa	kerekkure	0125	na	ITJ	other	other				
+sumbawa	kerekkure	0125	%	%	%	%				
+sumbawa	kerekkure	0126	#	#	#	#				
+sumbawa	kerekkure	0126	mólé	return	v:pred	v		pred		
+sumbawa	kerekkure	0126	anong	what's.it.called	np.h:s	np	h	s	2020	
+sumbawa	kerekkure	0126	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0126	%	%	%	%				
+sumbawa	kerekkure	0127	#	#	#	#				
+sumbawa	kerekkure	0127	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0127	ka=suda	PST=finish	v:pred	v		pred		
+sumbawa	kerekkure	0127	#	#	#cc	#cc				
+sumbawa	kerekkure	0127	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0127	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0127	pang	at	adp	adp				
+sumbawa	kerekkure	0127	brang	river	np:l	np		l	2015	
+sumbawa	kerekkure	0127	pang	at	adp	adp				
+sumbawa	kerekkure	0127	Timan	Timan	pn_np:appos	pn_np		appos	2015	
+sumbawa	kerekkure	0127	#	#	#rc	#rc				
+sumbawa	kerekkure	0127	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0127	ka=pang	PST=place	np:l	np		l	2015	
+sumbawa	kerekkure	0127	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0127	tonè	a.while.ago	other	other				
+sumbawa	kerekkure	0127	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0127	nè	ITJ	other	other				
+sumbawa	kerekkure	0127	%	%	%	%				
+sumbawa	kerekkure	0127	#	#	#rc	#rc				
+sumbawa	kerekkure	0127	pang	place	np:l	np		l	2015	
+sumbawa	kerekkure	0127	ka=ilang	pst=gone	v:pred	v		pred		
+sumbawa	kerekkure	0127	lamong	clothes	np:s	np		s	2021	
+sumbawa	kerekkure	0127	nè	ITJ	other	other				
+sumbawa	kerekkure	0127	%	%	%	%				
+sumbawa	kerekkure	0127	%	%	%	%				
+sumbawa	kerekkure	0127	%	%	%	%				
+sumbawa	kerekkure	0128	#	#	#	#				
+sumbawa	kerekkure	0128	péné	short	other	other				
+sumbawa	kerekkure	0128	nan	DEM_M	dem_pro:s	dem_pro		s	2015	
+sumbawa	kerekkure	0128	dadi	become	v:pred	v		pred		
+sumbawa	kerekkure	0128	anong	what's-it-called	other	other				
+sumbawa	kerekkure	0128	berma	together	other	other				
+sumbawa	kerekkure	0128	pang	place	np:other	np		other		
+sumbawa	kerekkure	0128	#	#	#rc	#rc				
+sumbawa	kerekkure	0128	maning	having.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0128	nè	ITJ	other	other				
+sumbawa	kerekkure	0128	ZERO	ZERO	f0:l	f0		l	2015	
+sumbawa	kerekkure	0128	%	%	%	%				
+sumbawa	kerekkure	0128	#	#	#rc	#rc				
+sumbawa	kerekkure	0128	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0128	ai	water	np:p	np		p		
+sumbawa	kerekkure	0128	ninan	l.DEM_M	dem_pro:l	dem_pro		l	2015	
+sumbawa	kerekkure	0128	si	DM	other	other				
+sumbawa	kerekkure	0128	%	%	%	%				
+sumbawa	kerekkure	0128	%	%	%	%				
+sumbawa	kerekkure	0128	#	#	#	#				
+sumbawa	kerekkure	0128	maning	take.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0128	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0128	si	DM	other	other				
+sumbawa	kerekkure	0128	%	%	%	%				
+sumbawa	kerekkure	0128	#	#	#	#				
+sumbawa	kerekkure	0128	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0128	mólé	go.home	v:pred	v		pred		
+sumbawa	kerekkure	0128	%	%	%	%				
+sumbawa	kerekkure	0129	#	#	#	#				
+sumbawa	kerekkure	0129	ZERO	ZERO	0.h:s	0	h	s	2002	
+sumbawa	kerekkure	0129	ngarai	scold	v:pred	v		pred		
+sumbawa	kerekkure	0129	kó	to	adp	adp				
+sumbawa	kerekkure	0129	nantu	child-in-law	np.h:obl	np	h	obl	2020	
+sumbawa	kerekkure	0129	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0129	%	%	%	%				
+sumbawa	kerekkure	0130	#	#	#	#				
+sumbawa	kerekkure	0130	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0130	semata	terrible	v:pred	v		pred		
+sumbawa	kerekkure	0130	mo	DM	other	other				
+sumbawa	kerekkure	0130	kau	2SG	pro.2:s	pro	2	s	2020	
+sumbawa	kerekkure	0130	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0130	%	%	%	%				
+sumbawa	kerekkure	0130	#	#	#ds	#ds				
+sumbawa	kerekkure	0130	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0130	luk	way	np:s	np		s	2042	
+sumbawa	kerekkure	0130	bua	reason	rn_np	rn_np				
+sumbawa	kerekkure	0130	#	#	#ds_rc	#ds_rc				
+sumbawa	kerekkure	0130	mu=	2SG=	=pro.2:s	=pro	2	s	2020	
+sumbawa	kerekkure	0130	mongka	cook.rice	v:pred	v		pred		
+sumbawa	kerekkure	0130	ta	DEM_P	other	other				
+sumbawa	kerekkure	0130	rua	appearance	other	other				
+sumbawa	kerekkure	0130	%	%	%	%				
+sumbawa	kerekkure	0130	%	%	%	%				
+sumbawa	kerekkure	0130	ling	words	np:s	np		s		
+sumbawa	kerekkure	0130	%	%	%	%				
+sumbawa	kerekkure	0131	#	#	#	#				
+sumbawa	kerekkure	0131	#	#	#ds.neg	#ds.neg				
+sumbawa	kerekkure	0131	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0131	ZERO	ZERO	0.2:s	0	2	s	2020	
+sumbawa	kerekkure	0131	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0131	bongka	cook	v:pred	v		pred		
+sumbawa	kerekkure	0131	%	%	%	%				
+sumbawa	kerekkure	0131	kuda	why	other	other				
+sumbawa	kerekkure	0131	nó	NEG	lv	lv				
+sumbawa	kerekkure	0131	mu=	2SG=	=pro.2:a	=pro	2	a	2020	
+sumbawa	kerekkure	0131	bongka	cook	v:pred	v		pred		
+sumbawa	kerekkure	0131	lótó	rice	np:p	np		p	2045	new
+sumbawa	kerekkure	0131	baè	only	rn	rn				
+sumbawa	kerekkure	0131	%	%	%	%				
+sumbawa	kerekkure	0131	ling	words	np:s	np		s		
+sumbawa	kerekkure	0131	%	%	%	%				
+sumbawa	kerekkure	0131	#	#	#	#				
+sumbawa	kerekkure	0131	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0131	kuda	why	np:pred	np		pred		
+sumbawa	kerekkure	0131	bua	reason	np:s	np		s		
+sumbawa	kerekkure	0131	#	#	#ds_cc	#ds_cc				
+sumbawa	kerekkure	0131	mu=	2SG=	=pro.2:a	=pro	2	a	2020	
+sumbawa	kerekkure	0131	bongka	cook	v:pred	v		pred		
+sumbawa	kerekkure	0131	las	unhulled.rice	np:p	np		p	2039	
+sumbawa	kerekkure	0131	#	#	#ds_rc	#ds_rc				
+sumbawa	kerekkure	0131	ZERO	ZERO	f0:s	f0		s	2039	
+sumbawa	kerekkure	0131	besolar	be_together	v:pred	v		pred		
+sumbawa	kerekkure	0131	kè	with	adp	adp				
+sumbawa	kerekkure	0131	lótó	rice	np:other	np		other	2037	
+sumbawa	kerekkure	0131	%	%	%	%				
+sumbawa	kerekkure	0131	%	%	%	%				
+sumbawa	kerekkure	0131	%	%	%	%				
+sumbawa	kerekkure	0131	#	#	#ds	#ds				
+sumbawa	kerekkure	0131	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0131	luk	way	np:s	np		s		
+sumbawa	kerekkure	0131	#	#	#ds_rc	#ds_rc				
+sumbawa	kerekkure	0131	ZERO	ZERO	0:p	0		p	2038	
+sumbawa	kerekkure	0131	ya	FUT	lv	lv				
+sumbawa	kerekkure	0131	tu=	1PL=	=pro.1:a	=pro	1	a	2041	
+sumbawa	kerekkure	0131	kakanq	eat	v:pred	v		pred		
+sumbawa	kerekkure	0131	ZERO	ZERO	f0:other	f0		other		
+sumbawa	kerekkure	0131	%	%	%	%				
+sumbawa	kerekkure	0131	%	%	%	%				
+sumbawa	kerekkure	0131	ling	by	np:s	np		s		
+sumbawa	kerekkure	0131	%	%	%	%				
+sumbawa	kerekkure	0132	#	#	#neg	#neg				
+sumbawa	kerekkure	0132	nó	NEG	lv	lv				
+sumbawa	kerekkure	0132	mo	DM	lv	lv				
+sumbawa	kerekkure	0132	ka=bling	PST=say	v:pred	v		pred		
+sumbawa	kerekkure	0132	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0132	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0132	%	%	%	%				
+sumbawa	kerekkure	0133	#	#	#	#				
+sumbawa	kerekkure	0133	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0133	turin	go.down	v:pred	v		pred		
+sumbawa	kerekkure	0133	mo	DM	rv	rv				
+sumbawa	kerekkure	0133	%	%	%	%				
+sumbawa	kerekkure	0133	#	#	#	#				
+sumbawa	kerekkure	0133	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0133	nyapu	sweep	v:pred	v		pred		
+sumbawa	kerekkure	0133	kó	to	adp	adp				
+sumbawa	kerekkure	0133	anok	below	np:g	np		g		
+sumbawa	kerekkure	0133	tabongan	underfloor	rn_np	rn_np			2046	bridging
+sumbawa	kerekkure	0133	balé	house	rn_np	rn_np			2027	
+sumbawa	kerekkure	0133	balé	house	rn_np:appos	rn_np		appos	2027	
+sumbawa	kerekkure	0133	panggung	raised-floor	rn	rn				
+sumbawa	kerekkure	0133	%	%	%	%				
+sumbawa	kerekkure	0134	#	#	#	#				
+sumbawa	kerekkure	0134	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0134	nyapu	sweep	v:pred	v		pred		
+sumbawa	kerekkure	0134	nyapu	sweep	nc	nc				
+sumbawa	kerekkure	0134	nyapu	sweep	nc	nc				
+sumbawa	kerekkure	0134	nyapu	sweep	nc	nc				
+sumbawa	kerekkure	0134	nyapu	sweep	nc	nc				
+sumbawa	kerekkure	0134	%	%	%	%				
+sumbawa	kerekkure	0134	#	#	#	#				
+sumbawa	kerekkure	0134	bang	suddenly	other	other				
+sumbawa	kerekkure	0134	ya=	3=	=pro.h:a	=pro	h	a	2020	
+sumbawa	kerekkure	0134	gita	see	v:pred	v		pred		
+sumbawa	kerekkure	0134	#	#	#cc:p	#cc		p		
+sumbawa	kerekkure	0134	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0134	tódó	bamboo.container	np:s	np		s	2047	new
+sumbawa	kerekkure	0134	pang	at	nc	nc				
+sumbawa	kerekkure	0134	anok	below	nc	nc				
+sumbawa	kerekkure	0134	nanok	at.below	np:l	np		l		
+sumbawa	kerekkure	0134	tabongan	underfloor	rn_np	rn_np			2046	
+sumbawa	kerekkure	0134	=ta	=this	=rn	=rn				
+sumbawa	kerekkure	0134	è	ITJ	other	other				
+sumbawa	kerekkure	0134	%	%	%	%				
+sumbawa	kerekkure	0134	%	%	%	%				
+sumbawa	kerekkure	0135	#	#	#	#				
+sumbawa	kerekkure	0135	tódó	bamboo.container	np:s	np		s	2047	
+sumbawa	kerekkure	0135	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0135	ka=talat	PST=bury	v:pred	v		pred		
+sumbawa	kerekkure	0135	%	%	%	%				
+sumbawa	kerekkure	0135	#	#	#	#				
+sumbawa	kerekkure	0135	ngèlang	seen	v:pred	v		pred		
+sumbawa	kerekkure	0135	pótó	tip	np:s	np		s	2048	bridging
+sumbawa	kerekkure	0135	sediq	a.little	other	other				
+sumbawa	kerekkure	0135	%	%	%	%				
+sumbawa	kerekkure	0136	#	#	#	#				
+sumbawa	kerekkure	0136	tódó	bamboo.container	np:dt	np		dt	2047	
+sumbawa	kerekkure	0136	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0136	ngèlang	seen	v:pred	v		pred		
+sumbawa	kerekkure	0136	pótó	tip	np:s	np		s	2048	
+sumbawa	kerekkure	0136	sedi	a.little	other	other				
+sumbawa	kerekkure	0136	%	%	%	%				
+sumbawa	kerekkure	0137	#	#	#	#				
+sumbawa	kerekkure	0137	ZERO	ZERO	0:s	0		s	2047	
+sumbawa	kerekkure	0137	karing	then	other	other				
+sumbawa	kerekkure	0137	kè	with	nc	nc				
+sumbawa	kerekkure	0137	tutup	close	v:pred	v		pred		
+sumbawa	kerekkure	0137	kè	with	adp	adp				
+sumbawa	kerekkure	0137	kamit	coconut.shell	np:obl	np		obl	2049	new
+sumbawa	kerekkure	0137	%	%	%	%				
+sumbawa	kerekkure	0137	#	#	#	#				
+sumbawa	kerekkure	0137	#	#	#ac	#ac				
+sumbawa	kerekkure	0137	beru	after	other	other				
+sumbawa	kerekkure	0137	ya=	3=	=pro.h:a	=pro	h	a	2020	
+sumbawa	kerekkure	0137	angkat	pick.up	v:pred	v		pred		
+sumbawa	kerekkure	0137	dèta	DEM_P	dem_pro:p	dem_pro		p	2049	
+sumbawa	kerekkure	0137	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0137	%	%	%	%				
+sumbawa	kerekkure	0138	mbang	unexpectedly	other	other				
+sumbawa	kerekkure	0138	ya=	3=	=pro.h:a	=pro	h	a	2020	
+sumbawa	kerekkure	0138	gita	see	v:pred	v		pred		
+sumbawa	kerekkure	0138	#	#	#cc:p	#cc		p		
+sumbawa	kerekkure	0138	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0138	benda	object	np:s	np		s	2102	new
+sumbawa	kerekkure	0138	berkilo	shining	rn	rn				
+sumbawa	kerekkure	0138	dalam	inside	np:l	np		l		
+sumbawa	kerekkure	0138	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0138	%	%	%	%				
+sumbawa	kerekkure	0138	%	%	%	%				
+sumbawa	kerekkure	0138	#	#	#	#				
+sumbawa	kerekkure	0138	ZERO	ZERO	0:p	0		p	2102	
+sumbawa	kerekkure	0138	ya=	3=	=pro.h:a	=pro	h	a	2020	
+sumbawa	kerekkure	0138	bètak	pull.out	v:pred	v		pred		
+sumbawa	kerekkure	0138	%	%	%	%				
+sumbawa	kerekkure	0138	#	#	#	#				
+sumbawa	kerekkure	0138	ZERO	ZERO	0:s	0		s	2102	
+sumbawa	kerekkure	0138	pas	just	ln	ln				
+sumbawa	kerekkure	0138	lamong	clothes	np:pred	np		pred	2021	
+sumbawa	kerekkure	0138	%	%	%	%				
+sumbawa	kerekkure	0139	#	#	#	#				
+sumbawa	kerekkure	0139	ZERO	ZERO	0:p	0		p	2021	
+sumbawa	kerekkure	0139	ka=sió	PST=hide	v:pred	v		pred		
+sumbawa	kerekkure	0139	ling	by	adp	adp				
+sumbawa	kerekkure	0139	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0139	Kerèk-kurè	Kerek-kure	pn_np.h:a_ling	pn_np	h	a_ling	2001	
+sumbawa	kerekkure	0139	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0139	%	%	%	%				
+sumbawa	kerekkure	0139	#	#	#	#				
+sumbawa	kerekkure	0139	lamong	clothes	np:s	np		s	2021	
+sumbawa	kerekkure	0139	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0139	pang	at	adp	adp				
+sumbawa	kerekkure	0139	dalam	inside	np:pred_l	np		pred_l		
+sumbawa	kerekkure	0139	tódó	bamboo.container	rn_np	rn_np			2047	
+sumbawa	kerekkure	0139	%	%	%	%				
+sumbawa	kerekkure	0140	#	#	#	#				
+sumbawa	kerekkure	0140	beru	when	other	other				
+sumbawa	kerekkure	0140	ya=	3=	=pro.h:a	=pro	h	a	2020	
+sumbawa	kerekkure	0140	gita	look	v:pred	v		pred		
+sumbawa	kerekkure	0140	lamong	clothes	np:p	np		p	2021	
+sumbawa	kerekkure	0140	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0140	%	%	%	%				
+sumbawa	kerekkure	0140	#	#	#ds	#ds				
+sumbawa	kerekkure	0140	o	ITJ	other	other				
+sumbawa	kerekkure	0140	ta	DEM_P	dem_pro:s	dem_pro		s	2102	
+sumbawa	kerekkure	0140	nya	3	pro:appos	pro		appos		
+sumbawa	kerekkure	0140	lamong	clothes	np:pred	np		pred	2021	
+sumbawa	kerekkure	0140	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0140	%	%	%	%				
+sumbawa	kerekkure	0141	#	#	#ds	#ds				
+sumbawa	kerekkure	0141	ta	DEM_P	dem_pro:s	dem_pro		s	2021	
+sumbawa	kerekkure	0141	nya	3	pro:appos	pro		appos		
+sumbawa	kerekkure	0141	lamong	clothes	np:pred	np		pred		
+sumbawa	kerekkure	0141	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0141	%	%	%	%				
+sumbawa	kerekkure	0142	#	#	#	#				
+sumbawa	kerekkure	0142	karing	then	other	other				
+sumbawa	kerekkure	0142	nyurat	write.a.letter	v:pred	v		pred		
+sumbawa	kerekkure	0142	mo	DM	other	other				
+sumbawa	kerekkure	0142	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0142	ana	DEM_D	other	other				
+sumbawa	kerekkure	0142	%	%	%	%				
+sumbawa	kerekkure	0142	#	#	#	#				
+sumbawa	kerekkure	0142	nyurat	write.a.letter	v:pred	v		pred		
+sumbawa	kerekkure	0142	mo	DM	other	other				
+sumbawa	kerekkure	0142	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0142	%	%	%	%				
+sumbawa	kerekkure	0143	#	#	#	#				
+sumbawa	kerekkure	0143	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0143	aó	yes	other	other				
+sumbawa	kerekkure	0143	ta	DEM_P	dem_pro:dt	dem_pro		dt		
+sumbawa	kerekkure	0143	aku	1SG	pro.1:s	pro	1	s	2020	
+sumbawa	kerekkure	0143	ya	FUT	lv	lv				
+sumbawa	kerekkure	0143	ku=	1SG=	=pro_1_s	=pro_1_s			2020	
+sumbawa	kerekkure	0143	mólé	go.home	v:pred	v		pred		
+sumbawa	kerekkure	0143	ling	words	nc	nc				
+sumbawa	kerekkure	0143	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0143	bab	other	other	other				
+sumbawa	kerekkure	0143	ka	PST	lv	lv				
+sumbawa	kerekkure	0143	m	ITJ	lv	lv				
+sumbawa	kerekkure	0143	ku=	1SG=	=pro.1:a	=pro	1	a	2020	
+sumbawa	kerekkure	0143	tumpan	find	v:pred	v		pred		
+sumbawa	kerekkure	0143	lamong	clothes	np:p	np		p	2021	
+sumbawa	kerekkure	0143	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0143	%	%	%	%				
+sumbawa	kerekkure	0143	%	%	%	%				
+sumbawa	kerekkure	0143	ling	words	np:s	np		s		
+sumbawa	kerekkure	0143	%	%	%	%				
+sumbawa	kerekkure	0144	#	#	#ds	#ds				
+sumbawa	kerekkure	0144	kau	2SG	pro.2:dt	pro	2	dt	2001	
+sumbawa	kerekkure	0144	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0144	lamin	if	other	other				
+sumbawa	kerekkure	0144	mu=	2SG=	=pro.2:a	=pro	2	a	2001	
+sumbawa	kerekkure	0144	saté	want	v:pred	v		pred		
+sumbawa	kerekkure	0144	#	#	#ds_cc:p	#ds_cc		p		
+sumbawa	kerekkure	0144	ZERO	ZERO	f0.2:s	f0	2	s	2001	
+sumbawa	kerekkure	0144	datang	come	v:pred	v		pred		
+sumbawa	kerekkure	0144	%	%	%	%				
+sumbawa	kerekkure	0144	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0144	muntu	when	other	other				
+sumbawa	kerekkure	0144	ZERO	ZERO	f0.2:a	f0	2	a	2001	
+sumbawa	kerekkure	0144	beri	want	v:pred	v		pred		
+sumbawa	kerekkure	0144	aku	1SG	pro.1:p	pro	1	p	2020	
+sumbawa	kerekkure	0144	%	%	%	%				
+sumbawa	kerekkure	0144	%	%	%	%				
+sumbawa	kerekkure	0144	ling	words	nc	nc				
+sumbawa	kerekkure	0144	ba	ITJ	other	other				
+sumbawa	kerekkure	0144	mu	2SG	pro.2:a	pro	2	a	2001	
+sumbawa	kerekkure	0144	tunung	burn	v:pred	v		pred		
+sumbawa	kerekkure	0144	oram	husk	np:p	np		p	2057	new
+sumbawa	kerekkure	0144	légé	rice	rn	rn				
+sumbawa	kerekkure	0144	pisak	black	rn	rn				
+sumbawa	kerekkure	0144	%	%	%	%				
+sumbawa	kerekkure	0145	#	#	#ds	#ds				
+sumbawa	kerekkure	0145	mu=	2SG=	=pro.2:a	=pro	2	a	2001	
+sumbawa	kerekkure	0145	pina	make	v:pred	v		pred		
+sumbawa	kerekkure	0145	ukuk	hill	np:p	np		p		
+sumbawa	kerekkure	0145	ka=oram	PST=husk	rn_np	rn_np			2057	
+sumbawa	kerekkure	0145	légé	rice	rn	rn				
+sumbawa	kerekkure	0145	pisak	black	rn	rn				
+sumbawa	kerekkure	0145	%	%	%	%				
+sumbawa	kerekkure	0146	#	#	#	#				
+sumbawa	kerekkure	0146	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0146	mu=	2SG=	=pro.2:s	=pro	2	s	2001	
+sumbawa	kerekkure	0146	tama	enter	v:pred	v		pred		
+sumbawa	kerekkure	0146	kau	2SG	pro.2:dt	pro	2	dt	2001	
+sumbawa	kerekkure	0146	kó	to	adp	adp				
+sumbawa	kerekkure	0146	dalam	inside	np:g	np		g		
+sumbawa	kerekkure	0146	penat	smoke	rn_np	rn_np			2058	bridging
+sumbawa	kerekkure	0146	=dènan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0146	%	%	%	%				
+sumbawa	kerekkure	0146	ling	words	np:s	np		s		
+sumbawa	kerekkure	0146	%	%	%	%				
+sumbawa	kerekkure	0147	#	#	#	#				
+sumbawa	kerekkure	0147	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0147	musti	must	other	other				
+sumbawa	kerekkure	0147	bawa	bring	v:pred	v		pred		
+sumbawa	kerekkure	0147	kau	2SG	pro.2:p	pro	2	p	2001	
+sumbawa	kerekkure	0147	ling	by	adp	adp				
+sumbawa	kerekkure	0147	penat	penat	np:a_ling	np		a_ling	2058	
+sumbawa	kerekkure	0147	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0147	%	%	%	%				
+sumbawa	kerekkure	0147	#	#	#ds	#ds				
+sumbawa	kerekkure	0147	ZERO	ZERO	0.2:s	0	2	s	2001	
+sumbawa	kerekkure	0147	datang	come	v:pred	v		pred		
+sumbawa	kerekkure	0147	lakó	to	adp	adp				
+sumbawa	kerekkure	0147	tokal	place	np:g	np		g		
+sumbawa	kerekkure	0147	desa	village	rn_np	rn_np			2059	new
+sumbawa	kerekkure	0147	kaku	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0147	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0147	%	%	%	%				
+sumbawa	kerekkure	0147	ling	words	np:s	np		s		
+sumbawa	kerekkure	0147	%	%	%	%				
+sumbawa	kerekkure	0148	#	#	#nc	#nc				
+sumbawa	kerekkure	0148	ngerti	understand	nc	nc				
+sumbawa	kerekkure	0148	juga	also	nc	nc				
+sumbawa	kerekkure	0148	ya	ITJ	nc	nc				
+sumbawa	kerekkure	0148	sedikit	a.little	nc	nc				
+sumbawa	kerekkure	0148	sedikit	a.little	nc	nc				
+sumbawa	kerekkure	0148	ya	ITJ	nc	nc				
+sumbawa	kerekkure	0148	%	%	%	%				
+sumbawa	kerekkure	0149	ZERO	ZERO	nc	nc				
+sumbawa	kerekkure	0149	bau	get	nc	nc				
+sumbawa	kerekkure	0149	ZERO	ZERO	nc	nc				
+sumbawa	kerekkure	0149	setama	put.on	nc	nc				
+sumbawa	kerekkure	0149	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0149	kota	to.here	nc	nc				
+sumbawa	kerekkure	0149	kè	ITJ	nc	nc				
+sumbawa	kerekkure	0149	ZERO	ZERO	nc	nc				
+sumbawa	kerekkure	0149	tama	enter	nc	nc				
+sumbawa	kerekkure	0149	tama	enter	nc	nc				
+sumbawa	kerekkure	0150	#	#	#	#				
+sumbawa	kerekkure	0150	dadi	then	other	other				
+sumbawa	kerekkure	0150	berangkat	depart	v:pred	v		pred		
+sumbawa	kerekkure	0150	mo	DM	other	other				
+sumbawa	kerekkure	0150	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0150	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0150	%	%	%	%				
+sumbawa	kerekkure	0150	#	#	#	#				
+sumbawa	kerekkure	0150	ka	PST	lv	lv				
+sumbawa	kerekkure	0150	mo	DM	lv	lv				
+sumbawa	kerekkure	0150	tumpan	find	v:pred	v		pred		
+sumbawa	kerekkure	0150	lamong	clothes	np:p	np		p	2021	
+sumbawa	kerekkure	0150	nya	3	pro.h:a	pro	h	a	2020	
+sumbawa	kerekkure	0150	%	%	%	%				
+sumbawa	kerekkure	0151	#	#	#	#				
+sumbawa	kerekkure	0151	ngibar	fly	v:pred	v		pred		
+sumbawa	kerekkure	0151	mo	DM	rv	rv				
+sumbawa	kerekkure	0151	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0151	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0151	%	%	%	%				
+sumbawa	kerekkure	0151	#	#	#	#				
+sumbawa	kerekkure	0151	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0151	entèk	go.up	v:pred	v		pred		
+sumbawa	kerekkure	0151	mo	DM	rv	rv				
+sumbawa	kerekkure	0151	%	%	%	%				
+sumbawa	kerekkure	0151	#	#	#	#				
+sumbawa	kerekkure	0151	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0151	mo	DM	rv	rv				
+sumbawa	kerekkure	0151	tèja	rainbow	np:s	np		s	2012	
+sumbawa	kerekkure	0151	#	#	#rc	#rc				
+sumbawa	kerekkure	0151	ZERO	ZERO	f0:s	f0		s	2012	
+sumbawa	kerekkure	0151	turin	come.down	rn	rn				
+sumbawa	kerekkure	0151	%	%	%	%				
+sumbawa	kerekkure	0151	#	#	#ac	#ac				
+sumbawa	kerekkure	0151	sebab	because	other	other				
+sumbawa	kerekkure	0151	ada	there	v:predex	v		predex		
+sumbawa	kerekkure	0151	lamong	clothes	np:s	np		s	2021	
+sumbawa	kerekkure	0151	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0151	e	ITJ	other	other				
+sumbawa	kerekkure	0151	%	%	%	%				
+sumbawa	kerekkure	0151	%	%	%	%				
+sumbawa	kerekkure	0152	#	#	#	#				
+sumbawa	kerekkure	0152	ZERO	ZERO	0:p	0		p	2021	
+sumbawa	kerekkure	0152	musti	must	other	other				
+sumbawa	kerekkure	0152	tutit	follow	v:pred	v		pred		
+sumbawa	kerekkure	0152	ling	by	adp	adp				
+sumbawa	kerekkure	0152	tèja	rainbow	np:a_ling	np		a_ling	2012	
+sumbawa	kerekkure	0152	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0152	#	#	#ac	#ac				
+sumbawa	kerekkure	0152	lamin	if	other	other				
+sumbawa	kerekkure	0152	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0152	pang	place	np:s	np		s		
+sumbawa	kerekkure	0152	#	#	#rc	#rc				
+sumbawa	kerekkure	0152	ada	exist	v:pred	v		pred		
+sumbawa	kerekkure	0152	lamongnan	clothes	np:s	np		s	2012	
+sumbawa	kerekkure	0152	nè	ITJ	other	other				
+sumbawa	kerekkure	0152	ZERO	ZERO	f0:l	f0		l		
+sumbawa	kerekkure	0152	%	%	%	%				
+sumbawa	kerekkure	0152	%	%	%	%				
+sumbawa	kerekkure	0152	%	%	%	%				
+sumbawa	kerekkure	0153	#	#	#	#				
+sumbawa	kerekkure	0153	entèk	go.up	v:pred	v		pred		
+sumbawa	kerekkure	0153	mo	DM	other	other				
+sumbawa	kerekkure	0153	lala	princess	np.h:s	np	h	s	2020	
+sumbawa	kerekkure	0153	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0153	%	%	%	%				
+sumbawa	kerekkure	0154	#	#	#	#				
+sumbawa	kerekkure	0154	ngibar	fly	v:pred	v		pred		
+sumbawa	kerekkure	0154	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0154	ana	DEM_D	dem_pro:l	dem_pro		l		
+sumbawa	kerekkure	0154	lakó	to	adp	adp				
+sumbawa	kerekkure	0154	kayangan	heaven	np:g	np		g	2060	new
+sumbawa	kerekkure	0154	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0154	nya	Ms	ln	ln				
+sumbawa	kerekkure	0154	Bidadari	fairy	np.h:appos	np	h	appos	2020	
+sumbawa	kerekkure	0154	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0154	%	%	%	%				
+sumbawa	kerekkure	0155	#	#	#	#				
+sumbawa	kerekkure	0155	dadi	then	other	other				
+sumbawa	kerekkure	0155	beru	just	other	other				
+sumbawa	kerekkure	0155	mólé-mólé	go.home-go.home	v:pred	v		pred		
+sumbawa	kerekkure	0155	mólé-mólé	go.home-go.home	nc	nc				
+sumbawa	kerekkure	0155	nya	3	pro.h:s	pro	h	s	2001	
+sumbawa	kerekkure	0155	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0155	Kerèk-kurè	Kerek-kure	pn_np.h:appos	pn_np	h	appos	2001	
+sumbawa	kerekkure	0155	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0155	#	#	#rc	#rc				
+sumbawa	kerekkure	0155	ZERO	ZERO	f0.h:a	f0	h	a	2001	
+sumbawa	kerekkure	0155	ka=laló	PST=go	lv_v	lv_v				
+sumbawa	kerekkure	0155	bau	get	v:pred	v		pred		
+sumbawa	kerekkure	0155	kayu	firewood	np:p	np		p	2061	new
+sumbawa	kerekkure	0155	%	%	%	%				
+sumbawa	kerekkure	0155	%	%	%	%				
+sumbawa	kerekkure	0156	#	#	#ds	#ds				
+sumbawa	kerekkure	0156	ina	mother	np.h:voc	np	h	voc	2002	
+sumbawa	kerekkure	0156	nè	ITJ	other	other				
+sumbawa	kerekkure	0156	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0156	pang	place	np:s	np		s		
+sumbawa	kerekkure	0156	anak	child	rn_np.h	rn_np	h		2020	
+sumbawa	kerekkure	0156	sia	2SG.HON	rn_pro.2:poss	rn_pro	2	poss	2002	
+sumbawa	kerekkure	0156	nè	ITJ	other	other				
+sumbawa	kerekkure	0156	%	%	%	%				
+sumbawa	kerekkure	0157	#	#	#	#				
+sumbawa	kerekkure	0157	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0157	ZERO	ZERO	0.h:p	0	h	p	2020	
+sumbawa	kerekkure	0157	è	ITJ	other	other				
+sumbawa	kerekkure	0157	ka	PST	lv	lv				
+sumbawa	kerekkure	0157	ku=	1SG=	=pro.1:s	=pro	1	s	2002	
+sumbawa	kerekkure	0157	sili	scold	v:pred	v		pred		
+sumbawa	kerekkure	0157	%	%	%	%				
+sumbawa	kerekkure	0157	ling	words	other	other				
+sumbawa	kerekkure	0157	%	%	%	%				
+sumbawa	kerekkure	0157	#	#	#	#				
+sumbawa	kerekkure	0157	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0157	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0157	apa	because	other	other				
+sumbawa	kerekkure	0157	tu	1PL	pro.1:s	pro	1	s		
+sumbawa	kerekkure	0157	mongka	ANTIP.cook.rice	v:pred	v		pred		
+sumbawa	kerekkure	0157	%	%	%	%				
+sumbawa	kerekkure	0157	anong	what's.it.called	nc	nc				
+sumbawa	kerekkure	0157	mustahil	terrible	other	other				
+sumbawa	kerekkure	0157	kó	to	other	other				
+sumbawa	kerekkure	0157	tu=	1PL=	=pro.1:s	=pro	1	s		
+sumbawa	kerekkure	0157	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0157	bongka	cook	v:pred	v		pred		
+sumbawa	kerekkure	0157	lótó	rice	np:p	np		p	2045	
+sumbawa	kerekkure	0157	kè	with	other	other				
+sumbawa	kerekkure	0157	anong	what's.it.called	other	other				
+sumbawa	kerekkure	0157	ling	words	other	other				
+sumbawa	kerekkure	0157	lótó	rice	np:appos	np		appos	2045	
+sumbawa	kerekkure	0157	#	#	#rc	#rc				
+sumbawa	kerekkure	0157	ZERO	ZERO	f0:s	f0		s	2045	
+sumbawa	kerekkure	0157	besolar	be_together	v:pred	v		pred		
+sumbawa	kerekkure	0157	kè	with	adp	adp				
+sumbawa	kerekkure	0157	las	unhulled.rice	np:obl	np		obl	2033	
+sumbawa	kerekkure	0157	%	%	%	%				
+sumbawa	kerekkure	0157	%	%	%	%				
+sumbawa	kerekkure	0157	ling	by	np:s	np		s		
+sumbawa	kerekkure	0157	%	%	%	%				
+sumbawa	kerekkure	0158	#	#	#ds.neg	#ds.neg				
+sumbawa	kerekkure	0158	ZERO	ZERO	0.2:s	0	2	s	2002	
+sumbawa	kerekkure	0158	nó	NEG	lv	lv				
+sumbawa	kerekkure	0158	bau	can	v:pred	v		pred		
+sumbawa	kerekkure	0158	#	#	#cc	#cc				
+sumbawa	kerekkure	0158	ZERO	ZERO	0:p	0		p	2037	
+sumbawa	kerekkure	0158	sia=	2SG.HON=	=pro.2:a	=pro	2	a	2002	
+sumbawa	kerekkure	0158	gita	look	v:pred	v		pred		
+sumbawa	kerekkure	0158	%	%	%	%				
+sumbawa	kerekkure	0158	%	%	%	%				
+sumbawa	kerekkure	0158	#	#	#ds	#ds				
+sumbawa	kerekkure	0158	ZERO	ZERO	0.2:a	0	2	a	2002	
+sumbawa	kerekkure	0158	coba	try	lv	lv				
+sumbawa	kerekkure	0158	seuléng	open	v:pred	v		pred		
+sumbawa	kerekkure	0158	mongka	cooker	np:p	np		p	2034	
+sumbawa	kerekkure	0158	kebali'	again	other	other				
+sumbawa	kerekkure	0158	%	%	%	%				
+sumbawa	kerekkure	0159	#	#	#	#				
+sumbawa	kerekkure	0159	#	#	#ac	#ac				
+sumbawa	kerekkure	0159	ZERO	ZERO	0.h:a	0	h	a	2002	
+sumbawa	kerekkure	0159	beru	after	other	other				
+sumbawa	kerekkure	0159	ka=ulèng	PST=ulèng	v:pred	v		pred		
+sumbawa	kerekkure	0159	mongka	cooker	np:p	np		p	2034	
+sumbawa	kerekkure	0159	nè	ITJ	other	other				
+sumbawa	kerekkure	0159	%	%	%	%				
+sumbawa	kerekkure	0159	ka	PST	lv	lv				
+sumbawa	kerekkure	0159	mo	DM	lv	lv				
+sumbawa	kerekkure	0159	masak	cooked	v:pred	v		pred		
+sumbawa	kerekkure	0159	me	me	np:s	np		s	2062	bridging
+sumbawa	kerekkure	0159	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0159	%	%	%	%				
+sumbawa	kerekkure	0159	#	#	#neg	#neg				
+sumbawa	kerekkure	0159	nó.monda	not.exist.anymore	v:predex	v		predex		
+sumbawa	kerekkure	0159	las	unhulled.rice	np:s	np		s	2033	
+sumbawa	kerekkure	0159	sedi-sedi	a.little	other	other				
+sumbawa	kerekkure	0159	%	%	%	%				
+sumbawa	kerekkure	0160	#	#	#	#				
+sumbawa	kerekkure	0160	jadi	become	other	other				
+sumbawa	kerekkure	0160	bersi	pure	v:pred	v		pred		
+sumbawa	kerekkure	0160	lótó	rice	np:s	np		s	2062	
+sumbawa	kerekkure	0160	balong	good	other	other				
+sumbawa	kerekkure	0160	%	%	%	%				
+sumbawa	kerekkure	0161	#	#	#	#				
+sumbawa	kerekkure	0161	yé	ITJ	other	other				
+sumbawa	kerekkure	0161	ning	words	np:s	np		s		
+sumbawa	kerekkure	0162	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0162	ba	ITJ	other	other				
+sumbawa	kerekkure	0162	me	which	np:pred	np		pred		
+sumbawa	kerekkure	0162	ka=luk	PST=way	np:s	np		s		
+sumbawa	kerekkure	0162	dèta	DEM_P	dem_pro:dt	dem_pro		dt		
+sumbawa	kerekkure	0162	ne	ITJ	other	other				
+sumbawa	kerekkure	0162	%	%	%	%				
+sumbawa	kerekkure	0162	%	%	%	%				
+sumbawa	kerekkure	0163	#	#	#	#				
+sumbawa	kerekkure	0163	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0163	ba	ITJ	other	other				
+sumbawa	kerekkure	0163	nan	DEM_M	dem_pro:pred	dem_pro		pred		
+sumbawa	kerekkure	0163	si	DM	other	other				
+sumbawa	kerekkure	0163	luk	way	np:s	np		s	2042	
+sumbawa	kerekkure	0163	#	#	#cc	#cc				
+sumbawa	kerekkure	0163	mongka	ANTIP.cook.rice	v:pred	v		pred		
+sumbawa	kerekkure	0163	dènan	that	dem_pro.h:s	dem_pro	h	s	2020	
+sumbawa	kerekkure	0163	gina	ITJ	other	other				
+sumbawa	kerekkure	0163	ina	mother	np.h:voc	np	h	voc	2002	
+sumbawa	kerekkure	0163	%	%	%	%				
+sumbawa	kerekkure	0163	%	%	%	%				
+sumbawa	kerekkure	0163	ling	words	np:s	np		s		
+sumbawa	kerekkure	0163	%	%	%	%				
+sumbawa	kerekkure	0164	#	#	#	#				
+sumbawa	kerekkure	0164	#	#	#ds	#ds				
+sumbawa	kerekkure	0164	sia=	2SG.HON=	=pro.2:s	=pro	2	s	2002	
+sumbawa	kerekkure	0164	kotar	quick	v:pred	v		pred		
+sumbawa	kerekkure	0164	#	#	#ds_cc	#ds_cc				
+sumbawa	kerekkure	0164	sia=	2SG.HON=	=pro.2:s	=pro	2	s	2002	
+sumbawa	kerekkure	0164	anong	what's.it.called	v:pred	v		pred		
+sumbawa	kerekkure	0164	%	%	%	%				
+sumbawa	kerekkure	0164	%	%	%	%				
+sumbawa	kerekkure	0164	ling	words	np:s	np		s		
+sumbawa	kerekkure	0164	%	%	%	%				
+sumbawa	kerekkure	0165	#	#	#	#				
+sumbawa	kerekkure	0165	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0165	ba	ITJ	other	other				
+sumbawa	kerekkure	0165	ka	PST	lv	lv				
+sumbawa	kerekkure	0165	k=	1SG=	=pro.1:s	=pro	1	s	2001	
+sumbawa	kerekkure	0165	pernah	ever	v:pred	v		pred		
+sumbawa	kerekkure	0165	#	#	#ds_cc	#ds_cc				
+sumbawa	kerekkure	0165	ZERO	ZERO	0:p	0		p	2034	
+sumbawa	kerekkure	0165	ku=	1SG=	=pro.1:s	=pro	1	s	2001	
+sumbawa	kerekkure	0165	selénó	peep	v:pred	v		pred		
+sumbawa	kerekkure	0165	%	%	%	%				
+sumbawa	kerekkure	0165	%	%	%	%				
+sumbawa	kerekkure	0165	ling	words	np:s	np		s		
+sumbawa	kerekkure	0165	%	%	%	%				
+sumbawa	kerekkure	0165	#	#	#	#				
+sumbawa	kerekkure	0165	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0165	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0165	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0165	beru	when	other	other				
+sumbawa	kerekkure	0165	mongka	ANTIP.cook.rice	v:pred	v		pred		
+sumbawa	kerekkure	0165	%	%	%	%				
+sumbawa	kerekkure	0165	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0165	cuma	only	other	other				
+sumbawa	kerekkure	0165	óló	put	v:pred	v		pred		
+sumbawa	kerekkure	0165	sópó	one	ln	ln				
+sumbawa	kerekkure	0165	las	rice	np:p	np		p	2033	
+sumbawa	kerekkure	0165	baè	only	rn	rn				
+sumbawa	kerekkure	0165	si	DM	rn	rn				
+sumbawa	kerekkure	0165	n=dalam	in=inside	np:l	np		l		
+sumbawa	kerekkure	0165	anong	what's.it.called	rn	rn				
+sumbawa	kerekkure	0165	%	%	%	%				
+sumbawa	kerekkure	0165	ling	words	np:s	np		s		
+sumbawa	kerekkure	0165	%	%	%	%				
+sumbawa	kerekkure	0165	#	#	#	#				
+sumbawa	kerekkure	0165	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0165	ZERO	ZERO	0.1:s	0	1	s	2001	
+sumbawa	kerekkure	0165	perna	ever	v:pred	v		pred		
+sumbawa	kerekkure	0165	#	#	#ds_cc	#ds_cc				
+sumbawa	kerekkure	0165	ZERO	ZERO	0:p	0		p	2034	
+sumbawa	kerekkure	0165	k=	1SG=	=pro.1:s	=pro	1	s	2001	
+sumbawa	kerekkure	0165	seléno	peep	v:pred	v		pred		
+sumbawa	kerekkure	0165	%	%	%	%				
+sumbawa	kerekkure	0165	%	%	%	%				
+sumbawa	kerekkure	0165	ling	words	np:s	np		s		
+sumbawa	kerekkure	0165	%	%	%	%				
+sumbawa	kerekkure	0166	#	#	#	#				
+sumbawa	kerekkure	0166	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0166	tapi	but	other	other				
+sumbawa	kerekkure	0166	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0166	ZERO	ZERO	f0:s	f0		s	2033	
+sumbawa	kerekkure	0166	beru	after	other	other				
+sumbawa	kerekkure	0166	masak	cooked	v:pred	v		pred		
+sumbawa	kerekkure	0166	%	%	%	%				
+sumbawa	kerekkure	0166	ZERO	ZERO	0:s	0		s	2033	
+sumbawa	kerekkure	0166	teris	then	other	other				
+sumbawa	kerekkure	0166	dadi	become	v:pred	v		pred		
+sumbawa	kerekkure	0166	mé	rice	np:other	np		other		
+sumbawa	kerekkure	0166	#	#	#ds_rc	#ds_rc				
+sumbawa	kerekkure	0166	ZERO	ZERO	f0:a	f0		a	2062	
+sumbawa	kerekkure	0166	lémpó	full	v:pred	v		pred		
+sumbawa	kerekkure	0166	pemongka	cooker	np:p	np		p	2034	
+sumbawa	kerekkure	0166	%	%	%	%				
+sumbawa	kerekkure	0166	%	%	%	%				
+sumbawa	kerekkure	0166	ling	words	np:s	np		s		
+sumbawa	kerekkure	0166	#	#	#ds_rc	#ds_rc				
+sumbawa	kerekkure	0166	bling	say	v:pred	v		pred		
+sumbawa	kerekkure	0166	lalu	prince	ln	ln				
+sumbawa	kerekkure	0166	Kerèk-kurè	Kerek-kure	pn_np.h:a	pn_np	h	a	2001	
+sumbawa	kerekkure	0166	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0166	ZERO	ZERO	f0:p	f0		p		
+sumbawa	kerekkure	0166	kó	to	adp	adp				
+sumbawa	kerekkure	0166	ina	mother	np.h:g	np	h	g	2002	
+sumbawa	kerekkure	0166	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0166	%	%	%	%				
+sumbawa	kerekkure	0166	%	%	%	%				
+sumbawa	kerekkure	0167	#	#	#	#				
+sumbawa	kerekkure	0167	#	#	#ds.neg	#ds.neg				
+sumbawa	kerekkure	0167	ba	ITJ	other	other				
+sumbawa	kerekkure	0167	nongka	NEG.PST	lv	lv				
+sumbawa	kerekkure	0167	mu=	2SG=	=pro.2:a	=pro	2	a	2001	
+sumbawa	kerekkure	0167	bada	tell	v:pred	v		pred		
+sumbawa	kerekkure	0167	ku	1SG	pro.1:p	pro	1	p	2002	
+sumbawa	kerekkure	0167	gina	ITJ	other	other				
+sumbawa	kerekkure	0167	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0167	ZERO	ZERO	0.h:p	0	h	p	2020	
+sumbawa	kerekkure	0167	bau	can	other	other				
+sumbawa	kerekkure	0167	nó	NEG	lv	lv				
+sumbawa	kerekkure	0167	ku=	1SG=	=pro.1:s	=pro	1	s	2002	
+sumbawa	kerekkure	0167	sili	scold	v:pred	v		pred		
+sumbawa	kerekkure	0167	%	%	%	%				
+sumbawa	kerekkure	0167	%	%	%	%				
+sumbawa	kerekkure	0167	ling	words	np:s	np		s		
+sumbawa	kerekkure	0167	%	%	%	%				
+sumbawa	kerekkure	0167	#	#	#	#				
+sumbawa	kerekkure	0167	#	#	#ds_cc.neg:pred	#ds_cc.neg		pred		
+sumbawa	kerekkure	0167	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0167	adè	REL	other	other				
+sumbawa	kerekkure	0167	tó'	now	other	other				
+sumbawa	kerekkure	0167	nó.monda	not.exist.anymore	v:predex	v		predex		
+sumbawa	kerekkure	0167	ta	DEM_P	other	other				
+sumbawa	kerekkure	0167	%	%	%	%				
+sumbawa	kerekkure	0167	ling	words	np:s	np		s		
+sumbawa	kerekkure	0167	%	%	%	%				
+sumbawa	kerekkure	0168	#	#	#	#				
+sumbawa	kerekkure	0168	#	#	#ac.neg	#ac.neg				
+sumbawa	kerekkure	0168	beru	after	other	other				
+sumbawa	kerekkure	0168	nó.monda	not.exist.anymore	v:predex	v		predex		
+sumbawa	kerekkure	0168	soai	wife	np.h:s	np	h	s	2002	
+sumbawa	kerekkure	0168	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0168	nè	ITJ	other	other				
+sumbawa	kerekkure	0168	%	%	%	%				
+sumbawa	kerekkure	0168	turin	come.down	v:pred	v		pred		
+sumbawa	kerekkure	0168	mo	DM	rv	rv				
+sumbawa	kerekkure	0168	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0168	Kerèk-kurè	Kerek-kure	pn_np.h:s	pn_np	h	s	2001	
+sumbawa	kerekkure	0168	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0168	kó	to	adp	adp				
+sumbawa	kerekkure	0168	anok	below	np:g	np		g		
+sumbawa	kerekkure	0168	tabongan	underspace	rn_np	rn_np			2046	
+sumbawa	kerekkure	0168	%	%	%	%				
+sumbawa	kerekkure	0169	#	#	#	#				
+sumbawa	kerekkure	0169	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0169	beru	just	other	other				
+sumbawa	kerekkure	0169	gita	look	v:pred	v		pred		
+sumbawa	kerekkure	0169	tódó	bamboo.container	np:p	np		p	2047	
+sumbawa	kerekkure	0169	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0169	è	ITJ	other	other				
+sumbawa	kerekkure	0169	%	%	%	%				
+sumbawa	kerekkure	0169	#	#	#	#				
+sumbawa	kerekkure	0169	ZERO	ZERO	0:p	0		p	2047	
+sumbawa	kerekkure	0169	ya=	3=	=pro.h:a	=pro	h	a	2001	
+sumbawa	kerekkure	0169	gita	see	v:pred	v		pred		
+sumbawa	kerekkure	0169	%	%	%	%				
+sumbawa	kerekkure	0170	#	#	#	#				
+sumbawa	kerekkure	0170	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0170	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0170	wé	ITJ	other	other				
+sumbawa	kerekkure	0170	ka	PST	lv	lv				
+sumbawa	kerekkure	0170	mo	DM	lv	lv				
+sumbawa	kerekkure	0170	tumpan	find	v:pred	v		pred		
+sumbawa	kerekkure	0170	lamong	clothes	np:p	np		p	2021	
+sumbawa	kerekkure	0170	%	%	%	%				
+sumbawa	kerekkure	0170	ling	words	np:s	np		s		
+sumbawa	kerekkure	0170	%	%	%	%				
+sumbawa	kerekkure	0171	#	#	#	#				
+sumbawa	kerekkure	0171	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0171	ta	DEM_P	other	other				
+sumbawa	kerekkure	0171	nya	3	pro.h:other	pro	h	other		
+sumbawa	kerekkure	0171	ka=nyapu	PST=sweep	v:pred	v		pred		
+sumbawa	kerekkure	0171	nanok	below	np:l	np		l		
+sumbawa	kerekkure	0171	tabongan	underfloor	rn_np	rn_np			2046	
+sumbawa	kerekkure	0171	nya	3	pro.h:s	pro	h	s	2020	
+sumbawa	kerekkure	0171	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0171	è	ITJ	other	other				
+sumbawa	kerekkure	0171	%	%	%	%				
+sumbawa	kerekkure	0171	#	#	#ds	#ds				
+sumbawa	kerekkure	0171	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0171	tumpan	find	v:pred	v		pred		
+sumbawa	kerekkure	0171	mo	DM	rv	rv				
+sumbawa	kerekkure	0171	lamong	clothes	np:p	np		p	2021	
+sumbawa	kerekkure	0171	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0171	nè	ITJ	other	other				
+sumbawa	kerekkure	0171	%	%	%	%				
+sumbawa	kerekkure	0171	#	#	#ds	#ds				
+sumbawa	kerekkure	0171	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0171	ba	ITJ	other	other				
+sumbawa	kerekkure	0171	ka	PST	lv	lv				
+sumbawa	kerekkure	0171	mo	DM	lv	lv				
+sumbawa	kerekkure	0171	mólé	go.home	v:pred	v		pred		
+sumbawa	kerekkure	0171	kó	to	adp	adp				
+sumbawa	kerekkure	0171	desa	village	np:g	np		g	2059	
+sumbawa	kerekkure	0171	%	%	%	%				
+sumbawa	kerekkure	0171	ling	words	np:s	np		s		
+sumbawa	kerekkure	0171	%	%	%	%				
+sumbawa	kerekkure	0172	#	#	#	#				
+sumbawa	kerekkure	0172	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0172	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0172	mo	DM	other	other				
+sumbawa	kerekkure	0172	gita	look	v:pred	v		pred		
+sumbawa	kerekkure	0172	pang	at	nc	nc				
+sumbawa	kerekkure	0172	anok	below	nc	nc				
+sumbawa	kerekkure	0172	pang	at	adp	adp				
+sumbawa	kerekkure	0172	anok	below	np:l	np		l		
+sumbawa	kerekkure	0172	galang	pillow	rn_np	rn_np			2063	new
+sumbawa	kerekkure	0172	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0172	%	%	%	%				
+sumbawa	kerekkure	0173	#	#	#	#				
+sumbawa	kerekkure	0173	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0173	surat	letter	np:s	np		s	2064	bridging
+sumbawa	kerekkure	0173	%	%	%	%				
+sumbawa	kerekkure	0174	#	#	#	#				
+sumbawa	kerekkure	0174	nta	unknown	other	other				
+sumbawa	kerekkure	0174	bagaimana	which.way	np:p	np		p		
+sumbawa	kerekkure	0174	béntuk	shape	rn	rn				
+sumbawa	kerekkure	0174	surat	letter	rn	rn				
+sumbawa	kerekkure	0174	nya	3	rn_pro.h:poss	rn_pro	h	poss	2020	
+sumbawa	kerekkure	0174	kita	1PL	pro.1:a	pro	1	a		
+sumbawa	kerekkure	0174	enda	NEG	lv	lv				
+sumbawa	kerekkure	0174	tau	know	v:pred	v		pred		
+sumbawa	kerekkure	0174	si	DM	other	other				
+sumbawa	kerekkure	0174	#	#	#cc	#cc				
+sumbawa	kerekkure	0174	apa	what	np:pred	np		pred		
+sumbawa	kerekkure	0174	ka=hurup	PST=script	np:s	np		s		
+sumbawa	kerekkure	0174	apa	what	nc	nc				
+sumbawa	kerekkure	0174	hurup	letters	nc	nc				
+sumbawa	kerekkure	0174	apa	what	nc	nc				
+sumbawa	kerekkure	0174	saman	time	rn	rn				
+sumbawa	kerekkure	0174	dulu	before	rn	rn				
+sumbawa	kerekkure	0174	tapi	but	other	other				
+sumbawa	kerekkure	0174	%	%	%	%				
+sumbawa	kerekkure	0174	%	%	%	%				
+sumbawa	kerekkure	0175	#	#	#	#				
+sumbawa	kerekkure	0175	tapi	but	other	other				
+sumbawa	kerekkure	0175	dalam	inside	adp	adp				
+sumbawa	kerekkure	0175	surat	letter	np:l	np		l	2064	
+sumbawa	kerekkure	0175	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0175	ramada	tell	v:pred	v		pred		
+sumbawa	kerekkure	0175	nya	3	pro.h:s_ds	pro	h	s_ds	2020	
+sumbawa	kerekkure	0176	#	#	#ds	#ds				
+sumbawa	kerekkure	0176	aó	yes	other	other				
+sumbawa	kerekkure	0176	aku	1SG	pro.1:dt	pro	1	dt	2020	
+sumbawa	kerekkure	0176	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0176	ka	PST	lv	lv				
+sumbawa	kerekkure	0176	mo	DM	other	other				
+sumbawa	kerekkure	0176	ku=	1SG=	=pro.1:a	=pro	1	a	2020	
+sumbawa	kerekkure	0176	tumpan	find	v:pred	v		pred		
+sumbawa	kerekkure	0176	lamong	clothes	np:p	np		p	2021	
+sumbawa	kerekkure	0176	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0176	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0176	%	%	%	%				
+sumbawa	kerekkure	0176	%	%	%	%				
+sumbawa	kerekkure	0176	#	#	#	#				
+sumbawa	kerekkure	0176	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0176	ta	DEM_P	other	other				
+sumbawa	kerekkure	0176	mo	DM	other	other				
+sumbawa	kerekkure	0176	ya=	FUT=	=lv	=lv				
+sumbawa	kerekkure	0176	ku	1SG	pro.1:s	pro	1	s	2020	
+sumbawa	kerekkure	0176	mólé	go.home	v:pred	v		pred		
+sumbawa	kerekkure	0176	%	%	%	%				
+sumbawa	kerekkure	0176	ling	words	np:s	np		s		
+sumbawa	kerekkure	0176	%	%	%	%				
+sumbawa	kerekkure	0177	#	#	#	#				
+sumbawa	kerekkure	0177	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0177	lamin	if	other	other				
+sumbawa	kerekkure	0177	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0177	saté	want	v:pred	v		pred		
+sumbawa	kerekkure	0177	#	#	#ds_cc:p	#ds_cc		p		
+sumbawa	kerekkure	0177	mu=	2SG=	=pro.2:a	=pro	2	a	2001	
+sumbawa	kerekkure	0177	tutit	follow	v:pred	v		pred		
+sumbawa	kerekkure	0177	aku	1SG	pro.1:p	pro	1	p	2020	
+sumbawa	kerekkure	0177	%	%	%	%				
+sumbawa	kerekkure	0177	%	%	%	%				
+sumbawa	kerekkure	0177	ling	words	other	other				
+sumbawa	kerekkure	0177	%	%	%	%				
+sumbawa	kerekkure	0178	#	#	#nc	#nc				
+sumbawa	kerekkure	0178	ba	ITJ	nc	nc				
+sumbawa	kerekkure	0178	mu=	2SG=	nc	nc				
+sumbawa	kerekkure	0178	anong	what.is.it	nc	nc				
+sumbawa	kerekkure	0178	mo	DM	nc	nc				
+sumbawa	kerekkure	0178	ling	words	nc	nc				
+sumbawa	kerekkure	0178	%	%	%	%				
+sumbawa	kerekkure	0178	#	#	#	#				
+sumbawa	kerekkure	0178	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0178	ba	ITJ	other	other				
+sumbawa	kerekkure	0178	mu=	2SG=	=pro.2:s	=pro	2	s	2001	
+sumbawa	kerekkure	0178	datang	come	v:pred	v		pred		
+sumbawa	kerekkure	0178	mo	DM	other	other				
+sumbawa	kerekkure	0178	%	%	%	%				
+sumbawa	kerekkure	0178	ling	words	np:s	np		s		
+sumbawa	kerekkure	0178	%	%	%	%				
+sumbawa	kerekkure	0179	#	#	#	#				
+sumbawa	kerekkure	0179	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0179	bilin	leave	v:pred	v		pred		
+sumbawa	kerekkure	0179	sisin	ring	np:p	np		p	2065	new
+sumbawa	kerekkure	0179	%	%	%	%				
+sumbawa	kerekkure	0180	#	#	#	#				
+sumbawa	kerekkure	0180	sisin	ring	np:p	np		p	2065	
+sumbawa	kerekkure	0180	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0180	nè	ITJ	other	other				
+sumbawa	kerekkure	0180	ka	PST	lv	lv				
+sumbawa	kerekkure	0180	ya=	3=	=pro.h:s	=pro	h	s	2020	
+sumbawa	kerekkure	0180	dadi	make.to.be	v:pred	v		pred		
+sumbawa	kerekkure	0180	tonang	charm	np:other	np		other		
+sumbawa	kerekkure	0180	anak	child	rn_np.h	rn_np	h		2030	
+sumbawa	kerekkure	0180	%	%	%	%				
+sumbawa	kerekkure	0181	#	#	#	#				
+sumbawa	kerekkure	0181	sisin	ring	np:dt_p	np		dt_p	2065	
+sumbawa	kerekkure	0182	ka=anong	PST=what's.it.called	nc	nc				
+sumbawa	kerekkure	0182	si	DM	nc	nc				
+sumbawa	kerekkure	0182	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0182	ZERO	ZERO	0:p	0		p	2065	
+sumbawa	kerekkure	0182	ka=bentar	PST=tie	v:pred	v		pred		
+sumbawa	kerekkure	0182	si	DM	other	other				
+sumbawa	kerekkure	0182	%	%	%	%				
+sumbawa	kerekkure	0182	#	#	#	#				
+sumbawa	kerekkure	0182	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0182	ZERO	ZERO	0:p	0		p	2065	
+sumbawa	kerekkure	0182	ka=	PST=	=lv	=lv				
+sumbawa	kerekkure	0182	ya=	3=	=pro.h:a	=pro	h	a	2020	
+sumbawa	kerekkure	0182	antar	tie	v:pred	v		pred		
+sumbawa	kerekkure	0182	benang	string	np:p2	np		p2	2066	new
+sumbawa	kerekkure	0182	pisak	black	rn	rn				
+sumbawa	kerekkure	0182	nè	ITJ	other	other				
+sumbawa	kerekkure	0182	%	%	%	%				
+sumbawa	kerekkure	0183	#	#	#	#				
+sumbawa	kerekkure	0183	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0183	tali	tie	v:pred	v		pred		
+sumbawa	kerekkure	0183	mo	DM	rv	rv				
+sumbawa	kerekkure	0183	sisin	ring	np:p	np		p	2065	
+sumbawa	kerekkure	0183	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0183	%	%	%	%				
+sumbawa	kerekkure	0184	#	#	#	#				
+sumbawa	kerekkure	0184	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0184	karing	then	other	other				
+sumbawa	kerekkure	0184	setonang	make.a.charm	v:pred	v		pred		
+sumbawa	kerekkure	0184	pang	at	adp	adp				
+sumbawa	kerekkure	0184	anak	child	np.h:l	np	h	l	2030	
+sumbawa	kerekkure	0184	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0184	sisin	ring	np:p	np		p	2065	
+sumbawa	kerekkure	0184	nya	3	rn_pro.h:poss	rn_pro	h	poss	2020	
+sumbawa	kerekkure	0184	Bidadari	fairy	np.h:appos	np	h	appos	2020	
+sumbawa	kerekkure	0184	#	#	#rc	#rc				
+sumbawa	kerekkure	0184	ZERO	ZERO	f0.h:s	f0	h	s	2020	
+sumbawa	kerekkure	0184	ka=mólé	PST=go.home	pred	pred				
+sumbawa	kerekkure	0184	%	%	%	%				
+sumbawa	kerekkure	0184	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0184	è	ITJ	other	other				
+sumbawa	kerekkure	0184	%	%	%	%				
+sumbawa	kerekkure	0185	#	#	#	#				
+sumbawa	kerekkure	0185	dadi	then	other	other				
+sumbawa	kerekkure	0185	ya=	3=	=pro_h_a	=pro_h_a			2001	
+sumbawa	kerekkure	0185	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0185	sisin	ring	np:p	np		p	2065	
+sumbawa	kerekkure	0185	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0185	ling	by	adp	adp				
+sumbawa	kerekkure	0185	selaki	husband	np.h:a_ling	np	h	a_ling	2001	
+sumbawa	kerekkure	0185	%	%	%	%				
+sumbawa	kerekkure	0186	#	#	#	#				
+sumbawa	kerekkure	0186	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0186	ZERO	ZERO	0:p	0		p	2065	
+sumbawa	kerekkure	0186	setama	put.on	v:pred	v		pred		
+sumbawa	kerekkure	0186	dalam	inside	adp	adp				
+sumbawa	kerekkure	0186	hand	hand	np:l	np		l	2067	bridging
+sumbawa	kerekkure	0186	%	%	%	%				
+sumbawa	kerekkure	0187	#	#	#	#				
+sumbawa	kerekkure	0187	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0187	tunung	burn	v:pred	v		pred		
+sumbawa	kerekkure	0187	oram	husk	np:p	np		p	2068	bridging
+sumbawa	kerekkure	0187	légé	rice	rn	rn				
+sumbawa	kerekkure	0187	pisak	black	rn	rn				
+sumbawa	kerekkure	0187	%	%	%	%				
+sumbawa	kerekkure	0188	#	#	#	#				
+sumbawa	kerekkure	0188	entèk	go.up	v:pred	v		pred		
+sumbawa	kerekkure	0188	nya	3	pro.h:s	pro	h	s	2001	
+sumbawa	kerekkure	0188	ola	through	adp	adp				
+sumbawa	kerekkure	0188	penat	smoke	np:l	np		l	2069	bridging
+sumbawa	kerekkure	0188	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0188	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	kerekkure	0188	%	%	%	%				
+sumbawa	kerekkure	0189	#	#	#	#				
+sumbawa	kerekkure	0189	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0189	dapat	arrive	v:pred	v		pred		
+sumbawa	kerekkure	0189	kayangan	heaven	np:p	np		p	2060	
+sumbawa	kerekkure	0189	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0189	%	%	%	%				
+sumbawa	kerekkure	0190	#	#	#	#				
+sumbawa	kerekkure	0190	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0190	baterapa	land	v:pred	v		pred		
+sumbawa	kerekkure	0190	pang	at	adp	adp				
+sumbawa	kerekkure	0190	sópó	one	ln	ln				
+sumbawa	kerekkure	0190	buin	well	np:l	np		l	2070	new
+sumbawa	kerekkure	0190	#	#	#rc	#rc				
+sumbawa	kerekkure	0190	pang	place	np:l	np		l	2070	
+sumbawa	kerekkure	0190	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0190	ai	water	np:p	np		p	2075	new
+sumbawa	kerekkure	0190	%	%	%	%				
+sumbawa	kerekkure	0190	%	%	%	%				
+sumbawa	kerekkure	0191	#	#	#	#				
+sumbawa	kerekkure	0191	tau	person	np.h:dt	np	h	dt	2071	new
+sumbawa	kerekkure	0191	ramè	crowded	v:pred	v		pred		
+sumbawa	kerekkure	0191	tau	person	np.h:s	np	h	s	2071	
+sumbawa	kerekkure	0191	#	#	#rc	#rc				
+sumbawa	kerekkure	0191	ZERO	ZERO	f0.h:s	f0	h	s	2071	
+sumbawa	kerekkure	0191	dè	REL	other	other				
+sumbawa	kerekkure	0191	datang	come	lv	lv				
+sumbawa	kerekkure	0191	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0191	ai	water	np:p	np		p	2075	
+sumbawa	kerekkure	0191	konan	to.over.there	dem_pro:g	dem_pro		g		
+sumbawa	kerekkure	0191	%	%	%	%				
+sumbawa	kerekkure	0191	%	%	%	%				
+sumbawa	kerekkure	0192	#	#	#	#				
+sumbawa	kerekkure	0192	ramè	crowded	v:pred	v		pred		
+sumbawa	kerekkure	0192	tau	person	np.h:s	np	h	s	2071	
+sumbawa	kerekkure	0192	#	#	#rc	#rc				
+sumbawa	kerekkure	0192	ZERO	ZERO	f0.h:s	f0	h	s	2071	
+sumbawa	kerekkure	0192	dè	REL	other	other				
+sumbawa	kerekkure	0192	datang	come	lv_v	lv_v				
+sumbawa	kerekkure	0192	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0192	ai	water	np:p	np		p	2075	
+sumbawa	kerekkure	0192	konan	to.overthere	dem_pro:g	dem_pro		g		
+sumbawa	kerekkure	0192	%	%	%	%				
+sumbawa	kerekkure	0192	%	%	%	%				
+sumbawa	kerekkure	0193	#	#	#	#				
+sumbawa	kerekkure	0193	peno	many	v:pred	v		pred		
+sumbawa	kerekkure	0193	tau	person	np.h:s	np	h	s	2072	bridging
+sumbawa	kerekkure	0193	balong-balong	good~int	rn	rn				
+sumbawa	kerekkure	0193	tau	person	rn_np	rn_np			2073	bridging
+sumbawa	kerekkure	0193	gera-gera	beautiful~int	rn	rn				
+sumbawa	kerekkure	0193	tau	person	rn_np	rn_np			2074	bridging
+sumbawa	kerekkure	0193	dara-dara	maiden	rn	rn				
+sumbawa	kerekkure	0193	#	#	#rc	#rc				
+sumbawa	kerekkure	0193	ZERO	ZERO	f0.h:a	f0	h	a	2071	
+sumbawa	kerekkure	0193	dè	REL	other	other				
+sumbawa	kerekkure	0193	datang	come	lv_v	lv_v				
+sumbawa	kerekkure	0193	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0193	ai	water	np:p	np		p	2075	
+sumbawa	kerekkure	0193	kona	to.over.there	dem_pro:g	dem_pro		g		
+sumbawa	kerekkure	0193	%	%	%	%				
+sumbawa	kerekkure	0193	%	%	%	%				
+sumbawa	kerekkure	0193	#	#	#	#				
+sumbawa	kerekkure	0193	ZERO	ZERO	0.h:p	0	h	p	2071	
+sumbawa	kerekkure	0193	katoan	ask	v:pred	v		pred		
+sumbawa	kerekkure	0193	mo	DM	other	other				
+sumbawa	kerekkure	0193	ling	by	adp	adp				
+sumbawa	kerekkure	0193	nya	3	pro.h:a_ds_ling	pro	h	a_ds_ling	2001	
+sumbawa	kerekkure	0193	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0194	#	#	#ds	#ds				
+sumbawa	kerekkure	0194	apa	what	np:pred	np		pred		
+sumbawa	kerekkure	0194	bua	reason	np:s	np		s		
+sumbawa	kerekkure	0194	#	#	#rc	#rc				
+sumbawa	kerekkure	0194	ZERO	ZERO	0.h:s	0	h	s	2071	
+sumbawa	kerekkure	0194	ramè	crowded	other	other				
+sumbawa	kerekkure	0194	sama	same	other	other				
+sumbawa	kerekkure	0194	datang	come	lv_v	lv_v				
+sumbawa	kerekkure	0194	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0194	ai	water	np:p	np		p	2075	
+sumbawa	kerekkure	0194	ZERO	ZERO	f0:other	f0		other		
+sumbawa	kerekkure	0194	%	%	%	%				
+sumbawa	kerekkure	0194	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0194	%	%	%	%				
+sumbawa	kerekkure	0194	%	%	%	%				
+sumbawa	kerekkure	0195	#	#	#	#				
+sumbawa	kerekkure	0195	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0195	o	ITJ	other	other				
+sumbawa	kerekkure	0195	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0195	petri	son	np.h:s	np	h	s	2020	
+sumbawa	kerekkure	0195	kami	1PL	rn_pro.1:poss	rn_pro	1	poss	2071	
+sumbawa	kerekkure	0195	ka=ilang	PST=lost	rn	rn				
+sumbawa	kerekkure	0195	%	%	%	%				
+sumbawa	kerekkure	0195	ling	words	np:s	np		s		
+sumbawa	kerekkure	0195	%	%	%	%				
+sumbawa	kerekkure	0196	#	#	#	#				
+sumbawa	kerekkure	0196	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0196	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0196	ka	PST	lv	lv				
+sumbawa	kerekkure	0196	mo	DM	lv	lv				
+sumbawa	kerekkure	0196	ada	exist	lv_v	lv_v				
+sumbawa	kerekkure	0196	mólé	go.home	v:pred	v		pred		
+sumbawa	kerekkure	0196	%	%	%	%				
+sumbawa	kerekkure	0196	ling	words	np:s	np		s		
+sumbawa	kerekkure	0196	%	%	%	%				
+sumbawa	kerekkure	0196	#	#	#	#				
+sumbawa	kerekkure	0196	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0196	ZERO	ZERO	0.h:p	0	h	p	2020	
+sumbawa	kerekkure	0196	dadi	then	other	other				
+sumbawa	kerekkure	0196	tó'	now	other	other				
+sumbawa	kerekkure	0196	ya=	FUT=	=lv	=lv				
+sumbawa	kerekkure	0196	tu=	1PL=	=pro.1:a	=pro	1	a	2071	
+sumbawa	kerekkure	0196	paning	give.shower	v:pred	v		pred		
+sumbawa	kerekkure	0196	paning	give.a.shower	nc	nc				
+sumbawa	kerekkure	0196	paning	give.a.shower	nc	nc				
+sumbawa	kerekkure	0196	bunga	flower	np:p2	np		p2	2076	new
+sumbawa	kerekkure	0196	%	%	%	%				
+sumbawa	kerekkure	0196	ling	words	np:s	np		s		
+sumbawa	kerekkure	0196	%	%	%	%				
+sumbawa	kerekkure	0197	#	#	#	#				
+sumbawa	kerekkure	0197	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0197	ZERO	ZERO	0.h:p	0	h	p	2020	
+sumbawa	kerekkure	0197	ya=	FUT=	=lv	=lv				
+sumbawa	kerekkure	0197	tu=	1PL=	=pro.1:a	=pro	1	a	2071	
+sumbawa	kerekkure	0197	paningq	give.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0197	bunga	flower	np:p2	np		p2	2076	
+sumbawa	kerekkure	0197	%	%	%	%				
+sumbawa	kerekkure	0197	ling	words	np:s	np		s		
+sumbawa	kerekkure	0197	%	%	%	%				
+sumbawa	kerekkure	0198	#	#	#nc	#nc				
+sumbawa	kerekkure	0198	mengerti	understand	nc	nc				
+sumbawa	kerekkure	0198	si	DM	nc	nc				
+sumbawa	kerekkure	0198	%	%	%	%				
+sumbawa	kerekkure	0199	#	#	#nc	#nc				
+sumbawa	kerekkure	0199	paning	give.a.shower	nc	nc				
+sumbawa	kerekkure	0199	paning	shower	nc	nc				
+sumbawa	kerekkure	0199	bunga	flower	nc	nc				
+sumbawa	kerekkure	0199	endi	later	nc	nc				
+sumbawa	kerekkure	0199	mu=	2SG=	nc	nc				
+sumbawa	kerekkure	0199	sategas	explain	nc	nc				
+sumbawa	kerekkure	0199	è	ITJ	nc	nc				
+sumbawa	kerekkure	0199	%	%	%	%				
+sumbawa	kerekkure	0200	#	#	#	#				
+sumbawa	kerekkure	0200	dadi	then	other	other				
+sumbawa	kerekkure	0200	karing	then	other	other				
+sumbawa	kerekkure	0200	#	#	#rc.h:dt	#rc	h	dt		
+sumbawa	kerekkure	0200	ZERO	ZERO	f0.h:s	f0	h	s	2077	bridging
+sumbawa	kerekkure	0200	adè	REL	other	other				
+sumbawa	kerekkure	0200	kasuda	finish	v:pred	v		pred		
+sumbawa	kerekkure	0200	kan	you.know	other	other				
+sumbawa	kerekkure	0200	%	%	%	%				
+sumbawa	kerekkure	0200	tau	person	np.h:appos	np	h	appos	2077	
+sumbawa	kerekkure	0200	#	#	#rc	#rc				
+sumbawa	kerekkure	0200	ZERO	ZERO	f0.h:a	f0	h	a	2077	
+sumbawa	kerekkure	0200	beru	just	other	other				
+sumbawa	kerekkure	0200	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0200	ai	water	np:p	np		p	2075	
+sumbawa	kerekkure	0200	%	%	%	%				
+sumbawa	kerekkure	0200	dengan	company	np.h:s	np	h	s	2078	bridging
+sumbawa	kerekkure	0200	serèa	all	other	other				
+sumbawa	kerekkure	0200	boè	gone	lv	lv				
+sumbawa	kerekkure	0200	belangan	walk	v:pred	v		pred		
+sumbawa	kerekkure	0200	%	%	%	%				
+sumbawa	kerekkure	0200	#	#	#neg	#neg				
+sumbawa	kerekkure	0200	ZERO	ZERO	0.h:s	0	h	s	2077	
+sumbawa	kerekkure	0200	nó	NEG	lv	lv				
+sumbawa	kerekkure	0200	bau	can	lv_v	lv_v				
+sumbawa	kerekkure	0200	sentèk	put.on	v:pred	v		pred		
+sumbawa	kerekkure	0200	periuk	bucket	np:p	np		p	2079	new
+sumbawa	kerekkure	0200	%	%	%	%				
+sumbawa	kerekkure	0201	#	#	#nc	#nc				
+sumbawa	kerekkure	0201	ember	bucket	nc	nc				
+sumbawa	kerekkure	0201	untuk	for	nc	nc				
+sumbawa	kerekkure	0201	tempat	place	nc	nc				
+sumbawa	kerekkure	0201	ai	water	nc	nc				
+sumbawa	kerekkure	0201	periuk	bucket	nc	nc				
+sumbawa	kerekkure	0201	ling	by	nc	nc				
+sumbawa	kerekkure	0201	Basa	language	nc	nc				
+sumbawa	kerekkure	0201	Samawa	Samawa	nc	nc				
+sumbawa	kerekkure	0201	nè	ITJ	nc	nc				
+sumbawa	kerekkure	0201	%	%	%	%				
+sumbawa	kerekkure	0201	#	#	#nc	#nc				
+sumbawa	kerekkure	0201	ka	PST	nc	nc				
+sumbawa	kerekkure	0201	si	DM	nc	nc				
+sumbawa	kerekkure	0201	gita	look	nc	nc				
+sumbawa	kerekkure	0201	periuk	bucket	nc	nc				
+sumbawa	kerekkure	0201	kau	2SG	nc	nc				
+sumbawa	kerekkure	0201	%	%	%	%				
+sumbawa	kerekkure	0201	#	#	#nc	#nc				
+sumbawa	kerekkure	0201	ZERO	ZERO	nc	nc				
+sumbawa	kerekkure	0201	ka=tana	PST=clay	nc	nc				
+sumbawa	kerekkure	0201	nè	ITJ	nc	nc				
+sumbawa	kerekkure	0201	%	%	%	%				
+sumbawa	kerekkure	0201	#	#	#nc	#nc				
+sumbawa	kerekkure	0201	ZERO	ZERO	nc	nc				
+sumbawa	kerekkure	0201	ka	PST	nc	nc				
+sumbawa	kerekkure	0201	si	DM	nc	nc				
+sumbawa	kerekkure	0201	%	%	%	%				
+sumbawa	kerekkure	0202	#	#	#neg	#neg				
+sumbawa	kerekkure	0202	nó	NEG	lv	lv				
+sumbawa	kerekkure	0202	bau	can	lv_v	lv_v				
+sumbawa	kerekkure	0202	sentèk	put.on	v:pred	v		pred		
+sumbawa	kerekkure	0202	periuk	bucket	np:p	np		p	2079	
+sumbawa	kerekkure	0202	tódé	child	np.h:s	np	h	s	2077	
+sumbawa	kerekkure	0202	#	#	#rc	#rc				
+sumbawa	kerekkure	0202	ZERO	ZERO	f0.h:a	f0	h	a	2077	
+sumbawa	kerekkure	0202	dè	REL	other	other				
+sumbawa	kerekkure	0202	datang	come	lv_v	lv_v				
+sumbawa	kerekkure	0202	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0202	ai	water	np:p	np		p	2075	
+sumbawa	kerekkure	0202	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0202	%	%	%	%				
+sumbawa	kerekkure	0202	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	kerekkure	0202	%	%	%	%				
+sumbawa	kerekkure	0203	#	#	#ds	#ds				
+sumbawa	kerekkure	0203	ZERO	ZERO	0.1:a	0	1	a	2077	
+sumbawa	kerekkure	0203	wé	ITJ	other	other				
+sumbawa	kerekkure	0203	ba	ITJ	other	other				
+sumbawa	kerekkure	0203	ngènèng	ask.for	v:pred	v		pred		
+sumbawa	kerekkure	0203	tulung	help	np:p	np		p		
+sumbawa	kerekkure	0203	mo	DM	rv	rv				
+sumbawa	kerekkure	0203	mas	brother	np.h:voc	np	h	voc	2001	
+sumbawa	kerekkure	0203	mbao	above	np:l	np		l		
+sumbawa	kerekkure	0203	aku	1SG	rn_pro.1:poss	rn_pro	1	poss	2077	
+sumbawa	kerekkure	0203	%	%	%	%				
+sumbawa	kerekkure	0203	#	#	#ds	#ds				
+sumbawa	kerekkure	0203	ba	ITJ	other	other				
+sumbawa	kerekkure	0203	i	ITJ	other	other				
+sumbawa	kerekkure	0203	ta	DEM_P	other	other				
+sumbawa	kerekkure	0203	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0203	kena	destination	np:s	np		s		
+sumbawa	kerekkure	0203	mbao	above	np:l	np		l		
+sumbawa	kerekkure	0203	%	%	%	%				
+sumbawa	kerekkure	0203	#	#	#ds	#ds				
+sumbawa	kerekkure	0203	ya=	FUT=	=lv	=lv				
+sumbawa	kerekkure	0203	ku=	1SG=	=pro.1:s	=pro	1	s	2077	
+sumbawa	kerekkure	0203	ano	day	nc	nc				
+sumbawa	kerekkure	0203	paning	give.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0203	ano	day	other	other				
+sumbawa	kerekkure	0203	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0203	nè	ITJ	other	other				
+sumbawa	kerekkure	0203	%	%	%	%				
+sumbawa	kerekkure	0204	#	#	#ds	#ds				
+sumbawa	kerekkure	0204	mudi	later	other	other				
+sumbawa	kerekkure	0204	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0204	luk	way	np:s	np		s		
+sumbawa	kerekkure	0204	cara	way	rn	rn				
+sumbawa	kerekkure	0204	maning	have.a.shower	rn	rn				
+sumbawa	kerekkure	0204	%	%	%	%				
+sumbawa	kerekkure	0205	#	#	#ds	#ds				
+sumbawa	kerekkure	0205	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0205	ZERO	ZERO	0.1:a	0	1	a	2077	
+sumbawa	kerekkure	0205	ZERO	ZERO	0.h:p	0	h	p	2020	
+sumbawa	kerekkure	0205	beru	after	other	other				
+sumbawa	kerekkure	0205	paning	give.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0205	nan	DEM_M	other	other				
+sumbawa	kerekkure	0205	%	%	%	%				
+sumbawa	kerekkure	0205	ZERO	ZERO	0:p	0		p	2075	
+sumbawa	kerekkure	0205	turis	then	other	other				
+sumbawa	kerekkure	0205	tu=	1PL=	=pro.1:a	=pro	1	a	2077	
+sumbawa	kerekkure	0205	ulèng	open	v:pred	v		pred		
+sumbawa	kerekkure	0205	ka=kalis	from	adp	adp				
+sumbawa	kerekkure	0205	periuk	bucket	np:l	np		l	2079	
+sumbawa	kerekkure	0205	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0205	kó	to	adp	adp				
+sumbawa	kerekkure	0205	bao	above	np:l	np		l		
+sumbawa	kerekkure	0205	ótak	head	rn_np	rn_np			2080	new
+sumbawa	kerekkure	0205	ne	ITJ	other	other				
+sumbawa	kerekkure	0205	%	%	%	%				
+sumbawa	kerekkure	0205	#	#	#ds	#ds				
+sumbawa	kerekkure	0205	ZERO	ZERO	0.h:a	0	h	a	2077	
+sumbawa	kerekkure	0205	ZERO	ZERO	0.h:p	0	h	p	2020	
+sumbawa	kerekkure	0205	paning	give.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0205	%	%	%	%				
+sumbawa	kerekkure	0206	#	#	#	#				
+sumbawa	kerekkure	0206	dadi	then	other	other				
+sumbawa	kerekkure	0206	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0206	sisin	ring	np:p	np		p	2065	
+sumbawa	kerekkure	0206	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0206	ling	by	adp	adp				
+sumbawa	kerekkure	0206	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0206	Kerèk-kurè	Kerek-kure	pn_np.h:a_ling	pn_np	h	a_ling	2001	
+sumbawa	kerekkure	0206	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0206	%	%	%	%				
+sumbawa	kerekkure	0206	#	#	#	#				
+sumbawa	kerekkure	0206	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0206	ZERO	ZERO	0:p	0		p	2065	
+sumbawa	kerekkure	0206	setama	put.on	v:pred	v		pred		
+sumbawa	kerekkure	0206	dalam	inside	np:p	np		p		
+sumbawa	kerekkure	0206	periuk	bucket	rn_np	rn_np			2079	
+sumbawa	kerekkure	0206	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0206	%	%	%	%				
+sumbawa	kerekkure	0206	#	#	#	#				
+sumbawa	kerekkure	0206	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0206	ZERO	ZERO	0:p	0		p	2065	
+sumbawa	kerekkure	0206	sentèk	put.on	v:pred	v		pred		
+sumbawa	kerekkure	0206	bao	above	np:l	np		l		
+sumbawa	kerekkure	0206	ótak	head	rn_np	rn_np			2080	
+sumbawa	kerekkure	0206	nya	3	rn_pro.h:poss	rn_pro	h	poss	2077	
+sumbawa	kerekkure	0206	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0206	tódé	child	np.h:appos	np	h	appos	2077	
+sumbawa	kerekkure	0206	dadara	maiden	rn	rn				
+sumbawa	kerekkure	0206	#	#	#rc	#rc				
+sumbawa	kerekkure	0206	ZERO	ZERO	f0.h:a	f0	h	a	2077	
+sumbawa	kerekkure	0206	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0206	ai	water	np:p	np		p	2075	
+sumbawa	kerekkure	0206	%	%	%	%				
+sumbawa	kerekkure	0206	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0206	è	ITJ	other	other				
+sumbawa	kerekkure	0206	%	%	%	%				
+sumbawa	kerekkure	0207	#	#	#	#				
+sumbawa	kerekkure	0207	ZERO	ZERO	0.h:s	0	h	s	2077	
+sumbawa	kerekkure	0207	dapat	arrive	v:pred	v		pred		
+sumbawa	kerekkure	0207	ana	DEM_D	dem_pro:l	dem_pro		l		
+sumbawa	kerekkure	0207	mo	DM	other	other				
+sumbawa	kerekkure	0207	%	%	%	%				
+sumbawa	kerekkure	0207	#	#	#	#				
+sumbawa	kerekkure	0207	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0207	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0207	mo	DM	rv	rv				
+sumbawa	kerekkure	0207	%	%	%	%				
+sumbawa	kerekkure	0207	#	#	#	#				
+sumbawa	kerekkure	0207	serèa	all	np.h:a	np	h	a	2071	
+sumbawa	kerekkure	0207	#	#	#rc	#rc				
+sumbawa	kerekkure	0207	ZERO	ZERO	f0.h:s	f0	h	s	2071	
+sumbawa	kerekkure	0207	beru	just	other	other				
+sumbawa	kerekkure	0207	dapat	arrive	v:pred	v		pred		
+sumbawa	kerekkure	0207	%	%	%	%				
+sumbawa	kerekkure	0207	turin	put.down	v:pred	v		pred		
+sumbawa	kerekkure	0207	turin	put.down	nc	nc				
+sumbawa	kerekkure	0207	turin	put.down	nc	nc				
+sumbawa	kerekkure	0207	ai	water	np:p	np		p	2075	
+sumbawa	kerekkure	0207	nè	ITJ	other	other				
+sumbawa	kerekkure	0207	%	%	%	%				
+sumbawa	kerekkure	0207	#	#	#	#				
+sumbawa	kerekkure	0207	nya	3	pro.h:s	pro	h	s	2077	
+sumbawa	kerekkure	0207	terahir	the.last	v:pred	v		pred		
+sumbawa	kerekkure	0207	kan	you.know	other	other				
+sumbawa	kerekkure	0207	%	%	%	%				
+sumbawa	kerekkure	0208	#	#	#	#				
+sumbawa	kerekkure	0208	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0208	sang	sang	other	other				
+sumbawa	kerekkure	0208	%	%	%	%				
+sumbawa	kerekkure	0208	ning	words	np:s	np		s		
+sumbawa	kerekkure	0208	%	%	%	%				
+sumbawa	kerekkure	0209	#	#	#	#				
+sumbawa	kerekkure	0209	kan	you.know	other	other				
+sumbawa	kerekkure	0209	ZERO	ZERO	0:s	0		s	2065	
+sumbawa	kerekkure	0209	sisin	ring	np:pred	np		pred		
+sumbawa	kerekkure	0209	mas	gold	rn	rn				
+sumbawa	kerekkure	0209	%	%	%	%				
+sumbawa	kerekkure	0209	#	#	#	#				
+sumbawa	kerekkure	0209	ZERO	ZERO	0:s	0		s	2065	
+sumbawa	kerekkure	0209	lamin	if	other	other				
+sumbawa	kerekkure	0209	kena	hit	v:pred	v		pred		
+sumbawa	kerekkure	0209	kè	to	adp	adp				
+sumbawa	kerekkure	0209	anong	what's.it.called	np.h:obl	np	h	obl	2077	
+sumbawa	kerekkure	0209	kan	you.know	nc	nc				
+sumbawa	kerekkure	0209	%	%	%	%				
+sumbawa	kerekkure	0210	#	#	#	#				
+sumbawa	kerekkure	0210	#	#	#ac	#ac				
+sumbawa	kerekkure	0210	kalau	if	other	other				
+sumbawa	kerekkure	0210	ZERO	ZERO	0:s	0		s	2065	
+sumbawa	kerekkure	0210	sing	sing	other:pred	other		pred		
+sumbawa	kerekkure	0210	%	%	%	%				
+sumbawa	kerekkure	0210	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0210	i	i	other	other				
+sumbawa	kerekkure	0210	apa	what	np:pred	np		pred		
+sumbawa	kerekkure	0210	dènan	DEM_M	dem_pro:s	dem_pro		s	2103	new
+sumbawa	kerekkure	0210	apa	what	nc	nc				
+sumbawa	kerekkure	0210	dènan	DEM_M	nc	nc				
+sumbawa	kerekkure	0210	nè	ITJ	other	other				
+sumbawa	kerekkure	0210	%	%	%	%				
+sumbawa	kerekkure	0210	ling	word	np:s	np		s		
+sumbawa	kerekkure	0210	lala	princess	rn_np.h:poss	rn_np	h	poss	2020	
+sumbawa	kerekkure	0210	maning	have.a.shower	rn	rn				
+sumbawa	kerekkure	0210	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0210	è	ITJ	other	other				
+sumbawa	kerekkure	0210	%	%	%	%				
+sumbawa	kerekkure	0211	#	#	#	#				
+sumbawa	kerekkure	0211	ZERO	ZERO	0.h:a	0	h	a	2020	
+sumbawa	kerekkure	0211	ba	ITJ	other	other				
+sumbawa	kerekkure	0211	gita-gita	see.rdpl	v:pred	v		pred		
+sumbawa	kerekkure	0211	mo	DM	rv	rv				
+sumbawa	kerekkure	0211	sisin	ring	np:p	np		p	2065	
+sumbawa	kerekkure	0211	%	%	%	%				
+sumbawa	kerekkure	0211	#	#	#	#				
+sumbawa	kerekkure	0211	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0211	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0211	dèta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	kerekkure	0211	ne	ITJ	other	other				
+sumbawa	kerekkure	0211	%	%	%	%				
+sumbawa	kerekkure	0211	#	#	#ds	#ds				
+sumbawa	kerekkure	0211	kuda	why	other	other				
+sumbawa	kerekkure	0211	sisin	ring	np:pred	np		pred	2065	
+sumbawa	kerekkure	0211	kaku	1SG.poss	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0211	dèta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	kerekkure	0211	%	%	%	%				
+sumbawa	kerekkure	0211	ling	words	np:s	np		s		
+sumbawa	kerekkure	0211	%	%	%	%				
+sumbawa	kerekkure	0212	#	#	#	#				
+sumbawa	kerekkure	0212	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0212	sisin	ring	np:pred	np		pred	2065	
+sumbawa	kerekkure	0212	kaku	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0212	dèta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	kerekkure	0212	%	%	%	%				
+sumbawa	kerekkure	0212	ling	word	np:s	np		s		
+sumbawa	kerekkure	0212	#	#	#ds	#ds				
+sumbawa	kerekkure	0212	sai	who	np.h:s	np	h	s		
+sumbawa	kerekkure	0212	ada	exist	v:pred	v		pred		
+sumbawa	kerekkure	0212	pang	at	adp	adp				
+sumbawa	kerekkure	0212	buin	well	np:l	np		l	2070	
+sumbawa	kerekkure	0212	nè	ITJ	other	other				
+sumbawa	kerekkure	0212	ita	a.while.ago	other	other				
+sumbawa	kerekkure	0212	nè	ITJ	other	other				
+sumbawa	kerekkure	0212	#	#	#ds_ac	#ds_ac				
+sumbawa	kerekkure	0212	ZERO	ZERO	0.2:a	0	2	a	2071	
+sumbawa	kerekkure	0212	pang	place	other	other				
+sumbawa	kerekkure	0212	sama	same	other	other				
+sumbawa	kerekkure	0212	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0212	ai	water	np:p	np		p	2075	
+sumbawa	kerekkure	0212	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0212	nè	ITJ	other	other				
+sumbawa	kerekkure	0212	%	%	%	%				
+sumbawa	kerekkure	0212	%	%	%	%				
+sumbawa	kerekkure	0212	%	%	%	%				
+sumbawa	kerekkure	0213	#	#	#	#				
+sumbawa	kerekkure	0213	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0213	wo	ITJ	other	other				
+sumbawa	kerekkure	0213	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0213	tau	person	np.h:s	np	h	s	2001	
+sumbawa	kerekkure	0213	selaki	man	rn	rn				
+sumbawa	kerekkure	0213	%	%	%	%				
+sumbawa	kerekkure	0213	ling	by	np:s	np		s		
+sumbawa	kerekkure	0213	%	%	%	%				
+sumbawa	kerekkure	0214	#	#	#	#				
+sumbawa	kerekkure	0214	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0214	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0214	tau	person	np.h:s	np	h	s	2001	
+sumbawa	kerekkure	0214	selaki	man	rn	rn				
+sumbawa	kerekkure	0214	%	%	%	%				
+sumbawa	kerekkure	0214	ling	by	np:s	np		s		
+sumbawa	kerekkure	0214	%	%	%	%				
+sumbawa	kerekkure	0215	#	#	#	#				
+sumbawa	kerekkure	0215	#	#	#ds_cc.neg:pred	#ds_cc.neg		pred		
+sumbawa	kerekkure	0215	engka	NEG.PST	lv	lv				
+sumbawa	kerekkure	0215	k=	1SG=	=pro.1:s	=pro	1	s	2077	
+sumbawa	kerekkure	0215	bau	can	lv_v	lv_v				
+sumbawa	kerekkure	0215	sentèk	put.on	v:pred	v		pred		
+sumbawa	kerekkure	0215	periuk	bucket	np:p	np		p	2079	
+sumbawa	kerekkure	0215	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2077	
+sumbawa	kerekkure	0215	%	%	%	%				
+sumbawa	kerekkure	0215	ling	words	np:s	np		s		
+sumbawa	kerekkure	0215	%	%	%	%				
+sumbawa	kerekkure	0216	#	#	#	#				
+sumbawa	kerekkure	0216	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0216	karing	then	other	other				
+sumbawa	kerekkure	0216	k=	1sg=	=pro.1:a	=pro	1	a	2077	
+sumbawa	kerekkure	0216	ngènèng	ANTIP.ask.for	v:pred	v		pred		
+sumbawa	kerekkure	0216	tulung	help	np:p	np		p		
+sumbawa	kerekkure	0216	mo	DM	rn	rn				
+sumbawa	kerekkure	0216	#	#	#ds_cc	#ds_cc				
+sumbawa	kerekkure	0216	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0216	sentèk	put.on	v:pred	v		pred		
+sumbawa	kerekkure	0216	periuk	bucket	np:p	np		p	2079	
+sumbawa	kerekkure	0216	aku	1SG	rn_pro.1:poss	rn_pro	1	poss	2077	
+sumbawa	kerekkure	0216	%	%	%	%				
+sumbawa	kerekkure	0216	%	%	%	%				
+sumbawa	kerekkure	0216	ling	words	np:s	np		s		
+sumbawa	kerekkure	0216	nya	3	rn_pro.h:poss	rn_pro	h	poss	2077	
+sumbawa	kerekkure	0216	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0216	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	kerekkure	0216	%	%	%	%				
+sumbawa	kerekkure	0217	#	#	#	#				
+sumbawa	kerekkure	0217	#	#	#ds_cc.neg:pred	#ds_cc.neg		pred		
+sumbawa	kerekkure	0217	nongka	NEG.PST	lv	lv				
+sumbawa	kerekkure	0217	ku=	1SG=	=pro.1:a	=pro	1	a	2077	
+sumbawa	kerekkure	0217	tó	know	v:pred	v		pred		
+sumbawa	kerekkure	0217	ling	words	other	other				
+sumbawa	kerekkure	0217	#	#	#ds_cc:p	#ds_cc		p		
+sumbawa	kerekkure	0217	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0217	luk	way	other	other				
+sumbawa	kerekkure	0217	ka=satama	PST=put.in	v:pred	v		pred		
+sumbawa	kerekkure	0217	sisin	ring	np:p	np		p	2065	
+sumbawa	kerekkure	0217	dalam	inside	adp	adp				
+sumbawa	kerekkure	0217	periuk	bucket	np:l	np		l	2079	
+sumbawa	kerekkure	0217	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0217	%	%	%	%				
+sumbawa	kerekkure	0217	%	%	%	%				
+sumbawa	kerekkure	0217	ling	words	np:s	np		s		
+sumbawa	kerekkure	0217	%	%	%	%				
+sumbawa	kerekkure	0218	#	#	#	#				
+sumbawa	kerekkure	0218	karing	then	other	other				
+sumbawa	kerekkure	0218	kaampahan	coincidence	np:pred	np		pred		
+sumbawa	kerekkure	0218	ni	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	kerekkure	0218	kau	2SG	pro.2:voc	pro	2	voc		
+sumbawa	kerekkure	0218	nè	ITJ	other	other				
+sumbawa	kerekkure	0218	è	ITJ	other	other				
+sumbawa	kerekkure	0218	cerita	story	np:dt	np		dt		
+sumbawa	kerekkure	0218	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0218	è	ITJ	other	other				
+sumbawa	kerekkure	0218	%	%	%	%				
+sumbawa	kerekkure	0219	#	#	#ds.neg	#ds.neg				
+sumbawa	kerekkure	0219	engka	NEG.PST	lv	lv				
+sumbawa	kerekkure	0219	k=	1SG=	=pro.1:s	=pro	1	s	2077	
+sumbawa	kerekkure	0219	bau	can	lv_v	lv_v				
+sumbawa	kerekkure	0219	sentèk	put.on	v:pred	v		pred		
+sumbawa	kerekkure	0219	periuk	bucket	np:p	np		p	2079	
+sumbawa	kerekkure	0219	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0219	nè	ITJ	other	other				
+sumbawa	kerekkure	0219	aku	1SG	pro.1:dt	pro	1	dt	2077	
+sumbawa	kerekkure	0219	%	%	%	%				
+sumbawa	kerekkure	0219	#	#	#ds	#ds				
+sumbawa	kerekkure	0219	ZERO	ZERO	0.1:a	0	1	a	2077	
+sumbawa	kerekkure	0219	ZERO	ZERO	0:p	0		p	2079	
+sumbawa	kerekkure	0219	karing	then	other	other				
+sumbawa	kerekkure	0219	saturin	put.down	v:pred	v		pred		
+sumbawa	kerekkure	0219	mo	DM	other	other				
+sumbawa	kerekkure	0219	%	%	%	%				
+sumbawa	kerekkure	0220	#	#	#ds	#ds				
+sumbawa	kerekkure	0220	ZERO	ZERO	0.h:a	0	h	a	2077	
+sumbawa	kerekkure	0220	ZERO	ZERO	0:p	0		p	2075	
+sumbawa	kerekkure	0220	selis	put.out	v:pred	v		pred		
+sumbawa	kerekkure	0220	mo	DM	other	other				
+sumbawa	kerekkure	0220	%	%	%	%				
+sumbawa	kerekkure	0220	#	#	#ds	#ds				
+sumbawa	kerekkure	0220	kirakira	maybe	other	other				
+sumbawa	kerekkure	0220	nya	3	pro.h:a	pro	h	a	2001	
+sumbawa	kerekkure	0220	ka=satama	PST=put.in	v:pred	v		pred		
+sumbawa	kerekkure	0220	sisin	ring	np:p	np		p	2065	
+sumbawa	kerekkure	0220	kó	to	adp	adp				
+sumbawa	kerekkure	0220	dalam	inside	np:g	np		g		
+sumbawa	kerekkure	0220	dèta	DEM_P	rn_dem_pro	rn_dem_pro				
+sumbawa	kerekkure	0220	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0220	%	%	%	%				
+sumbawa	kerekkure	0221	#	#	#	#				
+sumbawa	kerekkure	0221	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0221	ZERO	ZERO	0.2:s	0	2	s	2071	
+sumbawa	kerekkure	0221	ZERO	ZERO	0.h:p	0	h	p	2001	
+sumbawa	kerekkure	0221	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0221	sama	same	other	other				
+sumbawa	kerekkure	0221	kelèk	call	v:pred	v		pred		
+sumbawa	kerekkure	0221	mo	DM	other	other				
+sumbawa	kerekkure	0221	%	%	%	%				
+sumbawa	kerekkure	0221	#	#	#ds	#ds				
+sumbawa	kerekkure	0221	ZERO	ZERO	0.1:s	0	1	s	2020	
+sumbawa	kerekkure	0221	ZERO	ZERO	0.h:obl	0	h	obl	2001	
+sumbawa	kerekkure	0221	dadi	then	other	other				
+sumbawa	kerekkure	0221	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0221	tó	now	other	other				
+sumbawa	kerekkure	0221	%	%	%	%				
+sumbawa	kerekkure	0221	ling	words	np:s	np		s		
+sumbawa	kerekkure	0222	#	#	#ds	#ds				
+sumbawa	kerekkure	0222	ZERO	ZERO	0.2:a	0	2	a	2071	
+sumbawa	kerekkure	0222	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0222	sama	same	other	other				
+sumbawa	kerekkure	0222	kelèk	call	v:pred	v		pred		
+sumbawa	kerekkure	0222	nya	3	pro.h:p	pro	h	p	2001	
+sumbawa	kerekkure	0222	mo	DM	rn	rn				
+sumbawa	kerekkure	0222	%	%	%	%				
+sumbawa	kerekkure	0222	#	#	#ds	#ds				
+sumbawa	kerekkure	0222	ZERO	ZERO	0.1:s	0	1	s	2020	
+sumbawa	kerekkure	0222	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0222	berema	together	other	other				
+sumbawa	kerekkure	0222	kè	with	adp	adp				
+sumbawa	kerekkure	0222	nya	3	pro.h:obl	pro	h	obl	2001	
+sumbawa	kerekkure	0222	%	%	%	%				
+sumbawa	kerekkure	0223	#	#	#ds	#ds				
+sumbawa	kerekkure	0223	nan	DEM_M	dem_pro.h:s	dem_pro	h	s	2001	
+sumbawa	kerekkure	0223	nya	3	pro.h:appos	pro	h	appos		
+sumbawa	kerekkure	0223	ka=selaki	PST=husband	np.h:pred	np	h	pred		
+sumbawa	kerekkure	0223	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0223	pang	at	rn	rn				
+sumbawa	kerekkure	0223	Dadap	Dadap	rn_pn_np	rn_pn_np			2004	
+sumbawa	kerekkure	0223	selaki	man	np.h:appos	np	h	appos		
+sumbawa	kerekkure	0223	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0223	pang	at	rn	rn				
+sumbawa	kerekkure	0223	Dadap	Dadap	rn_pn_np	rn_pn_np			2004	
+sumbawa	kerekkure	0223	%	%	%	%				
+sumbawa	kerekkure	0223	%	%	%	%				
+sumbawa	kerekkure	0224	#	#	#	#				
+sumbawa	kerekkure	0224	ZERO	ZERO	0.h:a	0	h	a	2071	
+sumbawa	kerekkure	0224	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0224	kelèk	call	v:pred	v		pred		
+sumbawa	kerekkure	0224	mo	DM	rv	rv				
+sumbawa	kerekkure	0224	tau	person	np.h:p	np	h	p	2001	
+sumbawa	kerekkure	0224	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0224	%	%	%	%				
+sumbawa	kerekkure	0224	#	#	#	#				
+sumbawa	kerekkure	0224	ZERO	ZERO	0.h:a	0	h	a	2071	
+sumbawa	kerekkure	0224	ZERO	ZERO	0.h:p	0	h	p	2001	
+sumbawa	kerekkure	0224	bawa	bring	v:pred	v		pred		
+sumbawa	kerekkure	0224	kota	to.here	dem_pro:g	dem_pro		g		
+sumbawa	kerekkure	0224	%	%	%	%				
+sumbawa	kerekkure	0225	#	#	#ds	#ds				
+sumbawa	kerekkure	0225	wé	ITJ	other	other				
+sumbawa	kerekkure	0225	aku	1SG	pro.1:s	pro	1	s	2001	
+sumbawa	kerekkure	0225	tengan	brave	v:pred	v		pred		
+sumbawa	kerekkure	0225	ké	Q	other	other				
+sumbawa	kerekkure	0225	aku	1SG	pro.1:dt	pro	1	dt	2001	
+sumbawa	kerekkure	0225	%	%	%	%				
+sumbawa	kerekkure	0225	#	#	#ds	#ds				
+sumbawa	kerekkure	0225	aku	1SG	pro.1:dt	pro	1	dt	2001	
+sumbawa	kerekkure	0225	ta-ta-rua	like.this	rn	rn				
+sumbawa	kerekkure	0225	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0225	luk	way	np:s	np		s		
+sumbawa	kerekkure	0225	#	#	#ds_rc	#ds_rc				
+sumbawa	kerekkure	0225	ku=	1SG=	=pro.1:s	=pro	1	s	2001	
+sumbawa	kerekkure	0225	laló	go	v:pred	v		pred		
+sumbawa	kerekkure	0225	kó	to	adp	adp				
+sumbawa	kerekkure	0225	balé	house	np:g	np		g	2081	new
+sumbawa	kerekkure	0225	datu	king	rn_np.h:poss	rn_np	h	poss	2082	new
+sumbawa	kerekkure	0225	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0225	ZERO	ZERO	f0:other	f0		other		
+sumbawa	kerekkure	0225	nè	ITJ	other	other				
+sumbawa	kerekkure	0225	%	%	%	%				
+sumbawa	kerekkure	0225	%	%	%	%				
+sumbawa	kerekkure	0226	#	#	#	#				
+sumbawa	kerekkure	0226	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0226	apa	because	other	other				
+sumbawa	kerekkure	0226	mara	like	adp	adp				
+sumbawa	kerekkure	0226	ling	words	np:other	np		other		
+sumbawa	kerekkure	0226	nènè	2PL	rn_pro.2:poss	rn_pro	2	poss		
+sumbawa	kerekkure	0226	ita	a.while.ago	rn	rn				
+sumbawa	kerekkure	0226	=nan.luk	=that.way	=rn	=rn				
+sumbawa	kerekkure	0226	ka=ilang	PST=lost	v:pred	v		pred		
+sumbawa	kerekkure	0226	putri	princess	np.h:s	np	h	s	2020	
+sumbawa	kerekkure	0226	kami	1PL	rn_pro.1:poss	rn_pro	1	poss	2071	
+sumbawa	kerekkure	0226	%	%	%	%				
+sumbawa	kerekkure	0226	#	#	#ds	#ds				
+sumbawa	kerekkure	0226	ZERO	ZERO	0.h:s	0	h	s	2020	
+sumbawa	kerekkure	0226	ka	PST	lv	lv				
+sumbawa	kerekkure	0226	mo	DM	lv	lv				
+sumbawa	kerekkure	0226	ada	exist	lv_v	lv_v				
+sumbawa	kerekkure	0226	mólé	come.home	v:pred	v		pred		
+sumbawa	kerekkure	0226	%	%	%	%				
+sumbawa	kerekkure	0226	ling	words	np:s	np		s		
+sumbawa	kerekkure	0226	%	%	%	%				
+sumbawa	kerekkure	0227	#	#	#	#				
+sumbawa	kerekkure	0227	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0227	dadi	then	other	other				
+sumbawa	kerekkure	0227	tó	now	other	other				
+sumbawa	kerekkure	0227	ya=	FUT=	=lv	=lv				
+sumbawa	kerekkure	0227	tu=	1PL=	=pro.1:a	=pro	1	a	2071	
+sumbawa	kerekkure	0227	paning	give.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0227	paning	shower	nc	nc				
+sumbawa	kerekkure	0227	bunga	flower	np:p	np		p	2076	
+sumbawa	kerekkure	0227	%	%	%	%				
+sumbawa	kerekkure	0227	ling	words	np:s	np		s		
+sumbawa	kerekkure	0228	#	#	#ds	#ds				
+sumbawa	kerekkure	0228	ZERO	ZERO	0.h:a	0	h	a	2071	
+sumbawa	kerekkure	0228	paning	give.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0228	paning	give.a.shower	nc	nc				
+sumbawa	kerekkure	0228	a	ITJ	nc	nc				
+sumbawa	kerekkure	0228	jeruk	citrus	np:p	np		p		
+sumbawa	kerekkure	0228	ai	water	ln	ln				
+sumbawa	kerekkure	0228	oram	k.o.flower	np:appos	np		appos	2076	
+sumbawa	kerekkure	0228	basa	language	np:other	np		other		
+sumbawa	kerekkure	0228	Samawa	Samawa	rn	rn				
+sumbawa	kerekkure	0228	%	%	%	%				
+sumbawa	kerekkure	0228	%	%	%	%				
+sumbawa	kerekkure	0229	#	#	#	#				
+sumbawa	kerekkure	0229	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0229	ZERO	ZERO	0.1:a	0	1	a	2071	
+sumbawa	kerekkure	0229	ZERO	ZERO	0.2:p	0	2	p	2001	
+sumbawa	kerekkure	0229	ètè	take	lv_v	lv_v				
+sumbawa	kerekkure	0229	paning	give.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0229	jerok	citrus	np:p2	np		p2		
+sumbawa	kerekkure	0229	ai	water	np:appos	np		appos	2076	
+sumbawa	kerekkure	0229	oram	k.o.flower	rn_np	rn_np				
+sumbawa	kerekkure	0229	%	%	%	%				
+sumbawa	kerekkure	0229	ling	words	np:s	np		s		
+sumbawa	kerekkure	0229	%	%	%	%				
+sumbawa	kerekkure	0230	#	#	#	#				
+sumbawa	kerekkure	0230	tegas	meaning	np:s	np		s		
+sumbawa	kerekkure	0230	paning	give.a.shower	rn	rn				
+sumbawa	kerekkure	0230	jerok	citrus	rn	rn				
+sumbawa	kerekkure	0230	ai	water	rn	rn				
+sumbawa	kerekkure	0230	oram	k.o.flower	rn_np	rn_np			2076	
+sumbawa	kerekkure	0230	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0230	si	DM	rn	rn				
+sumbawa	kerekkure	0230	#	#	#cc:pred	#cc		pred		
+sumbawa	kerekkure	0230	kalau	in	adp	adp				
+sumbawa	kerekkure	0230	pegantin	wedding	np:other	np		other		
+sumbawa	kerekkure	0230	mau	want	nc	nc				
+sumbawa	kerekkure	0230	kawin	marry	nc	nc				
+sumbawa	kerekkure	0230	itu	that	nc	nc				
+sumbawa	kerekkure	0230	ZERO	ZERO	0.h:a	0	h	a	2054	
+sumbawa	kerekkure	0230	mesti	have.to	other	other				
+sumbawa	kerekkure	0230	mandi	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0230	itu	DEM_M	np:p	np		p	2076	
+sumbawa	kerekkure	0230	%	%	%	%				
+sumbawa	kerekkure	0230	%	%	%	%				
+sumbawa	kerekkure	0231	#	#	#	#				
+sumbawa	kerekkure	0231	ZERO	ZERO	0.h:p	0	h	p	2001	
+sumbawa	kerekkure	0231	dadi	then	other	other				
+sumbawa	kerekkure	0231	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0231	kelèk	call	lv_v	lv_v				
+sumbawa	kerekkure	0231	ètè	take	v:pred	v		pred		
+sumbawa	kerekkure	0231	ling	by	adp	adp				
+sumbawa	kerekkure	0231	tau	person	np.h:a_ling	np	h	a_ling	2071	
+sumbawa	kerekkure	0231	%	%	%	%				
+sumbawa	kerekkure	0231	#	#	#	#				
+sumbawa	kerekkure	0231	o	o	other	other				
+sumbawa	kerekkure	0231	ZERO	ZERO	0.h:a	0	h	a	2071	
+sumbawa	kerekkure	0231	ZERO	ZERO	0.h:p	0	h	p	2001	
+sumbawa	kerekkure	0231	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0231	ètè	take	lv_v	lv_v				
+sumbawa	kerekkure	0231	bawa	bring	v:pred	v		pred		
+sumbawa	kerekkure	0231	%	%	%	%				
+sumbawa	kerekkure	0231	#	#	#	#				
+sumbawa	kerekkure	0231	ZERO	ZERO	0.h:s	0	h	s	2084	bridging
+sumbawa	kerekkure	0231	datang	come	v:pred	v		pred		
+sumbawa	kerekkure	0231	mo	DM	rv	rv				
+sumbawa	kerekkure	0231	%	%	%	%				
+sumbawa	kerekkure	0232	#	#	#ds	#ds				
+sumbawa	kerekkure	0232	wa	ITJ	other	other				
+sumbawa	kerekkure	0232	ya	yes	other	other				
+sumbawa	kerekkure	0232	si	DM	other	other				
+sumbawa	kerekkure	0232	ta	DEM_P	dem_pro.h:other	dem_pro	h	other		
+sumbawa	kerekkure	0232	selaki	man	np.h:pred	np	h	pred		
+sumbawa	kerekkure	0232	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	2020	
+sumbawa	kerekkure	0232	dèta	DEM_P	dem_pro.h:s	dem_pro	h	s	2001	
+sumbawa	kerekkure	0232	%	%	%	%				
+sumbawa	kerekkure	0232	#	#	#ds	#ds				
+sumbawa	kerekkure	0232	ZERO	ZERO	0.h:p	0	h	p	2001	
+sumbawa	kerekkure	0232	ka	PST	lv	lv				
+sumbawa	kerekkure	0232	mo	DM	lv	lv				
+sumbawa	kerekkure	0232	ku=	1SG=	=pro.1:s	=pro	1	s	2020	
+sumbawa	kerekkure	0232	nika	marry	v:pred	v		pred		
+sumbawa	kerekkure	0232	%	%	%	%				
+sumbawa	kerekkure	0232	#	#	#ds	#ds				
+sumbawa	kerekkure	0232	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0232	anak	child	np.h:s	np	h	s	2030	
+sumbawa	kerekkure	0232	sekodéng	one	rn	rn				
+sumbawa	kerekkure	0232	anak	child	np.h:dt	np	h	dt	2030	
+sumbawa	kerekkure	0232	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0232	%	%	%	%				
+sumbawa	kerekkure	0233	#	#	#	#				
+sumbawa	kerekkure	0233	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0233	ZERO	ZERO	0.1:s	0	1	s	2054	
+sumbawa	kerekkure	0233	ma	des	lv	lv				
+sumbawa	kerekkure	0233	mo	DM	lv	lv				
+sumbawa	kerekkure	0233	paning	give.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0233	berma	together	other	other				
+sumbawa	kerekkure	0233	%	%	%	%				
+sumbawa	kerekkure	0233	#	#	#ds.neg	#ds.neg				
+sumbawa	kerekkure	0233	nó	NEG	lv	lv				
+sumbawa	kerekkure	0233	ku=	1SG=	=pro.1:s	=pro	1	s	2020	
+sumbawa	kerekkure	0233	roa	want	lv_v	lv_v				
+sumbawa	kerekkure	0233	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0233	#	#	#ds_ac.neg	#ds_ac.neg				
+sumbawa	kerekkure	0233	ZERO	ZERO	0.1:s	0	1	s	2020	
+sumbawa	kerekkure	0233	nó	NEG	lv	lv				
+sumbawa	kerekkure	0233	berma	together	v:pred	v		pred		
+sumbawa	kerekkure	0233	kè	with	adp	adp				
+sumbawa	kerekkure	0233	nya	3	pro.h:obl	pro	h	obl	2001	
+sumbawa	kerekkure	0233	%	%	%	%				
+sumbawa	kerekkure	0233	%	%	%	%				
+sumbawa	kerekkure	0233	ling	words	np:s	np		s		
+sumbawa	kerekkure	0233	%	%	%	%				
+sumbawa	kerekkure	0233	#	#	#	#				
+sumbawa	kerekkure	0233	ZERO	ZERO	0.h:s	0	h	s	2054	
+sumbawa	kerekkure	0233	maning	have.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0233	mo	DM	other	other				
+sumbawa	kerekkure	0233	berma	together	other	other				
+sumbawa	kerekkure	0233	dua	two	np.h:dt	np	h	dt	2054	
+sumbawa	kerekkure	0233	%	%	%	%				
+sumbawa	kerekkure	0234	#	#	#	#				
+sumbawa	kerekkure	0234	#	#	#ac	#ac				
+sumbawa	kerekkure	0234	ZERO	ZERO	0.h:s	0	h	s	2054	
+sumbawa	kerekkure	0234	beru	after	other	other				
+sumbawa	kerekkure	0234	ka=paning	PST=give.a.shower	v:pred	v		pred		
+sumbawa	kerekkure	0234	nè	ITJ	other	other				
+sumbawa	kerekkure	0234	beru	after	nc	nc				
+sumbawa	kerekkure	0234	ka=paning	PST=have.a.shower	nc	nc				
+sumbawa	kerekkure	0234	nan	DEM_M	nc	nc				
+sumbawa	kerekkure	0234	%	%	%	%				
+sumbawa	kerekkure	0234	#	#	#ac	#ac				
+sumbawa	kerekkure	0234	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0234	karena	because	other	other				
+sumbawa	kerekkure	0234	kena	affected	v:pred	v		pred		
+sumbawa	kerekkure	0234	ai	water	np:other	np		other	2085	new
+sumbawa	kerekkure	0234	semacam	a.kind.of	ln	ln				
+sumbawa	kerekkure	0234	ai	water	np:appos	np		appos	2085	
+sumbawa	kerekkure	0234	berkat	blessing	rn	rn				
+sumbawa	kerekkure	0234	nè	ITJ	other	other				
+sumbawa	kerekkure	0234	ai	water	np:appos	np		appos	2085	
+sumbawa	kerekkure	0234	anong	what's.it.called	rn	rn				
+sumbawa	kerekkure	0234	%	%	%	%				
+sumbawa	kerekkure	0235	dadi	then	other	other				
+sumbawa	kerekkure	0235	lis	go.out	v:pred	v		pred		
+sumbawa	kerekkure	0235	caya	radiance	np:s	np		s	2086	new
+sumbawa	kerekkure	0235	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0235	Kerèk-kurè	Kerek-kure	pn_np.h:dt	pn_np	h	dt	2001	
+sumbawa	kerekkure	0235	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0235	%	%	%	%				
+sumbawa	kerekkure	0236	#	#	#	#				
+sumbawa	kerekkure	0236	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0236	malum	as.you.know	other	other				
+sumbawa	kerekkure	0236	ka=tedu	PST=stay	v:pred	v		pred		
+sumbawa	kerekkure	0236	dalam	inside	adp	adp				
+sumbawa	kerekkure	0236	keban	garden	np:l	np		l	2003	
+sumbawa	kerekkure	0236	%	%	%	%				
+sumbawa	kerekkure	0237	#	#	#	#				
+sumbawa	kerekkure	0237	ZERO	ZERO	0.h:a	0	h	a	2001	
+sumbawa	kerekkure	0237	pongo	pickle	v:pred	v		pred		
+sumbawa	kerekkure	0237	tima	bucket	np:p	np		p	2079	
+sumbawa	kerekkure	0237	ai	water	rn_np	rn_np			2075	
+sumbawa	kerekkure	0237	ragan	k.o.flower	rn	rn				
+sumbawa	kerekkure	0237	%	%	%	%				
+sumbawa	kerekkure	0237	#	#	#	#				
+sumbawa	kerekkure	0237	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0237	tentu	certain	other	other				
+sumbawa	kerekkure	0237	mo	DM	other	other				
+sumbawa	kerekkure	0237	kerék	dirty.skin	np:pred	np		pred	2105	bridging
+sumbawa	kerekkure	0237	ano	day	other	other				
+sumbawa	kerekkure	0237	gina	ITJ	other	other				
+sumbawa	kerekkure	0237	è	ITJ	other	other				
+sumbawa	kerekkure	0237	%	%	%	%				
+sumbawa	kerekkure	0238	#	#	#neg	#neg				
+sumbawa	kerekkure	0238	nó	NEG	other	other				
+sumbawa	kerekkure	0238	sebab	reason	other	other				
+sumbawa	kerekkure	0238	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0238	marua	looks.like	v:pred	v		pred		
+sumbawa	kerekkure	0238	#	#	#ac	#ac				
+sumbawa	kerekkure	0238	walaupun	although	other	other				
+sumbawa	kerekkure	0238	dèta	DEM_P	dem_pro.h:s	dem_pro	h	s	2001	
+sumbawa	kerekkure	0238	lalu	prince	np.h:pred	np	h	pred		
+sumbawa	kerekkure	0238	%	%	%	%				
+sumbawa	kerekkure	0238	%	%	%	%				
+sumbawa	kerekkure	0239	#	#	#	#				
+sumbawa	kerekkure	0239	pada	at	other	other				
+sumbawa	kerekkure	0239	umum	general	other	other				
+sumbawa	kerekkure	0239	lalu	prince	np.h:s	np	h	s	2001	
+sumbawa	kerekkure	0239	pang	in	rn	rn				
+sumbawa	kerekkure	0239	Samawa	Sumbawa	rn_pn_np	rn_pn_np				
+sumbawa	kerekkure	0239	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0239	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0239	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	kerekkure	0239	saman	time	rn	rn				
+sumbawa	kerekkure	0239	saman	time	rn	rn				
+sumbawa	kerekkure	0239	dunung	before	rn	rn				
+sumbawa	kerekkure	0239	kan	you.know	other	other				
+sumbawa	kerekkure	0239	musti	must	other	other				
+sumbawa	kerekkure	0239	tau	person	np:pred	np		pred		
+sumbawa	kerekkure	0239	balong-balong	good-good	rn	rn				
+sumbawa	kerekkure	0239	gera	gera	rn	rn				
+sumbawa	kerekkure	0239	nan	DEM_M	other	other				
+sumbawa	kerekkure	0239	luk	way	other	other				
+sumbawa	kerekkure	0239	na	ITJ	other	other				
+sumbawa	kerekkure	0239	%	%	%	%				
+sumbawa	kerekkure	0240	#	#	#	#				
+sumbawa	kerekkure	0240	dadi	then	other	other				
+sumbawa	kerekkure	0240	remalik	recover	v:pred	v		pred		
+sumbawa	kerekkure	0240	mo	DM	rv	rv				
+sumbawa	kerekkure	0240	kondisi	condition	np:s	np		s	2087	bridging
+sumbawa	kerekkure	0240	nya	3	rn_pro.h:poss	rn_pro	h	poss	2001	
+sumbawa	kerekkure	0240	kebali	again	other	other				
+sumbawa	kerekkure	0240	#	#	#ac	#ac				
+sumbawa	kerekkure	0240	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0240	setela	after	other	other				
+sumbawa	kerekkure	0240	kena	affected	v:pred	v		pred		
+sumbawa	kerekkure	0240	ai	water	np:other	np		other	2085	
+sumbawa	kerekkure	0240	ai	water	np:appos	np		appos	2085	
+sumbawa	kerekkure	0240	jerok	citrus	rn	rn				
+sumbawa	kerekkure	0240	ai	water	np:appos	np		appos	2085	
+sumbawa	kerekkure	0240	oram	k.o.flower	rn	rn				
+sumbawa	kerekkure	0240	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0240	%	%	%	%				
+sumbawa	kerekkure	0240	%	%	%	%				
+sumbawa	kerekkure	0241	#	#	#	#				
+sumbawa	kerekkure	0241	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0241	tedu	live	v:pred	v		pred		
+sumbawa	kerekkure	0241	mo	DM	rv	rv				
+sumbawa	kerekkure	0241	ninan	l.DEM_M	dem_pro:l	dem_pro		l	2060	
+sumbawa	kerekkure	0241	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0241	%	%	%	%				
+sumbawa	kerekkure	0242	#	#	#	#				
+sumbawa	kerekkure	0242	karing	then	other	other				
+sumbawa	kerekkure	0242	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	kerekkure	0242	ba	ITJ	other	other				
+sumbawa	kerekkure	0242	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0242	mé	which	nc	nc				
+sumbawa	kerekkure	0242	luk	way	np:s	np		s		
+sumbawa	kerekkure	0242	%	%	%	%				
+sumbawa	kerekkure	0242	ling	words	np:s	np		s		
+sumbawa	kerekkure	0242	%	%	%	%				
+sumbawa	kerekkure	0243	#	#	#	#				
+sumbawa	kerekkure	0243	ZERO	ZERO	0.h:s_ds	0	h	s_ds	2001	
+sumbawa	kerekkure	0243	beling	say	v:pred	v		pred		
+sumbawa	kerekkure	0243	#	#	#ac	#ac				
+sumbawa	kerekkure	0243	ZERO	ZERO	f0.h:s	f0	h	s	2001	
+sumbawa	kerekkure	0243	ka	PST	lv	lv				
+sumbawa	kerekkure	0243	mo	DM	lv	lv				
+sumbawa	kerekkure	0243	lé	long	v:pred	v		pred		
+sumbawa	kerekkure	0243	lé	long	nc	nc				
+sumbawa	kerekkure	0243	kirakira	maybe	other	other				
+sumbawa	kerekkure	0243	setahun	one.year	other	other				
+sumbawa	kerekkure	0243	dua	two	other	other				
+sumbawa	kerekkure	0243	sebulan	one.month	other	other				
+sumbawa	kerekkure	0243	dua	two	other	other				
+sumbawa	kerekkure	0243	pang	at	adp	adp				
+sumbawa	kerekkure	0243	ana	DEM_D	dem_pro:l	dem_pro		l	2060	
+sumbawa	kerekkure	0243	è	ITJ	other	other				
+sumbawa	kerekkure	0243	pang	at	adp	adp				
+sumbawa	kerekkure	0243	kayangan	heaven	np:l	np		l	2060	
+sumbawa	kerekkure	0243	nè	ITJ	other	other				
+sumbawa	kerekkure	0243	%	%	%	%				
+sumbawa	kerekkure	0243	%	%	%	%				
+sumbawa	kerekkure	0244	#	#	#ds	#ds				
+sumbawa	kerekkure	0244	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0244	luk	way	np:s	np		s		
+sumbawa	kerekkure	0244	%	%	%	%				
+sumbawa	kerekkure	0244	#	#	#	#				
+sumbawa	kerekkure	0244	#	#	#ds_cc.neg:pred	#ds_cc.neg		pred		
+sumbawa	kerekkure	0244	nó	NEG	lv	lv				
+sumbawa	kerekkure	0244	si	DM	lv	lv				
+sumbawa	kerekkure	0244	t=	1PL=	=pro.1:a	=pro	1	a	2054	
+sumbawa	kerekkure	0244	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0244	jango	visit	v:pred	v		pred		
+sumbawa	kerekkure	0244	anak	child	np.h:p	np	h	p	2030	
+sumbawa	kerekkure	0244	tu	1PL	rn_pro.1:poss	rn_pro	1	poss	2054	
+sumbawa	kerekkure	0244	kè	ITJ	other	other				
+sumbawa	kerekkure	0244	%	%	%	%				
+sumbawa	kerekkure	0244	ling	words	np:s	np		s		
+sumbawa	kerekkure	0244	selaki	man	rn_np.h:poss	rn_np	h	poss	2001	
+sumbawa	kerekkure	0244	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0244	ling	words	np:appos	np		appos		
+sumbawa	kerekkure	0244	#	#	#ds_rc	#ds_rc				
+sumbawa	kerekkure	0244	Kerèk-kure	Kerèk-kure	pn_np.h:a	pn_np	h	a	2001	
+sumbawa	kerekkure	0244	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0244	bling	say	v:pred	v		pred		
+sumbawa	kerekkure	0244	ZERO	ZERO	f0:p	f0		p		
+sumbawa	kerekkure	0244	kó	to	adp	adp				
+sumbawa	kerekkure	0244	soai	wife	np.h:g	np	h	g	2020	
+sumbawa	kerekkure	0244	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0244	%	%	%	%				
+sumbawa	kerekkure	0244	%	%	%	%				
+sumbawa	kerekkure	0245	#	#	#ds.neg	#ds.neg				
+sumbawa	kerekkure	0245	ba	ITJ	other	other				
+sumbawa	kerekkure	0245	nó	NEG	lv	lv				
+sumbawa	kerekkure	0245	k=	1SG=	=pro.1:s	=pro	1	s	2020	
+sumbawa	kerekkure	0245	bau	can	lv_v	lv_v				
+sumbawa	kerekkure	0245	laló	go	v:pred	v		pred		
+sumbawa	kerekkure	0245	aku	1SG	pro.1:dt	pro	1	dt	2020	
+sumbawa	kerekkure	0245	%	%	%	%				
+sumbawa	kerekkure	0246	#	#	#ds	#ds				
+sumbawa	kerekkure	0246	ZERO	ZERO	0.2:a	0	2	a	2001	
+sumbawa	kerekkure	0246	ma	DES	lv	lv				
+sumbawa	kerekkure	0246	bawa	bring	v:pred	v		pred		
+sumbawa	kerekkure	0246	dèta	DEM_P	dem_pro:p	dem_pro		p	2088	new
+sumbawa	kerekkure	0246	%	%	%	%				
+sumbawa	kerekkure	0247	#	#	#ds	#ds				
+sumbawa	kerekkure	0247	ZERO	ZERO	0.2:s	0	2	s	2001	
+sumbawa	kerekkure	0247	ma	DES	lv	lv				
+sumbawa	kerekkure	0247	laló	go	v:pred	v		pred		
+sumbawa	kerekkure	0247	mas	brother	np.h:voc	np	h	voc	2001	
+sumbawa	kerekkure	0247	%	%	%	%				
+sumbawa	kerekkure	0247	#	#	#ds	#ds				
+sumbawa	kerekkure	0247	ZERO	ZERO	0.2:a	0	2	a	2001	
+sumbawa	kerekkure	0247	óló-óló	put.redpl	v:pred	v		pred		
+sumbawa	kerekkure	0247	antat	deliver	lv_v	lv_v				
+sumbawa	kerekkure	0247	dèta	DEM_P	dem_pro:p	dem_pro		p	2088	
+sumbawa	kerekkure	0247	%	%	%	%				
+sumbawa	kerekkure	0247	#	#	#ds.neg	#ds.neg				
+sumbawa	kerekkure	0247	ba	ITJ	other	other				
+sumbawa	kerekkure	0247	aku	1SG	pro.1:dt	pro	1	dt	2001	
+sumbawa	kerekkure	0247	#	#	#ds_ac.neg	#ds_ac.neg				
+sumbawa	kerekkure	0247	a	ITJ	other	other				
+sumbawa	kerekkure	0247	nó	NEG	lv	lv				
+sumbawa	kerekkure	0247	si	DM	lv	lv				
+sumbawa	kerekkure	0247	laló	go	v:pred	v		pred		
+sumbawa	kerekkure	0247	kau	2SG	pro.2:s	pro	2	s	2020	
+sumbawa	kerekkure	0247	%	%	%	%				
+sumbawa	kerekkure	0247	ba	ITJ	other	other				
+sumbawa	kerekkure	0247	nó	NEG	lv	lv				
+sumbawa	kerekkure	0247	ku=	1SG=	=pro.1:s	=pro	1	s	2001	
+sumbawa	kerekkure	0247	laló	go	v:pred	v		pred		
+sumbawa	kerekkure	0247	aku	1SG	pro.1:dt	pro	1	dt	2001	
+sumbawa	kerekkure	0247	kona	to.DEM_D	dem_pro:g	dem_pro		g		
+sumbawa	kerekkure	0247	nè	ITJ	other	other				
+sumbawa	kerekkure	0247	%	%	%	%				
+sumbawa	kerekkure	0247	#	#	#ds	#ds				
+sumbawa	kerekkure	0247	aku	1SG	pro.1:s	pro	1	s	2001	
+sumbawa	kerekkure	0247	tedu	live	v:pred	v		pred		
+sumbawa	kerekkure	0247	kè	with	adp	adp				
+sumbawa	kerekkure	0247	kau	2SG	pro.2:obl	pro	2	obl	2020	
+sumbawa	kerekkure	0247	%	%	%	%				
+sumbawa	kerekkure	0247	#	#	#ds	#ds				
+sumbawa	kerekkure	0247	aku	1SG	pro.1:a	pro	1	a	2001	
+sumbawa	kerekkure	0247	beang	leave	v:pred	v		pred		
+sumbawa	kerekkure	0247	tódé	child	np.h:p	np	h	p	2030	
+sumbawa	kerekkure	0247	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0247	lala	princess	np.h:voc	np	h	voc	2020	
+sumbawa	kerekkure	0247	nè	ITJ	other	other				
+sumbawa	kerekkure	0247	%	%	%	%				
+sumbawa	kerekkure	0248	#	#	#ds	#ds				
+sumbawa	kerekkure	0248	ZERO	ZERO	0.1:a	0	1	a	2020	
+sumbawa	kerekkure	0248	ma=	DES=	=lv	=lv				
+sumbawa	kerekkure	0248	laló=	go=	=lv_v	=lv_v				
+sumbawa	kerekkure	0248	antat	deliver	v:pred	v		pred		
+sumbawa	kerekkure	0248	anong	what's.it.called	nc	nc				
+sumbawa	kerekkure	0248	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0248	kerè	cloth	np:p	np		p	2088	
+sumbawa	kerekkure	0248	lamong	clothes	rn	rn				
+sumbawa	kerekkure	0248	nè	ITJ	other	other				
+sumbawa	kerekkure	0248	kerè	cloth	nc	nc				
+sumbawa	kerekkure	0248	lamong	clothes	nc	nc				
+sumbawa	kerekkure	0248	%	%	%	%				
+sumbawa	kerekkure	0249	#	#	#	#				
+sumbawa	kerekkure	0249	dadi	then	other	other				
+sumbawa	kerekkure	0249	kerè	cloth	np:p	np		p		
+sumbawa	kerekkure	0249	lamong	clothes	rn	rn				
+sumbawa	kerekkure	0249	nya	3	np:appos	np		appos		
+sumbawa	kerekkure	0249	tu	1PL	pro.1:a	pro	1	a		
+sumbawa	kerekkure	0249	singin	name	v:pred	v		pred		
+sumbawa	kerekkure	0249	%	%	%	%				
+sumbawa	kerekkure	0250	#	#	#nc	#nc				
+sumbawa	kerekkure	0250	apa	what	nc	nc				
+sumbawa	kerekkure	0250	singinq	name	nc	nc				
+sumbawa	kerekkure	0250	#	#	#nc	#nc				
+sumbawa	kerekkure	0250	dè	REL	nc	nc				
+sumbawa	kerekkure	0250	pang=	at=	nc	nc				
+sumbawa	kerekkure	0250	Lape	Lape	nc	nc				
+sumbawa	kerekkure	0250	dè	REL	nc	nc				
+sumbawa	kerekkure	0250	=ana	=DEM_D	nc	nc				
+sumbawa	kerekkure	0250	%	%	%	%				
+sumbawa	kerekkure	0250	%	%	%	%				
+sumbawa	kerekkure	0251	#	#	#nc	#nc				
+sumbawa	kerekkure	0251	lamong	clothes	nc	nc				
+sumbawa	kerekkure	0251	%	%	%	%				
+sumbawa	kerekkure	0252	#	#	#nc	#nc				
+sumbawa	kerekkure	0252	e	ITJ	nc	nc				
+sumbawa	kerekkure	0252	ka=	PST=	nc	nc				
+sumbawa	kerekkure	0252	ku=	1SG=	nc	nc				
+sumbawa	kerekkure	0252	lupa	forget	nc	nc				
+sumbawa	kerekkure	0252	singin	name	nc	nc				
+sumbawa	kerekkure	0252	%	%	%	%				
+sumbawa	kerekkure	0253	#	#	#	#				
+sumbawa	kerekkure	0253	turin	come.down	v:pred	v		pred		
+sumbawa	kerekkure	0253	mo	DM	rv	rv				
+sumbawa	kerekkure	0253	lamong	clothes	np:s	np		s	2088	
+sumbawa	kerekkure	0253	%	%	%	%				
+sumbawa	kerekkure	0254	#	#	#	#				
+sumbawa	kerekkure	0254	ZERO	ZERO	0.h:a	0	h	a	2054	
+sumbawa	kerekkure	0254	kè	and	other	other				
+sumbawa	kerekkure	0254	seturin	take.down	v:pred	v		pred		
+sumbawa	kerekkure	0254	mo	DM	rv	rv				
+sumbawa	kerekkure	0254	Permailo	Permailo	pn_np:p	pn_np		p	2089	new
+sumbawa	kerekkure	0254	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0254	%	%	%	%				
+sumbawa	kerekkure	0255	#	#	#	#				
+sumbawa	kerekkure	0255	nya	3	pro:s	pro		s	2089	
+sumbawa	kerekkure	0255	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0255	pang=	at=	=adp	=adp				
+sumbawa	kerekkure	0255	Buir	Buir	pn_np:l	pn_np		l	2006	
+sumbawa	kerekkure	0255	na	ITJ	other	other				
+sumbawa	kerekkure	0255	tó'	now	other	other				
+sumbawa	kerekkure	0255	Permailo	Permailo	pn_np:dt_s	pn_np		dt_s	2089	
+sumbawa	kerekkure	0255	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0255	%	%	%	%				
+sumbawa	kerekkure	0256	#	#	#	#				
+sumbawa	kerekkure	0256	turin	come.down	v:pred	v		pred		
+sumbawa	kerekkure	0256	Permailo	Permailo	pn_np:s	pn_np		s	2089	
+sumbawa	kerekkure	0256	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0256	%	%	%	%				
+sumbawa	kerekkure	0257	#	#	#	#				
+sumbawa	kerekkure	0257	Permailo	Permailo	pn_np:s	pn_np		s	2089	
+sumbawa	kerekkure	0257	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0257	semacam	a.kind.of	other	other				
+sumbawa	kerekkure	0257	lamong	clothes	np:pred	np		pred		
+sumbawa	kerekkure	0257	%	%	%	%				
+sumbawa	kerekkure	0258	#	#	#	#				
+sumbawa	kerekkure	0258	tapi	but	other	other				
+sumbawa	kerekkure	0258	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0258	bua	ornament	np:s	np		s	2090	new
+sumbawa	kerekkure	0258	ka=mas	PST=mas	rn_np	rn_np				
+sumbawa	kerekkure	0258	%	%	%	%				
+sumbawa	kerekkure	0259	#	#	#	#				
+sumbawa	kerekkure	0259	bua	ornament	np:dt	np		dt	2090	
+sumbawa	kerekkure	0259	Garona	Garona	pn_np:pred	pn_np		pred		
+sumbawa	kerekkure	0259	singinq	name	np:s	np		s	2091	bridging
+sumbawa	kerekkure	0259	%	%	%	%				
+sumbawa	kerekkure	0260	#	#	#	#				
+sumbawa	kerekkure	0260	ZERO	ZERO	0:s	0		s	2089	
+sumbawa	kerekkure	0260	semacam	a.kind.of	other	other				
+sumbawa	kerekkure	0260	kerè	cloth	np:pred	np		pred		
+sumbawa	kerekkure	0260	semacam	a.kind.of	nc	nc				
+sumbawa	kerekkure	0260	kerè	cloth	nc	nc				
+sumbawa	kerekkure	0260	%	%	%	%				
+sumbawa	kerekkure	0260	#	#	#	#				
+sumbawa	kerekkure	0260	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0260	bua	ornament	np:s	np		s	2090	
+sumbawa	kerekkure	0260	kerè	cloth	np:dt	np		dt	2089	
+sumbawa	kerekkure	0260	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0260	%	%	%	%				
+sumbawa	kerekkure	0261	#	#	#	#				
+sumbawa	kerekkure	0261	ZERO	ZERO	0:s	0		s	2090	
+sumbawa	kerekkure	0261	basingin	named	v:pred	v		pred		
+sumbawa	kerekkure	0261	bua	ornament	ln	ln				
+sumbawa	kerekkure	0261	Gerona	Gerona	pn_np:other	pn_np		other		
+sumbawa	kerekkure	0261	k=amas	PST=gold	rn	rn				
+sumbawa	kerekkure	0261	%	%	%	%				
+sumbawa	kerekkure	0262	#	#	#	#				
+sumbawa	kerekkure	0262	kè	and	other	other				
+sumbawa	kerekkure	0262	ma	NC	nc	nc				
+sumbawa	kerekkure	0262	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0262	kena	destination	np:s	np		s		
+sumbawa	kerekkure	0262	%	%	%	%				
+sumbawa	kerekkure	0262	#	#	#	#				
+sumbawa	kerekkure	0262	#	#	#ac	#ac				
+sumbawa	kerekkure	0262	ZERO	ZERO	f0.h:s	f0	h	s	2030	
+sumbawa	kerekkure	0262	beru	after	other	other				
+sumbawa	kerekkure	0262	rèa	big	v:pred	v		pred		
+sumbawa	kerekkure	0262	mudi	later	other	other				
+sumbawa	kerekkure	0262	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0262	%	%	%	%				
+sumbawa	kerekkure	0262	ZERO	ZERO	0.h:a	0	h	a	2030	
+sumbawa	kerekkure	0262	ya=perlu	FUT=need	v:pred	v		pred		
+sumbawa	kerekkure	0262	#	#	#cc:p	#cc		p		
+sumbawa	kerekkure	0262	ZERO	ZERO	0.h:a	0	h	a	2030	
+sumbawa	kerekkure	0262	ya=mentu-menta	FUT=do.something.with	v:pred	v		pred		
+sumbawa	kerekkure	0262	senjata	weapon	np:p	np		p	2092	new
+sumbawa	kerekkure	0262	nè	ITJ	other	other				
+sumbawa	kerekkure	0262	%	%	%	%				
+sumbawa	kerekkure	0262	%	%	%	%				
+sumbawa	kerekkure	0263	#	#	#	#				
+sumbawa	kerekkure	0263	ZERO	ZERO	0.h:a	0	h	a	2054	
+sumbawa	kerekkure	0263	saturin	take.down	v:pred	v		pred		
+sumbawa	kerekkure	0263	tèar	spear	np:p	np		p	2093	new
+sumbawa	kerekkure	0263	#	#	#rc	#rc				
+sumbawa	kerekkure	0263	ZERO	ZERO	f0:s	f0		s	2093	
+sumbawa	kerekkure	0263	basingin	named	v:pred	v		pred		
+sumbawa	kerekkure	0263	Brangbayan	Brangbayan	pn_np:other	pn_np		other		
+sumbawa	kerekkure	0263	%	%	%	%				
+sumbawa	kerekkure	0263	%	%	%	%				
+sumbawa	kerekkure	0264	NC	nc	nc	nc				
+sumbawa	kerekkure	0265	#	#	#	#				
+sumbawa	kerekkure	0265	tèar	spear	np:s	np		s	2093	
+sumbawa	kerekkure	0265	Brangbayan	Brangbayan	rn_pn_np	rn_pn_np				
+sumbawa	kerekkure	0265	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0265	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	kerekkure	0265	besi	iron	np:pred	np		pred		
+sumbawa	kerekkure	0265	besi	iron	np:appos	np		appos		
+sumbawa	kerekkure	0265	si	DM	other	other				
+sumbawa	kerekkure	0265	%	%	%	%				
+sumbawa	kerekkure	0265	#	#	#	#				
+sumbawa	kerekkure	0265	tapi	but	other	other				
+sumbawa	kerekkure	0265	lolo	sheath	np:s	np		s	2094	bridging
+sumbawa	kerekkure	0265	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0265	ka=sarung	PST=plate	v:pred	v		pred		
+sumbawa	kerekkure	0265	kè	with	adp	adp				
+sumbawa	kerekkure	0265	mas	gold	np:obl	np		obl		
+sumbawa	kerekkure	0265	%	%	%	%				
+sumbawa	kerekkure	0266	#	#	#	#				
+sumbawa	kerekkure	0266	ZERO	ZERO	0:p	0		p	2093	
+sumbawa	kerekkure	0266	laló	go	lv_v	lv_v				
+sumbawa	kerekkure	0266	mo	DM	other	other				
+sumbawa	kerekkure	0266	antat	deliver	v:pred	v		pred		
+sumbawa	kerekkure	0266	ling	by	adp	adp				
+sumbawa	kerekkure	0266	dayang-dayang	waiting-maid	np.h:a_ling	np	h	a_ling	2095	new
+sumbawa	kerekkure	0266	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0266	%	%	%	%				
+sumbawa	kerekkure	0266	#	#	#	#				
+sumbawa	kerekkure	0266	ZERO	ZERO	0.h:a	0	h	a	2095	
+sumbawa	kerekkure	0266	ZERO	ZERO	0:p	0		p	2093	
+sumbawa	kerekkure	0266	laló	go	v:pred	v		pred		
+sumbawa	kerekkure	0266	antat	deliver	v:pred	v		pred		
+sumbawa	kerekkure	0266	lakó	to	adp	adp				
+sumbawa	kerekkure	0266	Dadap	Dadap	pn_np:g	pn_np		g	2004	
+sumbawa	kerekkure	0266	%	%	%	%				
+sumbawa	kerekkure	0266	#	#	#	#				
+sumbawa	kerekkure	0266	ZERO	ZERO	0.h:a	0	h	a	2095	
+sumbawa	kerekkure	0266	antat	deliver	v:pred	v		pred		
+sumbawa	kerekkure	0266	mo	DM	other	other				
+sumbawa	kerekkure	0266	dèta	DEM_P	dem_pro:p	dem_pro		p	2093	
+sumbawa	kerekkure	0266	%	%	%	%				
+sumbawa	kerekkure	0267	#	#	#	#				
+sumbawa	kerekkure	0267	ZERO	ZERO	0.h:a	0	h	a	2095	
+sumbawa	kerekkure	0267	ZERO	ZERO	0:p	0		p	2093	
+sumbawa	kerekkure	0267	saturin	put.down	v:pred	v		pred		
+sumbawa	kerekkure	0267	mo	DM	other	other				
+sumbawa	kerekkure	0267	%	%	%	%				
+sumbawa	kerekkure	0268	#	#	#	#				
+sumbawa	kerekkure	0268	peno	many	ln	ln				
+sumbawa	kerekkure	0268	macam	kind	np:pred	np		pred	2096	bridging
+sumbawa	kerekkure	0268	#	#	#rc:s	#rc		s		
+sumbawa	kerekkure	0268	ZERO	ZERO	0.h:a	0	h	a	2095	
+sumbawa	kerekkure	0268	ZERO	ZERO	f0:p	f0		p	2096	
+sumbawa	kerekkure	0268	dè	REL	other	other				
+sumbawa	kerekkure	0268	seturin	put.down	v:pred	v		pred		
+sumbawa	kerekkure	0268	%	%	%	%				
+sumbawa	kerekkure	0268	%	%	%	%				
+sumbawa	kerekkure	0269	#	#	#	#				
+sumbawa	kerekkure	0269	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0269	#	#	#rc:s	#rc		s		
+sumbawa	kerekkure	0269	ZERO	ZERO	f0:s	f0		s	2097	bridging
+sumbawa	kerekkure	0269	adè	REL	other	other				
+sumbawa	kerekkure	0269	besingin	named	v:pred	v		pred		
+sumbawa	kerekkure	0269	Sesamba	Sesamba	pn_np:other	pn_np		other		
+sumbawa	kerekkure	0269	%	%	%	%				
+sumbawa	kerekkure	0269	%	%	%	%				
+sumbawa	kerekkure	0270	#	#	#	#				
+sumbawa	kerekkure	0270	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0270	#	#	#rc:s	#rc		s		
+sumbawa	kerekkure	0270	ZERO	ZERO	f0:s	f0		s	2098	bridging
+sumbawa	kerekkure	0270	adè	REL	other	other				
+sumbawa	kerekkure	0270	besingin	named	v:pred	v		pred		
+sumbawa	kerekkure	0270	berang-bayang	berang-bayang	np:other	np		other		
+sumbawa	kerekkure	0270	%	%	%	%				
+sumbawa	kerekkure	0270	%	%	%	%				
+sumbawa	kerekkure	0271	#	#	#	#				
+sumbawa	kerekkure	0271	ada	exist	v:pred	v		pred		
+sumbawa	kerekkure	0271	#	#	#rc:s	#rc		s		
+sumbawa	kerekkure	0271	ZERO	ZERO	f0:s	f0		s	2099	bridging
+sumbawa	kerekkure	0271	adè	REL	other	other				
+sumbawa	kerekkure	0271	besingin	named	v:pred	v		pred		
+sumbawa	kerekkure	0271	tèman-tampir	tèman-tampir	np:other	np		other		
+sumbawa	kerekkure	0271	%	%	%	%				
+sumbawa	kerekkure	0271	%	%	%	%				
+sumbawa	kerekkure	0272	#	#	#	#				
+sumbawa	kerekkure	0272	nya	3	pro:s	pro		s	2096	
+sumbawa	kerekkure	0272	pesaka	heirloom	np:pred	np		pred		
+sumbawa	kerekkure	0272	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0272	pesaka	heirloom	np:appos	np		appos		
+sumbawa	kerekkure	0272	#	#	#rc	#rc				
+sumbawa	kerekkure	0272	ZERO	ZERO	0.h:a	0	h	a	2095	
+sumbawa	kerekkure	0272	ZERO	ZERO	f0:p	f0		p	2096	
+sumbawa	kerekkure	0272	ka=datang	PST=come	lv_v	lv_v				
+sumbawa	kerekkure	0272	antat	deliver	v:pred	v		pred		
+sumbawa	kerekkure	0272	nè	ITJ	other	other				
+sumbawa	kerekkure	0272	%	%	%	%				
+sumbawa	kerekkure	0272	%	%	%	%				
+sumbawa	kerekkure	0273	#	#	#	#				
+sumbawa	kerekkure	0273	ZERO	ZERO	0.h:a	0	h	a	2095	
+sumbawa	kerekkure	0273	ZERO	ZERO	0:p	0		p	2096	
+sumbawa	kerekkure	0273	beang	give	v:pred	v		pred		
+sumbawa	kerekkure	0273	lakó	to	adp	adp				
+sumbawa	kerekkure	0273	ta	DEM_P	dem_pro:g	dem_pro		g		
+sumbawa	kerekkure	0273	ne	ITJ	other	other				
+sumbawa	kerekkure	0273	%	%	%	%				
+sumbawa	kerekkure	0274	#	#	#	#				
+sumbawa	kerekkure	0274	tapi	but	other	other				
+sumbawa	kerekkure	0274	nya	3	ln	ln				
+sumbawa	kerekkure	0274	lalu	prince	np.h:s	np	h	s	2001	
+sumbawa	kerekkure	0274	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0274	lalu	prince	ln	ln				
+sumbawa	kerekkure	0274	Kerèk-kurè	Kerek-kure	pn_np.h:appos	pn_np	h	appos	2001	
+sumbawa	kerekkure	0274	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0274	teris	then	other	other				
+sumbawa	kerekkure	0274	nó.mongka	not.anymore	lv	lv				
+sumbawa	kerekkure	0274	turin	go.down	v:pred	v		pred		
+sumbawa	kerekkure	0274	%	%	%	%				
+sumbawa	kerekkure	0274	#	#	#	#				
+sumbawa	kerekkure	0274	ZERO	ZERO	0.h:s	0	h	s	2001	
+sumbawa	kerekkure	0274	tedu	stay	v:pred	v		pred		
+sumbawa	kerekkure	0274	nana	over.there	dem_pro:l	dem_pro		l	2060	
+sumbawa	kerekkure	0274	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0274	kè	with	adp	adp				
+sumbawa	kerekkure	0274	bidadari	fairy	np.h:obl	np	h	obl	2020	
+sumbawa	kerekkure	0274	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0274	pang	at	adp	adp				
+sumbawa	kerekkure	0274	kayangan	heaven	np:l	np		l	2060	
+sumbawa	kerekkure	0274	=ana	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0274	%	%	%	%				
+sumbawa	kerekkure	0275	#	#	#neg	#neg				
+sumbawa	kerekkure	0275	tapi	but	other	other				
+sumbawa	kerekkure	0275	nó	NEG	lv	lv				
+sumbawa	kerekkure	0275	si	DM	lv	lv				
+sumbawa	kerekkure	0275	tu=	1PL=	=pro.1:a	=pro	1	a		
+sumbawa	kerekkure	0275	tó	know	v:pred	v		pred		
+sumbawa	kerekkure	0275	pang	place	np:p	np		p		
+sumbawa	kerekkure	0275	ita	said	rn	rn				
+sumbawa	kerekkure	0275	e	ITJ	other	other				
+sumbawa	kerekkure	0275	%	%	%	%				
+sumbawa	kerekkure	0275	#	#	#	#				
+sumbawa	kerekkure	0275	cuma	only	other	other				
+sumbawa	kerekkure	0275	nan	DEM_M	dem_pro:dt	dem_pro		dt		
+sumbawa	kerekkure	0275	si	DM	other	other				
+sumbawa	kerekkure	0275	ada	exist	v:predex	v		predex		
+sumbawa	kerekkure	0275	tutir	story	np:s	np		s		
+sumbawa	kerekkure	0275	dea	nobleman	ln	ln				
+sumbawa	kerekkure	0275	papin	grandfather	rn_np.h:poss	rn_np	h	poss		
+sumbawa	kerekkure	0275	ku	1SG	rn_pro.1:poss	rn_pro	1	poss		
+sumbawa	kerekkure	0275	dunung	before	rn	rn				
+sumbawa	kerekkure	0275	%	%	%	%				
+sumbawa	kerekkure	0276	#	#	#	#				
+sumbawa	kerekkure	0276	diri	oneself	pro.h:a	pro	h	a		
+sumbawa	kerekkure	0276	ka=dapat	PST=get	v:pred	v		pred		
+sumbawa	kerekkure	0276	tutir	story	np:p	np		p		
+sumbawa	kerekkure	0276	kapang	from	adp	adp				
+sumbawa	kerekkure	0276	turun-tumurun	ancestor	np:l	np		l		
+sumbawa	kerekkure	0276	batungu-tungu	hereditary	rn	rn				
+sumbawa	kerekkure	0276	%	%	%	%				
+sumbawa	kerekkure	0276	#	#	#	#				
+sumbawa	kerekkure	0276	ZERO	ZERO	0.h:s	0	h	s		
+sumbawa	kerekkure	0276	malum	as.you.know	other	other				
+sumbawa	kerekkure	0276	tau	person	np:pred	np		pred		
+sumbawa	kerekkure	0276	dunung	before	rn	rn				
+sumbawa	kerekkure	0276	%	%	%	%				
+sumbawa	kerekkure	0276	#	#	#	#				
+sumbawa	kerekkure	0276	ZERO	ZERO	0.h:a	0	h	a		
+sumbawa	kerekkure	0276	nó	NEG	lv	lv				
+sumbawa	kerekkure	0276	si	DM	lv	lv				
+sumbawa	kerekkure	0276	tó	know	v:pred	v		pred		
+sumbawa	kerekkure	0276	nyurat	write.a.letter	vother	vother				
+sumbawa	kerekkure	0276	%	%	%	%				
+sumbawa	kerekkure	0276	#	#	#	#				
+sumbawa	kerekkure	0276	ZERO	ZERO	0.h:a	0	h	a		
+sumbawa	kerekkure	0276	nó	NEG	lv	lv				
+sumbawa	kerekkure	0276	si	DM	lv	lv				
+sumbawa	kerekkure	0276	tó	know	v:pred	v		pred		
+sumbawa	kerekkure	0276	apa	what	np:p	np		p		
+sumbawa	kerekkure	0276	nè	ITJ	other	other				
+sumbawa	kerekkure	0276	%	%	%	%				
+sumbawa	kerekkure	0277	#	#	#	#				
+sumbawa	kerekkure	0277	nya	3	np:pred	np		pred		
+sumbawa	kerekkure	0277	luk	way	np:s	np		s		
+sumbawa	kerekkure	0277	na	ITJ	other	other				
+sumbawa	kerekkure	0277	%	%	%	%				
+sumbawa	kerekkure	0277	#	#	#	#				
+sumbawa	kerekkure	0277	nya	3	np:pred	np		pred		
+sumbawa	kerekkure	0277	luk	way	np:s	np		s		
+sumbawa	kerekkure	0277	tutir	story	rn	rn				
+sumbawa	kerekkure	0277	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0277	%	%	%	%				
+sumbawa	kerekkure	0278	#	#	#	#				
+sumbawa	kerekkure	0278	dadi	then	other	other				
+sumbawa	kerekkure	0278	lalu	prince	ln	ln				
+sumbawa	kerekkure	0278	Mancauni	Mancauni	pn_np.h:s	pn_np	h	s	2030	
+sumbawa	kerekkure	0278	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0278	Mancauni	Mancauni	nc	nc				
+sumbawa	kerekkure	0278	singinq	name	nc	nc				
+sumbawa	kerekkure	0278	nan	DEM_M	nc	nc				
+sumbawa	kerekkure	0278	Lalu	prince	ln	ln				
+sumbawa	kerekkure	0278	Mancauni	Mancauni	pn_np.h:appos	pn_np	h	appos	2030	
+sumbawa	kerekkure	0278	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0278	rèa	grown.up	v:pred	v		pred		
+sumbawa	kerekkure	0278	rèa	grown.up	nc	nc				
+sumbawa	kerekkure	0278	rèa	grown.up	nc	nc				
+sumbawa	kerekkure	0278	rèa	grown.up	nc	nc				
+sumbawa	kerekkure	0278	%	%	%	%				
+sumbawa	kerekkure	0278	#	#	#	#				
+sumbawa	kerekkure	0278	ZERO	ZERO	0.h:s	0	h	s	2030	
+sumbawa	kerekkure	0278	basoai	marry	v:pred	v		pred		
+sumbawa	kerekkure	0278	%	%	%	%				
+sumbawa	kerekkure	0279	#	#	#	#				
+sumbawa	kerekkure	0279	nya	3	np.h:a	np	h	a	2030	
+sumbawa	kerekkure	0279	ka=saturunan	PST=establish	v:pred	v		pred		
+sumbawa	kerekkure	0279	bangsawan	kingdom	np:p	np		p	2101	unused
+sumbawa	kerekkure	0279	Samawa	Samawa	rn_pn_np	rn_pn_np				
+sumbawa	kerekkure	0279	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0279	%	%	%	%				
+sumbawa	kerekkure	0280	#	#	#	#				
+sumbawa	kerekkure	0280	nan	DEM_M	dem_pro:pred	dem_pro		pred		
+sumbawa	kerekkure	0280	luk	way	np:s	np		s		
+sumbawa	kerekkure	0280	na	ITJ	other	other				
+sumbawa	kerekkure	0280	%	%	%	%				
+sumbawa	kerekkure	0281	#	#	#	#				
+sumbawa	kerekkure	0281	ZERO	ZERO	0.h:s	0	h	s	2030	
+sumbawa	kerekkure	0281	maklum	as.you.know	other	other				
+sumbawa	kerekkure	0281	tau	person	np:pred	np		pred		
+sumbawa	kerekkure	0281	pintar	clever	rn	rn				
+sumbawa	kerekkure	0281	nè	ITJ	other	other				
+sumbawa	kerekkure	0281	%	%	%	%				
+sumbawa	kerekkure	0281	#	#	#	#				
+sumbawa	kerekkure	0281	ZERO	ZERO	0.h:p	0	h	p	2030	
+sumbawa	kerekkure	0281	turit-turit	follow~pl	v:pred	v		pred		
+sumbawa	kerekkure	0281	ling	by	adp	adp				
+sumbawa	kerekkure	0281	tau	person	np.h:a_ling	np	h	a_ling	2104	new
+sumbawa	kerekkure	0281	#	#	#ac	#ac				
+sumbawa	kerekkure	0281	ZERO	ZERO	0.h:s	0	h	s	2030	
+sumbawa	kerekkure	0281	karna	because	other	other				
+sumbawa	kerekkure	0281	pintar	clever	v:pred	v		pred		
+sumbawa	kerekkure	0281	gina	ITJ	other	other				
+sumbawa	kerekkure	0281	%	%	%	%				
+sumbawa	kerekkure	0281	%	%	%	%				
+sumbawa	kerekkure	0282	#	#	#	#				
+sumbawa	kerekkure	0282	#	#	#ac	#ac				
+sumbawa	kerekkure	0282	turis	then	other	other				
+sumbawa	kerekkure	0282	mé	which	np:pred	np		pred		
+sumbawa	kerekkure	0282	ya=kólókó	FUT=destination	np:s	np		s		
+sumbawa	kerekkure	0282	%	%	%	%				
+sumbawa	kerekkure	0283	turis	then	nc	nc				
+sumbawa	kerekkure	0283	mé	which	nc	nc				
+sumbawa	kerekkure	0283	yakólókó	FUT=destination	nc	nc				
+sumbawa	kerekkure	0283	ya=	3=	=pro.h:a	=pro	h	a	2030	
+sumbawa	kerekkure	0283	pina	make	v:pred	v		pred		
+sumbawa	kerekkure	0283	adat	custom	np:p	np		p	2106	new
+sumbawa	kerekkure	0283	tu	1PL	rn_pro.1:poss	rn_pro	1	poss		
+sumbawa	kerekkure	0283	ya=	3=	nc	nc				
+sumbawa	kerekkure	0283	pina	make	nc	nc				
+sumbawa	kerekkure	0283	anong	what's.it.called	nc	nc				
+sumbawa	kerekkure	0283	sebagai	as	nc	nc				
+sumbawa	kerekkure	0283	orang	person	nc	nc				
+sumbawa	kerekkure	0283	tua	old	nc	nc				
+sumbawa	kerekkure	0283	sebagai	as	adp	adp				
+sumbawa	kerekkure	0283	tau	person	np.h:other	np	h	other	2107	new
+sumbawa	kerekkure	0283	lóka	old	rn	rn				
+sumbawa	kerekkure	0283	#	#	#rc	#rc				
+sumbawa	kerekkure	0283	ZERO	ZERO	f0.h:s	f0	h	s	2107	
+sumbawa	kerekkure	0283	adè	REL	other	other				
+sumbawa	kerekkure	0283	pang	place	other	other				
+sumbawa	kerekkure	0283	péné	in.short	other	other				
+sumbawa	kerekkure	0283	nasèhat	advise	v:pred	v		pred		
+sumbawa	kerekkure	0283	#	#	#rc	#rc				
+sumbawa	kerekkure	0283	pang	place	np:l	np		l		
+sumbawa	kerekkure	0283	tu=	1PL=	=pro.h:a	=pro	h	a		
+sumbawa	kerekkure	0283	belajar	learn	v:pred	v		pred		
+sumbawa	kerekkure	0283	sehal	everything	np:p	np		p		
+sumbawa	kerekkure	0283	kiri	left	rn	rn				
+sumbawa	kerekkure	0283	kanan	right	rn	rn				
+sumbawa	kerekkure	0283	%	%	%	%				
+sumbawa	kerekkure	0283	%	%	%	%				
+sumbawa	kerekkure	0283	%	%	%	%				
+sumbawa	kerekkure	0284	#	#	#	#				
+sumbawa	kerekkure	0284	dadi	then	other	other				
+sumbawa	kerekkure	0284	jangka	period.of.time	v:pred	v		pred		
+sumbawa	kerekkure	0284	ta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	kerekkure	0284	dunung	just	other	other				
+sumbawa	kerekkure	0284	tutir	story	np:dt	np		dt		
+sumbawa	kerekkure	0284	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	kerekkure	0285	dadi	then	nc	nc				
+sumbawa	kerekkure	0285	jangka	period.of.time	nc	nc				
+sumbawa	kerekkure	0285	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0285	dunung	for.the.time.being	nc	nc				
+sumbawa	kerekkure	0285	tutir	story	nc	nc				
+sumbawa	kerekkure	0285	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0285	%	%	%	%				
+sumbawa	kerekkure	0285	#	#	#nc	#nc				
+sumbawa	kerekkure	0285	kirakira	roughly	nc	nc				
+sumbawa	kerekkure	0285	nan	DEM_M	nc	nc				
+sumbawa	kerekkure	0285	ZERO	ZERO	nc	nc				
+sumbawa	kerekkure	0285	bau	can	nc	nc				
+sumbawa	kerekkure	0285	mo	DM	nc	nc				
+sumbawa	kerekkure	0285	#	#	#nc	#nc				
+sumbawa	kerekkure	0285	ada	exist	nc	nc				
+sumbawa	kerekkure	0285	gambaran	picture	nc	nc				
+sumbawa	kerekkure	0285	#	#	#nc	#nc				
+sumbawa	kerekkure	0285	bahwa	COMP	nc	nc				
+sumbawa	kerekkure	0285	nan	DEM_M	nc	nc				
+sumbawa	kerekkure	0285	nya	3	nc	nc				
+sumbawa	kerekkure	0285	kaasal	PST=origin	nc	nc				
+sumbawa	kerekkure	0285	turunan	descendant	nc	nc				
+sumbawa	kerekkure	0285	bangsawan-bangsawan	kingdom	nc	nc				
+sumbawa	kerekkure	0285	Samawa	Samawa	nc	nc				
+sumbawa	kerekkure	0285	ta	DEM_P	nc	nc				
+sumbawa	kerekkure	0285	%	%	%	%				
+sumbawa	kerekkure	0285	%	%	%	%				
+sumbawa	kerekkure	0285	%	%	%	%				

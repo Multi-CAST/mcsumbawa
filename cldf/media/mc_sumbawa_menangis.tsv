@@ -1,0 +1,877 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sumbawa	menangis	0001	#	#	#nc	#nc				
+sumbawa	menangis	0001	ada	exist	nc	nc				
+sumbawa	menangis	0001	mo	DM	nc	nc				
+sumbawa	menangis	0001	sópó	one	nc	nc				
+sumbawa	menangis	0001	tutir	story	nc	nc				
+sumbawa	menangis	0001	pang	at	nc	nc				
+sumbawa	menangis	0001	saman	time	nc	nc				
+sumbawa	menangis	0001	dunung	before	nc	nc				
+sumbawa	menangis	0001	=ana	=DEM_D	nc	nc				
+sumbawa	menangis	0001	%	%	%	%				
+sumbawa	menangis	0002	#	#	#	#				
+sumbawa	menangis	0002	ada	exist	v:predex	v		predex		
+sumbawa	menangis	0002	mo	DM	other	other				
+sumbawa	menangis	0002	sópó	one	ln	ln				
+sumbawa	menangis	0002	kerajaan	kingdom	np:s	np		s	4001	new
+sumbawa	menangis	0002	pang	at	adp	adp				
+sumbawa	menangis	0002	tana	land	np:l	np		l		
+sumbawa	menangis	0002	Samawa	Samawa	rn_pn_np	rn_pn_np			4026	unused
+sumbawa	menangis	0002	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0002	sekitar	around	adp	adp				
+sumbawa	menangis	0002	seribu-seratis	one.thousand.and.hundred	np:other	np		other		
+sumbawa	menangis	0002	tin	year	rn	rn				
+sumbawa	menangis	0002	#	#	#rc	#rc				
+sumbawa	menangis	0002	adè	REL	other	other				
+sumbawa	menangis	0002	ZERO	ZERO	f0:s	f0		s		
+sumbawa	menangis	0002	ka	PST	lv	lv				
+sumbawa	menangis	0002	mo	DM	lv	lv				
+sumbawa	menangis	0002	laló	go	v:pred	v		pred		
+sumbawa	menangis	0002	%	%	%	%				
+sumbawa	menangis	0002	%	%	%	%				
+sumbawa	menangis	0003	#	#	#	#				
+sumbawa	menangis	0003	ZERO	ZERO	0.h:p	0	h	p	4031	bridging
+sumbawa	menangis	0003	pang	at	adp	adp				
+sumbawa	menangis	0003	kerajaan	kingdom	np:l	np		l	4001	
+sumbawa	menangis	0003	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0003	ya=	3=	=pro_h_a	=pro_h_a			4002	new
+sumbawa	menangis	0003	pinpin	govern	v:pred	v		pred		
+sumbawa	menangis	0003	ling	by	adp	adp				
+sumbawa	menangis	0003	sópó	one	ln	ln				
+sumbawa	menangis	0003	raja	king	np.h:a_ling	np	h	a_ling	4002	
+sumbawa	menangis	0003	%	%	%	%				
+sumbawa	menangis	0004	#	#	#	#				
+sumbawa	menangis	0004	raja	king	np.h:dt	np	h	dt	4002	
+sumbawa	menangis	0004	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0004	ada	exist	v:predex	v		predex		
+sumbawa	menangis	0004	sópó	one	ln	ln				
+sumbawa	menangis	0004	anak	child	np.h:s	np	h	s	4003	new
+sumbawa	menangis	0004	dadara	maiden	rn	rn				
+sumbawa	menangis	0004	%	%	%	%				
+sumbawa	menangis	0005	#	#	#	#				
+sumbawa	menangis	0005	anak	child	np.h:s	np	h	s	4003	
+sumbawa	menangis	0005	dadara	maiden	rn	rn				
+sumbawa	menangis	0005	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0005	yanansi	that.is	other	other				
+sumbawa	menangis	0005	sópó	one	ln	ln				
+sumbawa	menangis	0005	lala	princess	np.h:pred	np	h	pred		
+sumbawa	menangis	0005	#	#	#rc	#rc				
+sumbawa	menangis	0005	ZERO	ZERO	f0.h:s	f0	h	s	4003	
+sumbawa	menangis	0005	adè	REL	other	other				
+sumbawa	menangis	0005	gera	beautiful	v:pred	v		pred		
+sumbawa	menangis	0005	kè	and	rv	rv				
+sumbawa	menangis	0005	balong.até	kind	rv	rv				
+sumbawa	menangis	0005	%	%	%	%				
+sumbawa	menangis	0005	%	%	%	%				
+sumbawa	menangis	0006	#	#	#	#				
+sumbawa	menangis	0006	#	#	#ac	#ac				
+sumbawa	menangis	0006	tiba	arrive	v:pred	v		pred		
+sumbawa	menangis	0006	sópó	one	ln	ln				
+sumbawa	menangis	0006	saat	time	np:s	np		s		
+sumbawa	menangis	0006	%	%	%	%				
+sumbawa	menangis	0006	lala	princess	np.h:p	np	h	p	4003	
+sumbawa	menangis	0006	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0006	ya=	3=	=pro_a	=pro_a			4004	new
+sumbawa	menangis	0006	kena	hit	v:pred	v		pred		
+sumbawa	menangis	0006	ling	by	adp	adp				
+sumbawa	menangis	0006	sópó	one	ln	ln				
+sumbawa	menangis	0006	penyakit	disease	np:a_ling	np		a_ling	4004	
+sumbawa	menangis	0006	yanansi	that is	rn	rn				
+sumbawa	menangis	0006	penyakit.berong	leprocy	rn	rn				
+sumbawa	menangis	0006	singin	name	rn	rn				
+sumbawa	menangis	0006	%	%	%	%				
+sumbawa	menangis	0007	#	#	#	#				
+sumbawa	menangis	0007	penyakit	disease	np:s	np		s	4004	
+sumbawa	menangis	0007	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0007	makin	the.more	other	other				
+sumbawa	menangis	0007	lè	late	other	other				
+sumbawa	menangis	0007	makin	the.more	other	other				
+sumbawa	menangis	0007	badadi	increase	v:pred	v		pred		
+sumbawa	menangis	0007	%	%	%	%				
+sumbawa	menangis	0008	#	#	#	#				
+sumbawa	menangis	0008	dadi	then	other	other				
+sumbawa	menangis	0008	lala	princess	np.h:dt	np	h	dt	4003	
+sumbawa	menangis	0008	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0008	#	#	#ac	#ac				
+sumbawa	menangis	0008	ling	because	other	other				
+sumbawa	menangis	0008	to	know	v:pred	v		pred		
+sumbawa	menangis	0008	ling	by	adp	adp				
+sumbawa	menangis	0008	raja	king	np.h:a_ling	np	h	a_ling	4002	
+sumbawa	menangis	0008	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0008	#	#	#cc:p	#cc		p		
+sumbawa	menangis	0008	anak	child	np.h:s	np	h	s	4003	
+sumbawa	menangis	0008	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	menangis	0008	sakit	sick	v:pred	v		pred		
+sumbawa	menangis	0008	%	%	%	%				
+sumbawa	menangis	0008	%	%	%	%				
+sumbawa	menangis	0009	ya=	3=	=pro.h:a	=pro	h	a	4002	
+sumbawa	menangis	0009	utus	order	v:pred	v		pred		
+sumbawa	menangis	0009	mo	DM	other	other				
+sumbawa	menangis	0009	pengawa	vassal	np.h:p	np	h	p	4005	new
+sumbawa	menangis	0009	#	#	#cc	#cc				
+sumbawa	menangis	0009	ya=	3=	=pro.h:s	=pro	h	s	4005	
+sumbawa	menangis	0009	umumkan	announce	v:pred	v		pred		
+sumbawa	menangis	0009	lakó	to	adp	adp				
+sumbawa	menangis	0009	rakyat	people	np.h:g	np	h	g	4031	
+sumbawa	menangis	0009	%	%	%	%				
+sumbawa	menangis	0009	%	%	%	%				
+sumbawa	menangis	0010	#	#	#	#				
+sumbawa	menangis	0010	isi	content	np:s_ds	np		s_ds		
+sumbawa	menangis	0010	pengumuman	announcement	rn_np	rn_np			4006	bridging
+sumbawa	menangis	0010	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	menangis	0010	ne	ITJ	other	other				
+sumbawa	menangis	0010	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	menangis	0010	sai-sai	whoever	np.h:dt_p	np	h	dt_p	4007	new
+sumbawa	menangis	0010	#	#	#ds_rc	#ds_rc				
+sumbawa	menangis	0010	adè	REL	other	other				
+sumbawa	menangis	0010	ZERO	ZERO	f0.h:a	f0	h	a	4007	
+sumbawa	menangis	0010	bau	can	lv_v	lv_v				
+sumbawa	menangis	0010	saterang	cure	v:pred	v		pred		
+sumbawa	menangis	0010	anak	child	np.h:p	np	h	p	4003	
+sumbawa	menangis	0010	kaku	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	4002	
+sumbawa	menangis	0010	%	%	%	%				
+sumbawa	menangis	0011	#	#	#ds_ac	#ds_ac				
+sumbawa	menangis	0011	lamin	if	other	other				
+sumbawa	menangis	0011	ZERO	ZERO	0.h:s	0	h	s	4007	
+sumbawa	menangis	0011	sawai	female	v:pred	v		pred		
+sumbawa	menangis	0011	%	%	%	%				
+sumbawa	menangis	0011	ku=	1SG=	=pro.1:a	=pro	1	a	4002	
+sumbawa	menangis	0011	ètè	take	v:pred	v		pred		
+sumbawa	menangis	0011	%	%	%	%				
+sumbawa	menangis	0011	%	%	%	%				
+sumbawa	menangis	0011	#	#	#ds	#ds				
+sumbawa	menangis	0011	ZERO	ZERO	0.h:s	0	h	s	4007	
+sumbawa	menangis	0011	jadi	become	v:pred	v		pred		
+sumbawa	menangis	0011	sanak	sibling	np.h:other	np	h	other		
+sumbawa	menangis	0011	sawai	female	rn	rn				
+sumbawa	menangis	0011	anak	child	rn_np.h:poss	rn_np	h	poss	4003	
+sumbawa	menangis	0011	kaku	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	4002	
+sumbawa	menangis	0011	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0011	%	%	%	%				
+sumbawa	menangis	0012	#	#	#ds	#ds				
+sumbawa	menangis	0012	tapi	but	other	other				
+sumbawa	menangis	0012	#	#	#ds_ac	#ds_ac				
+sumbawa	menangis	0012	ZERO	ZERO	0.h:s	0	h	s	4007	
+sumbawa	menangis	0012	lamin	if	other	other				
+sumbawa	menangis	0012	salaki	male	v:pred	v		pred		
+sumbawa	menangis	0012	%	%	%	%				
+sumbawa	menangis	0012	ku=	1SG=	=pro.1:a	=pro	1	a	4002	
+sumbawa	menangis	0012	sukat	marry	v:pred	v		pred		
+sumbawa	menangis	0012	ZERO	ZERO	0.h:p	0	h	p	4007	
+sumbawa	menangis	0012	kè	with	adp	adp				
+sumbawa	menangis	0012	anak	child	np.h:obl	np	h	obl	4003	
+sumbawa	menangis	0012	kaku	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	4002	
+sumbawa	menangis	0012	%	%	%	%				
+sumbawa	menangis	0013	#	#	#	#				
+sumbawa	menangis	0013	dadi	then	other	other				
+sumbawa	menangis	0013	pengumman	announcement	np:p	np		p	4006	
+sumbawa	menangis	0013	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0013	ya=	3=	=pro_h_a	=pro_h_a			4010	bridging
+sumbawa	menangis	0013	menong	listen	v:pred	v		pred		
+sumbawa	menangis	0013	mo	DM	rv	rv				
+sumbawa	menangis	0013	ling	by	adp	adp				
+sumbawa	menangis	0013	sandró-sandró	doctors	np.h:a_ling	np	h	a_ling	4008	new
+sumbawa	menangis	0013	pang	at	rn	rn				
+sumbawa	menangis	0013	tana	land	rn	rn				
+sumbawa	menangis	0013	Samawa	Samawa	rn_pn_np	rn_pn_np				
+sumbawa	menangis	0013	kè	and	rn	rn				
+sumbawa	menangis	0013	sandró-sandró	doctors	rn_np.h	rn_np	h		4009	new
+sumbawa	menangis	0013	pang	at	rn	rn				
+sumbawa	menangis	0013	kerajaan	kingdom	rn	rn				
+sumbawa	menangis	0013	lin	other	rn	rn				
+sumbawa	menangis	0013	%	%	%	%				
+sumbawa	menangis	0014	#	#	#nc	#nc				
+sumbawa	menangis	0014	tu=	1PL=	nc	nc				
+sumbawa	menangis	0014	ètè	take	nc	nc				
+sumbawa	menangis	0014	pènèk	short	nc	nc				
+sumbawa	menangis	0014	tu=	1PL=	nc	nc				
+sumbawa	menangis	0014	ètè	take	nc	nc				
+sumbawa	menangis	0014	pènèk	short	nc	nc				
+sumbawa	menangis	0014	%	%	%	%				
+sumbawa	menangis	0014	#	#	#	#				
+sumbawa	menangis	0014	datang	come	v:pred	v		pred		
+sumbawa	menangis	0014	mo	DM	rv	rv				
+sumbawa	menangis	0014	sandró	doctor	np.h:s	np	h	s	4011	bridging
+sumbawa	menangis	0014	kaling	from	adp	adp				
+sumbawa	menangis	0014	anosiup	east	np:l	np		l		
+sumbawa	menangis	0014	#	#	#rc	#rc				
+sumbawa	menangis	0014	adè	REL	other	other				
+sumbawa	menangis	0014	ZERO	ZERO	f0.h:a	f0	h	a	4011	
+sumbawa	menangis	0014	ya=saterang	FUT=cure	v:pred	v		pred		
+sumbawa	menangis	0014	lala	princess	np.h:p	np	h	p	4003	
+sumbawa	menangis	0014	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0014	%	%	%	%				
+sumbawa	menangis	0014	%	%	%	%				
+sumbawa	menangis	0015	#	#	#neg	#neg				
+sumbawa	menangis	0015	tapi	but	other	other				
+sumbawa	menangis	0015	ZERO	ZERO	0.h:s	0	h	s	4011	
+sumbawa	menangis	0015	nó	NEG	lv	lv				
+sumbawa	menangis	0015	bau	can	v:pred	v		pred		
+sumbawa	menangis	0015	#	#	#cc	#cc				
+sumbawa	menangis	0015	ZERO	ZERO	0.h:a	0	h	a	4011	
+sumbawa	menangis	0015	ZERO	ZERO	0.h:p	0	h	p	4003	
+sumbawa	menangis	0015	saterang	cure	v:pred	v		pred		
+sumbawa	menangis	0015	%	%	%	%				
+sumbawa	menangis	0015	%	%	%	%				
+sumbawa	menangis	0016	#	#	#	#				
+sumbawa	menangis	0016	ZERO	ZERO	0.h:s	0	h	s	4012	bridging
+sumbawa	menangis	0016	datang	come	v:pred	v		pred		
+sumbawa	menangis	0016	kaling	from	adp	adp				
+sumbawa	menangis	0016	anorawi	west	np:l	np		l		
+sumbawa	menangis	0016	%	%	%	%				
+sumbawa	menangis	0017	#	#	#	#				
+sumbawa	menangis	0017	nan	DEM_M	dem_pro:pred	dem_pro		pred		
+sumbawa	menangis	0017	si	DM	rn	rn				
+sumbawa	menangis	0017	lok	way	np:s	np		s		
+sumbawa	menangis	0017	%	%	%	%				
+sumbawa	menangis	0017	#	#	#neg	#neg				
+sumbawa	menangis	0017	ZERO	ZERO	0.h:s	0	h	s	4012	
+sumbawa	menangis	0017	nó	NEG	lv	lv				
+sumbawa	menangis	0017	bau	can	v:pred	v		pred		
+sumbawa	menangis	0017	#	#	#cc	#cc				
+sumbawa	menangis	0017	ZERO	ZERO	0.h:a	0	h	a	4012	
+sumbawa	menangis	0017	ya=saterang	FUT=cure	v:pred	v		pred		
+sumbawa	menangis	0017	lala	princess	np.h:p	np	h	p	4003	
+sumbawa	menangis	0017	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0017	%	%	%	%				
+sumbawa	menangis	0017	%	%	%	%				
+sumbawa	menangis	0018	#	#	#	#				
+sumbawa	menangis	0018	dadi	then	other	other				
+sumbawa	menangis	0018	peno	many	v:pred	v		pred		
+sumbawa	menangis	0018	mo	DM	rv	rv				
+sumbawa	menangis	0018	sandró	doctor	np.h:s	np	h	s	4013	bridging
+sumbawa	menangis	0018	#	#	#rc	#rc				
+sumbawa	menangis	0018	ZERO	ZERO	f0.h:s	f0	h	s	4013	
+sumbawa	menangis	0018	adè	REL	other	other				
+sumbawa	menangis	0018	datang	come	v:pred	v		pred		
+sumbawa	menangis	0018	%	%	%	%				
+sumbawa	menangis	0018	%	%	%	%				
+sumbawa	menangis	0018	#	#	#neg	#neg				
+sumbawa	menangis	0018	sarea	all	np.h:s	np	h	s	4013	
+sumbawa	menangis	0018	nó	NEG	other	other				
+sumbawa	menangis	0018	bau	can	v:pred	v		pred		
+sumbawa	menangis	0018	#	#	#cc	#cc				
+sumbawa	menangis	0018	ZERO	ZERO	0.h:a	0	h	a	4013	
+sumbawa	menangis	0018	saterang	cure	v:pred	v		pred		
+sumbawa	menangis	0018	lala	princess	np.h:p	np	h	p	4003	
+sumbawa	menangis	0018	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0018	%	%	%	%				
+sumbawa	menangis	0018	%	%	%	%				
+sumbawa	menangis	0019	#	#	#	#				
+sumbawa	menangis	0019	#	#	#ac.neg	#ac.neg				
+sumbawa	menangis	0019	ling	because	other	other				
+sumbawa	menangis	0019	peno	many	ln	ln				
+sumbawa	menangis	0019	mo	DM	ln	ln				
+sumbawa	menangis	0019	sandró	doctor	np.h:s	np	h	s	4032	bridging
+sumbawa	menangis	0019	nó	NEG	other	other				
+sumbawa	menangis	0019	bau	can	v:pred	v		pred		
+sumbawa	menangis	0019	#	#	#cc	#cc				
+sumbawa	menangis	0019	ZERO	ZERO	0.h:a	0	h	a	4032	
+sumbawa	menangis	0019	seterang	cure	v:pred	v		pred		
+sumbawa	menangis	0019	lala	princess	np.h:p	np	h	p	4003	
+sumbawa	menangis	0019	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0019	%	%	%	%				
+sumbawa	menangis	0019	%	%	%	%				
+sumbawa	menangis	0019	lala	princess	np.h:s	np	h	s	4003	
+sumbawa	menangis	0019	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0019	dadi	become	v:pred	v		pred		
+sumbawa	menangis	0019	sedi	sad	lv_v	lv_v				
+sumbawa	menangis	0019	%	%	%	%				
+sumbawa	menangis	0020	#	#	#	#				
+sumbawa	menangis	0020	kè	and	other	other				
+sumbawa	menangis	0020	nya	3	pro.h:s	pro	h	s	4003	
+sumbawa	menangis	0020	jangi	almost	lv	lv				
+sumbawa	menangis	0020	mo	DM	lv	lv				
+sumbawa	menangis	0020	putis	cut	v:pred	v		pred		
+sumbawa	menangis	0020	asa	hope	np:p	np		p		
+sumbawa	menangis	0020	%	%	%	%				
+sumbawa	menangis	0021	#	#	#	#				
+sumbawa	menangis	0021	apa	what	other	other				
+sumbawa	menangis	0021	lagi	again	other	other				
+sumbawa	menangis	0021	datu	the king	np.h:s	np	h	s	4002	
+sumbawa	menangis	0021	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0021	makin	more	other	other				
+sumbawa	menangis	0021	ka=susa	PST=suffer	v:pred	v		pred		
+sumbawa	menangis	0021	#	#	#ac	#ac				
+sumbawa	menangis	0021	ling	because	other	other				
+sumbawa	menangis	0021	lala	princess	np.h:pred	np	h	pred		
+sumbawa	menangis	0021	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0021	baè	only	rn	rn				
+sumbawa	menangis	0021	anak	child	np.h:s	np	h	s	4003	
+sumbawa	menangis	0021	soai	female	rn	rn				
+sumbawa	menangis	0021	datu	king	rn_np.h:poss	rn_np	h	poss	4002	
+sumbawa	menangis	0021	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0021	%	%	%	%				
+sumbawa	menangis	0021	%	%	%	%				
+sumbawa	menangis	0022	#	#	#	#				
+sumbawa	menangis	0022	#	#	#ac	#ac				
+sumbawa	menangis	0022	dapat	arrive	v:pred	v		pred		
+sumbawa	menangis	0022	mo	DM	rv	rv				
+sumbawa	menangis	0022	sópó	one	ln	ln				
+sumbawa	menangis	0022	ano	day	np:s	np		s		
+sumbawa	menangis	0022	%	%	%	%				
+sumbawa	menangis	0023	datang	come	v:pred	v		pred		
+sumbawa	menangis	0023	mo	DM	rv	rv				
+sumbawa	menangis	0023	tau	person	np.h:s	np	h	s	4014	new
+sumbawa	menangis	0023	salaki	male	rn_adj	rn_adj				
+sumbawa	menangis	0023	loka	old	rn_adj	rn_adj				
+sumbawa	menangis	0023	bongkok	with.bent.back	rn_adj	rn_adj				
+sumbawa	menangis	0023	kè	and	rn	rn				
+sumbawa	menangis	0023	renge	ugly	rn	rn				
+sumbawa	menangis	0023	benar	really	rn	rn				
+sumbawa	menangis	0023	%	%	%	%				
+sumbawa	menangis	0024	#	#	#	#				
+sumbawa	menangis	0024	ZERO	ZERO	0.h:s	0	h	s	4014	
+sumbawa	menangis	0024	datang	come	v:pred	v		pred		
+sumbawa	menangis	0024	kó	to	adp	adp				
+sumbawa	menangis	0024	datu	king	np.h:g	np	h	g	4002	
+sumbawa	menangis	0024	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0024	%	%	%	%				
+sumbawa	menangis	0025	#	#	#	#				
+sumbawa	menangis	0025	beling	tell	v:pred	v		pred		
+sumbawa	menangis	0025	mo	DM	rv	rv				
+sumbawa	menangis	0025	diri	person	np.h:s_ds	np	h	s_ds	4014	
+sumbawa	menangis	0025	loka	old	rn_adj	rn_adj				
+sumbawa	menangis	0025	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0026	#	#	#ds	#ds				
+sumbawa	menangis	0026	kanatang	aim.to.come	np:s	np		s		
+sumbawa	menangis	0026	kajulin	1SG.HON.special	rn_pro.1:poss	rn_pro	1	poss	4014	
+sumbawa	menangis	0026	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0026	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	menangis	0026	yanansi	that.is	other	other				
+sumbawa	menangis	0026	ZERO	ZERO	0.1:a	0	1	a	4014	
+sumbawa	menangis	0026	satè	want	lv_v	lv_v				
+sumbawa	menangis	0026	coba	try	lv_v	lv_v				
+sumbawa	menangis	0026	médó	cure	v:pred	v		pred		
+sumbawa	menangis	0026	anak	child	np.h:p	np	h	p	4003	
+sumbawa	menangis	0026	kalèpè	2SG.HON	rn_pro.2:poss	rn_pro	2	poss	4002	
+sumbawa	menangis	0026	lah	ITJ	other	other				
+sumbawa	menangis	0026	%	%	%	%				
+sumbawa	menangis	0026	#	#	#nc	#nc				
+sumbawa	menangis	0026	tapi	but	nc	nc				
+sumbawa	menangis	0026	lamin	if	nc	nc				
+sumbawa	menangis	0026	karèpè	2SG.HON	nc	nc				
+sumbawa	menangis	0026	%	%	%	%				
+sumbawa	menangis	0026	#	#	#ds_ac	#ds_ac				
+sumbawa	menangis	0026	lamin	if	other	other				
+sumbawa	menangis	0026	karèpè=	2SG.HON=	=pro.2:a	=pro	2	a	4002	
+sumbawa	menangis	0026	bèang	give	v:pred	v		pred		
+sumbawa	menangis	0026	ijin	permission	np:p	np		p		
+sumbawa	menangis	0026	lakó	to	adp	adp				
+sumbawa	menangis	0026	kajilin	1SG.HON	pro.1:g	pro	1	g	4014	
+sumbawa	menangis	0026	lah	ITJ	other	other				
+sumbawa	menangis	0026	%	%	%	%				
+sumbawa	menangis	0026	%	%	%	%				
+sumbawa	menangis	0026	%	%	%	%				
+sumbawa	menangis	0027	#	#	#	#				
+sumbawa	menangis	0027	ZERO	ZERO	0.h:p	0	h	p	4014	
+sumbawa	menangis	0027	ya=	3=	=pro_h_a	=pro_h_a			4002	
+sumbawa	menangis	0027	katoan	ask	v:pred	v		pred		
+sumbawa	menangis	0027	ling	by	adp	adp				
+sumbawa	menangis	0027	raja	king	np.h:a_ling	np	h	a_ling	4002	
+sumbawa	menangis	0028	#	#	#ds	#ds				
+sumbawa	menangis	0028	mé	which	np:pred	np		pred		
+sumbawa	menangis	0028	pang	place	np:s	np		s	4015	new
+sumbawa	menangis	0028	#	#	#ds_rc	#ds_rc				
+sumbawa	menangis	0028	tedu	stay	v:pred	v		pred		
+sumbawa	menangis	0028	kau	2SG	pro.2:s	pro	2	s	4014	
+sumbawa	menangis	0028	%	%	%	%				
+sumbawa	menangis	0028	%	%	%	%				
+sumbawa	menangis	0028	%	%	%	%				
+sumbawa	menangis	0029	#	#	#	#				
+sumbawa	menangis	0029	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	menangis	0029	kajulin	1SG.HON	pro.1:s	pro	1	s	4014	
+sumbawa	menangis	0029	tedu	stay	v:pred	v		pred		
+sumbawa	menangis	0029	pang	at	adp	adp				
+sumbawa	menangis	0029	sisi	side	np:l	np		l		
+sumbawa	menangis	0029	olat	mountain	rn_np	rn_np			4016	new
+sumbawa	menangis	0029	anosiup	east	rn_np	rn_np				
+sumbawa	menangis	0029	na	ITJ	other	other				
+sumbawa	menangis	0029	ling	by	nc	nc				
+sumbawa	menangis	0029	sa	x	nc	nc				
+sumbawa	menangis	0029	%	%	%	%				
+sumbawa	menangis	0029	ling	word	np:s	np		s		
+sumbawa	menangis	0029	#	#	#rc	#rc				
+sumbawa	menangis	0029	ZERO	ZERO	f0:p	f0		p		
+sumbawa	menangis	0029	samong	reply	v:pred	v		pred		
+sumbawa	menangis	0029	ling	by	adp	adp				
+sumbawa	menangis	0029	tau	person	np.h:a_ling	np	h	a_ling	4014	
+sumbawa	menangis	0029	loka	old	rn_adj	rn_adj				
+sumbawa	menangis	0029	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0029	%	%	%	%				
+sumbawa	menangis	0029	%	%	%	%				
+sumbawa	menangis	0030	#	#	#	#				
+sumbawa	menangis	0030	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	menangis	0030	#	#	#ds_ac	#ds_ac				
+sumbawa	menangis	0030	ba	ITJ	other	other				
+sumbawa	menangis	0030	lamin	if	other	other				
+sumbawa	menangis	0030	nan	DEM_M	dem_pro:pred	dem_pro		pred		
+sumbawa	menangis	0030	lok	way	np:s	np		s		
+sumbawa	menangis	0030	%	%	%	%				
+sumbawa	menangis	0030	ba	ITJ	other	other				
+sumbawa	menangis	0030	mu=	2SG=	=pro.2:a	=pro	2	a	4014	
+sumbawa	menangis	0030	coba	try	lv_v	lv_v				
+sumbawa	menangis	0030	mo	DM	other	other				
+sumbawa	menangis	0030	médó	cure	v:pred	v		pred		
+sumbawa	menangis	0030	anak	child	np.h:p	np	h	p	4003	
+sumbawa	menangis	0030	kaku	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	4002	
+sumbawa	menangis	0030	%	%	%	%				
+sumbawa	menangis	0030	ling	word	np:s	np		s		
+sumbawa	menangis	0030	raja	king	rn_np.h:poss	rn_np	h	poss	4002	
+sumbawa	menangis	0030	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0030	%	%	%	%				
+sumbawa	menangis	0031	#	#	#ds	#ds				
+sumbawa	menangis	0031	tapi	but	other	other				
+sumbawa	menangis	0031	ada	exist	v:predex	v		predex		
+sumbawa	menangis	0031	sópó	one	lv	lv				
+sumbawa	menangis	0031	pangènèng	request	np:s	np		s		
+sumbawa	menangis	0031	kajulin	1SG.HON	rn_pro.1:poss	rn_pro	1	poss	4014	
+sumbawa	menangis	0031	la	ITJ	rv	rv				
+sumbawa	menangis	0031	%	%	%	%				
+sumbawa	menangis	0032	#	#	#ds	#ds				
+sumbawa	menangis	0032	anak	child	np.h:p	np	h	p	4003	
+sumbawa	menangis	0032	kèrèpe	2SG.HON	rn_pro.2:poss	rn_pro	2	poss	4002	
+sumbawa	menangis	0032	kejulin=	1SG.HON=	=pro.1:a	=pro	1	a	4014	
+sumbawa	menangis	0032	bawa	bring	v:pred	v		pred		
+sumbawa	menangis	0032	lakó	to	adp	adp				
+sumbawa	menangis	0032	katokal	place	np:g	np		g	4015	
+sumbawa	menangis	0032	kajulin	1SG.HON	rn_pro.1:poss	rn_pro	1	poss	4014	
+sumbawa	menangis	0032	yanansi	that is	nc	nc				
+sumbawa	menangis	0032	pang	at	nc	nc				
+sumbawa	menangis	0032	pang	at	nc	nc				
+sumbawa	menangis	0032	apa	what	nc	nc				
+sumbawa	menangis	0032	ling	say	nc	nc				
+sumbawa	menangis	0032	dèta	this	nc	nc				
+sumbawa	menangis	0033	#	#	#ds_rc	#ds_rc				
+sumbawa	menangis	0033	ZERO	ZERO	f0:s	f0		s	4015	
+sumbawa	menangis	0033	yanansi	that is	other	other				
+sumbawa	menangis	0033	pang	at	adp	adp				
+sumbawa	menangis	0033	arung	hut	np:pred	np		pred	4017	new
+sumbawa	menangis	0033	kajulin	1SG.HON	rn_pro.h:poss	rn_pro	h	poss	4014	
+sumbawa	menangis	0033	lah	ITJ	rn	rn				
+sumbawa	menangis	0033	%	%	%	%				
+sumbawa	menangis	0033	%	%	%	%				
+sumbawa	menangis	0034	#	#	#	#				
+sumbawa	menangis	0034	#	#	#ac	#ac				
+sumbawa	menangis	0034	karena	because	other	other				
+sumbawa	menangis	0034	raja	king	np.h:a	np	h	a	4002	
+sumbawa	menangis	0034	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0034	satè	want	v:pred	v		pred		
+sumbawa	menangis	0034	#	#	#cc:p	#cc		p		
+sumbawa	menangis	0034	lèma	quickly	other	other				
+sumbawa	menangis	0034	terang	recover	v:pred	v		pred		
+sumbawa	menangis	0034	anak	child	np.h:s	np	h	s	4003	
+sumbawa	menangis	0034	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0034	%	%	%	%				
+sumbawa	menangis	0034	%	%	%	%				
+sumbawa	menangis	0035	dadi	then	other	other				
+sumbawa	menangis	0035	pangènèng	request	np:p	np		p	4018	new
+sumbawa	menangis	0035	tau	person	rn_np.h:poss	rn_np	h	poss	4014	
+sumbawa	menangis	0035	loka	old	rn_adj	rn_adj				
+sumbawa	menangis	0035	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0035	ya=	3=	=pro.h:a	=pro	h	a	4002	
+sumbawa	menangis	0035	sa-teris	CAUS-go.straight	v:pred	v		pred		
+sumbawa	menangis	0035	%	%	%	%				
+sumbawa	menangis	0036	#	#	#	#				
+sumbawa	menangis	0036	dadi	then	other	other				
+sumbawa	menangis	0036	bawa	bring	v:pred	v		pred		
+sumbawa	menangis	0036	mo	DM	other	other				
+sumbawa	menangis	0036	lala	princess	np.h:p	np	h	p	4003	
+sumbawa	menangis	0036	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0036	ling	by	adp	adp				
+sumbawa	menangis	0036	tau	person	np.h:a_ling	np	h	a_ling	4014	
+sumbawa	menangis	0036	loka	old	rn_adj	rn_adj				
+sumbawa	menangis	0036	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0036	lakó	to	adp	adp				
+sumbawa	menangis	0036	katokal	place	np:g	np		g	4015	
+sumbawa	menangis	0036	arung	hut	rn	rn				
+sumbawa	menangis	0036	diri	REFL	rn_refl.h:poss	rn_refl	h	poss	4014	
+sumbawa	menangis	0036	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0036	%	%	%	%				
+sumbawa	menangis	0037	#	#	#	#				
+sumbawa	menangis	0037	ZERO	ZERO	0.h:s	0	h	s	4014	
+sumbawa	menangis	0037	dapat	arrive	v:pred	v		pred		
+sumbawa	menangis	0037	ana	DEM_D	dem_pro:l	dem_pro		l	4015	
+sumbawa	menangis	0037	%	%	%	%				
+sumbawa	menangis	0037	#	#	#	#				
+sumbawa	menangis	0037	ya=	3=	=pro.h:a	=pro	h	a	4014	
+sumbawa	menangis	0037	suru	command	v:pred	v		pred		
+sumbawa	menangis	0037	mo	DM	other	other				
+sumbawa	menangis	0037	lala	princess	np.h:p	np	h	p	4003	
+sumbawa	menangis	0037	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0037	#	#	#cc:other	#cc		other		
+sumbawa	menangis	0037	ZERO	ZERO	f0.h:s	f0	h	s	4003	
+sumbawa	menangis	0037	istirahat	take.a.rest	v:pred	v		pred		
+sumbawa	menangis	0037	%	%	%	%				
+sumbawa	menangis	0037	%	%	%	%				
+sumbawa	menangis	0038	#	#	#	#				
+sumbawa	menangis	0038	ZERO	ZERO	0.h:s	0	h	s	4014	
+sumbawa	menangis	0038	brang-nawar	tomorrow	other	other				
+sumbawa	menangis	0038	mulai	start	v:pred	v		pred		
+sumbawa	menangis	0038	mo	DM	other	other				
+sumbawa	menangis	0038	#	#	#cc:other	#cc		other		
+sumbawa	menangis	0038	ya=	3=	=pro.h:a	=pro	h	a	4014	
+sumbawa	menangis	0038	médó	cure	v:pred	v		pred		
+sumbawa	menangis	0038	lala	princess	np.h:p	np	h	p	4003	
+sumbawa	menangis	0038	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0038	%	%	%	%				
+sumbawa	menangis	0038	%	%	%	%				
+sumbawa	menangis	0039	#	#	#	#				
+sumbawa	menangis	0039	ZERO	ZERO	0.h:p	0	h	p	4003	
+sumbawa	menangis	0039	ya=	3=	=pro.h:a	=pro	h	a	4014	
+sumbawa	menangis	0039	paning	give.a.shower	v:pred	v		pred		
+sumbawa	menangis	0039	kè	and	adp	adp				
+sumbawa	menangis	0039	ai	water	np:obl	np		obl	4019	new
+sumbawa	menangis	0039	%	%	%	%				
+sumbawa	menangis	0040	#	#	#	#				
+sumbawa	menangis	0040	ai	water	np:s	np		s	4019	
+sumbawa	menangis	0040	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0040	bacampir	mixed	v:pred	v		pred		
+sumbawa	menangis	0040	kè	with	adp	adp				
+sumbawa	menangis	0040	geti	blood	np:obl	np		obl		
+sumbawa	menangis	0040	%	%	%	%				
+sumbawa	menangis	0041	#	#	#	#				
+sumbawa	menangis	0041	ka=ada	PST=exist	v:predex	v		predex		
+sumbawa	menangis	0041	ai	water	np:s	np		s	4019	
+sumbawa	menangis	0041	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0041	pang	at	adp	adp				
+sumbawa	menangis	0041	nan	DEM_M	dem_pro:l	dem_pro		l		
+sumbawa	menangis	0041	%	%	%	%				
+sumbawa	menangis	0042	#	#	#	#				
+sumbawa	menangis	0042	#	#	#ac	#ac				
+sumbawa	menangis	0042	ling	because	other	other				
+sumbawa	menangis	0042	beru	immediately.after	other	other				
+sumbawa	menangis	0042	ya=	3=	=pro.h:a	=pro	h	a	4014	
+sumbawa	menangis	0042	mat	pull.out	v:pred	v		pred		
+sumbawa	menangis	0042	lading	knife	np:p	np		p	4020	new
+sumbawa	menangis	0042	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0042	%	%	%	%				
+sumbawa	menangis	0042	lis	come.out	v:pred	v		pred		
+sumbawa	menangis	0042	ai	water	np:s	np		s	4019	
+sumbawa	menangis	0042	#	#	#rc	#rc				
+sumbawa	menangis	0042	adè	REL	other	other				
+sumbawa	menangis	0042	ZERO	ZERO	f0:s	f0		s	4019	
+sumbawa	menangis	0042	campir	mixed	v:pred	v		pred		
+sumbawa	menangis	0042	kè	with	adp	adp				
+sumbawa	menangis	0042	geti	blood	np:obl	np		obl		
+sumbawa	menangis	0042	%	%	%	%				
+sumbawa	menangis	0042	%	%	%	%				
+sumbawa	menangis	0043	#	#	#	#				
+sumbawa	menangis	0043	dadi	then	other	other				
+sumbawa	menangis	0043	ai	water	np:a	np		a	4019	
+sumbawa	menangis	0043	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0043	#	#	#rc	#rc				
+sumbawa	menangis	0043	adè	REL	other	other				
+sumbawa	menangis	0043	ZERO	ZERO	0.h:a	0	h	a	4014	
+sumbawa	menangis	0043	ZERO	ZERO	f0:p	f0		p	4019	
+sumbawa	menangis	0043	kènang	use	v:pred	v		pred		
+sumbawa	menangis	0043	%	%	%	%				
+sumbawa	menangis	0043	médó	cure	v:pred	v		pred		
+sumbawa	menangis	0043	lala	princess	np.h:p	np	h	p	4003	
+sumbawa	menangis	0043	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0043	%	%	%	%				
+sumbawa	menangis	0044	#	#	#	#				
+sumbawa	menangis	0044	lè	late	other	other				
+sumbawa	menangis	0044	lè	late	other	other				
+sumbawa	menangis	0044	lè	late	other	other				
+sumbawa	menangis	0044	ya=roa	FUT=likely	v:pred	v		pred		
+sumbawa	menangis	0044	mo	DM	other	other				
+sumbawa	menangis	0044	terang	recovered	v:pred	v		pred		
+sumbawa	menangis	0044	lala	princess	np.h:s	np	h	s	4003	
+sumbawa	menangis	0044	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0044	%	%	%	%				
+sumbawa	menangis	0045	#	#	#	#				
+sumbawa	menangis	0045	#	#	#ac	#ac				
+sumbawa	menangis	0045	ZERO	ZERO	0.h:s	0	h	s	4003	
+sumbawa	menangis	0045	dalam	dalam	other	other				
+sumbawa	menangis	0045	ya=terang	FUT=recover	v:pred	v		pred		
+sumbawa	menangis	0045	ta	DEM_P	dem_pro:other	dem_pro		other		
+sumbawa	menangis	0045	%	%	%	%				
+sumbawa	menangis	0045	ampa-ampa	unexpectedly	other	other				
+sumbawa	menangis	0045	lala	princess	np.h:s	np	h	s	4003	
+sumbawa	menangis	0045	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0045	teri	fall	v:pred	v		pred		
+sumbawa	menangis	0045	até	lever	np:other	np		other		
+sumbawa	menangis	0045	lakó	to	adp	adp				
+sumbawa	menangis	0045	tau	person	np.h:g	np	h	g	4014	
+sumbawa	menangis	0045	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0045	%	%	%	%				
+sumbawa	menangis	0046	#	#	#	#				
+sumbawa	menangis	0046	dadi	then	other	other				
+sumbawa	menangis	0046	terang	recover	v:pred	v		pred		
+sumbawa	menangis	0046	mo	DM	other	other				
+sumbawa	menangis	0046	lala	princess	np.h:s	np	h	s	4003	
+sumbawa	menangis	0046	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0046	%	%	%	%				
+sumbawa	menangis	0047	#	#	#	#				
+sumbawa	menangis	0047	ZERO	ZERO	0.h:a	0	h	a	4014	
+sumbawa	menangis	0047	laló	go	lv_v	lv_v				
+sumbawa	menangis	0047	mo	DM	other	other				
+sumbawa	menangis	0047	antat	take	v:pred	v		pred		
+sumbawa	menangis	0047	lala	princess	np.h:p	np	h	p	4003	
+sumbawa	menangis	0047	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0047	lakó	to	adp	adp				
+sumbawa	menangis	0047	kerajaan	kingdom	np:g	np		g	4001	
+sumbawa	menangis	0047	%	%	%	%				
+sumbawa	menangis	0048	#	#	#	#				
+sumbawa	menangis	0048	#	#	#ac	#ac				
+sumbawa	menangis	0048	ling	because	other	other				
+sumbawa	menangis	0048	ya=	3=	=pro.h:a	=pro	h	a	4002	
+sumbawa	menangis	0048	gita	see	v:pred	v		pred		
+sumbawa	menangis	0048	mo	DM	other	other				
+sumbawa	menangis	0048	#	#	#cc:p	#cc		p		
+sumbawa	menangis	0048	anak	child	np.h:s	np	h	s	4003	
+sumbawa	menangis	0048	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0048	ka	PST	lv	lv				
+sumbawa	menangis	0048	mo	DM	lv	lv				
+sumbawa	menangis	0048	terang	recover	v:pred	v		pred		
+sumbawa	menangis	0048	%	%	%	%				
+sumbawa	menangis	0048	%	%	%	%				
+sumbawa	menangis	0048	kameri	be.pleased	v:pred	v		pred		
+sumbawa	menangis	0048	raja	king	np.h:s	np	h	s	4002	
+sumbawa	menangis	0048	%	%	%	%				
+sumbawa	menangis	0049	#	#	#	#				
+sumbawa	menangis	0049	tapi	but	other	other				
+sumbawa	menangis	0049	raja	king	np.h:s	np	h	s	4002	
+sumbawa	menangis	0049	inkar	betray	v:pred	v		pred		
+sumbawa	menangis	0049	%	%	%	%				
+sumbawa	menangis	0049	#	#	#neg	#neg				
+sumbawa	menangis	0049	ZERO	ZERO	0.h:s	0	h	s	4002	
+sumbawa	menangis	0049	nongka	NEG.PST	other	other				
+sumbawa	menangis	0049	dadi	become	v:pred	v		pred		
+sumbawa	menangis	0049	#	#	#cc:other	#cc		other		
+sumbawa	menangis	0049	ZERO	ZERO	0.h:a	0	h	a	4002	
+sumbawa	menangis	0049	roa	want	lv_v	lv_v				
+sumbawa	menangis	0049	sasai	marry	v:pred	v		pred		
+sumbawa	menangis	0049	anak	child	np.h:p	np	h	p	4003	
+sumbawa	menangis	0049	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0049	kè	with	adp	adp				
+sumbawa	menangis	0049	baèng	owner	np.h:obl	np	h	obl	4014	
+sumbawa	menangis	0049	#	#	#rc	#rc				
+sumbawa	menangis	0049	ZERO	ZERO	f0.h:a	f0	h	a	4014	
+sumbawa	menangis	0049	ka=saterang	PST=cure	v:pred	v		pred		
+sumbawa	menangis	0049	ZERO	ZERO	0.h:p	0	h	p	4003	
+sumbawa	menangis	0049	%	%	%	%				
+sumbawa	menangis	0049	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0049	%	%	%	%				
+sumbawa	menangis	0049	%	%	%	%				
+sumbawa	menangis	0050	#	#	#	#				
+sumbawa	menangis	0050	bling	say	v:pred	v		pred		
+sumbawa	menangis	0050	raja	king	np.h:s_ds	np	h	s_ds	4002	
+sumbawa	menangis	0050	%	%	%	%				
+sumbawa	menangis	0051	#	#	#ds	#ds				
+sumbawa	menangis	0051	#	#	#ds_ac	#ds_ac				
+sumbawa	menangis	0051	ZERO	ZERO	0.1:s	0	1	s	4002	
+sumbawa	menangis	0051	kènang	use	v:pred	v		pred		
+sumbawa	menangis	0051	kuda	how	other	other				
+sumbawa	menangis	0051	%	%	%	%				
+sumbawa	menangis	0051	ya=	FUT=	=lv	=lv				
+sumbawa	menangis	0051	ku=	1SG=	=pro.1:a	=pro	1	a	4002	
+sumbawa	menangis	0051	sasai	marry	v:pred	v		pred		
+sumbawa	menangis	0051	kè	and	adp	adp				
+sumbawa	menangis	0051	nya	3	pro.h:obl	pro	h	obl	4003	
+sumbawa	menangis	0051	tau	person	np.h:p	np	h	p	4014	
+sumbawa	menangis	0051	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	menangis	0051	rua	appearance	rn	rn				
+sumbawa	menangis	0052	kè	with	adp	adp				
+sumbawa	menangis	0052	tau	person	np.h:obl	np	h	obl		
+sumbawa	menangis	0052	lin-lin	different	rn	rn				
+sumbawa	menangis	0052	ka	ITJ	other	other				
+sumbawa	menangis	0052	%	%	%	%				
+sumbawa	menangis	0053	nn	NC	nc	nc				
+sumbawa	menangis	0054	#	#	#	#				
+sumbawa	menangis	0054	#	#	#ac	#ac				
+sumbawa	menangis	0054	ling	because	other	other				
+sumbawa	menangis	0054	menong	listen	v:pred	v		pred		
+sumbawa	menangis	0054	pangkeling	shout	np:p	np		p	4021	new
+sumbawa	menangis	0054	raja	king	rn_np.h:poss	rn_np	h	poss	4002	
+sumbawa	menangis	0054	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0054	ling	by	adp	adp				
+sumbawa	menangis	0054	tau	person	np.h:a_ling	np	h	a_ling	4014	
+sumbawa	menangis	0054	loka	old	rn	rn				
+sumbawa	menangis	0054	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0054	%	%	%	%				
+sumbawa	menangis	0054	ZERO	ZERO	0.h:s	0	h	s	4014	
+sumbawa	menangis	0054	ngènèng	ask	lv_v	lv_v				
+sumbawa	menangis	0054	mo	DM	other	other				
+sumbawa	menangis	0054	ngamit	leave	v:pred	v		pred		
+sumbawa	menangis	0054	%	%	%	%				
+sumbawa	menangis	0055	#	#	#	#				
+sumbawa	menangis	0055	ZERO	ZERO	0.h:s	0	h	s	4014	
+sumbawa	menangis	0055	ya=mole	FUT=go.back	v:pred	v		pred		
+sumbawa	menangis	0055	lakó	to	adp	adp				
+sumbawa	menangis	0055	tana	land	np:g	np		g		
+sumbawa	menangis	0055	Makasar	Makasar	rn_pn_np:poss	rn_pn_np		poss	4022	unused
+sumbawa	menangis	0055	%	%	%	%				
+sumbawa	menangis	0056	#	#	#	#				
+sumbawa	menangis	0056	tapi	but	other	other				
+sumbawa	menangis	0056	#	#	#ac	#ac				
+sumbawa	menangis	0056	beru	just.after	other	other				
+sumbawa	menangis	0056	ZERO	ZERO	0.h:s	0	h	s	4002	
+sumbawa	menangis	0056	dapat	arrive	v:pred	v		pred		
+sumbawa	menangis	0056	pang	at	adp	adp				
+sumbawa	menangis	0056	tampar	seashore	np:l	np		l	4023	new
+sumbawa	menangis	0056	%	%	%	%				
+sumbawa	menangis	0056	bakelèk	shout	v:pred	v		pred		
+sumbawa	menangis	0056	lala	princess	np.h:s_ds	np	h	s_ds	4003	
+sumbawa	menangis	0056	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0057	#	#	#ds.neg	#ds.neg				
+sumbawa	menangis	0057	ZERO	ZERO	0.2:a	0	2	a	4014	
+sumbawa	menangis	0057	na	PROH	lv	lv				
+sumbawa	menangis	0057	bilin	leave	v:pred	v		pred		
+sumbawa	menangis	0057	kaji	1SG.HON	pro.1:p	pro	1	p	4003	
+sumbawa	menangis	0057	%	%	%	%				
+sumbawa	menangis	0058	#	#	#ds	#ds				
+sumbawa	menangis	0058	kaji=	1SG.HON=	=pro.1:a	=pro	1	a	4003	
+sumbawa	menangis	0058	sate	want	lv_v	lv_v				
+sumbawa	menangis	0058	turit	follow	v:pred	v		pred		
+sumbawa	menangis	0058	sia	2SG.HON	pro.2:p	pro	2	p	4014	
+sumbawa	menangis	0058	%	%	%	%				
+sumbawa	menangis	0058	%	%	%	%				
+sumbawa	menangis	0059	#	#	#neg	#neg				
+sumbawa	menangis	0059	tapi	but	other	other				
+sumbawa	menangis	0059	tau	person	np.h:s	np	h	s	4014	
+sumbawa	menangis	0059	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0059	nongka	NEG.PST	lv	lv				
+sumbawa	menangis	0059	bernang	stop	v:pred	v		pred		
+sumbawa	menangis	0059	%	%	%	%				
+sumbawa	menangis	0059	#	#	#	#				
+sumbawa	menangis	0059	ZERO	ZERO	0.h:s	0	h	s	4014	
+sumbawa	menangis	0059	teris	go.on	v:pred	v		pred		
+sumbawa	menangis	0059	si	DM	other	other				
+sumbawa	menangis	0059	%	%	%	%				
+sumbawa	menangis	0060	#	#	#	#				
+sumbawa	menangis	0060	ya=	3=	=pro.h:a	=pro	h	a	4003	
+sumbawa	menangis	0060	surung	push	v:pred	v		pred		
+sumbawa	menangis	0060	sampan	boat	np:p	np		p	4024	new
+sumbawa	menangis	0060	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0060	%	%	%	%				
+sumbawa	menangis	0061	#	#	#	#				
+sumbawa	menangis	0061	ZERO	ZERO	0.h:p	0	h	p	4014	
+sumbawa	menangis	0061	ya=	3=	=pro_h_a	=pro_h_a			4003	
+sumbawa	menangis	0061	turit	follow	v:pred	v		pred		
+sumbawa	menangis	0061	ling	by	other	other				
+sumbawa	menangis	0061	lala	princess	np.h:a_ling	np	h	a_ling	4003	
+sumbawa	menangis	0061	%	%	%	%				
+sumbawa	menangis	0061	#	#	#	#				
+sumbawa	menangis	0061	#	#	#ac	#ac				
+sumbawa	menangis	0061	ZERO	ZERO	0.h:s	0	h	s	4014	
+sumbawa	menangis	0061	dapat	arrive	v:pred	v		pred		
+sumbawa	menangis	0061	tenga	middle	np:l	np		l		
+sumbawa	menangis	0061	%	%	%	%				
+sumbawa	menangis	0061	balawas	recite.a.poem	v:pred	v		pred		
+sumbawa	menangis	0061	mo	DM	other	other				
+sumbawa	menangis	0061	tau	person	np.h:s_ds	np	h	s_ds	4014	
+sumbawa	menangis	0061	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0062	#	#	#ds	#ds				
+sumbawa	menangis	0062	ku=	1SG=	=pro.1:a	=pro	1	a	4014	
+sumbawa	menangis	0062	menong	hear	v:pred	v		pred		
+sumbawa	menangis	0062	si	DM	other	other				
+sumbawa	menangis	0062	sengo	voice	np:p	np		p	4025	new
+sumbawa	menangis	0062	=mu	=2SG	=rn_pro.2:poss	=rn_pro	2	poss	4003	
+sumbawa	menangis	0062	andi	younger.sibling	np.2:voc	np	2	voc	4003	
+sumbawa	menangis	0062	e	ITJ	other	other				
+sumbawa	menangis	0062	ling	at	adp	adp				
+sumbawa	menangis	0062	poto	tip	np:l	np		l		
+sumbawa	menangis	0062	tanjung	cape	rn_np:poss	rn_np		poss	4033	bridging
+sumbawa	menangis	0062	menangis	cry	rn	rn				
+sumbawa	menangis	0062	%	%	%	%				
+sumbawa	menangis	0062	%	%	%	%				
+sumbawa	menangis	0063	#	#	#nc	#nc				
+sumbawa	menangis	0063	aku	1SG	nc	nc				
+sumbawa	menangis	0063	pendi	feel.sad	nc	nc				
+sumbawa	menangis	0063	onang	but	nc	nc				
+sumbawa	menangis	0063	kukumé	cannot.do.anything	nc	nc				
+sumbawa	menangis	0063	%	%	%	%				
+sumbawa	menangis	0064	#	#	#	#				
+sumbawa	menangis	0064	#	#	#ac	#ac				
+sumbawa	menangis	0064	suda	after	other	other				
+sumbawa	menangis	0064	ZERO	ZERO	0.h:s	0	h	s	4014	
+sumbawa	menangis	0064	belawas	recite.a.poem	v:pred	v		pred		
+sumbawa	menangis	0064	%	%	%	%				
+sumbawa	menangis	0064	sa-teris	CAUS-go.on	v:pred	v		pred		
+sumbawa	menangis	0064	diri	REFL	refl.h:p	refl	h	p	4014	
+sumbawa	menangis	0064	tau	person	np.h:a	np	h	a	4014	
+sumbawa	menangis	0064	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0064	%	%	%	%				
+sumbawa	menangis	0065	#	#	#	#				
+sumbawa	menangis	0065	baruba	change	v:pred	v		pred		
+sumbawa	menangis	0065	idung.mata	face	np:s	np		s	4027	bridging
+sumbawa	menangis	0065	%	%	%	%				
+sumbawa	menangis	0066	#	#	#	#				
+sumbawa	menangis	0066	ZERO	ZERO	0.h:s	0	h	s	4014	
+sumbawa	menangis	0066	dadi	become	v:pred	v		pred		
+sumbawa	menangis	0066	tau	person	np.h:other	np	h	other		
+sumbawa	menangis	0066	taruna	young	rn	rn				
+sumbawa	menangis	0066	gera	beautiful	rn	rn				
+sumbawa	menangis	0066	kapasir	clean	rn	rn				
+sumbawa	menangis	0066	%	%	%	%				
+sumbawa	menangis	0067	#	#	#	#				
+sumbawa	menangis	0067	dadi	then	other	other				
+sumbawa	menangis	0067	pengawal	guard	np.h:s	np	h	s	4028	new
+sumbawa	menangis	0067	#	#	#rc	#rc				
+sumbawa	menangis	0067	adè	REL	other	other				
+sumbawa	menangis	0067	baèng	NC	nc	nc				
+sumbawa	menangis	0067	ZERO	ZERO	f0.h:a	f0	h	a	4028	
+sumbawa	menangis	0067	ZERO	ZERO	0.h:p	0	h	p	4014	
+sumbawa	menangis	0067	ka=gita	PST=see	v:pred	v		pred		
+sumbawa	menangis	0067	karing	then	adp	adp				
+sumbawa	menangis	0067	sisi	side	np:obl	np		obl		
+sumbawa	menangis	0067	tampar	seashore	rn_np	rn_np			4023	
+sumbawa	menangis	0067	%	%	%	%				
+sumbawa	menangis	0067	kamelas	be.surprised	v:pred	v		pred		
+sumbawa	menangis	0067	#	#	#ac	#ac				
+sumbawa	menangis	0067	ling	because	other	other				
+sumbawa	menangis	0067	ZERO	ZERO	0.h:a	0	h	a	4028	
+sumbawa	menangis	0067	gita	see	v:pred	v		pred		
+sumbawa	menangis	0067	#	#	#cc:p	#cc		p		
+sumbawa	menangis	0067	tau	person	np.h:s	np	h	s	4014	
+sumbawa	menangis	0067	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0067	dadi	become	v:pred	v		pred		
+sumbawa	menangis	0067	tau	person	np.h:other	np	h	other		
+sumbawa	menangis	0067	gera	beautiful	rn	rn				
+sumbawa	menangis	0067	kapasir	clean	other	other				
+sumbawa	menangis	0067	%	%	%	%				
+sumbawa	menangis	0067	%	%	%	%				
+sumbawa	menangis	0067	%	%	%	%				
+sumbawa	menangis	0068	#	#	#	#				
+sumbawa	menangis	0068	bateris	go.on	v:pred	v		pred		
+sumbawa	menangis	0068	mo	DM	other	other				
+sumbawa	menangis	0068	tau	person	np.h:s	np	h	s	4014	
+sumbawa	menangis	0068	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0068	#	#	#cc:other	#cc		other		
+sumbawa	menangis	0068	ZERO	ZERO	0.h:s	0	h	s	4014	
+sumbawa	menangis	0068	balayar	sail	v:pred	v		pred		
+sumbawa	menangis	0068	lakó	to	adp	adp				
+sumbawa	menangis	0068	dèsa	village	np:g	np		g	4015	
+sumbawa	menangis	0068	darat	NC	nc	nc				
+sumbawa	menangis	0068	%	%	%	%				
+sumbawa	menangis	0068	%	%	%	%				
+sumbawa	menangis	0069	#	#	#	#				
+sumbawa	menangis	0069	tapi	but	other	other				
+sumbawa	menangis	0069	lala	princess	np.h:s	np	h	s	4003	
+sumbawa	menangis	0069	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	menangis	0069	kabèlak	drown	v:pred	v		pred		
+sumbawa	menangis	0069	mo	DM	other	other				
+sumbawa	menangis	0069	dalam	inside	adp	adp				
+sumbawa	menangis	0069	lit	sea	np:l	np		l	4029	new
+sumbawa	menangis	0069	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	menangis	0069	%	%	%	%				
+sumbawa	menangis	0070	#	#	#neg	#neg				
+sumbawa	menangis	0070	kè	and	other	other				
+sumbawa	menangis	0070	ampo	addition	other	other				
+sumbawa	menangis	0070	nya	3	pro.h:s	pro	h	s	4003	
+sumbawa	menangis	0070	nó	NEG	lv	lv				
+sumbawa	menangis	0070	roa	want	lv_v	lv_v				
+sumbawa	menangis	0070	rebalik	go.back	v:pred	v		pred		
+sumbawa	menangis	0070	lakó	to	adp	adp				
+sumbawa	menangis	0070	kerajaan	kingdom	np:g	np		g	4001	
+sumbawa	menangis	0070	%	%	%	%				
+sumbawa	menangis	0071	#	#	#	#				
+sumbawa	menangis	0071	dadi	become	v:pred	v		pred		
+sumbawa	menangis	0071	mo	DM	other	other				
+sumbawa	menangis	0071	nya	3	pro.h:s	pro	h	s	4003	
+sumbawa	menangis	0071	jangan	fish	np:other	np		other		
+sumbawa	menangis	0071	pang	at	adp	adp				
+sumbawa	menangis	0071	ninan	there	dem_pro:l	dem_pro		l	4029	
+sumbawa	menangis	0071	%	%	%	%				

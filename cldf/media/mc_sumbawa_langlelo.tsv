@@ -1,0 +1,1205 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sumbawa	langlelo	0001	#	#	#nc	#nc				
+sumbawa	langlelo	0001	ada	exist	nc	nc				
+sumbawa	langlelo	0001	saman	time	nc	nc				
+sumbawa	langlelo	0001	dunung	before	nc	nc				
+sumbawa	langlelo	0001	ana	DEM_D	nc	nc				
+sumbawa	langlelo	0001	%	%	%	%				
+sumbawa	langlelo	0002	#	#	#	#				
+sumbawa	langlelo	0002	ada	exist	v:predex	v		predex		
+sumbawa	langlelo	0002	sópó	one	ln	ln				
+sumbawa	langlelo	0002	keluarga	family	np.h:s	np	h	s	3001	new
+sumbawa	langlelo	0002	dua	two	rn	rn				
+sumbawa	langlelo	0002	anak	child	rn_np.h	rn_np	h		3002	new
+sumbawa	langlelo	0002	%	%	%	%				
+sumbawa	langlelo	0003	#	#	#	#				
+sumbawa	langlelo	0003	soai	female	v:pred	v		pred		
+sumbawa	langlelo	0003	se-kodeng	one-piece	np.h:s	np	h	s	3003	bridging
+sumbawa	langlelo	0003	%	%	%	%				
+sumbawa	langlelo	0003	#	#	#	#				
+sumbawa	langlelo	0003	salaki	male	v:pred	v		pred		
+sumbawa	langlelo	0003	se-kodeng	one-piece	np.h:s	np	h	s	3004	bridging
+sumbawa	langlelo	0003	%	%	%	%				
+sumbawa	langlelo	0004	#	#	#	#				
+sumbawa	langlelo	0004	saruntung-ano	everyday	other	other				
+sumbawa	langlelo	0004	tódé’	child	np.h:p	np	h	p	3002	
+sumbawa	langlelo	0004	dua	two	rn	rn				
+sumbawa	langlelo	0004	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0004	ya=	3=	=pro.h:a	=pro	h	a	3006	bridging
+sumbawa	langlelo	0004	suru	order	v:pred	v		pred		
+sumbawa	langlelo	0004	#	#	#cc	#cc				
+sumbawa	langlelo	0004	ZERO	ZERO	f0.h:s	f0	h	s	3002	
+sumbawa	langlelo	0004	bakedèk	play	v:pred	v		pred		
+sumbawa	langlelo	0004	pang	at	adp	adp				
+sumbawa	langlelo	0004	bao	above	np:l	np		l		
+sumbawa	langlelo	0004	batu	stone	rn_np	rn_np			3005	new
+sumbawa	langlelo	0004	nampar	flat	rn	rn				
+sumbawa	langlelo	0004	%	%	%	%				
+sumbawa	langlelo	0004	%	%	%	%				
+sumbawa	langlelo	0005	#	#	#	#				
+sumbawa	langlelo	0005	batu.nampar	flat.stone	np:s	np		s	3005	
+sumbawa	langlelo	0005	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	langlelo	0005	basingin	be.named	v:pred	v		pred		
+sumbawa	langlelo	0005	Batu-Langléló’	Langléló.Stone	pn_np:other	pn_np		other		
+sumbawa	langlelo	0005	%	%	%	%				
+sumbawa	langlelo	0006	#	#	#	#				
+sumbawa	langlelo	0006	sópó	one	ln	ln				
+sumbawa	langlelo	0006	waktu	time	np:other	np		other		
+sumbawa	langlelo	0006	ina	mother	np.h:a	np	h	a	3006	
+sumbawa	langlelo	0006	tuja	pound	v:pred	v		pred		
+sumbawa	langlelo	0006	padé	rice	np:p	np		p	3007	new
+sumbawa	langlelo	0006	%	%	%	%				
+sumbawa	langlelo	0007	#	#	#	#				
+sumbawa	langlelo	0007	anak	child	np.h:p	np	h	p	3002	
+sumbawa	langlelo	0007	ya=	3=	=pro.h:a	=pro	h	a	3006	
+sumbawa	langlelo	0007	sa-tokal	CAUS-sit	v:pred	v		pred		
+sumbawa	langlelo	0007	mo	PTC_M	rv	rv				
+sumbawa	langlelo	0007	pang	at	adp	adp				
+sumbawa	langlelo	0007	bao	above	np:l	np		l		
+sumbawa	langlelo	0007	Batu.Langléló	Batu.Langléló	rn_pn_np	rn_pn_np			3005	
+sumbawa	langlelo	0007	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0007	%	%	%	%				
+sumbawa	langlelo	0008	#	#	#neg	#neg				
+sumbawa	langlelo	0008	ZERO	ZERO	0.h:s	0	h	s	3002	
+sumbawa	langlelo	0008	nó.po=ka	not.yet	lv	lv				
+sumbawa	langlelo	0008	basebó	have.breakfast	v:pred	v		pred		
+sumbawa	langlelo	0008	%	%	%	%				
+sumbawa	langlelo	0008	#	#	#neg	#neg				
+sumbawa	langlelo	0008	ZERO	ZERO	0.h:s	0	h	s	3002	
+sumbawa	langlelo	0008	nó.po=ka	not.yet	lv	lv				
+sumbawa	langlelo	0008	mangan	have.meal	v:pred	v		pred		
+sumbawa	langlelo	0008	%	%	%	%				
+sumbawa	langlelo	0009	#	#	#	#				
+sumbawa	langlelo	0009	karing	then	other	other				
+sumbawa	langlelo	0009	beling	say	v:pred	v		pred		
+sumbawa	langlelo	0009	mo	PTC	other	other				
+sumbawa	langlelo	0009	anak	child	np.h:s_ds	np	h	s_ds	3002	
+sumbawa	langlelo	0010	#	#	#ds	#ds				
+sumbawa	langlelo	0010	ZERO	ZERO	0.1:a	0	1	a	3002	
+sumbawa	langlelo	0010	ina	mother	np.h:voc	np	h	voc	3006	
+sumbawa	langlelo	0010	ina	mother	np.h:voc	np	h	voc	3006	
+sumbawa	langlelo	0010	ènèng	ask.for	v:pred	v		pred		
+sumbawa	langlelo	0010	mè	rice	np:p	np		p	3007	
+sumbawa	langlelo	0010	gama	DM	other	other				
+sumbawa	langlelo	0010	ina	mother	np.h:voc	np	h	voc	3006	
+sumbawa	langlelo	0011	#	#	#ds_ac.neg	#ds_ac.neg				
+sumbawa	langlelo	0011	muntu	when	other	other				
+sumbawa	langlelo	0011	nó.po=ka	not.yet	lv	lv				
+sumbawa	langlelo	0011	tinggi	high	v:pred	v		pred		
+sumbawa	langlelo	0011	Batu.Langléló	Batu.Langléló	pn_np:s	pn_np		s	3005	
+sumbawa	langlelo	0011	%	%	%	%				
+sumbawa	langlelo	0011	%	%	%	%				
+sumbawa	langlelo	0011	%	%	%	%				
+sumbawa	langlelo	0012	#	#	#	#				
+sumbawa	langlelo	0012	samong	reply	v:pred	v		pred		
+sumbawa	langlelo	0012	ling	by	adp	adp				
+sumbawa	langlelo	0012	ina	mother	np.h:s_ds_ling	np	h	s_ds_ling	3006	
+sumbawa	langlelo	0012	#	#	#ds	#ds				
+sumbawa	langlelo	0012	na	ITJ	other	other				
+sumbawa	langlelo	0012	mudi	later	other	other				
+sumbawa	langlelo	0012	anak	child	np.h:voc	np	h	voc	3002	
+sumbawa	langlelo	0012	ta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	langlelo	0012	muntu	time	np:pred	np		pred		
+sumbawa	langlelo	0012	#	#	#ds_rc	#ds_rc				
+sumbawa	langlelo	0012	ku=	1SG=	=pro.1:s	=pro	1	s	3006	
+sumbawa	langlelo	0012	nuja	ANTIP.pound	v:pred	v		pred		
+sumbawa	langlelo	0012	%	%	%	%				
+sumbawa	langlelo	0012	%	%	%	%				
+sumbawa	langlelo	0013	#	#	#ds	#ds				
+sumbawa	langlelo	0013	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0013	endi	later	other	other				
+sumbawa	langlelo	0013	beru	after	other	other				
+sumbawa	langlelo	0013	ka.mo	already	lv	lv				
+sumbawa	langlelo	0013	tu=	1PL=	=pro.1:s	=pro	1	s	3006	
+sumbawa	langlelo	0013	nuja	anti.pound	v:pred	v		pred		
+sumbawa	langlelo	0013	ta	DEM_P	other	other				
+sumbawa	langlelo	0013	%	%	%	%				
+sumbawa	langlelo	0014	nampo	then	other	other				
+sumbawa	langlelo	0014	tu=	1PL=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0014	mongka	ANTIP.cook.rice	v:pred	v		pred		
+sumbawa	langlelo	0015	mongka	ANTIP.cook.rice	rv	rv				
+sumbawa	langlelo	0015	masak	cook	rv	rv				
+sumbawa	langlelo	0015	mo	DM	other	other				
+sumbawa	langlelo	0015	mè	rice	np:p	np		p	3007	
+sumbawa	langlelo	0015	%	%	%	%				
+sumbawa	langlelo	0015	#	#	#ds	#ds				
+sumbawa	langlelo	0015	nampo	then	other	other				
+sumbawa	langlelo	0015	ku=	1SG=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0015	bau	can	lv	lv				
+sumbawa	langlelo	0015	bèang	give	v:pred	v		pred		
+sumbawa	langlelo	0015	nènè	2PL	pro.2:p	pro	2	p	3002	
+sumbawa	langlelo	0015	mè	rice	np:p2	np		p2	3007	
+sumbawa	langlelo	0015	%	%	%	%				
+sumbawa	langlelo	0015	%	%	%	%				
+sumbawa	langlelo	0016	#	#	#ds	#ds				
+sumbawa	langlelo	0016	ba	ITJ	other	other				
+sumbawa	langlelo	0016	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0016	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0016	narang	the.more	other	other				
+sumbawa	langlelo	0016	lè	late	other	other				
+sumbawa	langlelo	0016	kan	isn't it	other	other				
+sumbawa	langlelo	0016	narang	the.more	lv	lv				
+sumbawa	langlelo	0016	tingi	high	v:pred	v		pred		
+sumbawa	langlelo	0016	%	%	%	%				
+sumbawa	langlelo	0017	#	#	#ds	#ds				
+sumbawa	langlelo	0017	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0017	nampar	flat	rn	rn				
+sumbawa	langlelo	0017	Batu.Langléló	Batu.Langléló	pn_np:appos	pn_np		appos	3005	
+sumbawa	langlelo	0017	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0018	pang’	the.place	np:appos	np		appos	3005	
+sumbawa	langlelo	0018	#	#	#ds_rc	#ds_rc				
+sumbawa	langlelo	0018	ka=	PST=	=lv	=lv				
+sumbawa	langlelo	0018	sia=	2SG.HON=	=pro.2:a	=pro	2	a	3006	
+sumbawa	langlelo	0018	tokal	sit.down	v:pred	v		pred		
+sumbawa	langlelo	0018	kami	1PL	pro.1:p	pro	1	p	3002	
+sumbawa	langlelo	0018	%	%	%	%				
+sumbawa	langlelo	0018	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0019	pang’	the.place	np:appos	np		appos	3005	
+sumbawa	langlelo	0019	#	#	#ds_rc	#ds_rc				
+sumbawa	langlelo	0019	kami	1PL.EXCL	pro.1:s	pro	1	s	3002	
+sumbawa	langlelo	0019	bakedèk	play	v:pred	v		pred		
+sumbawa	langlelo	0019	%	%	%	%				
+sumbawa	langlelo	0019	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0020	narang	the.more	other	other				
+sumbawa	langlelo	0020	lè’	late	other	other				
+sumbawa	langlelo	0020	narang	the.more	lv	lv				
+sumbawa	langlelo	0020	tingi	high	v:pred	v		pred		
+sumbawa	langlelo	0020	%	%	%	%				
+sumbawa	langlelo	0021	#	#	#ds.neg	#ds.neg				
+sumbawa	langlelo	0021	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0021	lamin	if	other	other				
+sumbawa	langlelo	0021	ka	PST	lv	lv				
+sumbawa	langlelo	0021	mo	DM	other	other				
+sumbawa	langlelo	0021	tingi	high	v:pred	v		pred		
+sumbawa	langlelo	0021	Batu=Langléló’	Batu.Langléló	pn_np:s	pn_np		s	3005	
+sumbawa	langlelo	0021	%	%	%	%				
+sumbawa	langlelo	0022	mudi	later	other	other				
+sumbawa	langlelo	0022	nó	NEG	other	other				
+sumbawa	langlelo	0022	sia=	2SG.HON=	=pro.2:a	=pro	2	a	3006	
+sumbawa	langlelo	0022	bau'	can	lv	lv				
+sumbawa	langlelo	0022	antat	bring	v:pred	v		pred		
+sumbawa	langlelo	0022	mè	rice	np:p	np		p	3007	
+sumbawa	langlelo	0022	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	langlelo	0022	kó’	to	adp	adp				
+sumbawa	langlelo	0022	kami	1PL.EXCL	pro.1:g	pro	1	g	3002	
+sumbawa	langlelo	0022	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0022	%	%	%	%				
+sumbawa	langlelo	0023	#	#	#ds	#ds				
+sumbawa	langlelo	0023	ao’	yes	other	other				
+sumbawa	langlelo	0023	anak	child	np.h:voc	np	h	voc	3002	
+sumbawa	langlelo	0023	è	ITJ	other	other				
+sumbawa	langlelo	0023	ta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	langlelo	0023	po	DM	other	other				
+sumbawa	langlelo	0023	muntu	time	np:pred	np		pred		
+sumbawa	langlelo	0023	#	#	#ds_rc	#ds_rc				
+sumbawa	langlelo	0023	ku=	1SG=	=pro.1:s	=pro	1	s	3006	
+sumbawa	langlelo	0023	nepé	ANTIP.winnow	v:pred	v		pred		
+sumbawa	langlelo	0023	%	%	%	%				
+sumbawa	langlelo	0023	%	%	%	%				
+sumbawa	langlelo	0024	#	#	#ds	#ds				
+sumbawa	langlelo	0024	ZERO	ZERO	0.1:s	0	1	s	3006	
+sumbawa	langlelo	0024	ka	PST	lv	lv				
+sumbawa	langlelo	0024	mo	DM	other	other				
+sumbawa	langlelo	0024	suda	finish	v:pred	v		pred		
+sumbawa	langlelo	0024	#	#	#ds_cc	#ds_cc				
+sumbawa	langlelo	0024	tu=	1PL=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0024	tuja’	pound	v:pred	v		pred		
+sumbawa	langlelo	0024	padé	rice	np:p	np		p	3007	
+sumbawa	langlelo	0024	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0024	%	%	%	%				
+sumbawa	langlelo	0024	%	%	%	%				
+sumbawa	langlelo	0024	#	#	#ds	#ds				
+sumbawa	langlelo	0024	ta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	langlelo	0024	muntu	time	np:pred	np		pred		
+sumbawa	langlelo	0024	#	#	#ds_rc	#ds_rc				
+sumbawa	langlelo	0024	ZERO	ZERO	0:p	0		p	3007	
+sumbawa	langlelo	0024	tu=	1PL=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0024	tepé	winnow	v:pred	v		pred		
+sumbawa	langlelo	0024	%	%	%	%				
+sumbawa	langlelo	0024	%	%	%	%				
+sumbawa	langlelo	0025	#	#	#	#				
+sumbawa	langlelo	0025	#	#	#ac	#ac				
+sumbawa	langlelo	0025	sedang	although	other	other				
+sumbawa	langlelo	0025	lè’	take.time	v:pred	v		pred		
+sumbawa	langlelo	0025	%	%	%	%				
+sumbawa	langlelo	0025	malóm	as.you.know	nc	nc				
+sumbawa	langlelo	0025	tódé’	child	np.h:pred	np	h	pred		
+sumbawa	langlelo	0025	anak	child	np.h:s	np	h	s	3002	
+sumbawa	langlelo	0025	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0025	kan	you.know	other	other				
+sumbawa	langlelo	0025	%	%	%	%				
+sumbawa	langlelo	0025	#	#	#	#				
+sumbawa	langlelo	0025	ZERO	ZERO	0.h:s	0	h	s	3002	
+sumbawa	langlelo	0025	masi	still	nc	nc				
+sumbawa	langlelo	0025	ódé’	small	v:pred	v		pred		
+sumbawa	langlelo	0025	%	%	%	%				
+sumbawa	langlelo	0025	#	#	#neg	#neg				
+sumbawa	langlelo	0025	ZERO	ZERO	0.h:a	0	h	a	3002	
+sumbawa	langlelo	0025	nó.po	not.yet	lv	lv				
+sumbawa	langlelo	0025	to’	know	v:pred	v		pred		
+sumbawa	langlelo	0025	berpikér	think	np:p	np		p		
+sumbawa	langlelo	0025	%	%	%	%				
+sumbawa	langlelo	0025	#	#	#neg	#neg				
+sumbawa	langlelo	0025	ZERO	ZERO	0.h:a	0	h	a	3002	
+sumbawa	langlelo	0025	nó.po	not.yet	lv	lv				
+sumbawa	langlelo	0025	to’	know	v:pred	v		pred		
+sumbawa	langlelo	0025	apa	what	np:p	np		p		
+sumbawa	langlelo	0025	%	%	%	%				
+sumbawa	langlelo	0025	#	#	#	#				
+sumbawa	langlelo	0025	ZERO	ZERO	0.h:s_ds	0	h	s_ds	3002	
+sumbawa	langlelo	0025	masi	still	nc	nc				
+sumbawa	langlelo	0025	si	PTC_S	nc	nc				
+sumbawa	langlelo	0025	bling	say	v:pred	v		pred		
+sumbawa	langlelo	0026	#	#	#ds	#ds				
+sumbawa	langlelo	0026	ina’	mother	np.h:voc	np	h	voc	3006	
+sumbawa	langlelo	0026	ina’	mother	np.h:voc	np	h	voc	3006	
+sumbawa	langlelo	0026	ZERO	ZERO	0.1:a	0	1	a	3002	
+sumbawa	langlelo	0026	ènèng	beg	v:pred	v		pred		
+sumbawa	langlelo	0026	mè	rice	np:p	np		p	3007	
+sumbawa	langlelo	0026	gama	please	other	other				
+sumbawa	langlelo	0026	ina’	mother	np.h:voc	np	h	voc	3006	
+sumbawa	langlelo	0026	#	#	#ds_ac.neg	#ds_ac.neg				
+sumbawa	langlelo	0026	muntu	when	other	other				
+sumbawa	langlelo	0026	nó.poka’	not.yet	lv	lv				
+sumbawa	langlelo	0026	tingi	high	v:pred	v		pred		
+sumbawa	langlelo	0026	Batu=Langléló’	Batu Langléló	pn_np:s	pn_np		s	3005	
+sumbawa	langlelo	0026	%	%	%	%				
+sumbawa	langlelo	0026	%	%	%	%				
+sumbawa	langlelo	0026	%	%	%	%				
+sumbawa	langlelo	0027	#	#	#	#				
+sumbawa	langlelo	0027	nan	that	dem_pro:s	dem_pro		s		
+sumbawa	langlelo	0027	nya	3	nc	nc				
+sumbawa	langlelo	0027	seda	sound	np:pred	np		pred	3008	bridging
+sumbawa	langlelo	0027	anak	child	rn_np.h:poss	rn_np	h	poss	3002	
+sumbawa	langlelo	0027	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0027	%	%	%	%				
+sumbawa	langlelo	0028	#	#	#	#				
+sumbawa	langlelo	0028	dadi	then	other	other				
+sumbawa	langlelo	0028	ling	word	np:s	np		s		
+sumbawa	langlelo	0028	ina’	mother	rn_np.h:poss	rn_np	h	poss	3006	
+sumbawa	langlelo	0028	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	langlelo	0028	ao’	yes	other	other				
+sumbawa	langlelo	0028	anak	child	np.h:voc	np	h	voc	3002	
+sumbawa	langlelo	0028	è	ITJ	other	other				
+sumbawa	langlelo	0028	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0028	rena	more	other	other				
+sumbawa	langlelo	0028	ku=	1SG=	=pro.1:s	=pro	1	s	3006	
+sumbawa	langlelo	0028	sakaputóng	rush	v:pred	v		pred		
+sumbawa	langlelo	0028	tódé	child	np.h:voc	np	h	voc	3002	
+sumbawa	langlelo	0028	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0028	%	%	%	%				
+sumbawa	langlelo	0029	#	#	#ds	#ds				
+sumbawa	langlelo	0029	muntu	PROG	lv	lv				
+sumbawa	langlelo	0029	ku=	1PL=	=pro.1:s	=pro	1	s	3006	
+sumbawa	langlelo	0029	nepé	ANTIP.winnow	v:pred	v		pred		
+sumbawa	langlelo	0029	ta	DEM_P	other	other				
+sumbawa	langlelo	0029	%	%	%	%				
+sumbawa	langlelo	0029	#	#	#ds	#ds				
+sumbawa	langlelo	0029	ta	DEM_P	other	other				
+sumbawa	langlelo	0029	nya	3	other	other				
+sumbawa	langlelo	0029	ya=	FUT=	=lv	=lv				
+sumbawa	langlelo	0029	tu=	1PL=	=pro_1_s	=pro_1_s			3006	
+sumbawa	langlelo	0029	roa	want	v:pred	v		pred		
+sumbawa	langlelo	0029	mo	PTC_M	lv	lv				
+sumbawa	langlelo	0029	#	#	#ds_cc	#ds_cc				
+sumbawa	langlelo	0029	ZERO	ZERO	0:p	0		p	3007	
+sumbawa	langlelo	0029	tu=	1PL=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0029	satama’	put.in	v:pred	v		pred		
+sumbawa	langlelo	0029	kó	to	adp	adp				
+sumbawa	langlelo	0029	dalam	inside	np:g	np		g		
+sumbawa	langlelo	0029	pamongka’	cooking.pot	rn_np	rn_np			3009	new
+sumbawa	langlelo	0029	%	%	%	%				
+sumbawa	langlelo	0029	%	%	%	%				
+sumbawa	langlelo	0030	#	#	#ds	#ds				
+sumbawa	langlelo	0030	ta	DEM_P	other	other				
+sumbawa	langlelo	0030	nya	3	other	other				
+sumbawa	langlelo	0030	ku=	1SG=	=pro_1_s	=pro_1_s			3006	
+sumbawa	langlelo	0030	mongka'	ANTIP.cook	v:pred	v		pred		
+sumbawa	langlelo	0030	aku	1SG	pro.1:dt	pro	1	dt	3006	
+sumbawa	langlelo	0030	%	%	%	%				
+sumbawa	langlelo	0030	#	#	#ds	#ds				
+sumbawa	langlelo	0030	ta	DEM_P	dem_pro:s	dem_pro		s		
+sumbawa	langlelo	0030	muntu	time	np:pred	np		pred		
+sumbawa	langlelo	0030	#	#	#ds_rc	#ds_rc				
+sumbawa	langlelo	0030	ku=	1SG=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0030	sekarat	make	v:pred	v		pred		
+sumbawa	langlelo	0030	api	fire	np:p	np		p	3010	new
+sumbawa	langlelo	0030	apa	what	other	other				
+sumbawa	langlelo	0030	%	%	%	%				
+sumbawa	langlelo	0030	%	%	%	%				
+sumbawa	langlelo	0030	%	%	%	%				
+sumbawa	langlelo	0031	#	#	#	#				
+sumbawa	langlelo	0031	malóm	as.you.know	other	other				
+sumbawa	langlelo	0031	ta	DEM_P	nc	nc				
+sumbawa	langlelo	0031	tu=	1PL=	nc	nc				
+sumbawa	langlelo	0031	api	fire	np:s	np		s	3010	
+sumbawa	langlelo	0031	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0031	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	langlelo	0031	lè’	long	v:pred	v		pred		
+sumbawa	langlelo	0031	si	PTC_S	rv	rv				
+sumbawa	langlelo	0031	tu=	1PL=	nc	nc				
+sumbawa	langlelo	0031	sakarat	make	nc	nc				
+sumbawa	langlelo	0031	#	#	#ac	#ac				
+sumbawa	langlelo	0031	apa	because	other	other				
+sumbawa	langlelo	0031	malóm	as.you.know	other	other				
+sumbawa	langlelo	0031	kè	with	adp	adp				
+sumbawa	langlelo	0031	pantèk	flint	np:obl	np		obl	3011	new
+sumbawa	langlelo	0031	kènang’	use	lv_v	lv_v				
+sumbawa	langlelo	0031	tu=	1PL=	=pro.1:a	=pro	1	a		
+sumbawa	langlelo	0031	sekarat	make	v:pred	v		pred		
+sumbawa	langlelo	0031	=api	=fire	=np:p	=np		p	3010	
+sumbawa	langlelo	0031	%	%	%	%				
+sumbawa	langlelo	0031	%	%	%	%				
+sumbawa	langlelo	0032	#	#	#	#				
+sumbawa	langlelo	0032	pantèk	flint	np:dt	np		dt	3011	
+sumbawa	langlelo	0032	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0032	nya	3	pro:s	pro		s	3011	
+sumbawa	langlelo	0032	singén	name	np:pred	np		pred		
+sumbawa	langlelo	0032	colo’	lighter	rn_np:poss	rn_np		poss		
+sumbawa	langlelo	0032	tau	person	rn_np.h:poss	rn_np	h	poss	3012	new
+sumbawa	langlelo	0032	dunóng’	before	rn	rn				
+sumbawa	langlelo	0032	%	%	%	%				
+sumbawa	langlelo	0033	#	#	#	#				
+sumbawa	langlelo	0033	ZERO	ZERO	0:s	0		s	3011	
+sumbawa	langlelo	0033	singén	name	np:pred	np		pred		
+sumbawa	langlelo	0033	#	#	#rc	#rc				
+sumbawa	langlelo	0033	ZERO	ZERO	0.h:a	0	h	a	3012	
+sumbawa	langlelo	0033	kènang’	REL	other	other				
+sumbawa	langlelo	0033	pina	make	v:pred	v		pred		
+sumbawa	langlelo	0033	api	fire	np:p	np		p	3010	
+sumbawa	langlelo	0033	tau	person	rn	rn				
+sumbawa	langlelo	0033	dunóng’	before	rn	rn				
+sumbawa	langlelo	0033	ZERO	ZERO	f0:obl	f0		obl		
+sumbawa	langlelo	0033	%	%	%	%				
+sumbawa	langlelo	0033	%	%	%	%				
+sumbawa	langlelo	0034	#	#	#	#				
+sumbawa	langlelo	0034	ètè’	take	other	other				
+sumbawa	langlelo	0034	pènè’	short	other	other				
+sumbawa	langlelo	0034	api	fire	np:s	np		s	3010	
+sumbawa	langlelo	0034	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0034	bakakan	burn	v:pred	v		pred		
+sumbawa	langlelo	0034	mo	PTC	rv	rv				
+sumbawa	langlelo	0034	%	%	%	%				
+sumbawa	langlelo	0034	#	#	#	#				
+sumbawa	langlelo	0034	ZERO	ZERO	0.h:a	0	h	a	3006	
+sumbawa	langlelo	0034	sentèk	put.onto	v:pred	v		pred		
+sumbawa	langlelo	0034	mo	PTC	rv	rv				
+sumbawa	langlelo	0034	pamongka’	rice.cooker	np:p	np		p	3009	
+sumbawa	langlelo	0034	lakó’	to	adp	adp				
+sumbawa	langlelo	0034	bao	above	np:g	np		g		
+sumbawa	langlelo	0034	senikan	stove	rn_np	rn_np			3013	new
+sumbawa	langlelo	0034	%	%	%	%				
+sumbawa	langlelo	0035	#	#	#	#				
+sumbawa	langlelo	0035	bakala’	boil	v:pred	v		pred		
+sumbawa	langlelo	0035	mo	PTC_M	rv	rv				
+sumbawa	langlelo	0035	pamongka	rice.cooking.pot	np:s	np		s	3009	
+sumbawa	langlelo	0035	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0035	%	%	%	%				
+sumbawa	langlelo	0036	#	#	#	#				
+sumbawa	langlelo	0036	barengo	shout	v:pred	v		pred		
+sumbawa	langlelo	0036	kebali’	again	rv	rv				
+sumbawa	langlelo	0036	anak	child	np.h:s	np	h	s	3002	
+sumbawa	langlelo	0036	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0036	%	%	%	%				
+sumbawa	langlelo	0036	#	#	#neg	#neg				
+sumbawa	langlelo	0036	malóm	as.you.know	other	other				
+sumbawa	langlelo	0036	tódé’	child	np.h:a	np	h	a	3002	
+sumbawa	langlelo	0036	nó	NEG	lv	lv				
+sumbawa	langlelo	0036	to	know	v:pred	v		pred		
+sumbawa	langlelo	0036	tegas	meaning	np:p	np		p		
+sumbawa	langlelo	0036	%	%	%	%				
+sumbawa	langlelo	0037	#	#	#	#				
+sumbawa	langlelo	0037	ZERO	ZERO	0.h:a	0	h	a	3002	
+sumbawa	langlelo	0037	saté’	want	v:pred	v		pred		
+sumbawa	langlelo	0037	ZERO	ZERO	0:p	0		p	3007	
+sumbawa	langlelo	0037	lèma’	quickly	other	other				
+sumbawa	langlelo	0037	baè	only	other	other				
+sumbawa	langlelo	0037	walaupón...	although	nc	nc				
+sumbawa	langlelo	0037	%	%	%	%				
+sumbawa	langlelo	0038	#	#	#	#				
+sumbawa	langlelo	0038	tapi	but	other	other				
+sumbawa	langlelo	0038	mèmang	as.you.know	other	other				
+sumbawa	langlelo	0038	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0038	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0038	narang	the more	other	other				
+sumbawa	langlelo	0038	lè’	long	other	other				
+sumbawa	langlelo	0038	narang	the more	lv	lv				
+sumbawa	langlelo	0038	tinggi	high	v:pred	v		pred		
+sumbawa	langlelo	0039	#	#	#ac	#ac				
+sumbawa	langlelo	0039	karna	because	other	other				
+sumbawa	langlelo	0039	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0039	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0039	bergerak	shake	v:pred	v		pred		
+sumbawa	langlelo	0039	%	%	%	%				
+sumbawa	langlelo	0039	%	%	%	%				
+sumbawa	langlelo	0040	#	#	#	#				
+sumbawa	langlelo	0040	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0040	nampar	flat	rn	rn				
+sumbawa	langlelo	0040	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0040	narang	the more	other	other				
+sumbawa	langlelo	0040	lè’	long	other	other				
+sumbawa	langlelo	0040	narang	the more	lv	lv				
+sumbawa	langlelo	0040	tinggi	high	v:pred	v		pred		
+sumbawa	langlelo	0040	batu	stone	np:dt	np		dt	3005	
+sumbawa	langlelo	0040	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0040	%	%	%	%				
+sumbawa	langlelo	0041	#	#	#	#				
+sumbawa	langlelo	0041	dadi	then	other	other				
+sumbawa	langlelo	0041	mudi	later	other	other				
+sumbawa	langlelo	0041	tu=	1PL=	=pro.1:s	=pro	1	s		
+sumbawa	langlelo	0041	kranté	talk	v:pred	v		pred		
+sumbawa	langlelo	0041	#	#	#cc	#cc				
+sumbawa	langlelo	0041	mé	which	pro:pred	pro		pred		
+sumbawa	langlelo	0041	lók	way	np:s	np		s		
+sumbawa	langlelo	0041	#	#	#rc	#rc				
+sumbawa	langlelo	0041	bau’	can	lv_aux	lv_aux				
+sumbawa	langlelo	0041	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0041	narang	the more	other	other				
+sumbawa	langlelo	0041	lè’	long	other	other				
+sumbawa	langlelo	0041	narang	the more	other	other				
+sumbawa	langlelo	0041	tingi	high	v:pred	v		pred		
+sumbawa	langlelo	0041	ZERO	ZERO	f0:other	f0		other		
+sumbawa	langlelo	0041	%	%	%	%				
+sumbawa	langlelo	0041	%	%	%	%				
+sumbawa	langlelo	0041	%	%	%	%				
+sumbawa	langlelo	0042	#	#	#	#				
+sumbawa	langlelo	0042	tapi	but	other	other				
+sumbawa	langlelo	0042	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0042	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0042	tetap	constant	lv	lv				
+sumbawa	langlelo	0042	si	PTC_S	other	other				
+sumbawa	langlelo	0042	ada’	exist	v:predex	v		predex		
+sumbawa	langlelo	0042	m=	at=	=adp	=adp				
+sumbawa	langlelo	0042	bawa	below	np:l	np		l	3014	new
+sumbawa	langlelo	0042	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0042	%	%	%	%				
+sumbawa	langlelo	0043	#	#	#	#				
+sumbawa	langlelo	0043	cuma	only	other	other				
+sumbawa	langlelo	0043	nya	3	pro:s	pro		s	3005	
+sumbawa	langlelo	0043	krangkat-krangkat	become.higher	v:pred	v		pred		
+sumbawa	langlelo	0043	#	#	#ac	#ac				
+sumbawa	langlelo	0043	seolaola’	like	other	other				
+sumbawa	langlelo	0043	puén-kayu	tree	np:s	np		s		
+sumbawa	langlelo	0043	belómó’	grow	v:pred	v		pred		
+sumbawa	langlelo	0043	%	%	%	%				
+sumbawa	langlelo	0043	%	%	%	%				
+sumbawa	langlelo	0044	#	#	#	#				
+sumbawa	langlelo	0044	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0044	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0044	entèk	go.up	v:pred	v		pred		
+sumbawa	langlelo	0044	entèk	go.up	other	other				
+sumbawa	langlelo	0044	entèk	go.up	other	other				
+sumbawa	langlelo	0044	%	%	%	%				
+sumbawa	langlelo	0044	#	#	#neg	#neg				
+sumbawa	langlelo	0044	tapi	but	other	other				
+sumbawa	langlelo	0044	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0044	nó.soka	NEG	lv	lv				
+sumbawa	langlelo	0044	ngawan	float	v:pred	v		pred		
+sumbawa	langlelo	0044	%	%	%	%				
+sumbawa	langlelo	0044	#	#	#neg	#neg				
+sumbawa	langlelo	0044	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0044	nó.soka	NEG	lv	lv				
+sumbawa	langlelo	0044	ngantong’	hang	v:pred	v		pred		
+sumbawa	langlelo	0044	%	%	%	%				
+sumbawa	langlelo	0045	#	#	#	#				
+sumbawa	langlelo	0045	dadi	then	other	other				
+sumbawa	langlelo	0045	makén	the.more	other	other				
+sumbawa	langlelo	0045	keliatan	look	other	other				
+sumbawa	langlelo	0046	makén	the.more	other	other				
+sumbawa	langlelo	0046	rango’	large	v:pred	v		pred		
+sumbawa	langlelo	0046	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0046	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0046	%	%	%	%				
+sumbawa	langlelo	0046	#	#	#	#				
+sumbawa	langlelo	0046	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0046	makén	the.more	other	other				
+sumbawa	langlelo	0046	tingi	high	v:pred	v		pred		
+sumbawa	langlelo	0046	%	%	%	%				
+sumbawa	langlelo	0047	#	#	#	#				
+sumbawa	langlelo	0047	dadi	then	other	other				
+sumbawa	langlelo	0047	bling	say	v:pred	v		pred		
+sumbawa	langlelo	0047	mo	PTC_M	other	other				
+sumbawa	langlelo	0047	anak	child	np.h:s_ds	np	h	s_ds	3002	
+sumbawa	langlelo	0047	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	langlelo	0047	kebali’	again	other	other				
+sumbawa	langlelo	0048	#	#	#ds	#ds				
+sumbawa	langlelo	0048	ina’	mother	np.h:voc	np	h	voc	3006	
+sumbawa	langlelo	0048	ina’	mother	np.h:voc	np	h	voc	3006	
+sumbawa	langlelo	0048	ina’	mother	np.h:voc	np	h	voc	3006	
+sumbawa	langlelo	0048	né	ITJ	other	other				
+sumbawa	langlelo	0048	sia=	2SG.HON=	=pro.2:s	=pro	2	s	3006	
+sumbawa	langlelo	0048	gita’	see	v:pred	v		pred		
+sumbawa	langlelo	0048	mo	PTC_M	rv	rv				
+sumbawa	langlelo	0048	#	#	#ds_cc	#ds_cc				
+sumbawa	langlelo	0048	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0048	=ta	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	langlelo	0049	narang	the.more	other	other				
+sumbawa	langlelo	0049	lè’	long	other	other				
+sumbawa	langlelo	0049	narang	the.more	lv	lv				
+sumbawa	langlelo	0049	tingi	high	v:pred	v		pred		
+sumbawa	langlelo	0049	%	%	%	%				
+sumbawa	langlelo	0049	%	%	%	%				
+sumbawa	langlelo	0049	%	%	%	%				
+sumbawa	langlelo	0049	#	#	#	#				
+sumbawa	langlelo	0049	#	#	#ds	#ds				
+sumbawa	langlelo	0049	mé	which	pro:pred	pro		pred		
+sumbawa	langlelo	0049	lók	way	np:s	np		s		
+sumbawa	langlelo	0049	#	#	#ds_rc	#ds_rc				
+sumbawa	langlelo	0049	ya	FUT	lv	lv				
+sumbawa	langlelo	0049	sia=	2SG.HON=	=pro.2:a	=pro	2	a	3006	
+sumbawa	langlelo	0049	bèang’	give	v:pred	v		pred		
+sumbawa	langlelo	0049	aku	1SG	pro.1:g	pro	1	g	3002	
+sumbawa	langlelo	0049	mè	rice	np:p	np		p	3007	
+sumbawa	langlelo	0049	nan	that	rn_dem	rn_dem				
+sumbawa	langlelo	0049	%	%	%	%				
+sumbawa	langlelo	0049	%	%	%	%				
+sumbawa	langlelo	0049	bakelèk	shout	v:pred	v		pred		
+sumbawa	langlelo	0049	si	ART	ln	ln				
+sumbawa	langlelo	0049	anak	child	np.h:s	np	h	s	3002	
+sumbawa	langlelo	0049	è	ITJ	other	other				
+sumbawa	langlelo	0049	%	%	%	%				
+sumbawa	langlelo	0050	#	#	#ds	#ds				
+sumbawa	langlelo	0050	ya	FUT	lv	lv				
+sumbawa	langlelo	0050	ku=	1SG=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0050	bèang’	give	v:pred	v		pred		
+sumbawa	langlelo	0050	nènè	2PL	pro.2:p	pro	2	p	3002	
+sumbawa	langlelo	0050	%	%	%	%				
+sumbawa	langlelo	0050	#	#	#ds.neg	#ds.neg				
+sumbawa	langlelo	0050	tó	now	other	other				
+sumbawa	langlelo	0050	mè	rice	np:s	np		s	3007	
+sumbawa	langlelo	0050	=ta	=DEM_D	=rn_dem	=rn_dem				
+sumbawa	langlelo	0050	nó.poka’	not.yet	lv	lv				
+sumbawa	langlelo	0050	masak	cooked	v:pred	v		pred		
+sumbawa	langlelo	0050	%	%	%	%				
+sumbawa	langlelo	0051	#	#	#	#				
+sumbawa	langlelo	0051	ètè’	take	other	other				
+sumbawa	langlelo	0051	pènè’	short	other	other				
+sumbawa	langlelo	0051	masak	cooked	v:pred	v		pred		
+sumbawa	langlelo	0051	mè	rice	np:s	np		s	3007	
+sumbawa	langlelo	0051	%	%	%	%				
+sumbawa	langlelo	0052	#	#	#	#				
+sumbawa	langlelo	0052	ya=	3=	=pro.h:a	=pro	h	a	3006	
+sumbawa	langlelo	0052	ZERO	ZERO	0:p	0		p	3007	
+sumbawa	langlelo	0052	óló’	put	v:pred	v		pred		
+sumbawa	langlelo	0052	mo	PTC_M	rv	rv				
+sumbawa	langlelo	0052	kó’	to	adp	adp				
+sumbawa	langlelo	0052	piring	dish	np:g	np		g	3015	new
+sumbawa	langlelo	0052	%	%	%	%				
+sumbawa	langlelo	0052	#	#	#	#				
+sumbawa	langlelo	0052	ya=	3=	=pro.h:a	=pro	h	a	3006	
+sumbawa	langlelo	0052	ZERO	ZERO	0:p	0		p	3007	
+sumbawa	langlelo	0052	óló’	put	v:pred	v		pred		
+sumbawa	langlelo	0052	mo	PTC_M	rv	rv				
+sumbawa	langlelo	0052	kó’	to	adp	adp				
+sumbawa	langlelo	0052	talang	dish	np:g	np		g	3015	
+sumbawa	langlelo	0052	%	%	%	%				
+sumbawa	langlelo	0053	#	#	#	#				
+sumbawa	langlelo	0053	cowèk	earthware.dish	np:pred	np		pred	3016	new
+sumbawa	langlelo	0053	singén	name	np:s	np		s	3017	bridging
+sumbawa	langlelo	0053	talang	dish	rn_np:poss	rn_np		poss	3015	
+sumbawa	langlelo	0053	tau	person	rn_np.h:poss	rn_np	h	poss	3012	
+sumbawa	langlelo	0053	dunóng’	before	rn	rn				
+sumbawa	langlelo	0053	%	%	%	%				
+sumbawa	langlelo	0054	#	#	#	#				
+sumbawa	langlelo	0054	cowèk	earthware.dish	np:s	np		s	3016	
+sumbawa	langlelo	0054	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	langlelo	0054	ka=	PST=	=ln	=ln				
+sumbawa	langlelo	0054	tana’	clay	np:pred	np		pred		
+sumbawa	langlelo	0054	ka=	PST=	=ln	=ln				
+sumbawa	langlelo	0054	tana	clay	np:appos	np		appos		
+sumbawa	langlelo	0054	%	%	%	%				
+sumbawa	langlelo	0055	#	#	#	#				
+sumbawa	langlelo	0055	ZERO	ZERO	0:s	0		s	3016	
+sumbawa	langlelo	0055	jadi	then	other	other				
+sumbawa	langlelo	0055	samacam	a.kind.of	ln	ln				
+sumbawa	langlelo	0055	talang	dish	np:pred	np		pred		
+sumbawa	langlelo	0055	nan.si	that.is	other	other				
+sumbawa	langlelo	0055	samacam	a.kind.of	ln	ln				
+sumbawa	langlelo	0055	piring	dish	np:appos	np		appos		
+sumbawa	langlelo	0055	%	%	%	%				
+sumbawa	langlelo	0056	#	#	#	#				
+sumbawa	langlelo	0056	tapi	but	other	other				
+sumbawa	langlelo	0056	dèan	DEM_M	dem_pro:dt	dem_pro		dt	3016	
+sumbawa	langlelo	0056	cowèk	earthenware.dish	np:pred	np		pred		
+sumbawa	langlelo	0056	singén	name	np:s	np		s	3017	
+sumbawa	langlelo	0056	#	#	#ac	#ac				
+sumbawa	langlelo	0056	sebab	because	other	other				
+sumbawa	langlelo	0056	ZERO	ZERO	0:s	0		s	3016	
+sumbawa	langlelo	0056	ka	PST	ln	ln				
+sumbawa	langlelo	0056	tana’	clay	np:pred	np		pred		
+sumbawa	langlelo	0056	%	%	%	%				
+sumbawa	langlelo	0056	%	%	%	%				
+sumbawa	langlelo	0057	#	#	#	#				
+sumbawa	langlelo	0057	ZERO	ZERO	0.h:a	0	h	a	3006	
+sumbawa	langlelo	0057	óló’	put	v:pred	v		pred		
+sumbawa	langlelo	0057	mo	PTC_M	rv	rv				
+sumbawa	langlelo	0057	n=	in=	=adp	=adp				
+sumbawa	langlelo	0057	dalam	inside	np:l	np		l		
+sumbawa	langlelo	0057	cowèk	stoneware.pottery	rn_np	rn_np			3016	
+sumbawa	langlelo	0057	mè	rice	np:p	np		p	3007	
+sumbawa	langlelo	0057	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0057	%	%	%	%				
+sumbawa	langlelo	0058	#	#	#	#				
+sumbawa	langlelo	0058	ZERO	ZERO	0.h:a	0	h	a	3006	
+sumbawa	langlelo	0058	ZERO	ZERO	0:p	0		p	3007	
+sumbawa	langlelo	0058	ya=	FUT=	=lv	=lv				
+sumbawa	langlelo	0058	laló	go	lv_v	lv_v				
+sumbawa	langlelo	0058	mo	PTC	rv	rv				
+sumbawa	langlelo	0058	antat	bring	v:pred	v		pred		
+sumbawa	langlelo	0058	lakó	to	adp	adp				
+sumbawa	langlelo	0058	pang’	place	np:g	np		g	3018	bridging
+sumbawa	langlelo	0058	anak	child	rn_np.h	rn_np	h		3002	
+sumbawa	langlelo	0058	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0058	%	%	%	%				
+sumbawa	langlelo	0059	#	#	#	#				
+sumbawa	langlelo	0059	tapi	but	other	other				
+sumbawa	langlelo	0059	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0059	ka.mo	already	lv	lv				
+sumbawa	langlelo	0059	tinggi	high	v:pred	v		pred		
+sumbawa	langlelo	0059	%	%	%	%				
+sumbawa	langlelo	0059	#	#	#neg	#neg				
+sumbawa	langlelo	0059	ZERO	ZERO	0.h:a	0	h	a	3006	
+sumbawa	langlelo	0059	ZERO	ZERO	0:p	0		p	3018	
+sumbawa	langlelo	0059	nó	NEG	lv	lv				
+sumbawa	langlelo	0059	mo	PTC_M	lv	lv				
+sumbawa	langlelo	0059	bau’	can	lv	lv				
+sumbawa	langlelo	0059	dapat	reach	v:pred	v		pred		
+sumbawa	langlelo	0059	na	ITJ	other	other				
+sumbawa	langlelo	0059	%	%	%	%				
+sumbawa	langlelo	0060	#	#	#	#				
+sumbawa	langlelo	0060	karing	then	other	other				
+sumbawa	langlelo	0060	laló	go	lv_v	lv_v				
+sumbawa	langlelo	0060	mo	PTC_M	rv	rv				
+sumbawa	langlelo	0060	ngènèng	ANTIP.ask.for	v:pred	v		pred		
+sumbawa	langlelo	0060	lakó	to	adp	adp				
+sumbawa	langlelo	0060	gagak	crow	np.d:g	np	d	g	3019	new
+sumbawa	langlelo	0060	ina’	mother	np.h:s	np	h	s	3006	
+sumbawa	langlelo	0060	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0060	%	%	%	%				
+sumbawa	langlelo	0061	#	#	#	#				
+sumbawa	langlelo	0061	#	#	#ds_cc.neg:pred	#ds_cc.neg		pred		
+sumbawa	langlelo	0061	onè	uncle	ln	ln				
+sumbawa	langlelo	0061	gagak	crow	np.d:voc	np	d	voc	3019	
+sumbawa	langlelo	0061	onè	uncle	rn	rn				
+sumbawa	langlelo	0061	gagak	crow	np.d:voc	np	d	voc	3019	
+sumbawa	langlelo	0061	nó.soda	NEG.exist	v:predex	v		predex		
+sumbawa	langlelo	0061	lók	way	np:s	np		s		
+sumbawa	langlelo	0061	ké	Q	other	other				
+sumbawa	langlelo	0061	#	#	#ds_rc	#ds_rc				
+sumbawa	langlelo	0061	sia=	2SG.HON=	=pro.2:a	=pro	2	a	3019	
+sumbawa	langlelo	0061	tulóng	help	v:pred	v		pred		
+sumbawa	langlelo	0061	aku	1SG	pro.1:p	pro	1	p	3006	
+sumbawa	langlelo	0061	%	%	%	%				
+sumbawa	langlelo	0062	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0062	bau’	can	other	other				
+sumbawa	langlelo	0062	ZERO	ZERO	0.d:a	0	d	a	3019	
+sumbawa	langlelo	0062	sapèras	lower	v:pred	v		pred		
+sumbawa	langlelo	0062	batu	stone	np:p	np		p	3005	
+sumbawa	langlelo	0062	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0062	kebali’	again	other	other				
+sumbawa	langlelo	0062	%	%	%	%				
+sumbawa	langlelo	0063	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0063	ma=ku=bau’	let	lv	lv				
+sumbawa	langlelo	0063	ku=	1SG=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0063	bau'	can	lv	lv				
+sumbawa	langlelo	0063	bèang’	give	v:pred	v		pred		
+sumbawa	langlelo	0063	mè	rice	np:p	np		p	3007	
+sumbawa	langlelo	0063	anak	child	np.h:p2	np	h	p2	3002	
+sumbawa	langlelo	0063	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	3006	
+sumbawa	langlelo	0063	%	%	%	%				
+sumbawa	langlelo	0063	%	%	%	%				
+sumbawa	langlelo	0063	ling	words	np:s	np		s		
+sumbawa	langlelo	0063	%	%	%	%				
+sumbawa	langlelo	0064	#	#	#	#				
+sumbawa	langlelo	0064	laló	go	v:pred	v		pred		
+sumbawa	langlelo	0064	gagak	crow	np.d:s	np	d	s	3019	
+sumbawa	langlelo	0064	%	%	%	%				
+sumbawa	langlelo	0064	#	#	#	#				
+sumbawa	langlelo	0064	ga	ga	other:pred	other		pred		
+sumbawa	langlelo	0064	ga	ga	other	other				
+sumbawa	langlelo	0064	ling	words	np:s	np		s		
+sumbawa	langlelo	0064	gagak	crow	rn_np.d:poss	rn_np	d	poss	3019	
+sumbawa	langlelo	0064	%	%	%	%				
+sumbawa	langlelo	0064	#	#	#	#				
+sumbawa	langlelo	0064	keliong	go.around	v:pred	v		pred		
+sumbawa	langlelo	0064	batu	stone	np:p	np		p	3005	
+sumbawa	langlelo	0064	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0064	ling	by	adp	adp				
+sumbawa	langlelo	0064	gagak	crow	np.d:a_ling	np	d	a_ling	3019	
+sumbawa	langlelo	0064	%	%	%	%				
+sumbawa	langlelo	0065	#	#	#neg	#neg				
+sumbawa	langlelo	0065	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0065	nongka	NEG.PST	lv	lv				
+sumbawa	langlelo	0065	roa	like	v:pred	v		pred		
+sumbawa	langlelo	0065	%	%	%	%				
+sumbawa	langlelo	0066	#	#	#	#				
+sumbawa	langlelo	0066	ZERO	ZERO	0.h:s	0	h	s	3006	
+sumbawa	langlelo	0066	suda	after	other	other				
+sumbawa	langlelo	0066	nan	DEM_M	other	other				
+sumbawa	langlelo	0066	laló	go	v:pred	v		pred		
+sumbawa	langlelo	0066	lakó	to	adp	adp				
+sumbawa	langlelo	0066	pekat	parrot	np.d:g	np	d	g	3020	new
+sumbawa	langlelo	0066	%	%	%	%				
+sumbawa	langlelo	0067	#	#	#	#				
+sumbawa	langlelo	0067	cara	way	np:s	np		s		
+sumbawa	langlelo	0067	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	langlelo	0067	#	#	#rc	#rc				
+sumbawa	langlelo	0067	si	ART	ln	ln				
+sumbawa	langlelo	0067	pekat	parrot	np.d:a	np	d	a	3019	
+sumbawa	langlelo	0067	keliong	go.around	v:pred	v		pred		
+sumbawa	langlelo	0067	batu	stone	np:p	np		p	3005	
+sumbawa	langlelo	0067	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0067	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	langlelo	0067	ZERO	ZERO	f0:other	f0		other		
+sumbawa	langlelo	0067	%	%	%	%				
+sumbawa	langlelo	0067	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	langlelo	0067	kaka	kaka	other	other				
+sumbawa	langlelo	0067	kaka	kaka	other	other				
+sumbawa	langlelo	0067	%	%	%	%				
+sumbawa	langlelo	0067	%	%	%	%				
+sumbawa	langlelo	0068	#	#	#	#				
+sumbawa	langlelo	0068	nan	DEM_M	dem_pro:s	dem_pro		s		
+sumbawa	langlelo	0068	nya	3	pro:appos	pro		appos		
+sumbawa	langlelo	0068	seda	voice	np:pred	np		pred	3021	bridging
+sumbawa	langlelo	0068	#	#	#rc	#rc				
+sumbawa	langlelo	0068	ZERO	ZERO	0.d:s	0	d	s	3020	
+sumbawa	langlelo	0068	bling	say	v:pred	v		pred		
+sumbawa	langlelo	0068	ZERO	ZERO	f0:other	f0		other		
+sumbawa	langlelo	0068	%	%	%	%				
+sumbawa	langlelo	0068	%	%	%	%				
+sumbawa	langlelo	0069	#	#	#	#				
+sumbawa	langlelo	0069	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	langlelo	0069	kaka	kaka	other	other				
+sumbawa	langlelo	0069	kaka	kaka	other	other				
+sumbawa	langlelo	0069	%	%	%	%				
+sumbawa	langlelo	0069	ling	words	np:s	np		s		
+sumbawa	langlelo	0069	%	%	%	%				
+sumbawa	langlelo	0070	#	#	#neg	#neg				
+sumbawa	langlelo	0070	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0070	nongka	NEG.PST	lv	lv				
+sumbawa	langlelo	0070	roa	like	v:pred	v		pred		
+sumbawa	langlelo	0070	%	%	%	%				
+sumbawa	langlelo	0071	#	#	#	#				
+sumbawa	langlelo	0071	pida-pida	many	np:pred	np		pred		
+sumbawa	langlelo	0071	mo	PTC_M	rv	rv				
+sumbawa	langlelo	0071	kena	destination	np:s	np		s		
+sumbawa	langlelo	0071	#	#	#rc	#rc				
+sumbawa	langlelo	0071	ZERO	ZERO	0.h:a	0	h	a	3006	
+sumbawa	langlelo	0071	laló	go	lv_v	lv_v				
+sumbawa	langlelo	0071	ngènèng	ANTIP.ask.for	v:pred	v		pred		
+sumbawa	langlelo	0071	tulóng	help	np:p	np		p		
+sumbawa	langlelo	0071	ZERO	ZERO	f0:g	f0		g		
+sumbawa	langlelo	0071	%	%	%	%				
+sumbawa	langlelo	0071	%	%	%	%				
+sumbawa	langlelo	0072	#	#	#	#				
+sumbawa	langlelo	0072	ZERO	ZERO	0.h:s	0	h	s	3006	
+sumbawa	langlelo	0072	ahir	finally	other	other				
+sumbawa	langlelo	0072	katemóng	meet	v:pred	v		pred		
+sumbawa	langlelo	0072	kè	with	adp	adp				
+sumbawa	langlelo	0072	bubit	quail	np.d:obl	np	d	obl	3022	new
+sumbawa	langlelo	0072	%	%	%	%				
+sumbawa	langlelo	0073	#	#	#	#				
+sumbawa	langlelo	0073	ZERO	ZERO	0.h:s	0	h	s	3006	
+sumbawa	langlelo	0073	katemóng	meet	v:pred	v		pred		
+sumbawa	langlelo	0073	kè	with	adp	adp				
+sumbawa	langlelo	0073	bubit	quail	np.d:obl	np	d	obl	3022	
+sumbawa	langlelo	0073	%	%	%	%				
+sumbawa	langlelo	0074	#	#	#	#				
+sumbawa	langlelo	0074	ZERO	ZERO	0.h:a	0	h	a	3006	
+sumbawa	langlelo	0074	ngènèng	ANTIP.ask.for	v:pred	v		pred		
+sumbawa	langlelo	0074	tulóng	help	np:p	np		p		
+sumbawa	langlelo	0074	lakó	to	adp	adp				
+sumbawa	langlelo	0074	bubit	quail	np.d:g	np	d	g	3022	
+sumbawa	langlelo	0074	%	%	%	%				
+sumbawa	langlelo	0075	#	#	#ds	#ds				
+sumbawa	langlelo	0075	a	ITJ	other	other				
+sumbawa	langlelo	0075	onè	uncle	ln	ln				
+sumbawa	langlelo	0075	bubit	quail	np.d:voc	np	d	voc	3022	
+sumbawa	langlelo	0075	onè	uncle	ln	ln				
+sumbawa	langlelo	0075	bubit	quail	np.d:voc	np	d	voc	3022	
+sumbawa	langlelo	0075	ma	let	lv	lv				
+sumbawa	langlelo	0075	ku=	1SG=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0075	ngènèng	ask.for	v:pred	v		pred		
+sumbawa	langlelo	0075	tulóng	help	np:p	np		p		
+sumbawa	langlelo	0075	lakó	to	adp	adp				
+sumbawa	langlelo	0075	sia	2SG.HON	pro.2:g	pro	2	g	3022	
+sumbawa	langlelo	0075	%	%	%	%				
+sumbawa	langlelo	0076	#	#	#ds	#ds				
+sumbawa	langlelo	0076	ZERO	ZERO	0.2:a	0	2	a	3022	
+sumbawa	langlelo	0076	bau’	can	lv	lv				
+sumbawa	langlelo	0076	gama	I.hope	other	other				
+sumbawa	langlelo	0076	suru’	order	v:pred	v		pred		
+sumbawa	langlelo	0076	turin	go.down	vother	vother				
+sumbawa	langlelo	0076	Batu-Langléló	Langléló.stone	pn_np:p	pn_np		p	3005	
+sumbawa	langlelo	0076	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0076	%	%	%	%				
+sumbawa	langlelo	0077	#	#	#ds.neg	#ds.neg				
+sumbawa	langlelo	0077	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0077	apa	because	other	other				
+sumbawa	langlelo	0077	ka	PST	lv	lv				
+sumbawa	langlelo	0077	mo	DM	other	other				
+sumbawa	langlelo	0077	tingi	high	v:pred	v		pred		
+sumbawa	langlelo	0077	pang’	placce	np:s	np		s	3018	
+sumbawa	langlelo	0077	anak	child	rn_np.h:poss	rn_np	h	poss	3002	
+sumbawa	langlelo	0077	=ku	=1SG	=rn_pro.1:poss	=rn_pro	1	poss	3006	
+sumbawa	langlelo	0077	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0077	%	%	%	%				
+sumbawa	langlelo	0078	ZERO	ZERO	0.h:p	0	h	p	3002	
+sumbawa	langlelo	0078	nó.poka’	not.yet	lv	lv				
+sumbawa	langlelo	0078	ku=	1SG=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0078	bèang’	let	v:pred	v		pred		
+sumbawa	langlelo	0078	basebó	breakfast	lv_v	lv_v				
+sumbawa	langlelo	0078	%	%	%	%				
+sumbawa	langlelo	0078	#	#	#ds.neg	#ds.neg				
+sumbawa	langlelo	0078	ZERO	ZERO	0.h:p	0	h	p	3002	
+sumbawa	langlelo	0078	nó.poka’	not.yet	lv	lv				
+sumbawa	langlelo	0078	ku=	1SG=	=pro.1:a	=pro	1	a	3006	
+sumbawa	langlelo	0078	bèang’	give	v:pred	v		pred		
+sumbawa	langlelo	0078	mangan	eat	vother	vother				
+sumbawa	langlelo	0078	%	%	%	%				
+sumbawa	langlelo	0079	#	#	#	#				
+sumbawa	langlelo	0079	datang	come	v:pred	v		pred		
+sumbawa	langlelo	0079	onè	uncle	ln	ln				
+sumbawa	langlelo	0079	bubit	quail	np.d:s	np	d	s	3022	
+sumbawa	langlelo	0079	%	%	%	%				
+sumbawa	langlelo	0080	#	#	#	#				
+sumbawa	langlelo	0080	bubit	quail	np.d:s_ds	np	d	s_ds	3022	
+sumbawa	langlelo	0080	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0080	bling	say	v:pred	v		pred		
+sumbawa	langlelo	0080	#	#	#ds	#ds				
+sumbawa	langlelo	0080	bét	bet	other	other				
+sumbawa	langlelo	0080	béló’	long	other	other				
+sumbawa	langlelo	0080	bét	bet	other	other				
+sumbawa	langlelo	0080	pènè’	short	other	other				
+sumbawa	langlelo	0080	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0080	lamin	if	other	other				
+sumbawa	langlelo	0080	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0080	béló’	long	v:pred	v		pred		
+sumbawa	langlelo	0080	%	%	%	%				
+sumbawa	langlelo	0080	ZERO	ZERO	0:p	0		p	3005	
+sumbawa	langlelo	0080	ya=	FUT=	=lv	=lv				
+sumbawa	langlelo	0080	ku=	1SG=	=pro.1:a	=pro	1	a	3022	
+sumbawa	langlelo	0080	jengkel	measure.in.span.of.the.hand	v:pred	v		pred		
+sumbawa	langlelo	0080	%	%	%	%				
+sumbawa	langlelo	0080	#	#	#ds	#ds				
+sumbawa	langlelo	0080	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0080	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0080	lamin	if	other	other				
+sumbawa	langlelo	0080	pènè	short	v:pred	v		pred		
+sumbawa	langlelo	0080	%	%	%	%				
+sumbawa	langlelo	0080	ZERO	ZERO	0:p	0		p	3005	
+sumbawa	langlelo	0080	ya=	FUT=	=lv	=lv				
+sumbawa	langlelo	0080	ku=	1SG=	=pro.1:a	=pro	1	a	3022	
+sumbawa	langlelo	0080	depa	measure.with.arms	v:pred	v		pred		
+sumbawa	langlelo	0080	%	%	%	%				
+sumbawa	langlelo	0080	%	%	%	%				
+sumbawa	langlelo	0081	#	#	#	#				
+sumbawa	langlelo	0081	nya	3	pro:s	pro		s		
+sumbawa	langlelo	0081	seda	sound	np:pred	np		pred		
+sumbawa	langlelo	0081	doa	prayer	rn	rn				
+sumbawa	langlelo	0081	%	%	%	%				
+sumbawa	langlelo	0082	#	#	#	#				
+sumbawa	langlelo	0082	bubit	quail	np.d:s	np	d	s	3022	
+sumbawa	langlelo	0082	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0082	#	#	#ds_cc:pred	#ds_cc		pred		
+sumbawa	langlelo	0082	bét	bet	other	other				
+sumbawa	langlelo	0082	béló’	long	other	other				
+sumbawa	langlelo	0082	bét	bet	other	other				
+sumbawa	langlelo	0082	pènè’	short	other	other				
+sumbawa	langlelo	0082	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0082	lamin	if	other	other				
+sumbawa	langlelo	0082	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0082	béló’	long	v:pred	v		pred		
+sumbawa	langlelo	0082	%	%	%	%				
+sumbawa	langlelo	0082	ZERO	ZERO	0.1:a	0	1	a	3022	
+sumbawa	langlelo	0082	ZERO	ZERO	0:p	0		p	3005	
+sumbawa	langlelo	0082	ya=	FUT=	=lv	=lv				
+sumbawa	langlelo	0082	ku=	1SG=	=pro_1_a	=pro_1_a			3022	
+sumbawa	langlelo	0082	jengkal	measure.in.span.of.the.hand	v:pred	v		pred		
+sumbawa	langlelo	0082	%	%	%	%				
+sumbawa	langlelo	0082	#	#	#ds	#ds				
+sumbawa	langlelo	0082	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0082	lamin	if	other	other				
+sumbawa	langlelo	0082	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0082	pènè’	short	v:pred	v		pred		
+sumbawa	langlelo	0082	%	%	%	%				
+sumbawa	langlelo	0082	ZERO	ZERO	0.1:a	0	1	a	3022	
+sumbawa	langlelo	0082	ZERO	ZERO	0:p	0		p	3005	
+sumbawa	langlelo	0082	ya=	FUT=	=lv	=lv				
+sumbawa	langlelo	0082	ku=	1SG=	=pro_1_a	=pro_1_a			3022	
+sumbawa	langlelo	0082	depa	measure.with.arms	v:pred	v		pred		
+sumbawa	langlelo	0082	%	%	%	%				
+sumbawa	langlelo	0082	%	%	%	%				
+sumbawa	langlelo	0083	#	#	#nc	#nc				
+sumbawa	langlelo	0083	barang	NC	nc	nc				
+sumbawa	langlelo	0083	yang	NC	nc	nc				
+sumbawa	langlelo	0083	pèndèk	NC	nc	nc				
+sumbawa	langlelo	0083	dia	NC	nc	nc				
+sumbawa	langlelo	0083	ukur	NC	nc	nc				
+sumbawa	langlelo	0083	dengan	NC	nc	nc				
+sumbawa	langlelo	0083	jengkal	NC	nc	nc				
+sumbawa	langlelo	0083	%	%	%	%				
+sumbawa	langlelo	0084	#	#	#nc	#nc				
+sumbawa	langlelo	0084	tapi	NC	nc	nc				
+sumbawa	langlelo	0084	barang	NC	nc	nc				
+sumbawa	langlelo	0084	yang	NC	nc	nc				
+sumbawa	langlelo	0084	panjang	NC	nc	nc				
+sumbawa	langlelo	0084	dia	NC	nc	nc				
+sumbawa	langlelo	0084	%	%	%	%				
+sumbawa	langlelo	0085	#	#	#nc	#nc				
+sumbawa	langlelo	0085	barang	NC	nc	nc				
+sumbawa	langlelo	0085	yang	NC	nc	nc				
+sumbawa	langlelo	0085	panjang	NC	nc	nc				
+sumbawa	langlelo	0085	dia	NC	nc	nc				
+sumbawa	langlelo	0085	ukur	NC	nc	nc				
+sumbawa	langlelo	0085	dengan	NC	nc	nc				
+sumbawa	langlelo	0085	jengkal	NC	nc	nc				
+sumbawa	langlelo	0085	%	%	%	%				
+sumbawa	langlelo	0086	#	#	#nc	#nc				
+sumbawa	langlelo	0086	tapi	NC	nc	nc				
+sumbawa	langlelo	0086	barang	NC	nc	nc				
+sumbawa	langlelo	0086	yang	NC	nc	nc				
+sumbawa	langlelo	0086	panjang	NC	nc	nc				
+sumbawa	langlelo	0086	dia	NC	nc	nc				
+sumbawa	langlelo	0086	ukur	NC	nc	nc				
+sumbawa	langlelo	0086	dengan	NC	nc	nc				
+sumbawa	langlelo	0086	depa	NC	nc	nc				
+sumbawa	langlelo	0086	%	%	%	%				
+sumbawa	langlelo	0087	#	#	#nc	#nc				
+sumbawa	langlelo	0087	jadi	then	nc	nc				
+sumbawa	langlelo	0087	si	ART	nc	nc				
+sumbawa	langlelo	0087	bubit	quail	nc	nc				
+sumbawa	langlelo	0087	ini	NC	nc	nc				
+sumbawa	langlelo	0087	%	%	%	%				
+sumbawa	langlelo	0088	#	#	#nc	#nc				
+sumbawa	langlelo	0088	bet	NC	nc	nc				
+sumbawa	langlelo	0088	belo	NC	nc	nc				
+sumbawa	langlelo	0088	bet	NC	nc	nc				
+sumbawa	langlelo	0088	turun	NC	nc	nc				
+sumbawa	langlelo	0088	sedikit	NC	nc	nc				
+sumbawa	langlelo	0088	ini	NC	nc	nc				
+sumbawa	langlelo	0088	%	%	%	%				
+sumbawa	langlelo	0089	#	#	#	#				
+sumbawa	langlelo	0089	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0089	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0089	turun	go.down	v:pred	v		pred		
+sumbawa	langlelo	0089	sedi’	a.little	rv	rv				
+sumbawa	langlelo	0089	%	%	%	%				
+sumbawa	langlelo	0090	#	#	#	#				
+sumbawa	langlelo	0090	#	#	#ac	#ac				
+sumbawa	langlelo	0090	ZERO	ZERO	0.d:a	0	d	a	3022	
+sumbawa	langlelo	0090	beru’	soon.after	other	other				
+sumbawa	langlelo	0090	ka=	PST=	=lv	=lv				
+sumbawa	langlelo	0090	bling	say	v:pred	v		pred		
+sumbawa	langlelo	0090	ka=	PST=	=lv	=lv				
+sumbawa	langlelo	0090	sèpan	call	v:appos	v		appos		
+sumbawa	langlelo	0090	#	#	#rc:p	#rc		p		
+sumbawa	langlelo	0090	ZERO	ZERO	f0:s	f0		s		
+sumbawa	langlelo	0090	adè	REL	other	other				
+sumbawa	langlelo	0090	mula	start	v:pred	v		pred		
+sumbawa	langlelo	0090	%	%	%	%				
+sumbawa	langlelo	0091	#	#	#ds_cc:appos	#ds_cc		appos		
+sumbawa	langlelo	0091	bét	bet	nc	nc				
+sumbawa	langlelo	0091	béló’	long	nc	nc				
+sumbawa	langlelo	0091	bét	bet	nc	nc				
+sumbawa	langlelo	0091	pènè’	short	nc	nc				
+sumbawa	langlelo	0091	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0091	lamin	if	other	other				
+sumbawa	langlelo	0091	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0091	béló’	long	v:pred	v		pred		
+sumbawa	langlelo	0091	%	%	%	%				
+sumbawa	langlelo	0091	ZERO	ZERO	0:p	0		p	3005	
+sumbawa	langlelo	0091	ya=	FUT=	=lv	=lv				
+sumbawa	langlelo	0091	ku=	1SG=	=pro.1:a	=pro	1	a	3022	
+sumbawa	langlelo	0091	jengkal	measure	v:pred	v		pred		
+sumbawa	langlelo	0091	%	%	%	%				
+sumbawa	langlelo	0091	#	#	#ds	#ds				
+sumbawa	langlelo	0091	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0091	lamin	if	other	other				
+sumbawa	langlelo	0091	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0091	pènè’	short	v:pred	v		pred		
+sumbawa	langlelo	0091	%	%	%	%				
+sumbawa	langlelo	0091	ZERO	ZERO	0:p	0		p	3005	
+sumbawa	langlelo	0091	ya=	FUT=	=lv	=lv				
+sumbawa	langlelo	0091	ku=	1SG=	=pro.1:a	=pro	1	a	3022	
+sumbawa	langlelo	0091	depa	measure	v:pred	v		pred		
+sumbawa	langlelo	0091	%	%	%	%				
+sumbawa	langlelo	0091	%	%	%	%				
+sumbawa	langlelo	0092	turin	go.down	v:pred	v		pred		
+sumbawa	langlelo	0092	sedi’	a.little	rv	rv				
+sumbawa	langlelo	0092	dèta	DEM_P	dem_pro:s	dem_pro		s	3005	
+sumbawa	langlelo	0092	%	%	%	%				
+sumbawa	langlelo	0093	#	#	#	#				
+sumbawa	langlelo	0093	turus-turus	continue	v:pred	v		pred		
+sumbawa	langlelo	0093	bubit	quail	np.d:s	np	d	s	3022	
+sumbawa	langlelo	0093	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0093	%	%	%	%				
+sumbawa	langlelo	0094	#	#	#	#				
+sumbawa	langlelo	0094	bubit	quail	np.d:s	np	d	s	3022	
+sumbawa	langlelo	0094	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0094	dua	two	other:pred	other		pred		
+sumbawa	langlelo	0094	%	%	%	%				
+sumbawa	langlelo	0094	#	#	#	#				
+sumbawa	langlelo	0094	soai	female	v:pred	v		pred		
+sumbawa	langlelo	0094	sópó’	one	np.d:s	np	d	s	3023	bridging
+sumbawa	langlelo	0094	%	%	%	%				
+sumbawa	langlelo	0094	#	#	#	#				
+sumbawa	langlelo	0094	salaki	male	v:pred	v		pred		
+sumbawa	langlelo	0094	sópó’	one	np.d:s	np	d	s	3024	bridging
+sumbawa	langlelo	0094	%	%	%	%				
+sumbawa	langlelo	0094	#	#	#	#				
+sumbawa	langlelo	0094	ZERO	ZERO	0.d:s	0	d	s	3022	
+sumbawa	langlelo	0094	saléng	each.other	other	other				
+sumbawa	langlelo	0094	anti	change	v:pred	v		pred		
+sumbawa	langlelo	0094	%	%	%	%				
+sumbawa	langlelo	0094	#	#	#	#				
+sumbawa	langlelo	0094	ZERO	ZERO	0.d:s_ds	0	d	s_ds	3022	
+sumbawa	langlelo	0094	kadang	sometimes	other	other				
+sumbawa	langlelo	0094	berema	together	other	other				
+sumbawa	langlelo	0094	bling	say	v:pred	v		pred		
+sumbawa	langlelo	0094	kè	with	adp	adp				
+sumbawa	langlelo	0094	bubit	quail	np.d:obl	np	d	obl		
+sumbawa	langlelo	0094	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0094	è	ITJ	other	other				
+sumbawa	langlelo	0095	#	#	#ds	#ds				
+sumbawa	langlelo	0095	bét	bet	nc	nc				
+sumbawa	langlelo	0095	béló’	long	nc	nc				
+sumbawa	langlelo	0095	bét	bet	nc	nc				
+sumbawa	langlelo	0095	pènè’	short	nc	nc				
+sumbawa	langlelo	0095	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0095	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0095	lamin	if	other	other				
+sumbawa	langlelo	0095	béló’	long	v:pred	v		pred		
+sumbawa	langlelo	0095	%	%	%	%				
+sumbawa	langlelo	0095	ZERO	ZERO	0:p	0		p	3005	
+sumbawa	langlelo	0095	ya=	FUT=	=lv	=lv				
+sumbawa	langlelo	0095	ku=	1SG=	=pro.1:a	=pro	1	a	3022	
+sumbawa	langlelo	0095	jengkal	measure	v:pred	v		pred		
+sumbawa	langlelo	0095	%	%	%	%				
+sumbawa	langlelo	0095	#	#	#ds	#ds				
+sumbawa	langlelo	0095	#	#	#ds_ac	#ds_ac				
+sumbawa	langlelo	0095	lamin	if	other	other				
+sumbawa	langlelo	0095	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0095	pènè’	short	v:pred	v		pred		
+sumbawa	langlelo	0095	%	%	%	%				
+sumbawa	langlelo	0095	ZERO	ZERO	0:p	0		p	3005	
+sumbawa	langlelo	0095	ya=	FUT=	=lv	=lv				
+sumbawa	langlelo	0095	ku=	1SG=	=pro.1:a	=pro	1	a	3022	
+sumbawa	langlelo	0095	depa	measure	v:pred	v		pred		
+sumbawa	langlelo	0095	%	%	%	%				
+sumbawa	langlelo	0095	%	%	%	%				
+sumbawa	langlelo	0096	#	#	#nc	#nc				
+sumbawa	langlelo	0096	sehingga	NC	nc	nc				
+sumbawa	langlelo	0096	turun	NC	nc	nc				
+sumbawa	langlelo	0096	ini	NC	nc	nc				
+sumbawa	langlelo	0096	batu	NC	nc	nc				
+sumbawa	langlelo	0096	%	%	%	%				
+sumbawa	langlelo	0097	#	#	#	#				
+sumbawa	langlelo	0097	turin	go.down	v:pred	v		pred		
+sumbawa	langlelo	0097	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0097	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0097	kó	to	adp	adp				
+sumbawa	langlelo	0097	bawa	below	np:g	np		g	3014	
+sumbawa	langlelo	0097	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0097	%	%	%	%				
+sumbawa	langlelo	0097	#	#	#	#				
+sumbawa	langlelo	0097	ZERO	ZERO	0.h:a	0	h	a	3006	
+sumbawa	langlelo	0097	ZERO	ZERO	0.h:p2	0	h	p2	3002	
+sumbawa	langlelo	0097	bau’	can	lv_aux	lv_aux				
+sumbawa	langlelo	0097	mo	PTC_M	lv	lv				
+sumbawa	langlelo	0097	bèang	give	v:pred	v		pred		
+sumbawa	langlelo	0097	mè	rice	np:p	np		p	3007	
+sumbawa	langlelo	0097	%	%	%	%				
+sumbawa	langlelo	0098	#	#	#	#				
+sumbawa	langlelo	0098	dadi	then	other	other				
+sumbawa	langlelo	0098	Batu=Langléló	Langléló.stone	pn_np:s	pn_np		s	3005	
+sumbawa	langlelo	0098	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0098	ya-nan-si	that.is	other	other				
+sumbawa	langlelo	0098	sópó’	one	ln	ln				
+sumbawa	langlelo	0098	batu	stone	np:pred	np		pred		
+sumbawa	langlelo	0098	nampar	flat	rn	rn				
+sumbawa	langlelo	0098	batu	stone	np:appos	np		appos		
+sumbawa	langlelo	0098	rango’	big	rn	rn				
+sumbawa	langlelo	0098	%	%	%	%				
+sumbawa	langlelo	0099	#	#	#	#				
+sumbawa	langlelo	0099	tapi	but	other	other				
+sumbawa	langlelo	0099	dasar	base	np:s	np		s	3025	bridging
+sumbawa	langlelo	0099	cara	bottom	nc	nc				
+sumbawa	langlelo	0099	ta	DEM_P	nc	nc				
+sumbawa	langlelo	0099	bao	above	nc	nc				
+sumbawa	langlelo	0099	raka	rough	v:pred	v		pred		
+sumbawa	langlelo	0099	si	PTC	rv	rv				
+sumbawa	langlelo	0099	%	%	%	%				
+sumbawa	langlelo	0099	#	#	#	#				
+sumbawa	langlelo	0099	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0099	malóm	as.you.know	other	other				
+sumbawa	langlelo	0099	batu	stone	np:pred	np		pred		
+sumbawa	langlelo	0099	%	%	%	%				
+sumbawa	langlelo	0100	#	#	#	#				
+sumbawa	langlelo	0100	bakedèk	play	v:pred	v		pred		
+sumbawa	langlelo	0100	mo	PTC_M	rv	rv				
+sumbawa	langlelo	0100	anak	child	np.h:s	np	h	s	3002	
+sumbawa	langlelo	0100	n=	at=	=adp	=adp				
+sumbawa	langlelo	0100	bao	above	np:l	np		l		
+sumbawa	langlelo	0100	batu	stone	rn_np:poss	rn_np		poss	3005	
+sumbawa	langlelo	0100	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0100	%	%	%	%				
+sumbawa	langlelo	0101	#	#	#	#				
+sumbawa	langlelo	0101	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0101	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0101	narang	the.more	nc	nc				
+sumbawa	langlelo	0101	lè’	long	nc	nc				
+sumbawa	langlelo	0101	narang	the.more	lv	lv				
+sumbawa	langlelo	0101	entèk	go.up	v:pred	v		pred		
+sumbawa	langlelo	0101	%	%	%	%				
+sumbawa	langlelo	0102	#	#	#	#				
+sumbawa	langlelo	0102	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0102	entèk	go.up	v:pred	v		pred		
+sumbawa	langlelo	0102	entèk	go.up	nc	nc				
+sumbawa	langlelo	0102	%	%	%	%				
+sumbawa	langlelo	0103	#	#	#	#				
+sumbawa	langlelo	0103	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0103	baruak	go.up	v:pred	v		pred		
+sumbawa	langlelo	0103	%	%	%	%				
+sumbawa	langlelo	0104	#	#	#neg	#neg				
+sumbawa	langlelo	0104	nó.soka	NEG.PST	lv	lv				
+sumbawa	langlelo	0104	ngantong’	hang	v:pred	v		pred		
+sumbawa	langlelo	0104	cara	way	np:s	np		s		
+sumbawa	langlelo	0104	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0104	na	ITJ	other	other				
+sumbawa	langlelo	0104	%	%	%	%				
+sumbawa	langlelo	0105	#	#	#	#				
+sumbawa	langlelo	0105	ta	DEM_P	dem_pro:dt	dem_pro		dt		
+sumbawa	langlelo	0105	kan	isn't.it	other	other				
+sumbawa	langlelo	0105	ngantong	hang	other:pred	other		pred		
+sumbawa	langlelo	0105	singin	name	np:s	np		s		
+sumbawa	langlelo	0105	na	ITJ	other	other				
+sumbawa	langlelo	0105	%	%	%	%				
+sumbawa	langlelo	0106	#	#	#	#				
+sumbawa	langlelo	0106	tapi	but	other	other				
+sumbawa	langlelo	0106	batu	stone	np:s	np		s	3005	
+sumbawa	langlelo	0106	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	langlelo	0106	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	langlelo	0106	tetap	stable	lv	lv				
+sumbawa	langlelo	0106	entèk	go.up	v:pred	v		pred		
+sumbawa	langlelo	0106	kó	to	adp	adp				
+sumbawa	langlelo	0106	baó	above	np:g	np		g		
+sumbawa	langlelo	0106	nè	ITJ	other	other				
+sumbawa	langlelo	0106	%	%	%	%				
+sumbawa	langlelo	0107	#	#	#neg	#neg				
+sumbawa	langlelo	0107	tapi	but	other	other				
+sumbawa	langlelo	0107	dèta	DEM_P	dem_pro:a	dem_pro		a	3005	
+sumbawa	langlelo	0107	nó.soka	NEG.PST	lv	lv				
+sumbawa	langlelo	0107	bilén	leave	v:pred	v		pred		
+sumbawa	langlelo	0107	tana’	ground	np:p	np		p	3014	
+sumbawa	langlelo	0107	dèta	DEM_P	dem_pro:appos	dem_pro		appos		
+sumbawa	langlelo	0107	è	ITJ	other	other				
+sumbawa	langlelo	0107	%	%	%	%				
+sumbawa	langlelo	0108	#	#	#	#				
+sumbawa	langlelo	0108	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0108	batunku	go.up	v:pred	v		pred		
+sumbawa	langlelo	0108	%	%	%	%				
+sumbawa	langlelo	0108	#	#	#	#				
+sumbawa	langlelo	0108	ZERO	ZERO	0:s	0		s	3005	
+sumbawa	langlelo	0108	baruak	go.up	v:pred	v		pred		
+sumbawa	langlelo	0108	%	%	%	%				

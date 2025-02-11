@@ -1,0 +1,798 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+sumbawa	nuntut	0001	#	#	#nc	#nc				
+sumbawa	nuntut	0001	tutir	story	nc	nc				
+sumbawa	nuntut	0001	Lanangmaté	Lanangmaté	nc	nc				
+sumbawa	nuntut	0001	%	%	%	%				
+sumbawa	nuntut	0002	#	#	#	#				
+sumbawa	nuntut	0002	Lanangmaté	Lanangmaté	pn_np.h:a	pn_np	h	a	5001	new
+sumbawa	nuntut	0002	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0002	pina	make	v:pred	v		pred		
+sumbawa	nuntut	0002	mo	DM	rv	rv				
+sumbawa	nuntut	0002	bu	trap	np:p	np		p	5002	new
+sumbawa	nuntut	0002	%	%	%	%				
+sumbawa	nuntut	0003	#	#	#	#				
+sumbawa	nuntut	0003	bu	trap	np:s	np		s	5002	
+sumbawa	nuntut	0003	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0003	kènang	use	v:pred	v		pred		
+sumbawa	nuntut	0003	bau	get	v:pred	v		pred		
+sumbawa	nuntut	0003	simir	eel	np:p	np		p		
+sumbawa	nuntut	0003	n-dalam	in-inside	np:l	np		l		
+sumbawa	nuntut	0003	brang	river	rn	rn				
+sumbawa	nuntut	0003	%	%	%	%				
+sumbawa	nuntut	0004	#	#	#	#				
+sumbawa	nuntut	0004	tapi	but	other	other				
+sumbawa	nuntut	0004	Lanangmaté	Lanangmaté	pn_np.h:s	pn_np	h	s	5001	
+sumbawa	nuntut	0004	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0004	lin	different	v:pred	v		pred		
+sumbawa	nuntut	0004	kè	with	adp	adp				
+sumbawa	nuntut	0004	tau	person	np.h:obl	np	h	obl		
+sumbawa	nuntut	0004	lin	different	rn	rn				
+sumbawa	nuntut	0004	%	%	%	%				
+sumbawa	nuntut	0005	#	#	#	#				
+sumbawa	nuntut	0005	nya	3	pro.h:a	pro	h	a	5001	
+sumbawa	nuntut	0005	pasang	set	v:pred	v		pred		
+sumbawa	nuntut	0005	bu	trap	np:p	np		p	5002	
+sumbawa	nuntut	0005	pang	in	adp	adp				
+sumbawa	nuntut	0005	tenga	middle	np:l	np		l		
+sumbawa	nuntut	0005	rau	field	rn_np	rn_np			5003	new
+sumbawa	nuntut	0005	%	%	%	%				
+sumbawa	nuntut	0006	#	#	#	#				
+sumbawa	nuntut	0006	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0006	setela	after	other	other				
+sumbawa	nuntut	0006	petang	night	other	other				
+sumbawa	nuntut	0006	nè	ITJ	other	other				
+sumbawa	nuntut	0006	siup	morning	other	other				
+sumbawa	nuntut	0006	laló	go	lv_v	lv_v				
+sumbawa	nuntut	0006	gita	look.at	v:pred	v		pred		
+sumbawa	nuntut	0006	kodong	trap	np:p	np		p	5002	
+sumbawa	nuntut	0006	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0006	bu	trap	np:appos	np		appos	5002	
+sumbawa	nuntut	0006	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0006	è	ITJ	other	other				
+sumbawa	nuntut	0006	%	%	%	%				
+sumbawa	nuntut	0007	#	#	#	#				
+sumbawa	nuntut	0007	bang	unexpectedly	other	other				
+sumbawa	nuntut	0007	bu	trap	np:p	np		p	5002	
+sumbawa	nuntut	0007	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0007	nan	DEM_M	rn_dem	rn_dem				
+sumbawa	nuntut	0007	lempó	full	v:pred	v		pred		
+sumbawa	nuntut	0007	ling	by	adp	adp				
+sumbawa	nuntut	0007	mentrènè	termite	np.n:a_ling	np	n	a_ling	5004	new
+sumbawa	nuntut	0007	%	%	%	%				
+sumbawa	nuntut	0008	#	#	#	#				
+sumbawa	nuntut	0008	karing	then	other	other				
+sumbawa	nuntut	0008	mentrènè	termite	np.n:p	np	n	p	5004	
+sumbawa	nuntut	0008	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0008	ètè	take	v:pred	v		pred		
+sumbawa	nuntut	0008	ling	by	adp	adp				
+sumbawa	nuntut	0008	nya	3	pro.h:a_ling	pro	h	a_ling	5001	
+sumbawa	nuntut	0008	%	%	%	%				
+sumbawa	nuntut	0009	#	#	#	#				
+sumbawa	nuntut	0009	ZERO	ZERO	0.n:p	0	n	p	5004	
+sumbawa	nuntut	0009	sengisi	put.in	v:pred	v		pred		
+sumbawa	nuntut	0009	mo	DM	other	other				
+sumbawa	nuntut	0009	ling	by	adp	adp				
+sumbawa	nuntut	0009	ta	DEM_P	dem_pro.h:a_ling	dem_pro	h	a_ling	5001	
+sumbawa	nuntut	0009	lakó	to	adp	adp				
+sumbawa	nuntut	0009	buka	trap	np:g	np		g	5002	
+sumbawa	nuntut	0009	è	ITJ	other	other				
+sumbawa	nuntut	0009	%	%	%	%				
+sumbawa	nuntut	0010	#	#	#	#				
+sumbawa	nuntut	0010	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0010	ZERO	ZERO	0:p	0		p	5002	
+sumbawa	nuntut	0010	karing	then	other	other				
+sumbawa	nuntut	0010	bawa	bring	v:pred	v		pred		
+sumbawa	nuntut	0010	bagai	as	adp	adp				
+sumbawa	nuntut	0010	pengganti	compensation	np:obl	np		obl		
+sumbawa	nuntut	0010	anong	what's.it.called	other	other				
+sumbawa	nuntut	0010	#	#	#ac	#ac				
+sumbawa	nuntut	0010	bab	because	other	other				
+sumbawa	nuntut	0010	rusak	break	v:pred	v		pred		
+sumbawa	nuntut	0010	kodong	trap	np:p	np		p	5002	
+sumbawa	nuntut	0010	ling	by	adp	adp				
+sumbawa	nuntut	0010	nya	3	np.n:a_ling	np	n	a_ling	5004	
+sumbawa	nuntut	0010	%	%	%	%				
+sumbawa	nuntut	0010	%	%	%	%				
+sumbawa	nuntut	0011	#	#	#	#				
+sumbawa	nuntut	0011	ZERO	ZERO	0:p	0		p	5002	
+sumbawa	nuntut	0011	ganti	replace	v:pred	v		pred		
+sumbawa	nuntut	0011	ling	by	adp	adp				
+sumbawa	nuntut	0011	nya	3	pro.h:a_ling	pro	h	a_ling	5001	
+sumbawa	nuntut	0011	kè	with	adp	adp				
+sumbawa	nuntut	0011	anong	what's-it-called	pro.n:obl	pro	n	obl	5004	
+sumbawa	nuntut	0011	kè	with	adp	adp				
+sumbawa	nuntut	0011	ntrene	termite	np.n:appos	np	n	appos	5004	
+sumbawa	nuntut	0011	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0011	bagè	as	adp	adp				
+sumbawa	nuntut	0011	imbalan	compensation	np:other	np		other		
+sumbawa	nuntut	0011	%	%	%	%				
+sumbawa	nuntut	0012	#	#	#	#				
+sumbawa	nuntut	0012	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0012	bawa	bring	v:pred	v		pred		
+sumbawa	nuntut	0012	mo	DM	other	other				
+sumbawa	nuntut	0012	ntrene	termite	np.n:p	np	n	p	5004	
+sumbawa	nuntut	0012	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0012	na	ITJ	other	other				
+sumbawa	nuntut	0012	%	%	%	%				
+sumbawa	nuntut	0012	#	#	#	#				
+sumbawa	nuntut	0012	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0012	dapat	arrive	v:pred	v		pred		
+sumbawa	nuntut	0012	sópó	one	ln	ln				
+sumbawa	nuntut	0012	tokal	place	np:p	np		p	5005	new
+sumbawa	nuntut	0012	nè	ITJ	other	other				
+sumbawa	nuntut	0012	#	#	#rc	#rc				
+sumbawa	nuntut	0012	tau	person	np.h:a	np	h	a		
+sumbawa	nuntut	0012	jempang	keep	v:pred	v		pred		
+sumbawa	nuntut	0012	ayam	fowl	np:p	np		p		
+sumbawa	nuntut	0012	ZERO	ZERO	f0:l	f0		l	5005	
+sumbawa	nuntut	0012	%	%	%	%				
+sumbawa	nuntut	0012	%	%	%	%				
+sumbawa	nuntut	0013	#	#	#	#				
+sumbawa	nuntut	0013	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0013	sengaró	leave	v:pred	v		pred		
+sumbawa	nuntut	0013	mo	DM	other	other				
+sumbawa	nuntut	0013	grènè	termite	np.n:p	np	n	p	5004	
+sumbawa	nuntut	0013	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0013	%	%	%	%				
+sumbawa	nuntut	0013	#	#	#	#				
+sumbawa	nuntut	0013	ya=	3=	=pro.h:a	=pro	h	a	5001	
+sumbawa	nuntut	0013	ZERO	ZERO	0.n:p	0	n	p	5004	
+sumbawa	nuntut	0013	óló	put	v:pred	v		pred		
+sumbawa	nuntut	0013	pang	in	adp	adp				
+sumbawa	nuntut	0013	anong	what's-it-called	np:l	np		l	5006	bridging
+sumbawa	nuntut	0013	#	#	#rc	#rc				
+sumbawa	nuntut	0013	jempang	keep	v:pred	v		pred		
+sumbawa	nuntut	0013	ayam	fowl	np.n:p	np	n	p	5007	new
+sumbawa	nuntut	0013	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0013	ZERO	ZERO	f0:l	f0		l	5006	
+sumbawa	nuntut	0013	%	%	%	%				
+sumbawa	nuntut	0013	%	%	%	%				
+sumbawa	nuntut	0014	#	#	#	#				
+sumbawa	nuntut	0014	ZERO	ZERO	0.n:p	0	n	p	5004	
+sumbawa	nuntut	0014	bilin	leave	v:pred	v		pred		
+sumbawa	nuntut	0014	mo	DM	rv	rv				
+sumbawa	nuntut	0014	ling	by	adp	adp				
+sumbawa	nuntut	0014	nya	3	pro.h:a_ling	pro	h	a_ling	5001	
+sumbawa	nuntut	0014	%	%	%	%				
+sumbawa	nuntut	0014	#	#	#	#				
+sumbawa	nuntut	0014	#	#	#ac	#ac				
+sumbawa	nuntut	0014	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0014	remalik-remalik	return	v:pred	v		pred		
+sumbawa	nuntut	0014	nè	ITJ	other	other				
+sumbawa	nuntut	0014	%	%	%	%				
+sumbawa	nuntut	0015	mentrènè	termite	np.n:p	np	n	p	5004	
+sumbawa	nuntut	0015	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0015	nè	ITJ	other	other				
+sumbawa	nuntut	0015	bóé	gone	lv_v	lv_v				
+sumbawa	nuntut	0015	mo	DM	other	other				
+sumbawa	nuntut	0015	kakan	eat	v:pred	v		pred		
+sumbawa	nuntut	0015	ling	by	adp	adp				
+sumbawa	nuntut	0015	ayam	fowl	np.n:a_ling	np	n	a_ling	5007	
+sumbawa	nuntut	0015	%	%	%	%				
+sumbawa	nuntut	0015	#	#	#	#				
+sumbawa	nuntut	0015	nuntut	ask.for.compensation	v:pred	v		pred		
+sumbawa	nuntut	0015	nya	3	pro.h:s	pro	h	s	5001	
+sumbawa	nuntut	0015	%	%	%	%				
+sumbawa	nuntut	0016	#	#	#ds	#ds				
+sumbawa	nuntut	0016	#	#	#ds_ac	#ds_ac				
+sumbawa	nuntut	0016	lamin	if	other	other				
+sumbawa	nuntut	0016	ta.luk	this.way	other	other				
+sumbawa	nuntut	0016	mentrènè	termite	np.n:s	np	n	s	5004	
+sumbawa	nuntut	0016	ku	1SG	rn_pro.h:poss	rn_pro	h	poss	5001	
+sumbawa	nuntut	0016	bóé	gone	v:pred	v		pred		
+sumbawa	nuntut	0016	%	%	%	%				
+sumbawa	nuntut	0016	ba	then	other	other				
+sumbawa	nuntut	0016	ayam	fowl	np.n:p	np	n	p	5007	
+sumbawa	nuntut	0016	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0016	mo	DM	other	other				
+sumbawa	nuntut	0016	ku=	1SG=	=pro.1:a	=pro	1	a	5001	
+sumbawa	nuntut	0016	ètè	take	v:pred	v		pred		
+sumbawa	nuntut	0016	mo	DM	other	other				
+sumbawa	nuntut	0016	%	%	%	%				
+sumbawa	nuntut	0017	#	#	#	#				
+sumbawa	nuntut	0017	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0017	ètè	take	v:pred	v		pred		
+sumbawa	nuntut	0017	mo	DM	other	other				
+sumbawa	nuntut	0017	ayam	fowl	np.n:p	np	n	p	5007	
+sumbawa	nuntut	0017	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0017	%	%	%	%				
+sumbawa	nuntut	0017	#	#	#	#				
+sumbawa	nuntut	0017	dadi	then	other	other				
+sumbawa	nuntut	0017	nya	3	pro.h:s	pro	h	s	5001	
+sumbawa	nuntut	0017	belangan	walk	v:pred	v		pred		
+sumbawa	nuntut	0017	mo	DM	rv	rv				
+sumbawa	nuntut	0017	nya	3	pro.h:dt_s	pro	h	dt_s	5001	
+sumbawa	nuntut	0017	ana	DEM_D	dem_pro:g	dem_pro		g		
+sumbawa	nuntut	0017	%	%	%	%				
+sumbawa	nuntut	0018	#	#	#	#				
+sumbawa	nuntut	0018	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0018	mara	like	adp	adp				
+sumbawa	nuntut	0018	ling	words	np:other	np		other		
+sumbawa	nuntut	0018	dunung	before	rn	rn				
+sumbawa	nuntut	0018	entèk	go.up	v:pred	v		pred		
+sumbawa	nuntut	0018	muru	hill	np:p	np		p	5008	new
+sumbawa	nuntut	0018	nè	ITJ	other	other				
+sumbawa	nuntut	0018	%	%	%	%				
+sumbawa	nuntut	0019	#	#	#	#				
+sumbawa	nuntut	0019	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0019	dapat	arrive	v:pred	v		pred		
+sumbawa	nuntut	0019	sópó	one	ln	ln				
+sumbawa	nuntut	0019	dèsa	village	np:p	np		p	5009	new
+sumbawa	nuntut	0019	%	%	%	%				
+sumbawa	nuntut	0019	#	#	#	#				
+sumbawa	nuntut	0019	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0019	dapat	arrive	v:pred	v		pred		
+sumbawa	nuntut	0019	n-tau	at-person	np.h:l	np	h	l		
+sumbawa	nuntut	0019	nuja	ANTIP-pound	rn	rn				
+sumbawa	nuntut	0019	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0019	nè	ITJ	other	other				
+sumbawa	nuntut	0019	%	%	%	%				
+sumbawa	nuntut	0020	#	#	#	#				
+sumbawa	nuntut	0020	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0020	karing	then	other	other				
+sumbawa	nuntut	0020	ayam	fowl	np.n:p	np	n	p	5007	
+sumbawa	nuntut	0020	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0020	nè	ITJ	other	other				
+sumbawa	nuntut	0020	sangaró	leave	v:pred	v		pred		
+sumbawa	nuntut	0020	mo	DM	rv	rv				
+sumbawa	nuntut	0020	pang	in	adp	adp				
+sumbawa	nuntut	0020	pang	place	np:l	np		l	5010	bridging
+sumbawa	nuntut	0020	#	#	#rc	#rc				
+sumbawa	nuntut	0020	tau	person	np.h:s	np	h	s		
+sumbawa	nuntut	0020	nuja	ANTIP.pound	v:pred	v		pred		
+sumbawa	nuntut	0020	ZERO	ZERO	f0:l	f0		l	5010	
+sumbawa	nuntut	0020	%	%	%	%				
+sumbawa	nuntut	0020	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0020	%	%	%	%				
+sumbawa	nuntut	0021	#	#	#	#				
+sumbawa	nuntut	0021	mè-mè	which	ln	ln				
+sumbawa	nuntut	0021	ka	PST	ln	ln				
+sumbawa	nuntut	0021	luk	way	np:other	np		other		
+sumbawa	nuntut	0021	dènèng	stick	np:s	np		s	5011	new
+sumbawa	nuntut	0021	tau	person	rn_np.h:poss	rn_np	h	poss	5012	new
+sumbawa	nuntut	0021	nuja	ANTIP.pound	rn	rn				
+sumbawa	nuntut	0021	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0021	teri	fall	v:pred	v		pred		
+sumbawa	nuntut	0021	%	%	%	%				
+sumbawa	nuntut	0022	#	#	#	#				
+sumbawa	nuntut	0022	ZERO	ZERO	0:a	0		a	5011	
+sumbawa	nuntut	0022	dapat	arrive	v:pred	v		pred		
+sumbawa	nuntut	0022	mo	DM	rv	rv				
+sumbawa	nuntut	0022	anong	what's-it-called	other	other				
+sumbawa	nuntut	0022	ayam	fowl	np.n:p	np	n	p	5007	
+sumbawa	nuntut	0022	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0022	%	%	%	%				
+sumbawa	nuntut	0023	#	#	#	#				
+sumbawa	nuntut	0023	maté	die	v:pred	v		pred		
+sumbawa	nuntut	0023	ayam	fowl	np.n:s	np	n	s	5007	
+sumbawa	nuntut	0023	%	%	%	%				
+sumbawa	nuntut	0024	#	#	#	#				
+sumbawa	nuntut	0024	#	#	#ac	#ac				
+sumbawa	nuntut	0024	karena	because	other	other				
+sumbawa	nuntut	0024	maté	die	v:pred	v		pred		
+sumbawa	nuntut	0024	ayam	fowl	np.n:s	np	n	s	5007	
+sumbawa	nuntut	0024	%	%	%	%				
+sumbawa	nuntut	0024	nya	3	pro.h:s	pro	h	s	5001	
+sumbawa	nuntut	0024	nuntut	ask.for.compensation	v:pred	v		pred		
+sumbawa	nuntut	0024	%	%	%	%				
+sumbawa	nuntut	0025	#	#	#	#				
+sumbawa	nuntut	0025	ZERO	ZERO	0.n:p	0	n	p	5007	
+sumbawa	nuntut	0025	ba	then	other	other				
+sumbawa	nuntut	0025	ganti	replace	v:pred	v		pred		
+sumbawa	nuntut	0025	kè	with	adp	adp				
+sumbawa	nuntut	0025	dènèng	stick	np:other	np		other	5011	
+sumbawa	nuntut	0025	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0025	mo	DM	other	other				
+sumbawa	nuntut	0025	ling	by	adp	adp				
+sumbawa	nuntut	0025	ling	by	nc	nc				
+sumbawa	nuntut	0025	nya	3	pro.h:a_ling	pro	h	a_ling	5001	
+sumbawa	nuntut	0025	nè	ITJ	other	other				
+sumbawa	nuntut	0025	%	%	%	%				
+sumbawa	nuntut	0026	#	#	#	#				
+sumbawa	nuntut	0026	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0026	dan	and	other	other				
+sumbawa	nuntut	0026	nan	DEM_M	other	other				
+sumbawa	nuntut	0026	mo	DM	other	other				
+sumbawa	nuntut	0026	belangan	walk	v:pred	v		pred		
+sumbawa	nuntut	0026	mo	DM	other	other				
+sumbawa	nuntut	0026	kebali	again	other	other				
+sumbawa	nuntut	0026	na	ITJ	other	other				
+sumbawa	nuntut	0026	%	%	%	%				
+sumbawa	nuntut	0026	#	#	#	#				
+sumbawa	nuntut	0026	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0026	belangan	walk	v:pred	v		pred		
+sumbawa	nuntut	0026	belangan	walk	other	other				
+sumbawa	nuntut	0026	belangan	walk	other	other				
+sumbawa	nuntut	0026	belangan	walk	other	other				
+sumbawa	nuntut	0026	%	%	%	%				
+sumbawa	nuntut	0027	#	#	#	#				
+sumbawa	nuntut	0027	kira	think	v:pred	v		pred		
+sumbawa	nuntut	0027	nya	3	pro.h:s	pro	h	s	5001	
+sumbawa	nuntut	0027	#	#	#cc	#cc				
+sumbawa	nuntut	0027	ZERO	ZERO	f0.h:s	f0	h	s	5001	
+sumbawa	nuntut	0027	ompa	exhausted	v:pred	v		pred		
+sumbawa	nuntut	0027	mo	DM	other	other				
+sumbawa	nuntut	0027	belangan	walk	vother:other	vother		other		
+sumbawa	nuntut	0027	nè	ITJ	other	other				
+sumbawa	nuntut	0027	%	%	%	%				
+sumbawa	nuntut	0027	%	%	%	%				
+sumbawa	nuntut	0027	#	#	#	#				
+sumbawa	nuntut	0027	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0027	bernang	stop	v:pred	v		pred		
+sumbawa	nuntut	0027	%	%	%	%				
+sumbawa	nuntut	0028	#	#	#	#				
+sumbawa	nuntut	0028	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0028	senyélé	leave	v:pred	v		pred		
+sumbawa	nuntut	0028	mo	DM	other	other				
+sumbawa	nuntut	0028	anong	what's-it-called	np:p	np		p	5011	
+sumbawa	nuntut	0028	na	ITJ	other	other				
+sumbawa	nuntut	0028	%	%	%	%				
+sumbawa	nuntut	0028	#	#	#	#				
+sumbawa	nuntut	0028	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0028	óló	put	v:pred	v		pred		
+sumbawa	nuntut	0028	mo	DM	rv	rv				
+sumbawa	nuntut	0028	dèta	DEM_P	dem_pro:p	dem_pro		p	5011	
+sumbawa	nuntut	0028	dènèng	stick	np:appos	np		appos	5011	
+sumbawa	nuntut	0028	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0028	è	ITJ	other	other				
+sumbawa	nuntut	0028	pang	in	adp	adp				
+sumbawa	nuntut	0028	bara	shed	np:l	np		l	5013	new
+sumbawa	nuntut	0028	kebo	buffalo	rn	rn				
+sumbawa	nuntut	0028	%	%	%	%				
+sumbawa	nuntut	0029	#	#	#	#				
+sumbawa	nuntut	0029	bilin	leave	v:pred	v		pred		
+sumbawa	nuntut	0029	mo	DM	rv	rv				
+sumbawa	nuntut	0029	nya	3	pro.h:s	pro	h	s	5001	
+sumbawa	nuntut	0029	ana	DEM_D	dem_pro:obl	dem_pro		obl	5013	
+sumbawa	nuntut	0029	%	%	%	%				
+sumbawa	nuntut	0030	#	#	#	#				
+sumbawa	nuntut	0030	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0030	remalik-remalik	return~int	v:pred	v		pred		
+sumbawa	nuntut	0030	nè	ITJ	other	other				
+sumbawa	nuntut	0030	%	%	%	%				
+sumbawa	nuntut	0030	#	#	#	#				
+sumbawa	nuntut	0030	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0030	gita	look.at	v:pred	v		pred		
+sumbawa	nuntut	0030	dènèng	stick	np:p	np		p	5011	
+sumbawa	nuntut	0030	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0030	nè	ITJ	other	other				
+sumbawa	nuntut	0030	%	%	%	%				
+sumbawa	nuntut	0031	#	#	#	#				
+sumbawa	nuntut	0031	ZERO	ZERO	0:s	0		s	5011	
+sumbawa	nuntut	0031	ka	PST	lv	lv				
+sumbawa	nuntut	0031	mo	DM	nc	nc				
+sumbawa	nuntut	0031	bela	broken	lv_v	lv_v				
+sumbawa	nuntut	0031	%	%	%	%				
+sumbawa	nuntut	0031	#	#	#	#				
+sumbawa	nuntut	0031	ZERO	ZERO	0:p	0		p	5011	
+sumbawa	nuntut	0031	rempang	thread.on	v:pred	v		pred		
+sumbawa	nuntut	0031	ling	by	adp	adp				
+sumbawa	nuntut	0031	kebo	buffalo	np.n:a_ling	np	n	a_ling	5014	new
+sumbawa	nuntut	0031	%	%	%	%				
+sumbawa	nuntut	0032	#	#	#	#				
+sumbawa	nuntut	0032	dan	and	other	other				
+sumbawa	nuntut	0032	nya	3	pro.h:s	pro	h	s	5001	
+sumbawa	nuntut	0032	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	nuntut	0032	tuntut	ask.for.compensation	v:pred	v		pred		
+sumbawa	nuntut	0032	lakó	to	adp	adp				
+sumbawa	nuntut	0032	baèng	owner	np.h:obl	np	h	obl	5015	new
+sumbawa	nuntut	0032	kebo	buffalo	rn	rn				
+sumbawa	nuntut	0032	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0032	è	ITJ	other	other				
+sumbawa	nuntut	0032	%	%	%	%				
+sumbawa	nuntut	0033	#	#	#ds	#ds				
+sumbawa	nuntut	0033	kebo	buffalo	np:a	np		a		
+sumbawa	nuntut	0033	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0033	ka=sebela	PST=break	v:pred	v		pred		
+sumbawa	nuntut	0033	ka=sebela	PST=break	nc	nc				
+sumbawa	nuntut	0033	dènèng	stick	np:s	np		s	5011	
+sumbawa	nuntut	0033	ku	1SG	rn_pro.1:poss	rn_pro	1	poss	5001	
+sumbawa	nuntut	0033	%	%	%	%				
+sumbawa	nuntut	0033	#	#	#ds	#ds				
+sumbawa	nuntut	0033	ma	DES	other	other				
+sumbawa	nuntut	0033	kebo	buffalo	np.n:p	np	n	p	5014	
+sumbawa	nuntut	0033	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0033	ku=	1SG=	=pro.1:a	=pro	1	a	5001	
+sumbawa	nuntut	0033	dènan	lead	v:pred	v		pred		
+sumbawa	nuntut	0033	%	%	%	%				
+sumbawa	nuntut	0033	#	#	#	#				
+sumbawa	nuntut	0033	ya	yes	other	other				
+sumbawa	nuntut	0033	ZERO	ZERO	0.h:p	0	h	p	5001	
+sumbawa	nuntut	0033	baèng	owner	np.h:a	np	h	a	5015	
+sumbawa	nuntut	0033	kebo	buffalo	rn	rn				
+sumbawa	nuntut	0033	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0033	bèang	give	v:pred	v		pred		
+sumbawa	nuntut	0033	%	%	%	%				
+sumbawa	nuntut	0034	#	#	#	#				
+sumbawa	nuntut	0034	nya	3	pro.h:a	pro	h	a	5001	
+sumbawa	nuntut	0034	dènan	lead	v:pred	v		pred		
+sumbawa	nuntut	0034	kebo	buffalo	np.n:p	np	n	p	5014	
+sumbawa	nuntut	0034	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0034	ana	DEM_D	dem_pro:g	dem_pro		g		
+sumbawa	nuntut	0034	%	%	%	%				
+sumbawa	nuntut	0035	#	#	#	#				
+sumbawa	nuntut	0035	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0035	kira	think	v:pred	v		pred		
+sumbawa	nuntut	0035	#	#	#cc	#cc				
+sumbawa	nuntut	0035	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0035	ompa	exhausted	v:pred	v		pred		
+sumbawa	nuntut	0035	belangan	walk	vother:other	vother		other		
+sumbawa	nuntut	0035	%	%	%	%				
+sumbawa	nuntut	0035	%	%	%	%				
+sumbawa	nuntut	0035	#	#	#	#				
+sumbawa	nuntut	0035	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0035	ba	then	other	other				
+sumbawa	nuntut	0035	dapat	arrive	v:pred	v		pred		
+sumbawa	nuntut	0035	sópó	one	ln	ln				
+sumbawa	nuntut	0035	katokal	place	np:p	np		p		
+sumbawa	nuntut	0035	nè	ITJ	other	other				
+sumbawa	nuntut	0035	%	%	%	%				
+sumbawa	nuntut	0036	#	#	#	#				
+sumbawa	nuntut	0036	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0036	sat	tie	v:pred	v		pred		
+sumbawa	nuntut	0036	mo	DM	rv	rv				
+sumbawa	nuntut	0036	kebo	buffalo	np.n:p	np	n	p	5014	
+sumbawa	nuntut	0036	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0036	pang	in	adp	adp				
+sumbawa	nuntut	0036	bawa	bottom	np:l	np		l		
+sumbawa	nuntut	0036	nangka	jackfruit	rn_np	rn_np			5016	new
+sumbawa	nuntut	0036	%	%	%	%				
+sumbawa	nuntut	0037	#	#	#	#				
+sumbawa	nuntut	0037	nangka	jackfruit	np:dt	np		dt	5016	
+sumbawa	nuntut	0037	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0037	peno	many	other:pred	other		pred		
+sumbawa	nuntut	0037	bua	fruits	np:s	np		s	5026	new
+sumbawa	nuntut	0037	%	%	%	%				
+sumbawa	nuntut	0038	#	#	#	#				
+sumbawa	nuntut	0038	ada	exist	v:pred	v		pred		
+sumbawa	nuntut	0038	#	#	#rc:s	#rc		s		
+sumbawa	nuntut	0038	dè	REL	other	other				
+sumbawa	nuntut	0038	ZERO	ZERO	f0:s	f0		s	5017	bridging
+sumbawa	nuntut	0038	masak-masak	riped	v:pred	v		pred		
+sumbawa	nuntut	0038	m-bao	at-above	np:l	np		l		
+sumbawa	nuntut	0038	nè	ITJ	other	other				
+sumbawa	nuntut	0038	%	%	%	%				
+sumbawa	nuntut	0038	%	%	%	%				
+sumbawa	nuntut	0039	#	#	#	#				
+sumbawa	nuntut	0039	sebilin	leave	v:pred	v		pred		
+sumbawa	nuntut	0039	kebo	buffalo	np.n:p	np	n	p	5014	
+sumbawa	nuntut	0039	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0039	bali	again	other	other				
+sumbawa	nuntut	0039	nya	3	pro.h:a	pro	h	a	5001	
+sumbawa	nuntut	0039	nè	ITJ	other	other				
+sumbawa	nuntut	0039	nan	DEM_M	nc	nc				
+sumbawa	nuntut	0039	pang	in	adp	adp				
+sumbawa	nuntut	0039	nangka	jackfruit	np:l	np		l	5016	
+sumbawa	nuntut	0039	%	%	%	%				
+sumbawa	nuntut	0040	#	#	#	#				
+sumbawa	nuntut	0040	#	#	#ac	#ac				
+sumbawa	nuntut	0040	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0040	beru	when	other	other				
+sumbawa	nuntut	0040	remalik	return	v:pred	v		pred		
+sumbawa	nuntut	0040	mo	DM	other	other				
+sumbawa	nuntut	0040	na	ITJ	other	other				
+sumbawa	nuntut	0040	%	%	%	%				
+sumbawa	nuntut	0040	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0040	laló	go	lv_v	lv_v				
+sumbawa	nuntut	0040	gita	look.at	v:pred	v		pred		
+sumbawa	nuntut	0040	kebo	buffalo	np.n:p	np	n	p	5014	
+sumbawa	nuntut	0040	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0040	è	ITJ	other	other				
+sumbawa	nuntut	0040	%	%	%	%				
+sumbawa	nuntut	0040	#	#	#	#				
+sumbawa	nuntut	0040	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0040	pato-pato	unexpectedly	other	other				
+sumbawa	nuntut	0040	mo	DM	other	other				
+sumbawa	nuntut	0040	remalik	return	v:pred	v		pred		
+sumbawa	nuntut	0040	%	%	%	%				
+sumbawa	nuntut	0041	#	#	#	#				
+sumbawa	nuntut	0041	mbang	unexpectedly	other	other				
+sumbawa	nuntut	0041	kebo	buffalo	np.n:s	np	n	s	5014	
+sumbawa	nuntut	0041	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0041	ka	PST	lv	lv				
+sumbawa	nuntut	0041	mo	DM	nc	nc				
+sumbawa	nuntut	0041	maté	die	v:pred	v		pred		
+sumbawa	nuntut	0041	%	%	%	%				
+sumbawa	nuntut	0042	#	#	#	#				
+sumbawa	nuntut	0042	ZERO	ZERO	0:s	0		s	5018	bridging
+sumbawa	nuntut	0042	ka=dapat	PST=arrive	v:pred	v		pred		
+sumbawa	nuntut	0042	ka=teri	PST=fall	rv	rv				
+sumbawa	nuntut	0042	anong	what's-it-called	rv	rv				
+sumbawa	nuntut	0042	%	%	%	%				
+sumbawa	nuntut	0042	#	#	#	#				
+sumbawa	nuntut	0042	ka=teri	PST=fall	v:pred	v		pred		
+sumbawa	nuntut	0042	nangka	jackfruit	np:s	np		s	5018	
+sumbawa	nuntut	0042	masak	ripe	rn	rn				
+sumbawa	nuntut	0042	nè	ITJ	other	other				
+sumbawa	nuntut	0042	dè	REL	rn	rn				
+sumbawa	nuntut	0042	nangka	jackfruit	rn	rn				
+sumbawa	nuntut	0042	nè	ITJ	other	other				
+sumbawa	nuntut	0042	%	%	%	%				
+sumbawa	nuntut	0042	#	#	#	#				
+sumbawa	nuntut	0042	maté	die	v:pred	v		pred		
+sumbawa	nuntut	0042	kebo	buffalo	np.n:s	np	n	s	5014	
+sumbawa	nuntut	0042	%	%	%	%				
+sumbawa	nuntut	0043	#	#	#	#				
+sumbawa	nuntut	0043	nan	DEM_M	dem_pro:pred	dem_pro		pred		
+sumbawa	nuntut	0043	si	DM	other	other				
+sumbawa	nuntut	0043	luk	way	np:s	np		s		
+sumbawa	nuntut	0043	nya	3	rn_pro.h:poss	rn_pro	h	poss	5001	
+sumbawa	nuntut	0043	bali	again	other	other				
+sumbawa	nuntut	0043	na	ITJ	other	other				
+sumbawa	nuntut	0043	%	%	%	%				
+sumbawa	nuntut	0043	#	#	#	#				
+sumbawa	nuntut	0043	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0043	nuntut	ask.for.compensation	v:pred	v		pred		
+sumbawa	nuntut	0043	%	%	%	%				
+sumbawa	nuntut	0044	#	#	#	#				
+sumbawa	nuntut	0044	ba	then	other	other				
+sumbawa	nuntut	0044	nan	DEM_M	dem_pro:pred	dem_pro		pred		
+sumbawa	nuntut	0044	luk	way	np:s	np		s		
+sumbawa	nuntut	0044	nè	ITJ	other	other				
+sumbawa	nuntut	0044	%	%	%	%				
+sumbawa	nuntut	0044	#	#	#	#				
+sumbawa	nuntut	0044	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0044	ba	then	other	other				
+sumbawa	nuntut	0044	nangka	jackfruit	np:p	np		p	5017	
+sumbawa	nuntut	0044	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0044	mo	DM	other	other				
+sumbawa	nuntut	0044	bawa	bring	v:pred	v		pred		
+sumbawa	nuntut	0044	%	%	%	%				
+sumbawa	nuntut	0045	#	#	#	#				
+sumbawa	nuntut	0045	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0045	pongo	bear.on.one's.neck	v:pred	v		pred		
+sumbawa	nuntut	0045	nangka	jackfruit	np:p	np		p	5017	
+sumbawa	nuntut	0045	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0045	%	%	%	%				
+sumbawa	nuntut	0046	#	#	#	#				
+sumbawa	nuntut	0046	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0046	dalam	in	adp	adp				
+sumbawa	nuntut	0046	palangan	journey	np:other	np		other		
+sumbawa	nuntut	0046	tama	enter	v:pred	v		pred		
+sumbawa	nuntut	0046	mo	DM	rv	rv				
+sumbawa	nuntut	0046	sópó	one	ln	ln				
+sumbawa	nuntut	0046	dèsa	village	np:p	np		p	5019	new
+sumbawa	nuntut	0046	%	%	%	%				
+sumbawa	nuntut	0047	#	#	#	#				
+sumbawa	nuntut	0047	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0047	pongo	bear.on.one's.neck	v:pred	v		pred		
+sumbawa	nuntut	0047	nangka	jackfruit	np:p	np		p	5017	
+sumbawa	nuntut	0047	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0047	%	%	%	%				
+sumbawa	nuntut	0048	#	#	#	#				
+sumbawa	nuntut	0048	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0048	kebetulan	by.accident	other	other				
+sumbawa	nuntut	0048	babas	pass.by	v:pred	v		pred		
+sumbawa	nuntut	0048	balé	house	np:p	np		p	5020	new
+sumbawa	nuntut	0048	tau	person	rn_np.h	rn_np	h		5021	new
+sumbawa	nuntut	0048	tau	person	rn	rn				
+sumbawa	nuntut	0048	pitu	seven	rn	rn				
+sumbawa	nuntut	0048	%	%	%	%				
+sumbawa	nuntut	0049	#	#	#	#				
+sumbawa	nuntut	0049	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0049	nangka	jackfruit	np:p	np		p	5017	
+sumbawa	nuntut	0049	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	nuntut	0049	óló	put	v:pred	v		pred		
+sumbawa	nuntut	0049	pang	in	adp	adp				
+sumbawa	nuntut	0049	bao	above	np:l	np		l		
+sumbawa	nuntut	0049	pantar	bench	rn_np	rn_np			5022	new
+sumbawa	nuntut	0049	%	%	%	%				
+sumbawa	nuntut	0050	#	#	#	#				
+sumbawa	nuntut	0050	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0050	bilin	leave	v:pred	v		pred		
+sumbawa	nuntut	0050	nangka	jackfruit	np:p	np		p	5017	
+sumbawa	nuntut	0050	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0050	%	%	%	%				
+sumbawa	nuntut	0051	#	#	#	#				
+sumbawa	nuntut	0051	bilin	leave	v:pred	v		pred		
+sumbawa	nuntut	0051	ling	by	adp	adp				
+sumbawa	nuntut	0051	nya	3	np.h:a_ling	np	h	a_ling	5001	
+sumbawa	nuntut	0051	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	nuntut	0051	nangka	jackfruit	np:p	np		p	5017	
+sumbawa	nuntut	0051	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0051	%	%	%	%				
+sumbawa	nuntut	0052	#	#	#	#				
+sumbawa	nuntut	0052	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0052	ZERO	ZERO	0:p	0		p	5017	
+sumbawa	nuntut	0052	lampa	unexpectedly	other	other				
+sumbawa	nuntut	0052	ka=bilin	PST=leave	v:pred	v		pred		
+sumbawa	nuntut	0052	nè	ITJ	other	other				
+sumbawa	nuntut	0052	%	%	%	%				
+sumbawa	nuntut	0052	#	#	#	#				
+sumbawa	nuntut	0052	#	#	#ac	#ac				
+sumbawa	nuntut	0052	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0052	ba	then	other	other				
+sumbawa	nuntut	0052	remalik	return	lv_v	lv_v				
+sumbawa	nuntut	0052	molé	go.home	v:pred	v		pred		
+sumbawa	nuntut	0052	ana	DEM_D	dem_pro:l	dem_pro		l	5019	
+sumbawa	nuntut	0052	%	%	%	%				
+sumbawa	nuntut	0053	pato-pato	unexpectedly	other	other				
+sumbawa	nuntut	0053	nangka	jackfruit	np:p	np		p	5017	
+sumbawa	nuntut	0053	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0053	nè	ITJ	other	other				
+sumbawa	nuntut	0053	ka	PST	lv	lv				
+sumbawa	nuntut	0053	mo	DM	lv	lv				
+sumbawa	nuntut	0053	kakan	eat	v:pred	v		pred		
+sumbawa	nuntut	0053	dara	girl	np.h:a	np	h	a	5021	
+sumbawa	nuntut	0053	pitu	seven	rn	rn				
+sumbawa	nuntut	0053	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0053	%	%	%	%				
+sumbawa	nuntut	0054	#	#	#	#				
+sumbawa	nuntut	0054	ZERO	ZERO	0.h:a	0	h	a	5021	
+sumbawa	nuntut	0054	ZERO	ZERO	0:p	0		p	5017	
+sumbawa	nuntut	0054	bóé	gone	lv_v	lv_v				
+sumbawa	nuntut	0054	kakan	eat	v:pred	v		pred		
+sumbawa	nuntut	0054	%	%	%	%				
+sumbawa	nuntut	0055	#	#	#	#				
+sumbawa	nuntut	0055	'wa'	'wa'	other	other				
+sumbawa	nuntut	0055	nuntut	ask.for.compensation	v:pred	v		pred		
+sumbawa	nuntut	0055	nya	3	pro.h:s_ds	pro	h	s_ds	5001	
+sumbawa	nuntut	0055	#	#	#ds	#ds				
+sumbawa	nuntut	0055	nènè	2PL	pro.2:a	pro	2	a	5021	
+sumbawa	nuntut	0055	sama	together	rn	rn				
+sumbawa	nuntut	0055	kakan	eat	v:pred	v		pred		
+sumbawa	nuntut	0055	nangka	jackfruit	np:p	np		p	5017	
+sumbawa	nuntut	0055	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0055	%	%	%	%				
+sumbawa	nuntut	0056	#	#	#ds	#ds				
+sumbawa	nuntut	0056	ba	then	other	other				
+sumbawa	nuntut	0056	tó	now	other	other				
+sumbawa	nuntut	0056	nènè	2PL	pro.2:voc	pro	2	voc	5021	
+sumbawa	nuntut	0056	nènè	2PL	pro.2:p	pro	2	p	5021	
+sumbawa	nuntut	0056	harus	must	lv_aux	lv_aux				
+sumbawa	nuntut	0056	ku=	1SG=	=pro.1:a	=pro	1	a	5001	
+sumbawa	nuntut	0056	ètè	take	v:pred	v		pred		
+sumbawa	nuntut	0056	%	%	%	%				
+sumbawa	nuntut	0056	%	%	%	%				
+sumbawa	nuntut	0057	#	#	#	#				
+sumbawa	nuntut	0057	dadi	then	other	other				
+sumbawa	nuntut	0057	nan	DEM_M	dem_pro:s	dem_pro		s		
+sumbawa	nuntut	0057	rua	look	np:pred	np		pred		
+sumbawa	nuntut	0057	anong	what's.it.called	rn	rn				
+sumbawa	nuntut	0057	nè	ITJ	other	other				
+sumbawa	nuntut	0057	%	%	%	%				
+sumbawa	nuntut	0058	#	#	#	#				
+sumbawa	nuntut	0058	ampa	unexpectedly	other	other				
+sumbawa	nuntut	0058	nurit	follow	v:pred	v		pred		
+sumbawa	nuntut	0058	dadara	girl	np.h:s	np	h	s	5021	
+sumbawa	nuntut	0058	pitu	seven	rn	rn				
+sumbawa	nuntut	0058	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0058	%	%	%	%				
+sumbawa	nuntut	0059	#	#	#	#				
+sumbawa	nuntut	0059	sepitu	all.the.seven	np.h:p	np	h	p	5021	
+sumbawa	nuntut	0059	nè	ITJ	other	other				
+sumbawa	nuntut	0059	ètè	take	v:pred	v		pred		
+sumbawa	nuntut	0059	ling	by	adp	adp				
+sumbawa	nuntut	0059	nya	3	pro.h:a_ling	pro	h	a_ling	5001	
+sumbawa	nuntut	0059	%	%	%	%				
+sumbawa	nuntut	0059	#	#	#	#				
+sumbawa	nuntut	0059	ZERO	ZERO	0.h:p	0	h	p	5021	
+sumbawa	nuntut	0059	kuasai	conquer	v:pred	v		pred		
+sumbawa	nuntut	0059	ling	by	adp	adp				
+sumbawa	nuntut	0059	nya	3	pro.h:a_ling	pro	h	a_ling	5001	
+sumbawa	nuntut	0059	%	%	%	%				
+sumbawa	nuntut	0060	#	#	#	#				
+sumbawa	nuntut	0060	ZERO	ZERO	0.h:s	0	h	s	5021	
+sumbawa	nuntut	0060	lampa	unexpectedly	other	other				
+sumbawa	nuntut	0060	nan	DEM_M	other	other				
+sumbawa	nuntut	0060	nè	ITJ	other	other				
+sumbawa	nuntut	0060	nurit	follow	v:pred	v		pred		
+sumbawa	nuntut	0060	na	ITJ	other	other				
+sumbawa	nuntut	0060	%	%	%	%				
+sumbawa	nuntut	0060	#	#	#	#				
+sumbawa	nuntut	0060	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0060	bawa	bring	v:pred	v		pred		
+sumbawa	nuntut	0060	dadara	girl	np.h:p	np	h	p	5021	
+sumbawa	nuntut	0060	pitu	seven	rn	rn				
+sumbawa	nuntut	0060	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0060	è	ITJ	other	other				
+sumbawa	nuntut	0060	%	%	%	%				
+sumbawa	nuntut	0061	#	#	#	#				
+sumbawa	nuntut	0061	ZERO	ZERO	0.h:a	0	h	a	5023	bridging
+sumbawa	nuntut	0061	dapat	arrive	v:pred	v		pred		
+sumbawa	nuntut	0061	endèng	side	np:p	np		p		
+sumbawa	nuntut	0061	brang	river	rn_np	rn_np			5024	new
+sumbawa	nuntut	0061	nè	ITJ	other	other				
+sumbawa	nuntut	0061	%	%	%	%				
+sumbawa	nuntut	0062	#	#	#	#				
+sumbawa	nuntut	0062	ZERO	ZERO	0.h:s	0	h	s	5023	
+sumbawa	nuntut	0062	dapat	arrive	v:pred	v		pred		
+sumbawa	nuntut	0062	nè	ITJ	other	other				
+sumbawa	nuntut	0062	m-brang	at-river	np:l	np		l	5024	
+sumbawa	nuntut	0062	nè	ITJ	other	other				
+sumbawa	nuntut	0062	%	%	%	%				
+sumbawa	nuntut	0062	#	#	#	#				
+sumbawa	nuntut	0062	dadara	girl	np.h:s	np	h	s	5021	
+sumbawa	nuntut	0062	pitu	seven	rn	rn				
+sumbawa	nuntut	0062	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0062	tokal	sit	v:pred	v		pred		
+sumbawa	nuntut	0062	pang	in	adp	adp				
+sumbawa	nuntut	0062	bao	above	np:l	np		l		
+sumbawa	nuntut	0062	batu	stone	rn_np	rn_np			5025	new
+sumbawa	nuntut	0062	%	%	%	%				
+sumbawa	nuntut	0063	#	#	#	#				
+sumbawa	nuntut	0063	m-bao	at-above	np:l	np		l		
+sumbawa	nuntut	0063	batu	stone	rn_np	rn_np			5025	
+sumbawa	nuntut	0063	sepitu	all.the.seven	np.h:pred	np	h	pred	5021	
+sumbawa	nuntut	0063	dèan	DEM_M	dem_pro.h:s	dem_pro	h	s		
+sumbawa	nuntut	0063	%	%	%	%				
+sumbawa	nuntut	0064	#	#	#	#				
+sumbawa	nuntut	0064	nya	3	pro.h:s	pro	h	s	5001	
+sumbawa	nuntut	0064	=nan	=DEM_M	=rn_dem	=rn_dem				
+sumbawa	nuntut	0064	laló	go	lv_v	lv_v				
+sumbawa	nuntut	0064	selagawè	excrete	v:pred	v		pred		
+sumbawa	nuntut	0064	dalam	inside	adp	adp				
+sumbawa	nuntut	0064	brang	river	np:l	np		l	5024	
+sumbawa	nuntut	0064	%	%	%	%				
+sumbawa	nuntut	0065	#	#	#neg	#neg				
+sumbawa	nuntut	0065	mbang	unexpectedly	other	other				
+sumbawa	nuntut	0065	#	#	#ac	#ac				
+sumbawa	nuntut	0065	ZERO	ZERO	0.h:s	0	h	s	5001	
+sumbawa	nuntut	0065	molé-molé	return	v:pred	v		pred		
+sumbawa	nuntut	0065	nè	ITJ	other	other				
+sumbawa	nuntut	0065	%	%	%	%				
+sumbawa	nuntut	0066	dadara	girl	np.h:s	np	h	s	5021	
+sumbawa	nuntut	0066	pitu	seven	rn	rn				
+sumbawa	nuntut	0066	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0066	nomonda	not.exist.anymore	v:pred	v		pred		
+sumbawa	nuntut	0066	%	%	%	%				
+sumbawa	nuntut	0066	#	#	#	#				
+sumbawa	nuntut	0066	ZERO	ZERO	0.h:s	0	h	s	5021	
+sumbawa	nuntut	0066	barari	run	v:pred	v		pred		
+sumbawa	nuntut	0066	%	%	%	%				
+sumbawa	nuntut	0067	#	#	#	#				
+sumbawa	nuntut	0067	terpaksa	is.forced.to	other	other				
+sumbawa	nuntut	0067	batu	stone	np:p	np		p	5025	
+sumbawa	nuntut	0067	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0067	nè	ITJ	other	other				
+sumbawa	nuntut	0067	ètè	take	v:pred	v		pred		
+sumbawa	nuntut	0067	ling	by	adp	adp				
+sumbawa	nuntut	0067	nya	3	pro.h:a_ling	pro	h	a_ling	5001	
+sumbawa	nuntut	0067	%	%	%	%				
+sumbawa	nuntut	0067	#	#	#	#				
+sumbawa	nuntut	0067	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0067	ZERO	ZERO	0:p	0		p	5025	
+sumbawa	nuntut	0067	angkit	lift	v:pred	v		pred		
+sumbawa	nuntut	0067	%	%	%	%				
+sumbawa	nuntut	0068	#	#	#	#				
+sumbawa	nuntut	0068	ZERO	ZERO	0.h:a	0	h	a	5001	
+sumbawa	nuntut	0068	bawa	bring	v:pred	v		pred		
+sumbawa	nuntut	0068	po	DM	other	other				
+sumbawa	nuntut	0068	dèta	DEM_P	dem_pro:p	dem_pro		p	5025	
+sumbawa	nuntut	0068	%	%	%	%				
+sumbawa	nuntut	0069	#	#	#nc	#nc				
+sumbawa	nuntut	0069	jadi	then	nc	nc				
+sumbawa	nuntut	0069	nan	DEM_M	nc	nc				
+sumbawa	nuntut	0069	si	DM	nc	nc				
+sumbawa	nuntut	0069	bóé	gone	nc	nc				
+sumbawa	nuntut	0069	nè	ITJ	nc	nc				
+sumbawa	nuntut	0069	mudi	just	nc	nc				
+sumbawa	nuntut	0069	mo	DM	nc	nc				
+sumbawa	nuntut	0069	%	%	%	%				
+sumbawa	nuntut	0069	#	#	#nc	#nc				
+sumbawa	nuntut	0069	ka	PST	nc	nc				
+sumbawa	nuntut	0069	bóé	gone	nc	nc				
+sumbawa	nuntut	0069	mo	DM	nc	nc				
+sumbawa	nuntut	0069	%	%	%	%				
+sumbawa	nuntut	0070	#	#	#neg	#neg				
+sumbawa	nuntut	0070	nongka	NEG.PST	lv	lv				
+sumbawa	nuntut	0070	makè	use	v:pred	v		pred		
+sumbawa	nuntut	0070	dèta	DEM_P	dem_pro:s	dem_pro		s	5025	
+sumbawa	nuntut	0070	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0070	batu	stone	np:appos	np		appos	5025	
+sumbawa	nuntut	0070	=ta	=DEM_P	=rn_dem	=rn_dem				
+sumbawa	nuntut	0070	nè	ITJ	other	other				
+sumbawa	nuntut	0070	nè	ITJ	other	other				
+sumbawa	nuntut	0070	%	%	%	%				
+sumbawa	nuntut	0071	#	#	#nc	#nc				
+sumbawa	nuntut	0071	dadi	then	nc	nc				
+sumbawa	nuntut	0071	tutir	story	nc	nc				
+sumbawa	nuntut	0071	=ta	=DEM_P	nc	nc				
+sumbawa	nuntut	0071	nè	ITJ	nc	nc				
+sumbawa	nuntut	0071	bóé	gone	nc	nc				
+sumbawa	nuntut	0071	%	%	%	%				
+sumbawa	nuntut	0071	#	#	#	#				
+sumbawa	nuntut	0071	ZERO	ZERO	0:s	0		s		
+sumbawa	nuntut	0071	ba	then	other	other				
+sumbawa	nuntut	0071	tumpu	end	v:pred	v		pred		
+sumbawa	nuntut	0071	%	%	%	%				
